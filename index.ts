@@ -4,14 +4,16 @@ import {
   fetchMaster,
   fetchRelease,
 } from "./api";
-import { Album, Artist } from "./models";
+import { log, logError, logSeparator, logSuccess, logWarning } from "./log";
+import { Album, Artist, ArtistRelease } from "./models";
+
+const DELAY = 3000;
+const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 
 const roles = {
   include: ["Written-By", "Producer", "Arranged By"],
   exlude: ["Sleeves Notes"],
 };
-
-// let band: Band;
 
 let artist: Artist;
 const albums: Album[] = [];
@@ -19,7 +21,7 @@ const albums: Album[] = [];
 async function init(artistId: number) {
   artist = await fetchArtist(artistId);
 
-  console.info(`Fetched artist ${artist.id}: "${artist.name}"`);
+  logSuccess(`Fetched artist ${artist.id}: "${artist.name}"`);
 
   const artistReleases = await fetchArtistReleases(artistId);
 
@@ -27,55 +29,50 @@ async function init(artistId: number) {
     throw new Error("Multiple page not handled yet!");
   }
 
-  console.info(`${artistReleases.pagination.items} release(s) fetched`);
+  logSuccess(`${artistReleases.pagination.items} release(s) fetched`);
 
-  for (const release of artistReleases.releases) {
-    console.info("===================================================");
-    console.info(`Analyzing release ${release.id}: "${release.title}"`);
-
-    if (!release.main_release) {
-      console.info(`Reject: no main release`);
-      continue;
-    }
-
-    await new Promise((_) => setTimeout(_, 2000));
-    const mainRelease = await fetchRelease(release.main_release);
-
-    if (mainRelease.formats[0].descriptions.indexOf("Single") > -1) {
-      console.info(`Reject: Single`);
-      continue;
-    }
-
-    const master = await fetchMaster(release.id);
-    console.info(`Accept`);
-
-    albums.push({ mainRelease, master });
+  for (const artistRelease of artistReleases.releases) {
+    await handleArtistRelease(artistRelease);
   }
 }
 
-init(733171);
+async function handleArtistRelease(artistRelease: ArtistRelease) {
+  logSeparator();
+  log(
+    `Analyzing release ${artistRelease.id}${
+      artistRelease.main_release
+        ? ` (${DISCOGS_RELEASE_URL}${artistRelease.main_release})`
+        : ""
+    }`
+  );
 
-// fetchArtistReleases(17379355).then(async (artistReleases) => {
-//   for (const release of artistReleases.releases) {
-//     if (
-//       release.main_release &&
-//       !albums.find((album) => album.mainRelease.id === release.main_release)
-//     ) {
-//       const mainRelease = await fetchRelease(release.main_release);
-//       const master = await fetchMaster(release.id);
+  if (albums.find((album) => album.master.id === artistRelease.id)) {
+    log(`↷ "${artistRelease.title}" (skipping, already included)`);
+    return;
+  }
 
-//       if (mainRelease.formats[0].descriptions.indexOf("Single") === -1) {
-//         albums.push({
-//           mainRelease,
-//           master,
-//         });
-//       }
-//     }
-//   }
+  if (!artistRelease.main_release) {
+    logWarning(`❌ "${artistRelease.title}" (no main release)`);
+    return;
+  }
 
-//   console.log(albums);
-// });
+  if (["TrackAppearance"].includes(artistRelease.role)) {
+    logWarning(`❌ "${artistRelease.title}" (role: ${artistRelease.role})`);
+    return;
+  }
 
-// fetchRelease(8557933).then((res) => Release.parse(res));
-// fetchMaster(13318111).then(console.log);
-// fetchArtist(1560698).then(console.log)
+  const mainRelease = await fetchRelease(artistRelease.main_release);
+
+  if (mainRelease.formats[0].descriptions.indexOf("Single") > -1) {
+    logWarning(`❌ "${artistRelease.title}" (single)`);
+    return;
+  }
+
+  const master = await fetchMaster(artistRelease.id);
+  logSuccess(`✓ "${artistRelease.title}"`);
+
+  albums.push({ mainRelease, master });
+  await new Promise((_) => setTimeout(_, DELAY));
+}
+
+init(6959133);

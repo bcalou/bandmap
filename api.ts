@@ -1,5 +1,6 @@
 import { ZodObject } from "zod";
 import { Artist, ArtistReleases, Master, Release } from "./models";
+import { logError } from "./log";
 
 const API_URL = "https://api.discogs.com";
 
@@ -9,6 +10,7 @@ export function fetchResource<ReturnType>(
 ): Promise<ReturnType> {
   return fetch(url)
     .then((res) => res.json())
+    .catch(logError)
     .then((artist) => {
       type.parse(artist);
       return artist;

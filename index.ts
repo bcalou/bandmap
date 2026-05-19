@@ -4,7 +4,7 @@ import {
   fetchMaster,
   fetchRelease,
 } from "./api";
-import { Album, Artist, ArtistReleases, Master, Release } from "./models";
+import { Album, Artist } from "./models";
 
 const roles = {
   include: ["Written-By", "Producer", "Arranged By"],
@@ -30,6 +30,7 @@ async function init(artistId: number) {
   console.info(`${artistReleases.pagination.items} release(s) fetched`);
 
   for (const release of artistReleases.releases) {
+    console.info("===================================================");
     console.info(`Analyzing release ${release.id}: "${release.title}"`);
 
     if (!release.main_release) {
@@ -37,6 +38,7 @@ async function init(artistId: number) {
       continue;
     }
 
+    await new Promise((_) => setTimeout(_, 2000));
     const mainRelease = await fetchRelease(release.main_release);
 
     if (mainRelease.formats[0].descriptions.indexOf("Single") > -1) {
@@ -51,7 +53,7 @@ async function init(artistId: number) {
   }
 }
 
-init(17379355);
+init(733171);
 
 // fetchArtistReleases(17379355).then(async (artistReleases) => {
 //   for (const release of artistReleases.releases) {

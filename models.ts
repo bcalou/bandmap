@@ -1,5 +1,10 @@
 import * as z from "zod";
 
+export type Album = {
+  mainRelease: Release;
+  master: Master;
+};
+
 export type Artist = z.infer<typeof Artist>;
 export const Artist = z.object({
   id: z.number(),
@@ -9,9 +14,14 @@ export const Artist = z.object({
 
 export type ArtistReleases = z.infer<typeof ArtistReleases>;
 export const ArtistReleases = z.object({
+  pagination: z.object({
+    pages: z.number(),
+    items: z.number(),
+  }),
   releases: z.array(
     z.object({
       id: z.number(),
+      title: z.string(),
       main_release: z.number().optional(),
       role: z.literal(
         [
@@ -21,9 +31,9 @@ export const ArtistReleases = z.object({
           "UnofficialRelease",
           "Producer",
         ],
-        { error: (iss) => `role "${iss.input}" not listed` },
+        { error: (iss) => `role "${iss.input}" not listed` }
       ),
-    }),
+    })
   ),
 });
 
@@ -36,13 +46,22 @@ export const Release = z.object({
       z.object({
         descriptions: z.array(
           z.literal(
-            ["Single", "Album", "Unofficial Release", "Stereo", "EP", "LP"],
+            [
+              "Album",
+              "EP",
+              "FLAC",
+              "LP",
+              "Reissue",
+              "Single",
+              "Stereo",
+              "Unofficial Release",
+            ],
             {
               error: (iss) => `description "${iss.input}" not listed`,
-            },
-          ),
+            }
+          )
         ),
-      }),
+      })
     )
     .length(1),
 });

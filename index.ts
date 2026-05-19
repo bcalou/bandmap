@@ -1,6 +1,10 @@
-import { Artist, ArtistReleases, Master, Release } from "./models";
-
-const API_URL = "https://api.discogs.com";
+import {
+  fetchArtist,
+  fetchArtistReleases,
+  fetchMaster,
+  fetchRelease,
+} from "./api";
+import { Album, Artist, ArtistReleases, Master, Release } from "./models";
 
 const roles = {
   include: ["Written-By", "Producer", "Arranged By"],
@@ -8,47 +12,67 @@ const roles = {
 };
 
 // let band: Band;
-const releases: any = [];
 
-function fetchArtist(id: number): Promise<Artist> {
-  return fetch(`${API_URL}/artists/${id}`).then((res) => res.json());
-}
+let artist: Artist;
+const albums: Album[] = [];
 
-function fetchArtistReleases(id: number): Promise<ArtistReleases> {
-  return fetch(`${API_URL}/artists/${id}/releases`).then((res) => res.json());
-}
+async function init(artistId: number) {
+  artist = await fetchArtist(artistId);
 
-function fetchRelease(id: number): Promise<Release> {
-  return fetch(`${API_URL}/releases/${id}`).then((res) => res.json());
-}
+  console.info(`Fetched artist ${artist.id}: "${artist.name}"`);
 
-function fetchMaster(id: number): Promise<Master> {
-  return fetch(`${API_URL}/masters/${id}`).then((res) => res.json());
-}
+  const artistReleases = await fetchArtistReleases(artistId);
 
-// fetchArtist(733171).then((artist) => {
-//   console.log(artist);
-//   Artist.parse(artist);
-// });
+  if (artistReleases.pagination.pages > 1) {
+    throw new Error("Multiple page not handled yet!");
+  }
 
-fetchArtistReleases(733171).then(async (artistReleases) => {
-  ArtistReleases.parse(artistReleases);
+  console.info(`${artistReleases.pagination.items} release(s) fetched`);
 
   for (const release of artistReleases.releases) {
-    if (
-      release.main_release &&
-      !releases.find((_release: any) => _release.id === release.id)
-    ) {
-      const mainRelease = await fetchRelease(release.main_release);
-      Release.parse(mainRelease);
+    console.info(`Analyzing release ${release.id}: "${release.title}"`);
 
-      if (!mainRelease.formats[0].descriptions.includes("Single")) {
-        releases.push(mainRelease);
-      }
+    if (!release.main_release) {
+      console.info(`Reject: no main release`);
+      continue;
     }
+
+    const mainRelease = await fetchRelease(release.main_release);
+
+    if (mainRelease.formats[0].descriptions.indexOf("Single") > -1) {
+      console.info(`Reject: Single`);
+      continue;
+    }
+
+    const master = await fetchMaster(release.id);
+    console.info(`Accept`);
+
+    albums.push({ mainRelease, master });
   }
-  console.log(artistReleases);
-});
+}
+
+init(17379355);
+
+// fetchArtistReleases(17379355).then(async (artistReleases) => {
+//   for (const release of artistReleases.releases) {
+//     if (
+//       release.main_release &&
+//       !albums.find((album) => album.mainRelease.id === release.main_release)
+//     ) {
+//       const mainRelease = await fetchRelease(release.main_release);
+//       const master = await fetchMaster(release.id);
+
+//       if (mainRelease.formats[0].descriptions.indexOf("Single") === -1) {
+//         albums.push({
+//           mainRelease,
+//           master,
+//         });
+//       }
+//     }
+//   }
+
+//   console.log(albums);
+// });
 
 // fetchRelease(8557933).then((res) => Release.parse(res));
 // fetchMaster(13318111).then(console.log);

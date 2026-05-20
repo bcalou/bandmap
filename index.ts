@@ -49,7 +49,7 @@ async function init(artistId: number) {
         release.artists[0].id !== artistId
           ? ` - ${release.artists[0].name}`
           : ""
-      } - ${release.title} (${getReleaseUrl(release.id)})`
+      } - ${release.title} (${getReleaseUrl(release)})`
     );
   });
 }
@@ -60,11 +60,9 @@ async function handleArtistRelease(
 ) {
   logSeparator();
   log(
-    `Analyzing artist release ${artistRelease.id}${
-      artistRelease.main_release
-        ? ` (${getReleaseUrl(artistRelease.main_release)})`
-        : ""
-    }`
+    `Analyzing artist release ${artistRelease.id} (${getArtistReleaseUrl(
+      artistRelease
+    )})`
   );
 
   if (releases.find((release) => release.id === artistRelease.main_release)) {
@@ -93,14 +91,18 @@ async function getMainRelease(
   artistRelease: ArtistRelease,
   artistId: number
 ): Promise<Release | null> {
-  if (!artistRelease.main_release) {
-    logWarning(`❌ "${artistRelease.title}" (no main release)`);
-    return null;
-  }
+  // if (!artistRelease.main_release) {
+  //   logWarning(`❌ "${artistRelease.title}" (no main release)`);
+  //   return null;
+  // }
 
-  const mainRelease = await fetchRelease(artistRelease.main_release);
+  const mainRelease = await fetchRelease(
+    artistRelease.main_release ?? artistRelease.id
+  );
 
-  if (mainRelease.formats[0].descriptions.includes("Single")) {
+  if (
+    mainRelease.formats.find((format) => format.descriptions.includes("Single"))
+  ) {
     logWarning(`❌ "${artistRelease.title}" (single)`);
     return null;
   }
@@ -120,8 +122,14 @@ function getReleaseDate(release: Release): string {
   return release.released ?? release.year.toString();
 }
 
-function getReleaseUrl(releaseId: number) {
-  return `${DISCOGS_RELEASE_URL}${releaseId}`;
+function getArtistReleaseUrl(artistRelease: ArtistRelease) {
+  return `${DISCOGS_RELEASE_URL}${
+    artistRelease.main_release ?? artistRelease.id
+  }`;
+}
+
+function getReleaseUrl(release: Release) {
+  return `${DISCOGS_RELEASE_URL}${release.id}`;
 }
 
 function getReleaseRolesAsExtraArtist(

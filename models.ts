@@ -38,45 +38,45 @@ export const Release = z.object({
   title: z.string(),
   released: z.string().optional(),
   year: z.number(),
-  artists: z.array(z.object({ id: z.number(), name: z.string() })).length(1),
+  artists: z.array(z.object({ id: z.number(), name: z.string() })),
   extraartists: z
     .array(z.object({ id: z.number(), role: z.string() }))
     .optional(),
-  formats: z
-    .array(
-      z.object({
-        descriptions: z.array(
-          z.literal(
-            [
-              "33 ⅓ RPM",
-              "45 RPM",
-              '7"',
-              "AIFF",
-              "Album",
-              "Compilation",
-              "Deluxe Edition",
-              "EP",
-              "FLAC",
-              "LP",
-              "Limited Edition",
-              "Numbered",
-              "Mixtape",
-              "MP3",
-              "Reissue",
-              "Single",
-              "Single Sided",
-              "Stereo",
-              "Unofficial Release",
-              "WAV",
-            ],
-            {
-              error: (iss) => `description "${iss.input}" not listed`,
-            }
-          )
-        ),
-      })
-    )
-    .length(1),
+  formats: z.array(
+    z.object({
+      descriptions: z.array(
+        z.literal(
+          [
+            "33 ⅓ RPM",
+            "45 RPM",
+            '7"',
+            "AIFF",
+            "Album",
+            "Compilation",
+            "Deluxe Edition",
+            "DVD-Video",
+            "EP",
+            "FLAC",
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Mixtape",
+            "MP3",
+            "PAL",
+            "Reissue",
+            "Single",
+            "Single Sided",
+            "Stereo",
+            "Unofficial Release",
+            "WAV",
+          ],
+          {
+            error: (iss) => `description "${iss.input}" not listed`,
+          }
+        )
+      ),
+    })
+  ),
 });
 
 export type Master = z.infer<typeof Master>;

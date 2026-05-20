@@ -19,7 +19,7 @@ export const ArtistRelease = z.object({
   main_release: z.number().optional(),
   role: z.literal(
     ["Main", "Appearance", "TrackAppearance", "UnofficialRelease", "Producer"],
-    { error: (iss) => `role "${iss.input}" not listed` },
+    { error: (iss) => `role "${iss.input}" not listed` }
   ),
 });
 
@@ -35,8 +35,10 @@ export const ArtistReleases = z.object({
 export type Release = z.infer<typeof Release>;
 export const Release = z.object({
   id: z.number(),
+  title: z.string(),
   released: z.string().optional(),
-  artists: z.array(z.object({ id: z.number() })),
+  year: z.number(),
+  artists: z.array(z.object({ id: z.number(), name: z.string() })).length(1),
   extraartists: z
     .array(z.object({ id: z.number(), role: z.string() }))
     .optional(),
@@ -69,10 +71,10 @@ export const Release = z.object({
             ],
             {
               error: (iss) => `description "${iss.input}" not listed`,
-            },
-          ),
+            }
+          )
         ),
-      }),
+      })
     )
     .length(1),
 });

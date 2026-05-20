@@ -5,9 +5,10 @@ import {
   fetchRelease,
 } from "./api";
 import { log, logSeparator, logSuccess, logWarning } from "./log";
-import { Album, Artist, ArtistRelease } from "./models";
+import { Album, Artist, ArtistRelease, Release } from "./models";
+import { MOON_SAFARI } from "./refs";
 
-const DELAY = 3000;
+const DELAY = 2000;
 const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 
 const roles = {
@@ -16,7 +17,7 @@ const roles = {
 };
 
 let artist: Artist;
-const albums: Album[] = [];
+const releases: Release[] = [];
 
 async function init(artistId: number) {
   artist = await fetchArtist(artistId);
@@ -34,28 +35,40 @@ async function init(artistId: number) {
   for (const artistRelease of artistReleases.releases) {
     await handleArtistRelease(artistRelease, artistId);
   }
+
+  releases.sort((release1, release2) =>
+    getReleaseDate(release1).localeCompare(getReleaseDate(release2))
+  );
+
+  logSeparator();
+  log("CHRONOLOGICAL DISCOGRAPHY:");
+  logSeparator();
+  releases.forEach((release) => {
+    logSuccess(
+      `${getReleaseDate(release)}${
+        release.artists[0].id !== artistId
+          ? ` - ${release.artists[0].name}`
+          : ""
+      } - ${release.title} (${getReleaseUrl(release.id)})`
+    );
+  });
 }
 
 async function handleArtistRelease(
   artistRelease: ArtistRelease,
-  artistId: number,
+  artistId: number
 ) {
   logSeparator();
   log(
     `Analyzing artist release ${artistRelease.id}${
       artistRelease.main_release
-        ? ` (${DISCOGS_RELEASE_URL}${artistRelease.main_release})`
+        ? ` (${getReleaseUrl(artistRelease.main_release)})`
         : ""
-    }`,
+    }`
   );
 
-  if (albums.find((album) => album.master.id === artistRelease.id)) {
+  if (releases.find((release) => release.id === artistRelease.main_release)) {
     log(`↷ "${artistRelease.title}" (skipping, already included)`);
-    return;
-  }
-
-  if (!artistRelease.main_release) {
-    logWarning(`❌ "${artistRelease.title}" (no main release)`);
     return;
   }
 
@@ -64,33 +77,62 @@ async function handleArtistRelease(
     return;
   }
 
-  const master = await fetchMaster(artistRelease.id);
-  logSuccess(`✓ "${artistRelease.title}"`);
+  const mainRelease = await getMainRelease(artistRelease, artistId);
 
-  albums.push({ mainRelease, master });
+  if (!mainRelease) {
+    return;
+  }
+
+  logSuccess(`✓ "${artistRelease.title}"`);
+  releases.push(mainRelease);
+
   await new Promise((_) => setTimeout(_, DELAY));
 }
 
-async function handleMainRelease(
+async function getMainRelease(
   artistRelease: ArtistRelease,
-  artistId: number,
-) {
+  artistId: number
+): Promise<Release | null> {
+  if (!artistRelease.main_release) {
+    logWarning(`❌ "${artistRelease.title}" (no main release)`);
+    return null;
+  }
+
   const mainRelease = await fetchRelease(artistRelease.main_release);
 
   if (mainRelease.formats[0].descriptions.includes("Single")) {
     logWarning(`❌ "${artistRelease.title}" (single)`);
-    return;
+    return null;
   }
 
   if (!mainRelease.artists.find((artist) => artist.id === artistId)) {
-    const extraArtist = mainRelease.extraartists?.find(
-      (extraArtist) => extraArtist.id === artistId,
-    );
-    if (extraArtist && ["Sleeve Notes"].includes(extraArtist.role)) {
-      logWarning(`❌ "${artistRelease.title}" (role: ${extraArtist.role})`);
-      return;
+    const roles = getReleaseRolesAsExtraArtist(mainRelease, artistId);
+    if (!roles.find((role) => ["Written-By", "Arranged By"].includes(role))) {
+      logWarning(`❌ "${artistRelease.title}" (role(s): ${roles})`);
+      return null;
     }
   }
+
+  return mainRelease;
 }
 
-init(6959133);
+function getReleaseDate(release: Release): string {
+  return release.released ?? release.year.toString();
+}
+
+function getReleaseUrl(releaseId: number) {
+  return `${DISCOGS_RELEASE_URL}${releaseId}`;
+}
+
+function getReleaseRolesAsExtraArtist(
+  release: Release,
+  artistId: number
+): string[] {
+  return (
+    release.extraartists
+      ?.filter((extraArtist) => extraArtist.id === artistId)
+      .map((role) => role.role) ?? []
+  );
+}
+
+init(2671796);

@@ -5,9 +5,7 @@ const colors = {
 };
 
 export function log(message: string, type?: "error" | "success" | "warning") {
-  console.log(
-    `${type ? `${colors[type]} ` : ""}${message}${type ? "\x1b[0m" : ""}`
-  );
+  console.log(`${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`);
 }
 
 export function logError(message: string) {

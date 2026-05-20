@@ -9,7 +9,7 @@ export type Artist = z.infer<typeof Artist>;
 export const Artist = z.object({
   id: z.number(),
   name: z.string(),
-  members: z.array(z.object({ id: z.number(), name: z.string() })),
+  members: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
 });
 
 export type ArtistRelease = z.infer<typeof ArtistRelease>;
@@ -50,6 +50,7 @@ export const Release = z.object({
             "33 ⅓ RPM",
             "45 RPM",
             '7"',
+            "AAC",
             "AIFF",
             "Album",
             "Compilation",
@@ -63,7 +64,9 @@ export const Release = z.object({
             "Mixtape",
             "MP3",
             "PAL",
+            "Promo",
             "Reissue",
+            "Sampler",
             "Single",
             "Single Sided",
             "Stereo",

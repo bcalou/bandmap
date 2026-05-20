@@ -11,9 +11,13 @@ import { MOON_SAFARI } from "./refs";
 const DELAY = 2000;
 const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 
-const roles = {
+const ROLES = {
   include: ["Written-By", "Producer", "Arranged By"],
-  exlude: ["Sleeves Notes"],
+};
+
+const FORMATS = {
+  include: ["Album", "EP"],
+  exclude: ["Compilation", "Promo"],
 };
 
 let artist: Artist;
@@ -83,33 +87,31 @@ async function handleArtistRelease(
 
   logSuccess(`✓ "${artistRelease.title}"`);
   releases.push(mainRelease);
-
-  await new Promise((_) => setTimeout(_, DELAY));
 }
 
 async function getMainRelease(
   artistRelease: ArtistRelease,
   artistId: number
 ): Promise<Release | null> {
-  // if (!artistRelease.main_release) {
-  //   logWarning(`❌ "${artistRelease.title}" (no main release)`);
-  //   return null;
-  // }
-
   const mainRelease = await fetchRelease(
     artistRelease.main_release ?? artistRelease.id
   );
 
+  await new Promise((_) => setTimeout(_, DELAY));
+
+  const formats = getReleaseFormats(mainRelease);
+
   if (
-    mainRelease.formats.find((format) => format.descriptions.includes("Single"))
+    !formats.find((format) => FORMATS.include.includes(format)) ||
+    formats.find((format) => FORMATS.exclude.includes(format))
   ) {
-    logWarning(`❌ "${artistRelease.title}" (single)`);
+    logWarning(`❌ "${artistRelease.title}" (formats: ${formats.join(", ")})`);
     return null;
   }
 
-  if (!mainRelease.artists.find((artist) => artist.id === artistId)) {
+  if (!isMainArtist(mainRelease, artist)) {
     const roles = getReleaseRolesAsExtraArtist(mainRelease, artistId);
-    if (!roles.find((role) => ["Written-By", "Arranged By"].includes(role))) {
+    if (!roles.find((role) => ROLES.include.includes(role))) {
       logWarning(`❌ "${artistRelease.title}" (role(s): ${roles})`);
       return null;
     }
@@ -132,6 +134,17 @@ function getReleaseUrl(release: Release) {
   return `${DISCOGS_RELEASE_URL}${release.id}`;
 }
 
+function isMainArtist(release: Release, artist: Artist) {
+  return release.artists.find((_artist) => _artist.id === artist.id);
+}
+
+function getReleaseFormats(release: Release) {
+  return release.formats.reduce(
+    (allFormats: string[], format) => [...allFormats, ...format.descriptions],
+    []
+  );
+}
+
 function getReleaseRolesAsExtraArtist(
   release: Release,
   artistId: number
@@ -143,4 +156,4 @@ function getReleaseRolesAsExtraArtist(
   );
 }
 
-init(2671796);
+init(MOON_SAFARI);

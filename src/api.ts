@@ -1,16 +1,13 @@
 import { ZodObject } from "zod";
-import { Artist } from "./classes/Artist";
-import { ArtistReleases } from "./classes/ArtistReleases";
-import { Release } from "./classes/Release";
-import { Versions } from "./classes/Versions";
 import { DELAY } from "./env";
 import { logError } from "./log";
+import { Artist, ArtistReleases, Release, Versions } from "./types";
 
 const API_URL = "https://api.discogs.com";
 
 export function fetchResource<ReturnType>(
   url: string,
-  type: ZodObject
+  type: ZodObject,
 ): Promise<ReturnType> {
   return fetch(url)
     .then((res) => res.json())
@@ -28,13 +25,13 @@ export function fetchArtist(id: number): Promise<Artist> {
 
 export function fetchArtistReleases(
   artistId: number,
-  page?: number
+  page?: number,
 ): Promise<ArtistReleases> {
   return fetchResource(
     `${API_URL}/artists/${artistId}/releases?per-page=100${
       page ? `&page=${page}` : ""
     }`,
-    ArtistReleases
+    ArtistReleases,
   );
 }
 
@@ -44,12 +41,12 @@ export function fetchRelease(id: number): Promise<Release> {
 
 export function fetchVersions(
   masterId: number,
-  page?: number
+  page?: number,
 ): Promise<Versions> {
   return fetchResource(
     `${API_URL}/masters/${masterId}/versions?per-page=100${
       page ? `&page=${page}` : ""
     }`,
-    Versions
+    Versions,
   );
 }

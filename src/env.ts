@@ -6,18 +6,17 @@ export const ARTIST_RELEASE_ROLES = {
 };
 
 export const EXTRA_ARTIST_ROLES = {
-  accept: ["Written-By", "Producer", "Arranged By"],
+  // accept: ["Written-By", "Producer", "Arranged By"],
+  reject: [""],
 };
 
 export const FORMATS = {
-  accept: ["Album", "EP"],
+  // accept: ["Album", "EP"],
   reject: [
     "Blu-ray-R",
     "Compilation",
-    "DVD",
-    "DVDr",
+    "DVD-Video",
     "Limited Edition",
-    "Promo",
     "Single",
   ],
 };

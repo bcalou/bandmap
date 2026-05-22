@@ -12,8 +12,10 @@ export const Artist = z.object({
 
 export class ArtistManager {
   private artist: Promise<Artist>;
+  private matchResultAgainst: string | undefined;
 
-  constructor(id: number) {
+  constructor(id: number, matchResultAgainst?: string) {
+    this.matchResultAgainst = matchResultAgainst;
     this.artist = fetchArtist(id);
     this.init();
   }
@@ -25,6 +27,6 @@ export class ArtistManager {
     const artist = await this.artist;
     logSuccess(`Fetched artist ${artist.id}: "${artist.name}"`);
 
-    new ArtistReleasesManager(artist.id);
+    new ArtistReleasesManager(artist.id, this.matchResultAgainst);
   }
 }

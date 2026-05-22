@@ -1,7 +1,7 @@
 import z from "zod";
 import { fetchArtistReleases } from "../api";
 import { ARTIST_RELEASE_ROLES, DISCOGS_RELEASE_URL } from "../env";
-import { log, logSeparator, logSuccess, logWarning } from "../log";
+import { log, logError, logSeparator, logSuccess, logWarning } from "../log";
 import { Release, ReleaseManager } from "./Release";
 
 export type ArtistRelease = z.infer<typeof ArtistRelease>;
@@ -19,7 +19,7 @@ export const ArtistRelease = z.object({
       "Producer",
       "Mixed by",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` },
+    { error: (iss) => `role "${iss.input}" not listed` }
   ),
 });
 
@@ -34,11 +34,13 @@ export const ArtistReleases = z.object({
 
 export class ArtistReleasesManager {
   private artistId: number;
+  private matchResultAgainst: string | undefined;
   private artistReleases: Promise<ArtistReleases>;
   private validatedReleases: Release[] = [];
 
-  constructor(artistId: number) {
+  constructor(artistId: number, matchResultAgainst?: string) {
     this.artistId = artistId;
+    this.matchResultAgainst = matchResultAgainst;
     this.artistReleases = fetchArtistReleases(artistId);
     this.init();
   }
@@ -49,9 +51,9 @@ export class ArtistReleasesManager {
   private async init() {
     const artistReleases = await this.artistReleases;
 
-    if (artistReleases.pagination.pages > 1) {
-      throw new Error("Multiple page not handled yet!");
-    }
+    // if (artistReleases.pagination.pages > 1) {
+    //   throw new Error("Multiple page not handled yet!");
+    // }
 
     logSuccess(`${artistReleases.pagination.items} release(s) fetched`);
 
@@ -61,6 +63,7 @@ export class ArtistReleasesManager {
 
     this.sortReleases();
     this.logDiscography();
+    this.logDiscographyAsIdList();
   }
 
   /**
@@ -75,7 +78,7 @@ export class ArtistReleasesManager {
 
     if (
       this.validatedReleases.find(
-        (release) => release.id === artistRelease.main_release,
+        (release) => release.id === artistRelease.main_release
       )
     ) {
       log(`↷ "${artistRelease.title}" (skipping, already included)`);
@@ -89,7 +92,7 @@ export class ArtistReleasesManager {
 
     const releaseManager = new ReleaseManager(
       this.getMainReleaseId(artistRelease),
-      this.artistId,
+      this.artistId
     );
 
     const validatedRelease = await releaseManager.getValidatedRelease();
@@ -116,8 +119,8 @@ export class ArtistReleasesManager {
   private async sortReleases() {
     this.validatedReleases.sort((release1, release2) =>
       ReleaseManager.getReleaseDate(release1).localeCompare(
-        ReleaseManager.getReleaseDate(release2),
-      ),
+        ReleaseManager.getReleaseDate(release2)
+      )
     );
   }
 
@@ -127,13 +130,35 @@ export class ArtistReleasesManager {
   private logDiscography() {
     logSeparator();
     log(
-      `CHRONOLOGICAL DISCOGRAPHY (${this.validatedReleases.length} album(s)):`,
+      `CHRONOLOGICAL DISCOGRAPHY (${this.validatedReleases.length} album(s)):`
     );
-    logSeparator();
     this.validatedReleases.forEach((release) => {
       logSuccess(
-        `${ReleaseManager.getReleaseDate(release)} - ${release.artists[0].name} - ${release.title} (${DISCOGS_RELEASE_URL}${release.id})`,
+        `${ReleaseManager.getReleaseDate(release)} - ${
+          release.artists[0].name
+        } - ${release.title} (${DISCOGS_RELEASE_URL}${release.id})`
       );
     });
+  }
+
+  private logDiscographyAsIdList() {
+    const idList = this.validatedReleases
+      .map((release) => release.id)
+      .join(",");
+
+    logSeparator();
+    log("Discography IDs list:");
+
+    if (this.matchResultAgainst) {
+      if (idList === this.matchResultAgainst) {
+        logSuccess(`✓ IDs list matches the expected result: ${idList}`);
+      } else {
+        logError(`❌ IDs list doesn't match the expected result`);
+        log(`Expected: ${this.matchResultAgainst}`);
+        log(`Current value: ${idList}`);
+      }
+    } else {
+      console.log(idList);
+    }
   }
 }

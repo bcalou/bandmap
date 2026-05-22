@@ -13,7 +13,7 @@ export const Release = z.object({
   formats: z.array(
     z.object({
       descriptions: z.array(z.string()),
-    }),
+    })
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
@@ -52,16 +52,27 @@ export class ReleaseManager {
 
         if (!(await versionsManager.hasValidVersion())) {
           logWarning(
-            `❌ "${release.title}" (no version found with valid formats)`,
+            `❌ "${release.title}" (no version found with valid formats)`
           );
           return null;
         }
       } else {
         logWarning(
-          `❌ "${release.title}" (formats: ${formats.length > 0 ? formats.join(", ") : "not specified"})`,
+          `❌ "${release.title}" (formats: ${
+            formats.length > 0 ? formats.join(", ") : "not specified"
+          })`
         );
         return null;
       }
+    }
+
+    if (release.artists.length > 1) {
+      logWarning(
+        `❌ "${release.title}" (multiple artists: ${release.artists
+          .map((artist) => artist.name)
+          .join(", ")})`
+      );
+      return null;
     }
 
     if (!(await this.isMainArtist())) {
@@ -69,7 +80,9 @@ export class ReleaseManager {
 
       if (!roles.find((role) => EXTRA_ARTIST_ROLES.accept.includes(role))) {
         logWarning(
-          `❌ "${release.title}" (role(s): ${roles.length ? roles.join(", ") : "not specified"})`,
+          `❌ "${release.title}" (role(s): ${
+            roles.length ? roles.join(", ") : "not specified"
+          })`
         );
         return null;
       } else {
@@ -88,7 +101,7 @@ export class ReleaseManager {
 
     return release.formats.reduce(
       (allFormats: string[], format) => [...allFormats, ...format.descriptions],
-      [],
+      []
     );
   }
 

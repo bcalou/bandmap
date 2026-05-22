@@ -13,7 +13,7 @@ export const Versions = z.object({
     z.object({
       id: z.number(),
       format: z.string(),
-    }),
+    })
   ),
 });
 
@@ -25,7 +25,7 @@ export class VersionsManager {
    */
   static acceptFormats(formats: string[]): boolean {
     return (
-      !!formats.find((format) => FORMATS.accept.includes(format)) &&
+      // !!formats.find((format) => FORMATS.accept.includes(format)) &&
       !formats.find((format) => FORMATS.reject.includes(format))
     );
   }
@@ -43,7 +43,7 @@ export class VersionsManager {
 
     return !!versions.versions.find((version) => {
       log(
-        `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}releases/${version.id})`,
+        `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}releases/${version.id})`
       );
       log(`Formats: ${version.format}`);
 
@@ -62,7 +62,7 @@ export class VersionsManager {
     }
 
     log(
-      `Format of the main release rejected, looking into ${versions.versions.length} versions`,
+      `Format of the main release rejected, looking into ${versions.versions.length} versions`
     );
   }
 }

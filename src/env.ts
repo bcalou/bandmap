@@ -1,4 +1,4 @@
-export const DELAY = 2000;
+export const DELAY = 3000;
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 
 export const ARTIST_RELEASE_ROLES = {

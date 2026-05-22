@@ -47,23 +47,23 @@ export class ReleaseManager {
     const formats = await this.getReleaseFormats();
 
     if (!VersionsManager.acceptFormats(formats)) {
-      if (release.master_id) {
-        const versionsManager = new VersionsManager(release.master_id);
+      // if (release.master_id) {
+      //   const versionsManager = new VersionsManager(release.master_id);
 
-        if (!(await versionsManager.hasValidVersion())) {
-          logWarning(
-            `❌ "${release.title}" (no version found with valid formats)`
-          );
-          return null;
-        }
-      } else {
-        logWarning(
-          `❌ "${release.title}" (formats: ${
-            formats.length > 0 ? formats.join(", ") : "not specified"
-          })`
-        );
-        return null;
-      }
+      //   if (!(await versionsManager.hasValidVersion())) {
+      //     logWarning(
+      //       `❌ "${release.title}" (no version found with valid formats)`
+      //     );
+      //     return null;
+      //   }
+      // } else {
+      logWarning(
+        `❌ "${release.title}" (formats: ${
+          formats.length > 0 ? formats.join(", ") : "not specified"
+        })`
+      );
+      return null;
+      // }
     }
 
     if (release.artists.length > 1) {

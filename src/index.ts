@@ -1,4 +1,4 @@
 import { ArtistManager } from "./classes/Artist";
 import { refs } from "./refs";
 
-new ArtistManager(1092029);
+new ArtistManager(82730);

@@ -25,7 +25,7 @@ export class VersionsManager {
    */
   static acceptFormats(formats: string[]): boolean {
     return (
-      // !!formats.find((format) => FORMATS.accept.includes(format)) &&
+      !!formats.find((format) => FORMATS.accept.includes(format)) &&
       !formats.find((format) => FORMATS.reject.includes(format))
     );
   }
@@ -43,7 +43,7 @@ export class VersionsManager {
 
     return !!versions.versions.find((version) => {
       log(
-        `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}releases/${version.id})`
+        `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
       );
       log(`Formats: ${version.format}`);
 

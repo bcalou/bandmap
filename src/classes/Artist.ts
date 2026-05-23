@@ -32,13 +32,13 @@ export class ArtistManager {
    */
   async analyzeReleases() {
     logSuccess(
-      `${(await this.artistReleases).pagination.items} release(s) fetched`,
+      `${(await this.artistReleases).pagination.items} release(s) fetched`
     );
 
     for (const artistRelease of (await this.artistReleases).releases) {
       if (
         this.validReleases.find(
-          (release) => release.id === artistRelease.main_release,
+          (release) => release.id === artistRelease.main_release
         )
       ) {
         log(`↷ "${artistRelease.title}" (skipping, already included)`);
@@ -65,8 +65,8 @@ export class ArtistManager {
   private async sortReleases() {
     this.validReleases.sort((release1, release2) =>
       ReleaseManager.getReleaseDate(release1).localeCompare(
-        ReleaseManager.getReleaseDate(release2),
-      ),
+        ReleaseManager.getReleaseDate(release2)
+      )
     );
   }
 
@@ -75,12 +75,12 @@ export class ArtistManager {
    */
   private logDiscography() {
     logSeparator();
-    log(`CHRONOLOGICAL DISCOGRAPHY (${this.validReleases.length} album(s)):`);
+    log(`CHRONOLOGICAL DISCOGRAPHY (${this.validReleases.length} entries(s)):`);
     this.validReleases.forEach((release) => {
       logSuccess(
         `${ReleaseManager.getReleaseDate(release)} - ${
           release.artists[0].name
-        } - ${release.title} (${DISCOGS_RELEASE_URL}${release.id})`,
+        } - ${release.title} (${DISCOGS_RELEASE_URL}${release.id})`
       );
     });
   }

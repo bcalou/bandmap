@@ -1,5 +1,10 @@
-import { fetchRelease } from "../api";
-import { ARTIST_RELEASE_ROLES, DISCOGS_RELEASE_URL, FORMATS } from "../env";
+import { fetchRelease, fetchVersions } from "../api";
+import {
+  ARTIST_RELEASE_ROLES,
+  DISCOGS_RELEASE_URL,
+  EXTRA_ARTIST_ROLES,
+  FORMATS,
+} from "../env";
 import { log, logSeparator, logSuccess, logWarning } from "../log";
 import { Artist, ArtistRelease, Release } from "../types";
 
@@ -32,13 +37,13 @@ export class ReleaseManager {
     log(`Analyzing artist release ${this.artistRelease.id} (${url})`);
 
     if (this.heuristicRejectArtistReleaseRole()) return null;
-    if (this.heuristicRejectMultipleMainArtists()) return null;
 
     this.release = fetchRelease(this.mainReleaseId);
 
     const release = await this.release;
     if (!release) throw Error("Release not found");
 
+    if (await this.heuristicRejectArtistRole()) return null;
     if (await this.heuristicRejectFormat()) return null;
 
     // const formats = await this.getReleaseFormats();
@@ -98,24 +103,11 @@ export class ReleaseManager {
   public heuristicRejectArtistReleaseRole(): boolean {
     if (ARTIST_RELEASE_ROLES.reject.includes(this.artistRelease.role)) {
       logWarning(
-        `❌ "${this.artistRelease.title}" (rejected role: ${this.artistRelease.role})`,
+        `❌ "${this.artistRelease.title}" (role: ${this.artistRelease.role})`
       );
       return true;
     }
 
-    return false;
-  }
-
-  /**
-   * Return true if the album artist is not the only main artist
-   */
-  private heuristicRejectMultipleMainArtists() {
-    if (this.artistRelease.artist !== this.artist.name) {
-      logWarning(
-        `❌ "${this.artistRelease.title}" (multiple main artists: ${this.artistRelease.artist})`,
-      );
-      return true;
-    }
     return false;
   }
 
@@ -128,16 +120,88 @@ export class ReleaseManager {
 
     const formats = release.formats.reduce(
       (allFormats: string[], format) => [...allFormats, ...format.descriptions],
-      [],
+      []
     );
 
-    if (formats.find((format) => FORMATS.reject.includes(format))) {
+    if (
+      !formats.find((format) => FORMATS.accept.includes(format)) ||
+      formats.find((format) => FORMATS.reject.includes(format))
+    ) {
+      if (release.master_id) {
+        return await this.hasValidVersion(release);
+      }
+
       logWarning(
-        `❌ "${release.title}" (rejected formats: ${formats.join(", ")})`,
+        `❌ "${release.title}" (rejected format: ${
+          formats.length ? formats.join(", ") : "not specified"
+        })`
       );
       return true;
     }
 
+    return false;
+  }
+
+  /**
+   * Return true if one of the versions has a valid format
+   */
+  private async hasValidVersion(release: Release): Promise<boolean> {
+    if (!release.master_id) return false;
+    const versions = await fetchVersions(release.master_id);
+
+    logWarning(
+      `Invalid main release format, looking into ${versions.pagination.items} versions`
+    );
+
+    if (
+      !versions.versions.find((version) => {
+        log(
+          `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
+        );
+        log(`Format: ${version.format || "not specified"}`);
+
+        return (
+          version.format
+            .split(", ")
+            .find((format) => FORMATS.accept.includes(format)) &&
+          !version.format
+            .split(", ")
+            .find((format) => FORMATS.reject.includes(format))
+        );
+      })
+    ) {
+      logWarning(`❌ "${release.title}" (no version with valid format found)`);
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  /**
+   * Return true if the album artist is not the only main artist
+   */
+  private async heuristicRejectArtistRole() {
+    const release = await this.release;
+    if (!release) throw new Error("Release not found");
+
+    if (this.artistRelease.artist !== this.artist.name) {
+      const rolesAsExtraArtist =
+        release.extraartists
+          ?.filter((extraArtist) => extraArtist.id === this.artist.id)
+          .map((role) => role.role) ?? [];
+
+      if (
+        rolesAsExtraArtist?.every((role) =>
+          EXTRA_ARTIST_ROLES.reject.includes(role)
+        )
+      ) {
+        logWarning(
+          `❌ "${release.title}" (extra artist roles: ${rolesAsExtraArtist})`
+        );
+      }
+
+      return true;
+    }
     return false;
   }
 

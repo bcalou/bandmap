@@ -7,6 +7,11 @@ export const refs: { [key: string]: { id: number; expectedIdList: string } } = {
     id: 6959133,
     expectedIdList: "17151706,21933142,26523116,33596541",
   },
+  HAKEN: {
+    id: 2481019,
+    expectedIdList:
+      "4075958,3429761,10944724,10944697,10944682,10944667,13231638,13142135,30549505,15670029,26327753,33976143",
+  },
   MOON_SAFARI: {
     id: 733171,
     expectedIdList:

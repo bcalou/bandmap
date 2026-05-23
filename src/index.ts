@@ -1,4 +1,13 @@
 import { ArtistManager } from "./classes/Artist";
-import { BLACK_COUNTRY_NEW_ROAD } from "./refs";
+import {
+  BLACK_COUNTRY_NEW_ROAD,
+  MOON_SAFARI,
+  refs,
+  THE_DEAR_HUNTER,
+} from "./refs";
 
-new ArtistManager(BLACK_COUNTRY_NEW_ROAD);
+function test(ref: { id: number; expectedIdList: string }) {
+  new ArtistManager(ref.id, ref.expectedIdList);
+}
+
+test(refs.MOON_SAFARI);

@@ -11,7 +11,7 @@ export const EXTRA_ARTIST_ROLES = {
 };
 
 export const FORMATS = {
-  // accept: ["Album", "EP"],
+  accept: ["Album", "EP"],
   reject: [
     "Blu-ray-R",
     "Compilation",

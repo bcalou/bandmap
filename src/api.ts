@@ -1,15 +1,19 @@
 import { ZodObject } from "zod";
-import { DELAY } from "./env";
 import { logError } from "./log";
 import { Artist, ArtistReleases, Release, Versions } from "./types";
 
+export const DELAY = 1000;
 const API_URL = "https://api.discogs.com";
 
 export function fetchResource<ReturnType>(
   url: string,
   type: ZodObject
 ): Promise<ReturnType> {
-  return fetch(url)
+  return fetch(url, {
+    headers: {
+      "User-Agent": "BandMap/0.1",
+    },
+  })
     .then((res) => res.json())
     .catch(logError)
     .then(async (artist) => {

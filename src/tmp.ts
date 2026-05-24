@@ -43,7 +43,7 @@ export class ReleaseManager {
     if (await this.heuristicRejectArtistRole()) return null;
     if (await this.heuristicRejectFormat()) return null;
 
-    logSuccess(`✓ "${this.artistRelease.artist}} - ${release.title}"`);
+    logSuccess(`✓ "${release.title}"`);
 
     return release;
   }
@@ -54,7 +54,7 @@ export class ReleaseManager {
   public heuristicRejectArtistReleaseRole(): boolean {
     if (ARTIST_RELEASE_ROLES.reject.includes(this.artistRelease.role)) {
       logWarning(
-        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (role: ${this.artistRelease.role})`
+        `❌ "${this.artistRelease.title}" (role: ${this.artistRelease.role})`
       );
       return true;
     }
@@ -67,9 +67,7 @@ export class ReleaseManager {
    */
   private heuristicRejectArtistVariousArtists(): boolean {
     if (this.artistRelease.artist === "Various") {
-      logWarning(
-        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (various artists)`
-      );
+      logWarning(`❌ "${this.artistRelease.title}" (various artists)`);
       return true;
     }
 
@@ -85,8 +83,11 @@ export class ReleaseManager {
 
     const formats = await this.getFormats();
 
-    if (!this.isValidFormatList(formats)) {
-      if (release.master_id && !formats.includes("Single")) {
+    if (!this.hasValidFormat(formats)) {
+      if (
+        release.master_id &&
+        !formats.find((format) => format.includes("Single"))
+      ) {
         logWarning(
           `Invalid main release format (${
             formats.length ? formats.join(", ") : "not specified"
@@ -97,7 +98,7 @@ export class ReleaseManager {
       }
 
       logWarning(
-        `❌ "${this.artistRelease.artist} - ${release.title}" (format: ${
+        `❌ "${release.title}" (format: ${
           formats.length ? formats.join(", ") : "not specified"
         })`
       );
@@ -108,30 +109,27 @@ export class ReleaseManager {
   }
 
   /**
-   * Return an array of string containing all the formats for the release
+   * Return an array of strings for each format
+   * (combine the format name and description)
    */
-  private async getFormats(): Promise<string[]> {
+  private async getFormats(): Promise<string[][]> {
     const release = await this.release;
     if (!release) throw new Error("Release not found");
 
-    return release.formats.reduce(
-      (allFormats: string[], format) => [
-        ...allFormats,
-        format.name,
-        ...format.descriptions,
-      ],
-      []
-    );
+    return release.formats.map((format) => [
+      format.name,
+      ...format.descriptions,
+    ]);
   }
 
   /**
    * Return true if a list of formats is considered valid
    */
-  private isValidFormatList(formats: string[]): boolean {
-    return (
-      !!formats.find((format) => FORMATS.accept.includes(format)) &&
-      !formats.find((format) => FORMATS.reject.includes(format))
-    );
+  private hasValidFormat(formats: string[][]): boolean {
+    return !!formats.find((format) => {
+      !!format.find((_format) => FORMATS.accept.includes(_format)) &&
+        !format.find((_format) => FORMATS.reject.includes(_format));
+    });
   }
 
   /**
@@ -153,12 +151,10 @@ export class ReleaseManager {
         ];
         log(`Format: ${formats.length ? formats.join(", ") : "not specified"}`);
 
-        return this.isValidFormatList(formats);
+        return this.hasValidFormat([formats]);
       })
     ) {
-      logWarning(
-        `❌ ${this.artistRelease.artist} - "${release.title}" (no version with valid format found)`
-      );
+      logWarning(`❌ "${release.title}" (no version with valid format found)`);
       return true;
     } else {
       return false;
@@ -173,15 +169,6 @@ export class ReleaseManager {
     if (!release) throw new Error("Release not found");
 
     if (!release.artists.find((artist) => artist.id === this.artist.id)) {
-      if (
-        this.artist.groups?.find((group) =>
-          release.artists.find((artist) => group.id === artist.id)
-        )
-      ) {
-        log(`Band member`);
-        return false;
-      }
-
       const rolesAsExtraArtist = await this.getRolesAsExtraArtist();
 
       if (
@@ -190,7 +177,7 @@ export class ReleaseManager {
         )
       ) {
         logWarning(
-          `❌ "${this.artistRelease.artist} - ${release.title}" (roles: ${
+          `❌ "${release.title}" (extra artist roles: ${
             rolesAsExtraArtist.length
               ? rolesAsExtraArtist.join(", ")
               : "not specified"
@@ -198,8 +185,6 @@ export class ReleaseManager {
         );
         return true;
       }
-
-      log(`Roles: ${rolesAsExtraArtist.join(", ")}`);
 
       return false;
     }

@@ -5,6 +5,7 @@ export const Artist = z.object({
   id: z.number(),
   name: z.string(),
   members: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
+  groups: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
 });
 
 export type ArtistRelease = z.infer<typeof ArtistRelease>;
@@ -21,9 +22,10 @@ export const ArtistRelease = z.object({
       "TrackAppearance",
       "UnofficialRelease",
       "Producer",
+      "Remix",
       "Mixed by",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` },
+    { error: (iss) => `role "${iss.input}" not listed` }
   ),
 });
 
@@ -44,8 +46,9 @@ export const Release = z.object({
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
   formats: z.array(
     z.object({
+      name: z.string(),
       descriptions: z.array(z.string()),
-    }),
+    })
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
@@ -63,7 +66,8 @@ export const Versions = z.object({
   versions: z.array(
     z.object({
       id: z.number(),
+      major_formats: z.array(z.string()),
       format: z.string(),
-    }),
+    })
   ),
 });

@@ -1,11 +1,16 @@
-export const MOON_SAFARI = 733171;
-export const BLACK_COUNTRY_NEW_ROAD = 6959133;
-export const THE_DEAR_HUNTER = 1092029;
-
 export const refs: { [key: string]: { id: number; expectedIdList: string } } = {
+  ANGLAGARD: {
+    id: 296514,
+    expectedIdList: "429865,2530886,1261040,3775221,5652453",
+  },
   BLACK_COUNTRY_NEW_ROAD: {
     id: 6959133,
     expectedIdList: "17151706,21933142,26523116,33596541",
+  },
+  ECHOLYN: {
+    id: 732043,
+    expectedIdList:
+      "5154821,3653657,3653603,872981,2739522,5099825,6588431,5355594,9998614,3809164,3664811,7264878,33524262,33524166",
   },
   HAKEN: {
     id: 2481019,

@@ -5,15 +5,15 @@ import { Artist, ArtistReleases, Release } from "../types";
 import { ReleaseManager } from "./Release";
 
 export class ArtistManager {
+  private id: number;
   private artist: Promise<Artist>;
-  private artistReleases: Promise<ArtistReleases>;
   private validReleases: Release[] = [];
   private matchResultAgainst: string | undefined;
 
   constructor(id: number, matchResultAgainst?: string) {
+    this.id = id;
     this.matchResultAgainst = matchResultAgainst;
     this.artist = fetchArtist(id);
-    this.artistReleases = fetchArtistReleases(id);
     this.init();
   }
 
@@ -24,21 +24,33 @@ export class ArtistManager {
     const artist = await this.artist;
     logSuccess(`Fetched artist ${artist.id}: "${artist.name}"`);
 
-    await this.analyzeReleases();
+    await this.analyzeReleases(1);
+
+    this.sortReleases();
+    this.logDiscography();
+    this.logDiscographyAsIdList();
   }
 
   /**
    * Create a ReleaseManager to analyze each of the artist releases
    */
-  async analyzeReleases() {
-    logSuccess(
-      `${(await this.artistReleases).pagination.items} release(s) fetched`
-    );
+  private async analyzeReleases(page: number) {
+    const artistReleases = await fetchArtistReleases(this.id, page);
 
-    for (const artistRelease of (await this.artistReleases).releases) {
+    if (page === 1) {
+      logSuccess(`${artistReleases.pagination.items} release(s) fetched`);
+    }
+
+    for (const artistRelease of artistReleases.releases) {
+      const mainReleaseId = artistRelease.main_release ?? artistRelease.id;
+      logSeparator();
+      const url = `${DISCOGS_RELEASE_URL}${mainReleaseId}`;
+      log(`Analyzing artist release ${artistRelease.id} (${url})`);
+
       if (
         this.validReleases.find(
-          (release) => release.id === artistRelease.main_release
+          (release) =>
+            release.id === (artistRelease.main_release ?? artistRelease.id)
         )
       ) {
         log(`↷ "${artistRelease.title}" (skipping, already included)`);
@@ -54,9 +66,9 @@ export class ArtistManager {
       }
     }
 
-    this.sortReleases();
-    this.logDiscography();
-    this.logDiscographyAsIdList();
+    if (artistReleases.pagination.pages > page) {
+      await this.analyzeReleases(page + 1);
+    }
   }
 
   /**

@@ -6,6 +6,14 @@ export const Artist = z.object({
   name: z.string(),
   members: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
   groups: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
+  aliases: z
+    .array(
+      z.object({
+        id: z.number(),
+        name: z.string(),
+      })
+    )
+    .optional(),
 });
 
 export type ArtistRelease = z.infer<typeof ArtistRelease>;
@@ -15,15 +23,17 @@ export const ArtistRelease = z.object({
   artist: z.string(),
   type: z.literal(["master", "release"]),
   main_release: z.number().optional(),
+  year: z.number().optional(),
   role: z.literal(
     [
-      "Main",
       "Appearance",
-      "TrackAppearance",
-      "UnofficialRelease",
+      "Co-producer",
+      "Main",
+      "Mixed by",
       "Producer",
       "Remix",
-      "Mixed by",
+      "TrackAppearance",
+      "UnofficialRelease",
     ],
     { error: (iss) => `role "${iss.input}" not listed` }
   ),
@@ -55,6 +65,14 @@ export const Release = z.object({
   extraartists: z
     .array(z.object({ id: z.number(), role: z.string() }))
     .optional(),
+});
+
+export type Master = z.infer<typeof Master>;
+export const Master = z.object({
+  id: z.number(),
+  main_release: z.number(),
+  title: z.string(),
+  artists: z.array(z.object({ id: z.number(), name: z.string() })),
 });
 
 export type Versions = z.infer<typeof Versions>;

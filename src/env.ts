@@ -1,7 +1,8 @@
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
+export const DISCOGS_ARTIST_URL = "https://www.discogs.com/artist/";
 
 export const ARTIST_RELEASE_ROLES = {
-  reject: ["TrackAppearance", "UnofficialRelease", "Mixed By"],
+  reject: ["TrackAppearance", "UnofficialRelease"],
 };
 
 export const EXTRA_ARTIST_ROLES = {

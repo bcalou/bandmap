@@ -1,4 +1,4 @@
-import { fetchRelease, fetchVersions } from "../api";
+import { fetchMaster, fetchRelease, fetchVersions } from "../api";
 import {
   ARTIST_RELEASE_ROLES,
   DISCOGS_RELEASE_URL,
@@ -6,13 +6,13 @@ import {
   FORMATS,
 } from "../env";
 import { log, logSeparator, logSuccess, logWarning } from "../log";
-import { Artist, ArtistRelease, Release } from "../types";
+import { Artist, ArtistRelease, Master, Release } from "../types";
 
 export class ReleaseManager {
   private artistRelease: ArtistRelease;
   private artist: Artist;
-  private mainReleaseId: number;
   private release: Promise<Release> | undefined;
+  private master: Promise<Master> | undefined;
 
   /**
    * Get the release date, depending on available data
@@ -24,7 +24,13 @@ export class ReleaseManager {
   constructor(artistRelease: ArtistRelease, artist: Artist) {
     this.artistRelease = artistRelease;
     this.artist = artist;
-    this.mainReleaseId = artistRelease.main_release ?? artistRelease.id;
+  }
+
+  /**
+   * Return the release
+   */
+  public async getRelease(): Promise<Release | undefined> {
+    return this.release;
   }
 
   /**
@@ -32,18 +38,32 @@ export class ReleaseManager {
    * null otherwise
    */
   public async getValidatedRelease(): Promise<Release | null> {
-    if (this.heuristicRejectArtistVariousArtists()) return null;
     if (this.heuristicRejectArtistReleaseRole()) return null;
 
-    this.release = fetchRelease(this.mainReleaseId);
+    // We have to use the master to get the actual main release ID, as the data
+    // is not always correct (it seems) on the artist release object
+    if (this.artistRelease.type === "master") {
+      this.master = fetchMaster(this.artistRelease.id);
+
+      if (await this.heuristicRejectArtist(await this.master)) return null;
+
+      this.release = fetchRelease((await this.master).main_release);
+    } else {
+      this.release = fetchRelease(this.artistRelease.id);
+
+      if (await this.heuristicRejectArtist(await this.release)) return null;
+    }
+
+    if (await this.heuristicRejectFormat()) return null;
 
     const release = await this.release;
     if (!release) throw Error("Release not found");
 
-    if (await this.heuristicRejectArtistRole()) return null;
-    if (await this.heuristicRejectFormat()) return null;
-
-    logSuccess(`✓ "${this.artistRelease.artist}} - ${release.title}"`);
+    logSuccess(
+      `✓ "${release.artists.map((artist) => artist.name).join(", ")} - ${
+        release.title
+      }"`
+    );
 
     return release;
   }
@@ -63,13 +83,23 @@ export class ReleaseManager {
   }
 
   /**
-   * Return true if the artist of the release is "Various"
+   * Return false if the album is not by the artist or one of his groups
    */
-  private heuristicRejectArtistVariousArtists(): boolean {
-    if (this.artistRelease.artist === "Various") {
+  private async heuristicRejectArtist(release: Release | Master) {
+    if (!release) throw new Error("Release not found");
+
+    if (
+      !release.artists.find((artist) => artist.id === this.artist.id) &&
+      !this.artist.groups?.find((group) =>
+        release.artists.find((artist) => group.id === artist.id)
+      )
+    ) {
       logWarning(
-        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (various artists)`
+        `❌ ${this.artistRelease.artist} - "${
+          release.title
+        }" (artist: ${release.artists.map((artist) => artist.name).join(", ")})`
       );
+
       return true;
     }
 
@@ -153,7 +183,13 @@ export class ReleaseManager {
         ];
         log(`Format: ${formats.length ? formats.join(", ") : "not specified"}`);
 
-        return this.isValidFormatList(formats);
+        if (this.isValidFormatList(formats)) {
+          this.release = fetchRelease(version.id);
+
+          return true;
+        }
+
+        return false;
       })
     ) {
       logWarning(
@@ -163,60 +199,5 @@ export class ReleaseManager {
     } else {
       return false;
     }
-  }
-
-  /**
-   * Return true if the album artist is not the only main artist
-   */
-  private async heuristicRejectArtistRole() {
-    const release = await this.release;
-    if (!release) throw new Error("Release not found");
-
-    if (!release.artists.find((artist) => artist.id === this.artist.id)) {
-      if (
-        this.artist.groups?.find((group) =>
-          release.artists.find((artist) => group.id === artist.id)
-        )
-      ) {
-        log(`Band member`);
-        return false;
-      }
-
-      const rolesAsExtraArtist = await this.getRolesAsExtraArtist();
-
-      if (
-        rolesAsExtraArtist?.every((role) =>
-          EXTRA_ARTIST_ROLES.reject.includes(role)
-        )
-      ) {
-        logWarning(
-          `❌ "${this.artistRelease.artist} - ${release.title}" (roles: ${
-            rolesAsExtraArtist.length
-              ? rolesAsExtraArtist.join(", ")
-              : "not specified"
-          })`
-        );
-        return true;
-      }
-
-      log(`Roles: ${rolesAsExtraArtist.join(", ")}`);
-
-      return false;
-    }
-    return false;
-  }
-
-  /**
-   * Get a list of the role occupied as an extra artist on this release
-   */
-  private async getRolesAsExtraArtist(): Promise<string[]> {
-    const release = await this.release;
-    if (!release) throw new Error("Release not found");
-
-    return (
-      release.extraartists
-        ?.filter((extraArtist) => extraArtist.id === this.artist.id)
-        .map((role) => role.role) ?? []
-    );
   }
 }

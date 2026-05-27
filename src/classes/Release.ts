@@ -1,11 +1,6 @@
 import { fetchMaster, fetchRelease, fetchVersions } from "../api";
-import {
-  ARTIST_RELEASE_ROLES,
-  DISCOGS_RELEASE_URL,
-  EXTRA_ARTIST_ROLES,
-  FORMATS,
-} from "../env";
-import { log, logSeparator, logSuccess, logWarning } from "../log";
+import { ARTIST_RELEASE_ROLES, DISCOGS_RELEASE_URL, FORMATS } from "../env";
+import { log, logError, logSuccess, logWarning } from "../log";
 import { Artist, ArtistRelease, Master, Release } from "../types";
 
 export class ReleaseManager {
@@ -54,15 +49,18 @@ export class ReleaseManager {
       if (await this.heuristicRejectArtist(await this.release)) return null;
     }
 
+    if (await this.heuristicRejectWrittenByOnly()) return null;
     if (await this.heuristicRejectFormat()) return null;
 
     const release = await this.release;
     if (!release) throw Error("Release not found");
 
+    const roles = await this.getRolesAsExtraArtist();
+    logSuccess(roles);
     logSuccess(
       `✓ "${release.artists.map((artist) => artist.name).join(", ")} - ${
         release.title
-      }"`
+      }"`,
     );
 
     return release;
@@ -74,7 +72,7 @@ export class ReleaseManager {
   public heuristicRejectArtistReleaseRole(): boolean {
     if (ARTIST_RELEASE_ROLES.reject.includes(this.artistRelease.role)) {
       logWarning(
-        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (role: ${this.artistRelease.role})`
+        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (role: ${this.artistRelease.role})`,
       );
       return true;
     }
@@ -91,15 +89,35 @@ export class ReleaseManager {
     if (
       !release.artists.find((artist) => artist.id === this.artist.id) &&
       !this.artist.groups?.find((group) =>
-        release.artists.find((artist) => group.id === artist.id)
+        release.artists.find((artist) => group.id === artist.id),
       )
     ) {
       logWarning(
         `❌ ${this.artistRelease.artist} - "${
           release.title
-        }" (artist: ${release.artists.map((artist) => artist.name).join(", ")})`
+        }" (artist: ${release.artists.map((artist) => artist.name).join(", ")})`,
       );
 
+      return true;
+    }
+
+    return false;
+  }
+
+  /**
+   * Return true if the artist is only credited as a writer
+   * This aims to exclude live where the artist didn't actually play
+   */
+  private async heuristicRejectWrittenByOnly(): Promise<boolean> {
+    const release = await this.release;
+    if (!release) throw new Error("Release not found");
+
+    const roles = await this.getRolesAsExtraArtist();
+
+    if (roles === "Written-By") {
+      logError(
+        `❌ ${this.artistRelease.artist} - "${release.title} (Written-By only)`,
+      );
       return true;
     }
 
@@ -120,7 +138,7 @@ export class ReleaseManager {
         logWarning(
           `Invalid main release format (${
             formats.length ? formats.join(", ") : "not specified"
-          }), looking into versions`
+          }), looking into versions`,
         );
 
         return await this.hasValidVersion(release);
@@ -129,7 +147,7 @@ export class ReleaseManager {
       logWarning(
         `❌ "${this.artistRelease.artist} - ${release.title}" (format: ${
           formats.length ? formats.join(", ") : "not specified"
-        })`
+        })`,
       );
       return true;
     }
@@ -150,7 +168,7 @@ export class ReleaseManager {
         format.name,
         ...format.descriptions,
       ],
-      []
+      [],
     );
   }
 
@@ -175,7 +193,7 @@ export class ReleaseManager {
     if (
       !versions.versions.find((version) => {
         log(
-          `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
+          `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`,
         );
         const formats = [
           ...version.major_formats,
@@ -193,11 +211,32 @@ export class ReleaseManager {
       })
     ) {
       logWarning(
-        `❌ ${this.artistRelease.artist} - "${release.title}" (no version with valid format found)`
+        `❌ ${this.artistRelease.artist} - "${release.title}" (no version with valid format found)`,
       );
       return true;
     } else {
       return false;
     }
+  }
+
+  /**
+   * Get a string array of the roles occupied by the artist as an extra artist
+   * for this release
+   */
+  private async getRolesAsExtraArtist(): Promise<string> {
+    const release = await this.release;
+    if (!release) throw new Error("Release not found");
+
+    return (
+      release.extraartists
+        ?.filter(
+          (extraArtist) =>
+            extraArtist.id === this.artist.id ||
+            this.artist.aliases
+              ?.map((alias) => alias.id)
+              .includes(extraArtist.id),
+        )
+        .map((role) => role.role) ?? []
+    ).join(", ");
   }
 }

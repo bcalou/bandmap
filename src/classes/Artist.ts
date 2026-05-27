@@ -8,7 +8,7 @@ import {
   logSuccess,
   logWarning,
 } from "../log";
-import { Artist, ArtistRelease, ArtistReleases, Release } from "../types";
+import { Artist, ArtistRelease, Release } from "../types";
 import { ReleaseManager } from "./Release";
 
 export class ArtistManager {
@@ -48,7 +48,7 @@ export class ArtistManager {
     this.logDiscography(
       this.validReleases,
       "CHRONOLOGICAL DISCOGRAPHY",
-      logSuccess
+      logSuccess,
     );
     this.logDiscographyAsIdList();
   }
@@ -64,16 +64,13 @@ export class ArtistManager {
     }
 
     for (const artistRelease of artistReleases.releases) {
-      const mainReleaseId = artistRelease.main_release ?? artistRelease.id;
       logSeparator();
-      const url = `${DISCOGS_RELEASE_URL}${mainReleaseId}`;
-      log(`Analyzing artist release ${artistRelease.id} (${url})`);
 
       if (
         this.validReleases.find(
           (release) =>
             release.id === artistRelease.id ||
-            release.master_id === artistRelease.id
+            release.master_id === artistRelease.id,
         )
       ) {
         log(`↷ "${artistRelease.title}" (skipping, already included)`);
@@ -101,7 +98,9 @@ export class ArtistManager {
    */
   private async sortReleases(releases: Release[] | ArtistRelease[]) {
     releases.sort((release1, release2) =>
-      this.getReleaseDate(release1).localeCompare(this.getReleaseDate(release2))
+      this.getReleaseDate(release1).localeCompare(
+        this.getReleaseDate(release2),
+      ),
     );
   }
 
@@ -111,7 +110,7 @@ export class ArtistManager {
   private logDiscography(
     releases: Release[] | ArtistRelease[],
     label: string,
-    logger: (message: string) => void
+    logger: (message: string) => void,
   ) {
     logSeparator();
     log(`${label} (${releases.length} entries(s)):`);
@@ -119,7 +118,7 @@ export class ArtistManager {
       logger(
         `${this.getReleaseDate(release)} - ${this.getArtist(release)} - ${
           release.title
-        } (${this.getUrl(release)})`
+        } (${this.getUrl(release)})`,
       );
     });
   }

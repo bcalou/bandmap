@@ -5,11 +5,6 @@ export const ARTIST_RELEASE_ROLES = {
   reject: ["TrackAppearance", "UnofficialRelease"],
 };
 
-export const EXTRA_ARTIST_ROLES = {
-  // accept: ["Written-By", "Producer", "Arranged By"],
-  reject: ["Sleeve Notes"],
-};
-
 export const FORMATS = {
   accept: ["Album", "EP"],
   reject: [

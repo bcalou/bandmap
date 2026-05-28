@@ -5,4 +5,4 @@ function test(ref: { id: number; expectedIdList?: string }) {
   new ArtistManager(ref.id, ref.expectedIdList);
 }
 
-test(refs.TOMAS_BODIN);
+test(refs.ANTHON_JOHANSSON);

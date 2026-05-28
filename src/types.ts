@@ -48,6 +48,9 @@ export const ArtistReleases = z.object({
   releases: z.array(ArtistRelease),
 });
 
+export type ExtraArtist = z.infer<typeof ExtraArtist>;
+export const ExtraArtist = z.object({ id: z.number(), role: z.string() });
+
 export type Release = z.infer<typeof Release>;
 export const Release = z.object({
   id: z.number(),
@@ -62,9 +65,7 @@ export const Release = z.object({
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
-  extraartists: z
-    .array(z.object({ id: z.number(), role: z.string() }))
-    .optional(),
+  extraartists: z.array(ExtraArtist).optional(),
 });
 
 export type Master = z.infer<typeof Master>;

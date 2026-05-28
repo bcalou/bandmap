@@ -28,18 +28,18 @@ export class ArtistManager {
    */
   async init() {
     const artist = await this.artist;
-    logSuccess(`Fetched artist ${artist.id}: "${artist.name}"`);
+    logInfo(`Fetched artist ${artist.id}: "${artist.name}"`);
+
+    await this.analyzeReleases(artist.id, 1);
 
     if (artist.aliases) {
       for (const alias of artist.aliases) {
         logSeparator();
-        logInfo(`Looking into alias ${alias.name}`);
+        logInfo(`Looking into ${artist.name} alias "${alias.name}"`);
 
         await this.analyzeReleases(alias.id, 1);
       }
     }
-
-    await this.analyzeReleases(artist.id, 1);
 
     this.sortReleases(this.invalidReleases);
     this.logDiscography(this.invalidReleases, "REJECTED RELEASES", logWarning);
@@ -48,7 +48,7 @@ export class ArtistManager {
     this.logDiscography(
       this.validReleases,
       "CHRONOLOGICAL DISCOGRAPHY",
-      logSuccess,
+      logSuccess
     );
     this.logDiscographyAsIdList();
   }
@@ -70,7 +70,7 @@ export class ArtistManager {
         this.validReleases.find(
           (release) =>
             release.id === artistRelease.id ||
-            release.master_id === artistRelease.id,
+            release.master_id === artistRelease.id
         )
       ) {
         log(`↷ "${artistRelease.title}" (skipping, already included)`);
@@ -84,6 +84,7 @@ export class ArtistManager {
       if (validatedRelease) {
         this.validReleases.push(validatedRelease);
       } else {
+        // TODO deduplication
         this.invalidReleases.push(artistRelease);
       }
     }
@@ -98,9 +99,7 @@ export class ArtistManager {
    */
   private async sortReleases(releases: Release[] | ArtistRelease[]) {
     releases.sort((release1, release2) =>
-      this.getReleaseDate(release1).localeCompare(
-        this.getReleaseDate(release2),
-      ),
+      this.getReleaseDate(release1).localeCompare(this.getReleaseDate(release2))
     );
   }
 
@@ -110,7 +109,7 @@ export class ArtistManager {
   private logDiscography(
     releases: Release[] | ArtistRelease[],
     label: string,
-    logger: (message: string) => void,
+    logger: (message: string) => void
   ) {
     logSeparator();
     log(`${label} (${releases.length} entries(s)):`);
@@ -118,7 +117,7 @@ export class ArtistManager {
       logger(
         `${this.getReleaseDate(release)} - ${this.getArtist(release)} - ${
           release.title
-        } (${this.getUrl(release)})`,
+        } (${this.getUrl(release)})`
       );
     });
   }

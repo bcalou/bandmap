@@ -1,8 +1,3 @@
-import { ArtistManager } from "./classes/Artist";
-import { refs } from "./refs";
+import { ArtistMap } from "./classes/ArtistMap";
 
-function test(ref: { id: number; expectedIdList?: string }) {
-  new ArtistManager(ref.id, ref.expectedIdList);
-}
-
-test(refs.ANTHON_JOHANSSON);
+new ArtistMap(296514);

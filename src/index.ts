@@ -1,8 +1,3 @@
-import { ArtistManager } from "./classes/Artist";
-import { refs } from "./refs";
+import { BandMap } from "./classes/BandMap";
 
-function test(ref: { id: number; expectedIdList?: string }) {
-  new ArtistManager(ref.id, ref.expectedIdList);
-}
-
-test(refs.ANTHON_JOHANSSON);
+new BandMap(296514);

@@ -1,167 +1,69 @@
-import { fetchArtist, fetchArtistReleases } from "../api";
-import { DISCOGS_RELEASE_URL } from "../env";
-import {
-  log,
-  logError,
-  logInfo,
-  logSeparator,
-  logSuccess,
-  logWarning,
-} from "../log";
-import { Artist, ArtistRelease, Release } from "../types";
-import { ReleaseManager } from "./Release";
+import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
+import { log } from "../../src_old/log";
+import { fetchArtistReleases } from "../api";
+import { logSuccess, logWarning } from "../log";
+import { DCArtist, DCArtistRelease } from "../types";
+import { ArtistRelease } from "./ArtistRelease";
+import { Discography } from "./Discography";
+import { Release } from "./Release";
 
-export class ArtistManager {
-  private artist: Promise<Artist>;
-  private validReleases: Release[] = [];
-  private invalidReleases: ArtistRelease[] = [];
-  private matchResultAgainst: string | undefined;
+/**
+ * An artist, which can be a band or a person
+ */
+export class Artist {
+  // The artist object
+  artist: DCArtist;
 
-  constructor(id: number, matchResultAgainst?: string) {
-    this.matchResultAgainst = matchResultAgainst;
-    this.artist = fetchArtist(id);
-    this.init();
+  constructor(artist: DCArtist) {
+    this.artist = artist;
+
+    logSuccess(`🎸 Fetched artist "${this.name}" (${this.url})`);
   }
 
-  /**
-   * Main sequence
-   */
-  async init() {
-    const artist = await this.artist;
-    logInfo(`Fetched artist ${artist.id}: "${artist.name}"`);
-
-    await this.analyzeReleases(artist.id, 1);
-
-    if (artist.aliases) {
-      for (const alias of artist.aliases) {
-        logSeparator();
-        logInfo(`Looking into ${artist.name} alias "${alias.name}"`);
-
-        await this.analyzeReleases(alias.id, 1);
-      }
-    }
-
-    this.sortReleases(this.invalidReleases);
-    this.logDiscography(this.invalidReleases, "REJECTED RELEASES", logWarning);
-
-    this.sortReleases(this.validReleases);
-    this.logDiscography(
-      this.validReleases,
-      "CHRONOLOGICAL DISCOGRAPHY",
-      logSuccess
-    );
-    this.logDiscographyAsIdList();
+  get id() {
+    return this.artist.id;
   }
 
-  /**
-   * Create a ReleaseManager to analyze each of the artist releases
-   */
-  private async analyzeReleases(artistId: number, page: number) {
-    const artistReleases = await fetchArtistReleases(artistId, page);
+  get name() {
+    return this.artist.name;
+  }
+
+  get url() {
+    return this.artist.resource_url;
+  }
+
+  get groups() {
+    return this.artist.groups ?? [];
+  }
+
+  // Fetch the releases associated to the artist
+  public async fetchReleases() {
+    // Initiate the releases fetching on page 1
+    this.fetchReleasesPage(1);
+  }
+
+  // Fetch the releases associated to the artist (at a given page of the API)
+  private async fetchReleasesPage(page: number) {
+    const artistReleases = await fetchArtistReleases(this.id, page);
 
     if (page === 1) {
-      logSuccess(`${artistReleases.pagination.items} release(s) fetched`);
+      logSuccess(`🎼 ${artistReleases.pagination.items} release(s) found`);
     }
 
-    for (const artistRelease of artistReleases.releases) {
-      logSeparator();
+    await this.analyzeReleases(artistReleases.releases);
 
-      if (
-        this.validReleases.find(
-          (release) =>
-            release.id === artistRelease.id ||
-            release.master_id === artistRelease.id
-        )
-      ) {
-        log(`↷ "${artistRelease.title}" (skipping, already included)`);
-        continue;
-      }
-
-      const release = new ReleaseManager(artistRelease, await this.artist);
-
-      const validatedRelease = await release.getValidatedRelease();
-
-      if (validatedRelease) {
-        this.validReleases.push(validatedRelease);
-      } else {
-        // TODO deduplication
-        this.invalidReleases.push(artistRelease);
-      }
-    }
-
+    // Handle the next page if any
     if (artistReleases.pagination.pages > page) {
-      await this.analyzeReleases(artistId, page + 1);
+      await this.fetchReleasesPage(page + 1);
     }
   }
 
-  /**
-   * Sort the releases by release date
-   */
-  private async sortReleases(releases: Release[] | ArtistRelease[]) {
-    releases.sort((release1, release2) =>
-      this.getReleaseDate(release1).localeCompare(this.getReleaseDate(release2))
-    );
-  }
+  // Loop over the given releases and add them to the global discography
+  private async analyzeReleases(artistReleases: DCArtistRelease[]) {
+    for (const artistRelease of artistReleases) {
+      const artistReleaseDetails = new ArtistRelease(artistRelease);
 
-  /**
-   * Nicely log the final releases array
-   */
-  private logDiscography(
-    releases: Release[] | ArtistRelease[],
-    label: string,
-    logger: (message: string) => void
-  ) {
-    logSeparator();
-    log(`${label} (${releases.length} entries(s)):`);
-    releases.forEach((release) => {
-      logger(
-        `${this.getReleaseDate(release)} - ${this.getArtist(release)} - ${
-          release.title
-        } (${this.getUrl(release)})`
-      );
-    });
-  }
-
-  /**
-   * Get the release date/year of a release or artist release
-   */
-  private getReleaseDate(release: Release | ArtistRelease): string {
-    return (
-      ("released" in release ? release.released : release.year?.toString()) ??
-      "unknown"
-    );
-  }
-
-  /** Get the artist of a release or artist release */
-  private getArtist(release: Release | ArtistRelease): string {
-    return "artists" in release
-      ? release.artists.map((artist) => artist.name).join(", ")
-      : release.artist;
-  }
-
-  /** Get the url of a release or artist release */
-  private getUrl(release: Release | ArtistRelease): string {
-    return `${DISCOGS_RELEASE_URL}${
-      "main_release" in release ? release.main_release : release.id
-    }`;
-  }
-
-  private logDiscographyAsIdList() {
-    const idList = this.validReleases.map((release) => release.id).join(",");
-
-    logSeparator();
-    log("Discography IDs list:");
-
-    if (this.matchResultAgainst) {
-      if (idList === this.matchResultAgainst) {
-        logSuccess(`✓ IDs list matches the expected result: ${idList}`);
-      } else {
-        logError(`❌ IDs list doesn't match the expected result`);
-        log(`Expected: ${this.matchResultAgainst}`);
-        log(`Got:      ${idList}`);
-      }
-    } else {
-      console.log(idList);
+      await artistReleaseDetails.addToDiscography();
     }
   }
 }

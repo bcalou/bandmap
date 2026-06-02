@@ -1,11 +1,20 @@
 import z from "zod";
 
-export type Artist = z.infer<typeof Artist>;
-export const Artist = z.object({
+export type RejectReason = string;
+
+export type DCMember = z.infer<typeof DCMember>;
+export const DCMember = z.object({ id: z.number(), name: z.string() });
+
+export type DCGroup = z.infer<typeof DCGroup>;
+export const DCGroup = z.object({ id: z.number(), name: z.string() });
+
+export type DCArtist = z.infer<typeof DCArtist>;
+export const DCArtist = z.object({
   id: z.number(),
   name: z.string(),
-  members: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
-  groups: z.array(z.object({ id: z.number(), name: z.string() })).optional(),
+  resource_url: z.string(),
+  members: z.array(DCMember).optional(),
+  groups: z.array(DCGroup).optional(),
   aliases: z
     .array(
       z.object({
@@ -16,8 +25,8 @@ export const Artist = z.object({
     .optional(),
 });
 
-export type ArtistRelease = z.infer<typeof ArtistRelease>;
-export const ArtistRelease = z.object({
+export type DCArtistRelease = z.infer<typeof DCArtistRelease>;
+export const DCArtistRelease = z.object({
   id: z.number(),
   title: z.string(),
   artist: z.string(),
@@ -39,22 +48,23 @@ export const ArtistRelease = z.object({
   ),
 });
 
-export type ArtistReleases = z.infer<typeof ArtistReleases>;
-export const ArtistReleases = z.object({
+export type DCArtistReleases = z.infer<typeof DCArtistReleases>;
+export const DCArtistReleases = z.object({
   pagination: z.object({
     pages: z.number(),
     items: z.number(),
   }),
-  releases: z.array(ArtistRelease),
+  releases: z.array(DCArtistRelease),
 });
 
-export type ExtraArtist = z.infer<typeof ExtraArtist>;
-export const ExtraArtist = z.object({ id: z.number(), role: z.string() });
+export type DCExtraArtist = z.infer<typeof DCExtraArtist>;
+export const DCExtraArtist = z.object({ id: z.number(), role: z.string() });
 
-export type Release = z.infer<typeof Release>;
-export const Release = z.object({
+export type DCRelease = z.infer<typeof DCRelease>;
+export const DCRelease = z.object({
   id: z.number(),
   title: z.string(),
+  resource_url: z.string(),
   year: z.number(),
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
   formats: z.array(
@@ -65,19 +75,19 @@ export const Release = z.object({
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
-  extraartists: z.array(ExtraArtist).optional(),
+  extraartists: z.array(DCExtraArtist).optional(),
 });
 
-export type Master = z.infer<typeof Master>;
-export const Master = z.object({
+export type DCMaster = z.infer<typeof DCMaster>;
+export const DCMaster = z.object({
   id: z.number(),
   main_release: z.number(),
   title: z.string(),
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
 });
 
-export type Versions = z.infer<typeof Versions>;
-export const Versions = z.object({
+export type DCVersions = z.infer<typeof DCVersions>;
+export const DCVersions = z.object({
   pagination: z.object({
     pages: z.number(),
     items: z.number(),

@@ -3,16 +3,24 @@ import z from "zod";
 export type RejectReason = string;
 
 export type DCMember = z.infer<typeof DCMember>;
-export const DCMember = z.object({ id: z.number(), name: z.string() });
+export const DCMember = z.object({
+  id: z.number(),
+  name: z.string(),
+  resource_url: z.string(),
+});
 
 export type DCGroup = z.infer<typeof DCGroup>;
-export const DCGroup = z.object({ id: z.number(), name: z.string() });
+export const DCGroup = z.object({
+  id: z.number(),
+  name: z.string(),
+  resource_url: z.string(),
+});
 
 export type DCArtist = z.infer<typeof DCArtist>;
 export const DCArtist = z.object({
   id: z.number(),
   name: z.string(),
-  resource_url: z.string(),
+  uri: z.string(),
   members: z.array(DCMember).optional(),
   groups: z.array(DCGroup).optional(),
   aliases: z
@@ -20,7 +28,7 @@ export const DCArtist = z.object({
       z.object({
         id: z.number(),
         name: z.string(),
-      })
+      }),
     )
     .optional(),
 });
@@ -44,7 +52,7 @@ export const DCArtistRelease = z.object({
       "TrackAppearance",
       "UnofficialRelease",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` }
+    { error: (iss) => `role "${iss.input}" not listed` },
   ),
 });
 
@@ -71,7 +79,7 @@ export const DCRelease = z.object({
     z.object({
       name: z.string(),
       descriptions: z.array(z.string()),
-    })
+    }),
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
@@ -97,6 +105,6 @@ export const DCVersions = z.object({
       id: z.number(),
       major_formats: z.array(z.string()),
       format: z.string(),
-    })
+    }),
   ),
 });

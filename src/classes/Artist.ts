@@ -1,11 +1,8 @@
-import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
-import { log } from "../../src_old/log";
 import { fetchArtistReleases } from "../api";
-import { logSuccess, logWarning } from "../log";
+import { logSuccess } from "../log";
 import { DCArtist, DCArtistRelease } from "../types";
+import { clean } from "../utils";
 import { ArtistRelease } from "./ArtistRelease";
-import { Discography } from "./Discography";
-import { Release } from "./Release";
 
 /**
  * An artist, which can be a band or a person
@@ -17,7 +14,7 @@ export class Artist {
   constructor(artist: DCArtist) {
     this.artist = artist;
 
-    logSuccess(`🎸 Fetched artist "${this.name}" (${this.url})`);
+    logSuccess(`🎤 Fetched artist "${this.name}" (${this.url})`);
   }
 
   get id() {
@@ -25,14 +22,14 @@ export class Artist {
   }
 
   get name() {
-    return this.artist.name;
+    return clean(this.artist.name);
   }
 
   get url() {
-    return this.artist.resource_url;
+    return this.artist.uri;
   }
 
-  get groups() {
+  get bands() {
     return this.artist.groups ?? [];
   }
 

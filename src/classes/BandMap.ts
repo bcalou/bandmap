@@ -28,11 +28,13 @@ export class BandMap {
 
   // Main sequence of events
   async init() {
-    this.band = new Band(await fetchArtist(this.bandId));
-    await this.band.fetchMembersAndConnectedBands();
-    //   this.discography = new Discography(band);
-    //   const bandDetails = new Artist(band, this.discography);
+    const bandData = await fetchArtist(this.bandId);
+    const band = new Artist(bandData);
 
-    //   await bandDetails.fetchReleases();
+    this.band = new Band(bandData);
+    await this.band.fetchMembersAndConnectedBands();
+
+    // this.discography = new Discography();
+    await band.fetchReleases();
   }
 }

@@ -25,8 +25,6 @@ export class Band {
 
   constructor(band: DCArtist) {
     this.band = band;
-
-    logSuccess(`🎸 Fetched band "${this.name}" (${this.url})`);
   }
 
   get id() {
@@ -97,14 +95,14 @@ export class Band {
   // Get the member of the main band that are members of the connected band
   private getConnectedBandMembers(band: DCGroup): Artist[] {
     return this.members.filter((member) =>
-      member.bands.find((_band) => _band.id === band.id),
+      member.bands.find((_band) => _band.id === band.id)
     );
   }
 
   // Order connected bands by number of members in common with then main band
   private orderConnectedBands(): void {
     this.connectedBands.sort(
-      (band1, band2) => band2.members.length - band1.members.length,
+      (band1, band2) => band2.members.length - band1.members.length
     );
   }
 

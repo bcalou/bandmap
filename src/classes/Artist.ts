@@ -14,7 +14,11 @@ export class Artist {
   constructor(artist: DCArtist) {
     this.artist = artist;
 
-    logSuccess(`🎤 Fetched artist "${this.name}" (${this.url})`);
+    logSuccess(
+      `${this.type === "artist" ? "🎤" : "🎸"} Fetched ${this.type} "${
+        this.name
+      }" (${this.url})`
+    );
   }
 
   get id() {
@@ -31,6 +35,10 @@ export class Artist {
 
   get bands() {
     return this.artist.groups ?? [];
+  }
+
+  get type() {
+    return this.artist.members ? "band" : "artist";
   }
 
   // Fetch the releases associated to the artist

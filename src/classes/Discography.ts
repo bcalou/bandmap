@@ -9,9 +9,6 @@ import { Release } from "./Release";
  * the band with connected releases
  */
 export class Discography {
-  // The band of which we're building the discography
-  private band: Artist;
-
   // The list of releases constituting the discography
   private releases: Release[] = [];
 
@@ -25,9 +22,7 @@ export class Discography {
     reason: RejectReason;
   }[] = [];
 
-  constructor(band: Artist) {
-    this.band = band;
-  }
+  constructor() {}
 
   // Add a release to the discography
   public addAccepted(release: Release) {

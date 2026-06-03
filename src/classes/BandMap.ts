@@ -18,9 +18,6 @@ export class BandMap {
   // The band we're loonking at
   private band: Band | undefined;
 
-  // The object containing all the results
-  private discography: Discography | undefined;
-
   constructor(bandId: number) {
     this.bandId = bandId;
     this.init();
@@ -28,13 +25,11 @@ export class BandMap {
 
   // Main sequence of events
   async init() {
-    const bandData = await fetchArtist(this.bandId);
-    const band = new Artist(bandData);
+    const band = await fetchArtist(this.bandId);
+    this.band = new Band(band);
 
-    this.band = new Band(bandData);
     await this.band.fetchMembersAndConnectedBands();
 
-    // this.discography = new Discography();
-    await band.fetchReleases();
+    await this.band.fetchReleases();
   }
 }

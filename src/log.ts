@@ -7,7 +7,7 @@ const colors = {
 
 export function log(
   message: string,
-  type?: "info" | "error" | "success" | "warning",
+  type?: "info" | "error" | "success" | "warning"
 ) {
   console.log(`${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`);
 }
@@ -29,5 +29,7 @@ export function logWarning(message: string) {
 }
 
 export function logSeparator() {
-  log("======================================================================");
+  log(
+    "——————————————————————————————————————————————————————————————————————————"
+  );
 }

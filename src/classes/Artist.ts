@@ -1,8 +1,9 @@
 import { fetchArtistReleases } from "../api";
-import { logSuccess } from "../log";
+import { logSeparator, logSuccess } from "../log";
 import { DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
 import { ArtistRelease } from "./ArtistRelease";
+import { Band } from "./Band";
 
 /**
  * An artist, which can be a band or a person
@@ -11,8 +12,13 @@ export class Artist {
   // The artist object
   artist: DCArtist;
 
-  constructor(artist: DCArtist) {
+  // The main band object of the program
+  // Undefined if the artist is the band itself
+  mainBand: Band | undefined;
+
+  constructor(artist: DCArtist, mainBand?: Band) {
     this.artist = artist;
+    this.mainBand = mainBand;
 
     logSuccess(
       `${this.type === "artist" ? "🎤" : "🎸"} Fetched ${this.type} "${
@@ -33,6 +39,10 @@ export class Artist {
     return this.artist.uri;
   }
 
+  get band(): Band | undefined {
+    return this.mainBand;
+  }
+
   get bands() {
     return this.artist.groups ?? [];
   }
@@ -49,6 +59,7 @@ export class Artist {
 
   // Fetch the releases associated to the artist (at a given page of the API)
   private async fetchReleasesPage(page: number) {
+    logSeparator();
     const artistReleases = await fetchArtistReleases(this.id, page);
 
     if (page === 1) {
@@ -66,9 +77,14 @@ export class Artist {
   // Loop over the given releases and add them to the global discography
   private async analyzeReleases(artistReleases: DCArtistRelease[]) {
     for (const artistRelease of artistReleases) {
-      const artistReleaseDetails = new ArtistRelease(artistRelease);
+      if (this.band) {
+        const artistReleaseDetails = new ArtistRelease(
+          artistRelease,
+          this.band
+        );
 
-      await artistReleaseDetails.addToDiscography();
+        await artistReleaseDetails.addToDiscography();
+      }
     }
   }
 }

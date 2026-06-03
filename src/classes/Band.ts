@@ -1,22 +1,24 @@
+import { Master, Release } from "../../src_old/types";
 import { fetchArtist } from "../api";
 import { DISCOGS_ARTIST_URL } from "../env";
 import { logInfo, logSeparator, logSuccess } from "../log";
 import { DCArtist, DCGroup } from "../types";
 import { clean } from "../utils";
 import { Artist } from "./Artist";
+import { Discography } from "./Discography";
 
 /**
  * The main band which we're looking at
  */
-export class Band {
-  // The discogs artist object for this band
-  private band: DCArtist;
+export class Band extends Artist {
+  // The discography of the band and its connected artists/bands
+  public discography: Discography;
 
   // The members of the band
-  private members: Artist[] = [];
+  public members: Artist[] = [];
 
   // The other bands of the members of the main band
-  private connectedBands: {
+  public connectedBands: {
     // The discogs group object
     band: DCGroup;
     // The list of member from the main band
@@ -24,23 +26,26 @@ export class Band {
   }[] = [];
 
   constructor(band: DCArtist) {
-    this.band = band;
+    super(band);
+    this.discography = new Discography();
   }
 
-  get id() {
-    return this.band.id;
+  get band(): Band {
+    return this;
   }
 
-  get name() {
-    return this.band.name;
+  private get bandMembers() {
+    return this.artist.members ?? [];
   }
 
-  get url() {
-    return this.band.uri;
-  }
-
-  get bandMembers() {
-    return this.band.members ?? [];
+  // Is the given release from the band, one of its member or a connected band?
+  public isAuthorOrConnectedAuthor(release: Release | Master) {
+    return release.artists.find(
+      (artist) =>
+        artist.id === this.id ||
+        this.members.find((member) => member.id === artist.id) ||
+        this.connectedBands.find((band) => band.band.id === artist.id)
+    );
   }
 
   // Fetch each of the band members and its connected bands infos
@@ -49,21 +54,16 @@ export class Band {
     logInfo(`${this.bandMembers.length} member(s)`);
 
     for (const _member of this.bandMembers) {
-      const member = new Artist(await fetchArtist(_member.id));
+      const member = new Artist(await fetchArtist(_member.id), this.mainBand);
 
       this.members.push(member);
     }
 
-    for (const member of this.members) {
-      this.addConnectedBands(member);
-    }
-
-    this.orderConnectedBands();
-    this.logConnectedBands();
+    this.fetchConnectedBands();
   }
 
   // Fetch the bands connected to the main band members
-  public fetchConnectedBands(): void {
+  private fetchConnectedBands(): void {
     for (const member of this.members) {
       this.addConnectedBands(member);
     }
@@ -108,6 +108,8 @@ export class Band {
 
   // Nicely log connected bands and their members in common with the main band
   private logConnectedBands(): void {
+    logInfo(`${this.connectedBands.length} connected band(s)`);
+
     this.connectedBands.forEach((band) => {
       const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");

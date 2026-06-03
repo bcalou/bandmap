@@ -2,6 +2,7 @@ import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
 import { fetchMaster, fetchRelease } from "../api";
 import { log, logError, logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
+import { Band } from "./Band";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
 import { Release } from "./Release";
@@ -15,12 +16,12 @@ export class ArtistRelease {
   // The discogs ArtistRelease object
   private artistRelease: DCArtistRelease;
 
-  // The discography that the app is computing
-  private discography: Discography;
+  // The main band of the program
+  private mainBand: Band;
 
-  constructor(artistRelease: DCArtistRelease, discography: Discography) {
+  constructor(artistRelease: DCArtistRelease, mainBand: Band) {
     this.artistRelease = artistRelease;
-    this.discography = discography;
+    this.mainBand = mainBand;
   }
 
   get id() {
@@ -58,9 +59,9 @@ export class ArtistRelease {
     const release = await this.getAcceptedRelease();
 
     if (typeof release === "object") {
-      this.discography.addAccepted(release);
+      this.mainBand.discography.addAccepted(release);
     } else {
-      this.discography.addRejected(this, release);
+      this.mainBand.discography.addRejected(this, release);
     }
   }
 
@@ -72,15 +73,15 @@ export class ArtistRelease {
 
     const release =
       this.type === "master"
-        ? new Master(await fetchMaster(this.id))
-        : new Release(await fetchRelease(this.id));
+        ? new Master(await fetchMaster(this.id), this.mainBand)
+        : new Release(await fetchRelease(this.id), this.mainBand);
 
     return release.getAcceptedRelease();
   }
 
   // Return true if the artistRelease is already in the discography
   private isIncludedInDiscography(): boolean {
-    const inclusionState = this.discography.includes(this.id);
+    const inclusionState = this.mainBand.discography.includes(this.id);
 
     if (inclusionState) {
       logWarning(`↷ "${this.label}" (skipping, already ${inclusionState})`);

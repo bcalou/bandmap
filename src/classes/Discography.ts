@@ -43,7 +43,9 @@ export class Discography {
       return "accepted";
     }
 
-    if (this.rejectedReleases.find((release) => release.id === id)) {
+    if (
+      this.rejectedReleases.find((release) => release.artistRelease.id === id)
+    ) {
       return "rejected";
     }
 

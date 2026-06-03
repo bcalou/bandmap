@@ -1,4 +1,6 @@
+import { fetchRelease } from "../api";
 import { DCMaster, RejectReason } from "../types";
+import { Band } from "./Band";
 import { Release } from "./Release";
 
 /**
@@ -8,31 +10,41 @@ export class Master {
   // The discogs master object
   private master: DCMaster;
 
-  constructor(master: DCMaster) {
+  // The main band of the program
+  private mainBand: Band;
+
+  constructor(master: DCMaster, mainBand: Band) {
     this.master = master;
+    this.mainBand = mainBand;
   }
 
   get artists() {
-    return this.master.artists;
+    return this.master.artists.map((artist) => artist.name).join(", ");
+  }
+
+  get mainRelease() {
+    return this.master.main_release;
   }
 
   // Return main release object if it's considered acceptable
   public async getAcceptedRelease(): Promise<Release | RejectReason> {
     const reject = this.heuristicRejectArtist();
+
+    if (reject) return reject;
+
+    const release = new Release(
+      await fetchRelease(this.mainRelease),
+      this.mainBand
+    );
+
+    return release.getAcceptedRelease();
   }
 
-  /* Reject if the master is not by the main band, one of its members, or one of
-  its members other bands */
+  // Reject if the master is not by the main band, one of its members, or one of
+  // its members other bands
   private heuristicRejectArtist(): RejectReason | null {
-    if (
-      !this.artists.find((artist) => artist.id === this.artist.id) &&
-      !this.artist.groups?.find((group) =>
-        this.artists.find((artist) => group.id === artist.id)
-      )
-    ) {
-      return `(rejected artist: ${this.artists
-        .map((artist) => artist.name)
-        .join(", ")})`;
+    if (!this.mainBand.isAuthorOrConnectedAuthor(this.master)) {
+      return `rejected artist(s): ${this.artists}`;
     }
 
     return null;

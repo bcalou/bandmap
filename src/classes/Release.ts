@@ -1,4 +1,7 @@
-import { DCRelease, RejectReason } from "../types";
+import { fetchVersions } from "../api";
+import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
+import { log, logWarning } from "../log";
+import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";
 import { Band } from "./Band";
 
 export class Release {
@@ -14,7 +17,11 @@ export class Release {
   }
 
   get id() {
-    return this.release.master_id ?? this.release.id;
+    return this.masterId ?? this.release.id;
+  }
+
+  get masterId() {
+    return this.release.master_id;
   }
 
   get artists() {
@@ -34,17 +41,29 @@ export class Release {
   }
 
   get url() {
-    return this.release.resource_url;
+    return this.release.uri;
   }
 
   get label() {
-    return `${this.date} - ${this.artists} - "${this.title}" (${this.url})"`;
+    return `${this.date} - ${this.artists} - "${this.title}"\n(${this.url})"`;
+  }
+
+  get formats() {
+    return this.release.formats.reduce(
+      (allFormats: string[], format) => [
+        ...allFormats,
+        format.name,
+        ...format.descriptions,
+      ],
+      []
+    );
   }
 
   // Return release object if it's considered acceptable
   public async getAcceptedRelease(): Promise<Release | RejectReason> {
     return (
       this.heuristicRejectArtist() ??
+      (await this.heuristicRejectFormat()) ??
       (await this.heuristicRejectWrittenByOnly()) ??
       this
     );
@@ -60,18 +79,79 @@ export class Release {
     return null;
   }
 
+  // Reject if the release have an invalid format
+  private async heuristicRejectFormat(): Promise<RejectReason | null> {
+    if (!this.isValidFormatList(this.formats)) {
+      if (this.masterId && !this.formats.includes("Single")) {
+        logWarning(
+          `Invalid main release format (${this.printFormats(this.formats)})`
+        );
+
+        if (await this.hasValidVersion()) return null;
+      }
+
+      return `rejected format(s): ${this.printFormats(this.formats)}`;
+    }
+
+    return null;
+  }
+
+  // Transform a format list to a printable string
+  private printFormats(formats: string[]) {
+    return formats.join(", ") ?? "not specified";
+  }
+
+  // Is this list of formats considered valid for the discogaphy?
+  private isValidFormatList(formats: string[]): boolean {
+    return (
+      !!formats.find((format) => FORMATS.accept.includes(format)) &&
+      !formats.find((format) => FORMATS.reject.includes(format))
+    );
+  }
+
+  // Does one of the version has a valid format list?
+  private async hasValidVersion(): Promise<boolean> {
+    if (!this.masterId) return false;
+
+    const versions = await fetchVersions(this.masterId);
+
+    log(`🗃️ Looking into ${versions.pagination.items} version(s)`);
+
+    for (const version of versions.versions) {
+      if (await this.isValidVersion(version)) {
+        return true;
+      }
+    }
+
+    return false;
+  }
+
+  // Is the format list valid for this version?
+  private async isValidVersion(version: DCVersion): Promise<boolean> {
+    log(
+      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
+    );
+
+    const formats = [...version.major_formats, ...version.format.split(", ")];
+    log(`Format: ${this.printFormats(formats)}`);
+
+    if (this.isValidFormatList(formats)) {
+      // this.release = fetchRelease(version.id);
+
+      return true;
+    }
+
+    return false;
+  }
+
   // Reject if the artist or connected artist role is only writing
   private async heuristicRejectWrittenByOnly(): RejectReason | null {
-    const roles =
-      this.extraArtists
-        .filter(
-          (artist) => artist.id === this.mainBand.id,
-          // ||
-          // this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
-        )
-        .map((role) => role.role) ?? [];
-
-    console.log({ roles });
+    const roles = this.extraArtists.filter(
+      (artist) =>
+        this.mainBand.members.find((member) => member.id === artist.id)
+      // ||
+      // this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
+    );
 
     // if (roles === "Written-By") {
     //   return "Written-By only";
@@ -95,11 +175,11 @@ export class Release {
       (await this.master)?.main_release !== this.artistRelease.main_release
     ) {
       logInfo(
-        `Roles were not found on release ${release.id}, looking at alternative release ${this.artistRelease.main_release}`,
+        `Roles were not found on release ${release.id}, looking at alternative release ${this.artistRelease.main_release}`
       );
 
       const artistReleaseMainRelease = await fetchRelease(
-        this.artistRelease.main_release,
+        this.artistRelease.main_release
       );
 
       this.roles = artistReleaseMainRelease.extraartists
@@ -120,7 +200,7 @@ export class Release {
         .filter(
           (artist) =>
             artist.id === this.artist.id ||
-            this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
+            this.artist.aliases?.map((alias) => alias.id).includes(artist.id)
         )
         .map((role) => role.role) ?? []
     ).join(", ");

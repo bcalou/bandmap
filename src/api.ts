@@ -8,18 +8,14 @@ import {
   DCVersions,
 } from "./types";
 
-export const DELAY = 1000;
+export const DELAY = 3000;
 const API_URL = "https://api.discogs.com";
 
 export function fetchResource<ReturnType>(
   url: string,
-  type: ZodObject,
+  type: ZodObject
 ): Promise<ReturnType> {
-  return fetch(url, {
-    headers: {
-      "User-Agent": "BandMap/0.1",
-    },
-  })
+  return fetch(url)
     .then((res) => res.json())
     .catch(logError)
     .then(async (res) => {
@@ -35,13 +31,13 @@ export function fetchArtist(id: number): Promise<DCArtist> {
 
 export function fetchArtistReleases(
   artistId: number,
-  page?: number,
+  page?: number
 ): Promise<DCArtistReleases> {
   return fetchResource(
     `${API_URL}/artists/${artistId}/releases?per_page=100${
       page ? `&page=${page}` : ""
     }`,
-    DCArtistReleases,
+    DCArtistReleases
   );
 }
 
@@ -55,12 +51,12 @@ export function fetchMaster(id: number): Promise<DCMaster> {
 
 export function fetchVersions(
   masterId: number,
-  page?: number,
+  page?: number
 ): Promise<DCVersions> {
   return fetchResource(
     `${API_URL}/masters/${masterId}/versions?per-page=100${
       page ? `&page=${page}` : ""
     }`,
-    DCVersions,
+    DCVersions
   );
 }

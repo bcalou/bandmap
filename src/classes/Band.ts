@@ -62,6 +62,15 @@ export class Band extends Artist {
     this.fetchConnectedBands();
   }
 
+  // Fetch the releases associated to the artist + the releases of the members
+  public async fetchReleases() {
+    await super.fetchReleases();
+
+    for (const member of this.members) {
+      await member.fetchReleases();
+    }
+  }
+
   // Fetch the bands connected to the main band members
   private fetchConnectedBands(): void {
     for (const member of this.members) {

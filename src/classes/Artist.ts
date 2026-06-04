@@ -52,13 +52,13 @@ export class Artist {
   }
 
   // Fetch the releases associated to the artist
-  public async fetchReleases() {
+  public async fetchReleases(): Promise<void> {
     // Initiate the releases fetching on page 1
-    this.fetchReleasesPage(1);
+    return this.fetchReleasesPage(1);
   }
 
   // Fetch the releases associated to the artist (at a given page of the API)
-  private async fetchReleasesPage(page: number) {
+  private async fetchReleasesPage(page: number): Promise<void> {
     logSeparator();
     const artistReleases = await fetchArtistReleases(this.id, page);
 
@@ -70,12 +70,14 @@ export class Artist {
 
     // Handle the next page if any
     if (artistReleases.pagination.pages > page) {
-      await this.fetchReleasesPage(page + 1);
+      return await this.fetchReleasesPage(page + 1);
     }
   }
 
   // Loop over the given releases and add them to the global discography
-  private async analyzeReleases(artistReleases: DCArtistRelease[]) {
+  private async analyzeReleases(
+    artistReleases: DCArtistRelease[]
+  ): Promise<void> {
     for (const artistRelease of artistReleases) {
       if (this.band) {
         const artistReleaseDetails = new ArtistRelease(

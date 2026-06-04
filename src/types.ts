@@ -28,7 +28,7 @@ export const DCArtist = z.object({
       z.object({
         id: z.number(),
         name: z.string(),
-      }),
+      })
     )
     .optional(),
 });
@@ -52,7 +52,7 @@ export const DCArtistRelease = z.object({
       "TrackAppearance",
       "UnofficialRelease",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` },
+    { error: (iss) => `role "${iss.input}" not listed` }
   ),
 });
 
@@ -73,13 +73,14 @@ export const DCRelease = z.object({
   id: z.number(),
   title: z.string(),
   resource_url: z.string(),
+  uri: z.string(),
   year: z.number(),
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
   formats: z.array(
     z.object({
       name: z.string(),
       descriptions: z.array(z.string()),
-    }),
+    })
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
@@ -94,17 +95,18 @@ export const DCMaster = z.object({
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
 });
 
+export type DCVersion = z.infer<typeof DCVersion>;
+export const DCVersion = z.object({
+  id: z.number(),
+  major_formats: z.array(z.string()),
+  format: z.string(),
+});
+
 export type DCVersions = z.infer<typeof DCVersions>;
 export const DCVersions = z.object({
   pagination: z.object({
     pages: z.number(),
     items: z.number(),
   }),
-  versions: z.array(
-    z.object({
-      id: z.number(),
-      major_formats: z.array(z.string()),
-      format: z.string(),
-    }),
-  ),
+  versions: z.array(DCVersion),
 });

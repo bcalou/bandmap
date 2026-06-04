@@ -1,4 +1,4 @@
-import { logError, logSuccess } from "../log";
+import { logError, logSeparator, logSuccess } from "../log";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Release } from "./Release";
@@ -25,13 +25,14 @@ export class Discography {
 
   // Add a release to the discography
   public addAccepted(release: Release) {
-    console.log(release);
+    logSeparator();
     logSuccess(`💿 ${release.label}`);
     this.releases.push(release);
   }
 
   // Add a release to the rejected list
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
+    logSeparator();
     logError(`❌ ${artistRelease.label} (${reason})`);
     this.rejectedReleases.push({ artistRelease, reason });
   }

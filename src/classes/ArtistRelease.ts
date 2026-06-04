@@ -1,9 +1,8 @@
 import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
 import { fetchMaster, fetchRelease } from "../api";
-import { log, logError, logWarning } from "../log";
+import { logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
 import { Band } from "./Band";
-import { Discography } from "./Discography";
 import { Master } from "./Master";
 import { Release } from "./Release";
 
@@ -58,10 +57,10 @@ export class ArtistRelease {
 
     const release = await this.getAcceptedRelease();
 
-    if (typeof release === "object") {
-      this.mainBand.discography.addAccepted(release);
-    } else {
+    if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
+    } else {
+      this.mainBand.discography.addAccepted(release);
     }
   }
 

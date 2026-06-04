@@ -73,7 +73,7 @@ export class ReleaseManager {
     logSuccess(
       `✓ "${release.artists.map((artist) => artist.name).join(", ")} - ${
         release.title
-      } (${DISCOGS_ARTIST_URL}${(await this.release).id})`
+      } (${DISCOGS_ARTIST_URL}${(await this.release).id})`,
     );
     logSuccess(roles);
 
@@ -86,7 +86,7 @@ export class ReleaseManager {
   public heuristicRejectArtistReleaseRole(): boolean {
     if (ARTIST_RELEASE_ROLES.reject.includes(this.artistRelease.role)) {
       logWarning(
-        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (role: ${this.artistRelease.role})`
+        `❌ "${this.artistRelease.artist} - ${this.artistRelease.title}" (role: ${this.artistRelease.role})`,
       );
       return true;
     }
@@ -103,13 +103,13 @@ export class ReleaseManager {
     if (
       !release.artists.find((artist) => artist.id === this.artist.id) &&
       !this.artist.groups?.find((group) =>
-        release.artists.find((artist) => group.id === artist.id)
+        release.artists.find((artist) => group.id === artist.id),
       )
     ) {
       logWarning(
         `❌ ${this.artistRelease.artist} - "${
           release.title
-        }" (artist: ${release.artists.map((artist) => artist.name).join(", ")})`
+        }" (artist: ${release.artists.map((artist) => artist.name).join(", ")})`,
       );
 
       return true;
@@ -130,7 +130,7 @@ export class ReleaseManager {
 
     if (roles === "Written-By") {
       logError(
-        `❌ ${this.artistRelease.artist} - "${release.title} (Written-By only)`
+        `❌ ${this.artistRelease.artist} - "${release.title} (Written-By only)`,
       );
       return true;
     }
@@ -152,7 +152,7 @@ export class ReleaseManager {
         logWarning(
           `Invalid main release format (${
             formats.length ? formats.join(", ") : "not specified"
-          }), looking into versions`
+          }), looking into versions`,
         );
 
         return await this.hasValidVersion(release);
@@ -161,7 +161,7 @@ export class ReleaseManager {
       logWarning(
         `❌ "${this.artistRelease.artist} - ${release.title}" (format: ${
           formats.length ? formats.join(", ") : "not specified"
-        })`
+        })`,
       );
       return true;
     }
@@ -182,7 +182,7 @@ export class ReleaseManager {
         format.name,
         ...format.descriptions,
       ],
-      []
+      [],
     );
   }
 
@@ -207,7 +207,7 @@ export class ReleaseManager {
     if (
       !versions.versions.find((version) => {
         log(
-          `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
+          `Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`,
         );
         const formats = [
           ...version.major_formats,
@@ -225,7 +225,7 @@ export class ReleaseManager {
       })
     ) {
       logWarning(
-        `❌ ${this.artistRelease.artist} - "${release.title}" (no version with valid format found)`
+        `❌ ${this.artistRelease.artist} - "${release.title}" (no version with valid format found)`,
       );
       return true;
     } else {
@@ -257,11 +257,11 @@ export class ReleaseManager {
       (await this.master)?.main_release !== this.artistRelease.main_release
     ) {
       logInfo(
-        `Roles were not found on release ${release.id}, looking at alternative release ${this.artistRelease.main_release}`
+        `Roles were not found on release ${release.id}, looking at alternative release ${this.artistRelease.main_release}`,
       );
 
       const artistReleaseMainRelease = await fetchRelease(
-        this.artistRelease.main_release
+        this.artistRelease.main_release,
       );
 
       this.roles = artistReleaseMainRelease.extraartists
@@ -282,7 +282,7 @@ export class ReleaseManager {
         .filter(
           (artist) =>
             artist.id === this.artist.id ||
-            this.artist.aliases?.map((alias) => alias.id).includes(artist.id)
+            this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
         )
         .map((role) => role.role) ?? []
     ).join(", ");

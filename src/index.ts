@@ -1,3 +1,3 @@
 import { BandMap } from "./classes/BandMap";
 
-new BandMap(6959133);
+new BandMap(17379355);

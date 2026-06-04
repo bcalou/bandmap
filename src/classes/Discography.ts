@@ -1,4 +1,3 @@
-import { Artist } from "../../src_old/types";
 import { logError, logSuccess } from "../log";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
@@ -26,6 +25,7 @@ export class Discography {
 
   // Add a release to the discography
   public addAccepted(release: Release) {
+    console.log(release);
     logSuccess(`💿 ${release.label}`);
     this.releases.push(release);
   }

@@ -32,16 +32,17 @@ export class Master {
 
     if (reject) return reject;
 
+    // If the master is valid, we now can look into the main release
     const release = new Release(
       await fetchRelease(this.mainRelease),
-      this.mainBand
+      this.mainBand,
     );
 
     return release.getAcceptedRelease();
   }
 
   // Reject if the master is not by the main band, one of its members, or one of
-  // its members other bands
+  // its member's other bands
   private heuristicRejectArtist(): RejectReason | null {
     if (!this.mainBand.isAuthorOrConnectedAuthor(this.master)) {
       return `rejected artist(s): ${this.artists}`;

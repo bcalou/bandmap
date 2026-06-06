@@ -1,5 +1,5 @@
 import { fetchArtistReleases } from "../api";
-import { logSeparator, logSuccess } from "../log";
+import { logInfo, logSeparator, logSuccess } from "../log";
 import { DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
 import { ArtistRelease } from "./ArtistRelease";
@@ -23,7 +23,7 @@ export class Artist {
     logSuccess(
       `${this.type === "artist" ? "🎤" : "🎸"} Fetched ${this.type} "${
         this.name
-      }" (${this.url})`
+      }" (${this.url})`,
     );
   }
 
@@ -61,9 +61,10 @@ export class Artist {
   private async fetchReleasesPage(page: number): Promise<void> {
     logSeparator();
     const artistReleases = await fetchArtistReleases(this.id, page);
+    const count = artistReleases.pagination.items;
 
     if (page === 1) {
-      logSuccess(`🎼 ${artistReleases.pagination.items} release(s) found`);
+      logInfo(`🎼 ${this.artist.name}: ${count} release(s) found`);
     }
 
     await this.analyzeReleases(artistReleases.releases);
@@ -76,13 +77,13 @@ export class Artist {
 
   // Loop over the given releases and add them to the global discography
   private async analyzeReleases(
-    artistReleases: DCArtistRelease[]
+    artistReleases: DCArtistRelease[],
   ): Promise<void> {
     for (const artistRelease of artistReleases) {
       if (this.band) {
         const artistReleaseDetails = new ArtistRelease(
           artistRelease,
-          this.band
+          this.band,
         );
 
         await artistReleaseDetails.addToDiscography();

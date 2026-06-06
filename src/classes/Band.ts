@@ -1,7 +1,7 @@
-import { Master, Release } from "../../src_old/types";
+import { ExtraArtist, Master, Release } from "../../src_old/types";
 import { fetchArtist } from "../api";
 import { DISCOGS_ARTIST_URL } from "../env";
-import { logInfo, logSeparator, logSuccess } from "../log";
+import { logInfo, logSeparator } from "../log";
 import { DCArtist, DCGroup } from "../types";
 import { clean } from "../utils";
 import { Artist } from "./Artist";
@@ -44,17 +44,25 @@ export class Band extends Artist {
       (artist) =>
         artist.id === this.id ||
         this.members.find((member) => member.id === artist.id) ||
-        this.connectedBands.find((band) => band.band.id === artist.id)
+        this.connectedBands.find((band) => band.band.id === artist.id),
+    );
+  }
+
+  // Is the artist the band itself or a member of the band?
+  public isExtraArtistConnectedToBand(artist: ExtraArtist) {
+    return (
+      artist.id === this.id ||
+      this.members.find((member) => member.id === artist.id)
     );
   }
 
   // Fetch each of the band members and its connected bands infos
   public async fetchMembersAndConnectedBands(): Promise<void> {
     logSeparator();
-    logInfo(`${this.bandMembers.length} member(s)`);
+    logInfo(`👥 ${this.bandMembers.length} member(s)`);
 
     for (const _member of this.bandMembers) {
-      const member = new Artist(await fetchArtist(_member.id), this.mainBand);
+      const member = new Artist(await fetchArtist(_member.id), this.band);
 
       this.members.push(member);
     }
@@ -69,6 +77,8 @@ export class Band extends Artist {
     for (const member of this.members) {
       await member.fetchReleases();
     }
+
+    this.sortReleases();
   }
 
   // Fetch the bands connected to the main band members
@@ -104,14 +114,14 @@ export class Band extends Artist {
   // Get the member of the main band that are members of the connected band
   private getConnectedBandMembers(band: DCGroup): Artist[] {
     return this.members.filter((member) =>
-      member.bands.find((_band) => _band.id === band.id)
+      member.bands.find((_band) => _band.id === band.id),
     );
   }
 
   // Order connected bands by number of members in common with then main band
   private orderConnectedBands(): void {
     this.connectedBands.sort(
-      (band1, band2) => band2.members.length - band1.members.length
+      (band1, band2) => band2.members.length - band1.members.length,
     );
   }
 
@@ -127,4 +137,7 @@ export class Band extends Artist {
       logInfo(`${band.members.length} member(s): ${featuring}`);
     });
   }
+
+  // Sort the release by date
+  private sortReleases(): void {}
 }

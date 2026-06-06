@@ -1,6 +1,12 @@
 import z from "zod";
+import { Artist } from "./classes/Artist";
 
 export type RejectReason = string;
+
+export type Credit = {
+  artist: Artist;
+  roles: string[];
+};
 
 export type DCMember = z.infer<typeof DCMember>;
 export const DCMember = z.object({
@@ -28,7 +34,7 @@ export const DCArtist = z.object({
       z.object({
         id: z.number(),
         name: z.string(),
-      })
+      }),
     )
     .optional(),
 });
@@ -52,7 +58,7 @@ export const DCArtistRelease = z.object({
       "TrackAppearance",
       "UnofficialRelease",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` }
+    { error: (iss) => `role "${iss.input}" not listed` },
   ),
 });
 
@@ -66,7 +72,11 @@ export const DCArtistReleases = z.object({
 });
 
 export type DCExtraArtist = z.infer<typeof DCExtraArtist>;
-export const DCExtraArtist = z.object({ id: z.number(), role: z.string() });
+export const DCExtraArtist = z.object({
+  id: z.number(),
+  role: z.string(),
+  name: z.string(),
+});
 
 export type DCRelease = z.infer<typeof DCRelease>;
 export const DCRelease = z.object({
@@ -80,7 +90,7 @@ export const DCRelease = z.object({
     z.object({
       name: z.string(),
       descriptions: z.array(z.string()),
-    })
+    }),
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),

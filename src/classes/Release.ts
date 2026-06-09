@@ -226,7 +226,7 @@ export class Release {
       .filter((extraArtist) =>
         this.mainBand.isExtraArtistConnectedToBand(extraArtist),
       )
-      .reduce(this.appendExtraArtistToCredits, [] as Credit[]);
+      .reduce(this.appendExtraArtistToCredits.bind(this), [] as Credit[]);
 
     this.credits.sort((credit1, credit2) =>
       credit1.artist.name.localeCompare(credit2.artist.name),

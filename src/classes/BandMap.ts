@@ -31,5 +31,10 @@ export class BandMap {
     await this.band.fetchMembersAndConnectedBands();
 
     await this.band.fetchReleases();
+
+    this.band.discography.sort();
+
+    this.band.discography.logRejected();
+    this.band.discography.logAccepted();
   }
 }

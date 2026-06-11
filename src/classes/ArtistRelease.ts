@@ -1,6 +1,6 @@
 import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
 import { fetchMaster, fetchRelease } from "../api";
-import { logWarning } from "../log";
+import { logSeparator, logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
 import { Band } from "./Band";
 import { Master } from "./Master";
@@ -83,6 +83,7 @@ export class ArtistRelease {
     const inclusionState = this.mainBand.discography.includes(this.id);
 
     if (inclusionState) {
+      logSeparator();
       logWarning(`↷ "${this.label}" (skipping, already ${inclusionState})`);
 
       return true;

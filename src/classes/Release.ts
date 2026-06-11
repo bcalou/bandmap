@@ -2,7 +2,13 @@ import { ExtraArtist } from "../../src_old/types";
 import { fetchVersions } from "../api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logWarning } from "../log";
-import { Credit, DCRelease, DCVersion, RejectReason } from "../types";
+import {
+  Credit,
+  DCExtraArtist,
+  DCRelease,
+  DCVersion,
+  RejectReason,
+} from "../types";
 import { Band } from "./Band";
 
 export class Release {
@@ -38,7 +44,10 @@ export class Release {
 
   get formattedCredits() {
     return this.credits
-      .map((credit) => `${credit.artist.name}: ${credit.roles.join(", ")}`)
+      .map(
+        (credit) =>
+          `\x1b[1m${credit.artist.name}\x1b[0m: ${credit.roles.join(", ")}`
+      )
       .join("\n");
   }
 
@@ -65,8 +74,12 @@ export class Release {
         format.name,
         ...format.descriptions,
       ],
-      [],
+      []
     );
+  }
+
+  get tracklist() {
+    return this.release.tracklist;
   }
 
   // Return release object if it's considered acceptable
@@ -98,7 +111,7 @@ export class Release {
     if (!this.isValidFormatList(this.formats)) {
       if (this.masterId && !this.formats.includes("Single")) {
         logWarning(
-          `Invalid main release format (${this.printFormats(this.formats)})`,
+          `Invalid main release format (${this.printFormats(this.formats)})`
         );
 
         if (await this.hasValidVersion()) return null;
@@ -143,7 +156,7 @@ export class Release {
   // Is the format list valid for this version?
   private async isValidVersion(version: DCVersion): Promise<boolean> {
     log(
-      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`,
+      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
     );
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
@@ -162,7 +175,7 @@ export class Release {
   private async heuristicRejectWrittenByOnly(): RejectReason | null {
     const roles = this.extraArtists.filter(
       (artist) =>
-        this.mainBand.members.find((member) => member.id === artist.id),
+        this.mainBand.members.find((member) => member.id === artist.id)
       // ||
       // this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
     );
@@ -174,82 +187,44 @@ export class Release {
     return null;
   }
 
-  private async getRolesAsExtraArtist(): Promise<string> {
-    this.roles = release.extraartists
-      ? this.extraArtistToRoles(release.extraartists)
-      : "";
-
-    // If roles were not found, it might be because we're not looking at the
-    // "correct" main release. Let's look at the one that was originally
-    // referenced in the artistRelease object
-    if (
-      !this.roles &&
-      this.artistRelease.type === "master" &&
-      this.artistRelease.main_release &&
-      (await this.master)?.main_release !== this.artistRelease.main_release
-    ) {
-      logInfo(
-        `Roles were not found on release ${release.id}, looking at alternative release ${this.artistRelease.main_release}`,
-      );
-
-      const artistReleaseMainRelease = await fetchRelease(
-        this.artistRelease.main_release,
-      );
-
-      this.roles = artistReleaseMainRelease.extraartists
-        ? this.extraArtistToRoles(artistReleaseMainRelease.extraartists)
-        : "";
-    }
-
-    return this.roles;
-  }
-
-  /**
-   * Transform a list of extra artists to a list of role matching the release
-   * artist
-   */
-  private extraArtistToRoles(extraArtists: ExtraArtist[]): string {
-    return (
-      extraArtists
-        .filter(
-          (artist) =>
-            artist.id === this.artist.id ||
-            this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
-        )
-        .map((role) => role.role) ?? []
-    ).join(", ");
-  }
-
   // Extract the credits from the extra artists list
   private extractCredits() {
-    this.credits = this.extraArtists
-      .filter((extraArtist) =>
-        this.mainBand.isExtraArtistConnectedToBand(extraArtist),
-      )
-      .reduce(this.appendExtraArtistToCredits.bind(this), [] as Credit[]);
+    this.credits = [...this.extraArtists, ...this.getTracklistCredits()]
+      .filter(this.mainBand.isExtraArtistConnectedToBand.bind(this.mainBand))
+      .reduce(this.appendExtraArtistToCredits.bind(this), [])
+      .map((credit) => ({
+        ...credit,
+        roles: Array.from(new Set(credit.roles)),
+      }))
+      .sort((credit1, credit2) =>
+        credit1.artist.name.localeCompare(credit2.artist.name)
+      );
+  }
 
-    this.credits.sort((credit1, credit2) =>
-      credit1.artist.name.localeCompare(credit2.artist.name),
-    );
+  // Get the extra artist credits from the tracklist
+  private getTracklistCredits(): DCExtraArtist[] {
+    return this.tracklist
+      .flatMap((track) => track.extraartists ?? [])
+      .filter((trackCredits) => trackCredits !== undefined);
   }
 
   // Append the extra artist infos to the credits list
   private appendExtraArtistToCredits(
     credits: Credit[],
-    extraArtist: ExtraArtist,
-  ) {
+    extraArtist: ExtraArtist
+  ): Credit[] {
     const member = this.mainBand.members.find(
-      (member) => member.id === extraArtist.id,
+      (member) => member.id === extraArtist.id
     );
 
     let credit = credits.find((credits) => credits.artist.id === member?.id);
 
     if (member && !credit) {
-      credit = { artist: member, roles: [extraArtist.role] };
+      credit = { artist: member, roles: [] };
       credits.push(credit);
     }
 
-    credit?.roles.push(extraArtist.role);
+    credit?.roles.push(...extraArtist.role.split(", "));
 
     return credits;
   }

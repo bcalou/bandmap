@@ -9,6 +9,8 @@ export function log(
   message: string,
   type?: "info" | "error" | "success" | "warning"
 ) {
+  if (!message) return;
+
   console.log(`${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`);
 }
 

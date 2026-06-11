@@ -1,3 +1,4 @@
+import { refs } from "../src_old/refs";
 import { BandMap } from "./classes/BandMap";
 
-new BandMap(733171);
+new BandMap(refs.MOON_SAFARI.id);

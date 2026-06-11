@@ -34,7 +34,7 @@ export const DCArtist = z.object({
       z.object({
         id: z.number(),
         name: z.string(),
-      }),
+      })
     )
     .optional(),
 });
@@ -58,7 +58,7 @@ export const DCArtistRelease = z.object({
       "TrackAppearance",
       "UnofficialRelease",
     ],
-    { error: (iss) => `role "${iss.input}" not listed` },
+    { error: (iss) => `role "${iss.input}" not listed` }
   ),
 });
 
@@ -90,11 +90,16 @@ export const DCRelease = z.object({
     z.object({
       name: z.string(),
       descriptions: z.array(z.string()),
-    }),
+    })
   ),
   master_id: z.number().optional(),
   released: z.string().optional(),
   extraartists: z.array(DCExtraArtist).optional(),
+  tracklist: z.array(
+    z.object({
+      extraartists: z.array(DCExtraArtist).optional(),
+    })
+  ),
 });
 
 export type DCMaster = z.infer<typeof DCMaster>;

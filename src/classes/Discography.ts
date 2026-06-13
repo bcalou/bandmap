@@ -35,7 +35,7 @@ export class Discography {
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
     logSeparator();
     logError(`❌ ${artistRelease.label}`);
-    logError(`${reason}`);
+    logError(`${reason}:`);
     this.rejectedReleases.push({ artistRelease, reason });
   }
 

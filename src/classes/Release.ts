@@ -1,15 +1,9 @@
 import { fetchRelease, fetchVersions } from "../api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logWarning } from "../log";
-import {
-  Credit,
-  DCExtraArtist,
-  DCRelease,
-  DCVersion,
-  DCVersions,
-  RejectReason,
-} from "../types";
+import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";
 import { Band } from "./Band";
+import { Credits } from "./Credits";
 
 export class Release {
   // The discogs release object
@@ -18,22 +12,23 @@ export class Release {
   // The main band of the program
   private mainBand: Band;
 
+  // The credits associated to this release
+  private credits: Credits;
+
   // Versions of the same releases
   private versions: Release[] = [];
 
   // List of versions
   private versionsList: DCVersions | undefined = undefined;
 
-  // The artist associated to this release
-  private credits: Credit[] = [];
-
   // The best possible date found for this release
   private date: string | undefined;
 
   constructor(release: DCRelease, mainBand: Band) {
     this.release = release;
-    this.date = this.release.released;
     this.mainBand = mainBand;
+    this.credits = new Credits(this);
+    this.date = this.release.released;
   }
 
   get id() {
@@ -54,15 +49,6 @@ export class Release {
 
   get extraArtists() {
     return this.release.extraartists ?? [];
-  }
-
-  get formattedCredits() {
-    return this.credits
-      .map(
-        (credit) =>
-          `\x1b[1m${credit.artist.name}\x1b[0m: ${credit.roles.join(", ")}`
-      )
-      .join("\n");
   }
 
   get title() {
@@ -101,25 +87,12 @@ export class Release {
     return this.release.tracklist;
   }
 
-  // Extract the credits from the extra artists list
-  public extractCredits(): Credit[] {
-    return [...this.extraArtists, ...this.getTracklistCredits()]
-      .filter(this.mainBand.isExtraArtistConnectedToBand.bind(this.mainBand))
-      .reduce(this.appendExtraArtistToCredits.bind(this), [])
-      .map((credit) => ({
-        ...credit,
-        roles: Array.from(new Set(credit.roles)),
-      }))
-      .filter(this.isValidCredit.bind(this))
-      .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
-  }
-
   // Return release object if it's considered acceptable
   public async getAcceptedRelease(): Promise<Release | RejectReason> {
     const reject =
       this.heuristicRejectArtist() ??
       (await this.heuristicRejectFormat()) ??
-      (await this.heuristicRejectNoCredits());
+      (await this.credits.heuristicRejectNoCredits());
 
     if (reject) return reject;
 
@@ -212,43 +185,6 @@ export class Release {
     return this.isValidFormatList(formats);
   }
 
-  // Reject if the artist if the associate role is only writing
-  private async heuristicRejectNoCredits(): Promise<RejectReason | null> {
-    this.credits = this.extractCredits();
-
-    if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
-
-    if (this.credits.length === 0) {
-      logWarning("No valid credits found");
-
-      for (const version of (await this.getVersionsList()).versions) {
-        if (await this.versionHasValidCredits(version)) return null;
-      }
-
-      return "Band release with no credits other than writing";
-    }
-
-    return null;
-  }
-
-  // Does the release associate to this version have a valid credit?
-  private async versionHasValidCredits(version: DCVersion): Promise<boolean> {
-    if (version.id === this.id) return false;
-
-    const versionRelease = await this.getVersion(version.id);
-
-    this.credits = versionRelease.extractCredits();
-
-    return this.credits.length > 0;
-  }
-
-  // Is the credit of type written / composed?
-  private creditIsWrittenOnly(credit: Credit): boolean {
-    return credit.roles.every((role) =>
-      ["Written-By", "Composed By"].includes(role)
-    );
-  }
-
   // Fetch the version or return the one already fetched
   private async getVersion(versionId: number) {
     let version = this.versions.find(
@@ -264,43 +200,6 @@ export class Release {
     log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
 
     return version;
-  }
-
-  // Return true if the credit is other that writing type, or the release is by
-  // a band member
-  private isValidCredit(credit: Credit): boolean {
-    return (
-      this.mainBand.isByOneOfBandMembers(this.release) ||
-      !this.creditIsWrittenOnly(credit)
-    );
-  }
-
-  // Get the extra artist credits from the tracklist
-  private getTracklistCredits(): DCExtraArtist[] {
-    return this.tracklist
-      .flatMap((track) => track.extraartists ?? [])
-      .filter((trackCredits) => trackCredits !== undefined);
-  }
-
-  // Append the extra artist infos to the credits list
-  private appendExtraArtistToCredits(
-    credits: Credit[],
-    extraArtist: DCExtraArtist
-  ): Credit[] {
-    const member = this.mainBand.members.find((member) =>
-      member.matchesId(extraArtist.id)
-    );
-
-    let credit = credits.find((credit) => member?.matchesId(credit.artist.id));
-
-    if (member && !credit) {
-      credit = { artist: member, roles: [] };
-      credits.push(credit);
-    }
-
-    credit?.roles.push(...extraArtist.role.split(", "));
-
-    return credits;
   }
 
   // If the date is not precise, try to find better among versions

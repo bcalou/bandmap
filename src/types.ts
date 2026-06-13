@@ -114,6 +114,7 @@ export const DCVersion = z.object({
   id: z.number(),
   major_formats: z.array(z.string()),
   format: z.string(),
+  released: z.string().optional(),
 });
 
 export type DCVersions = z.infer<typeof DCVersions>;

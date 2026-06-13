@@ -1,11 +1,12 @@
-import { ExtraArtist, Master, Release } from "../../src_old/types";
 import { fetchArtist } from "../api";
 import { DISCOGS_ARTIST_URL } from "../env";
 import { logInfo, logSeparator } from "../log";
-import { DCArtist, DCGroup } from "../types";
+import { DCArtist, DCExtraArtist, DCGroup } from "../types";
 import { clean } from "../utils";
 import { Artist } from "./Artist";
 import { Discography } from "./Discography";
+import { Master } from "./Master";
+import { Release } from "./Release";
 
 /**
  * The main band which we're looking at
@@ -49,7 +50,7 @@ export class Band extends Artist {
   }
 
   // Is the artist the band itself or a member of the band?
-  public isExtraArtistConnectedToBand(artist: ExtraArtist) {
+  public isExtraArtistConnectedToBand(artist: DCExtraArtist) {
     return (
       artist.id === this.id ||
       this.members.find((member) => member.matchesId(artist.id))

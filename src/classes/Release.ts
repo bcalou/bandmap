@@ -1,4 +1,3 @@
-import { ExtraArtist } from "../../src_old/types";
 import { fetchRelease, fetchVersions } from "../api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logWarning } from "../log";
@@ -7,6 +6,7 @@ import {
   DCExtraArtist,
   DCRelease,
   DCVersion,
+  DCVersions,
   RejectReason,
 } from "../types";
 import { Band } from "./Band";
@@ -18,11 +18,21 @@ export class Release {
   // The main band of the program
   private mainBand: Band;
 
+  // Versions of the same releases
+  private versions: Release[] = [];
+
+  // List of versions
+  private versionsList: DCVersions | undefined = undefined;
+
   // The artist associated to this release
   private credits: Credit[] = [];
 
+  // The best possible date found for this release
+  private date: string | undefined;
+
   constructor(release: DCRelease, mainBand: Band) {
     this.release = release;
+    this.date = this.release.released;
     this.mainBand = mainBand;
   }
 
@@ -59,8 +69,12 @@ export class Release {
     return this.release.title;
   }
 
-  get date() {
-    return this.release.released ?? "unknown date";
+  get year() {
+    return this.date?.slice(0, 4) ?? null;
+  }
+
+  get formattedDate() {
+    return this.date ?? "unknown date";
   }
 
   get url() {
@@ -68,7 +82,8 @@ export class Release {
   }
 
   get label() {
-    return `${this.date} - ${this.formattedArtists} - "${this.title}"\n(${this.url})`;
+    const artists = this.formattedArtists;
+    return `${this.date} - ${artists} - "${this.title}"\n(${this.url})`;
   }
 
   get formats() {
@@ -108,13 +123,29 @@ export class Release {
 
     if (reject) return reject;
 
+    await this.extractPreciseDate();
+
     return this;
+  }
+
+  // Return the version list (possibly cached)
+  private async getVersionsList(): Promise<DCVersions> {
+    if (!this.masterId)
+      return { pagination: { pages: 1, items: 0 }, versions: [] };
+
+    if (!this.versionsList) {
+      this.versionsList = await fetchVersions(this.masterId);
+    }
+
+    log(`🗃️ Looking into ${this.versionsList.pagination.items} version(s)`);
+
+    return this.versionsList;
   }
 
   // Reject if the release is not by the main band, one of its members, or one
   // of its member's other bands
   private heuristicRejectArtist(): RejectReason | null {
-    if (!this.mainBand.isAuthorOrConnectedAuthor(this.release)) {
+    if (!this.mainBand.isAuthorOrConnectedAuthor(this)) {
       return `Rejected artist(s): ${this.formattedArtists}`;
     }
 
@@ -155,11 +186,12 @@ export class Release {
   private async hasVersionWithValidFormat(): Promise<boolean> {
     if (!this.masterId) return false;
 
-    const versions = await fetchVersions(this.masterId);
+    const versionsList =
+      this.versionsList ?? (await fetchVersions(this.masterId));
 
-    log(`🗃️ Looking into ${versions.pagination.items} version(s)`);
+    log(`🗃️ Looking into ${versionsList.pagination.items} version(s)`);
 
-    for (const version of versions.versions) {
+    for (const version of versionsList.versions) {
       if (await this.isValidVersion(version)) {
         return true;
       }
@@ -172,9 +204,7 @@ export class Release {
   private async isValidVersion(version: DCVersion): Promise<boolean> {
     if (version.id === this.id) return false;
 
-    log(
-      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
-    );
+    log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
     log(`Format: ${this.printFormats(formats)}`);
@@ -191,7 +221,9 @@ export class Release {
     if (this.credits.length === 0) {
       logWarning("No valid credits found");
 
-      if (await this.hasVersionWithValidCredits()) return null;
+      for (const version of (await this.getVersionsList()).versions) {
+        if (await this.versionHasValidCredits(version)) return null;
+      }
 
       return "Band release with no credits other than writing";
     }
@@ -199,33 +231,11 @@ export class Release {
     return null;
   }
 
-  // Does one of the version has a valid format list?
-  private async hasVersionWithValidCredits(): Promise<boolean> {
-    if (!this.masterId) return false;
-
-    const versions = await fetchVersions(this.masterId);
-
-    log(`🗃️ Looking into ${versions.pagination.items} version(s)`);
-
-    for (const version of versions.versions) {
-      if (await this.versionHasValidCredits(version)) return true;
-    }
-
-    return false;
-  }
-
   // Does the release associate to this version have a valid credit?
   private async versionHasValidCredits(version: DCVersion): Promise<boolean> {
     if (version.id === this.id) return false;
 
-    log(
-      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
-    );
-
-    const versionRelease = new Release(
-      await fetchRelease(version.id),
-      this.mainBand
-    );
+    const versionRelease = await this.getVersion(version.id);
 
     this.credits = versionRelease.extractCredits();
 
@@ -237,6 +247,23 @@ export class Release {
     return credit.roles.every((role) =>
       ["Written-By", "Composed By"].includes(role)
     );
+  }
+
+  // Fetch the version or return the one already fetched
+  private async getVersion(versionId: number) {
+    let version = this.versions.find(
+      (_version) => _version.release.id === versionId
+    );
+
+    if (!version) {
+      version = new Release(await fetchRelease(versionId), this.mainBand);
+
+      this.versions.push(version);
+    }
+
+    log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
+
+    return version;
   }
 
   // Return true if the credit is other that writing type, or the release is by
@@ -258,7 +285,7 @@ export class Release {
   // Append the extra artist infos to the credits list
   private appendExtraArtistToCredits(
     credits: Credit[],
-    extraArtist: ExtraArtist
+    extraArtist: DCExtraArtist
   ): Credit[] {
     const member = this.mainBand.members.find((member) =>
       member.matchesId(extraArtist.id)
@@ -274,5 +301,53 @@ export class Release {
     credit?.roles.push(...extraArtist.role.split(", "));
 
     return credits;
+  }
+
+  // If the date is not precise, try to find better among versions
+  private async extractPreciseDate() {
+    if (this.getDateQualityLevel(this.date) !== 3) {
+      logWarning(`Imprecise date ${this.date}`);
+
+      for (const version of (await this.getVersionsList()).versions) {
+        if (await this.extractVersionDate(version)) return;
+      }
+
+      logWarning("No better date found");
+    }
+  }
+
+  // Use the given version date if it's of better quality than what we have
+  // Return true if a better date was found
+  private async extractVersionDate(version: DCVersion): Promise<boolean> {
+    if (!version.released || (this.year && version.released !== this.year))
+      return false;
+
+    const versionRelease = await this.getVersion(version.id);
+
+    const versionDateQuality = this.getDateQualityLevel(versionRelease.date);
+
+    if (versionDateQuality > this.getDateQualityLevel(this.date)) {
+      log(`Found better release date: ${versionRelease.date}`);
+      this.date = versionRelease.date;
+
+      if (versionDateQuality === 3) return true;
+    }
+
+    return false;
+  }
+
+  // Get a number reprensenting the quality level of the given date string
+  private getDateQualityLevel(date: string | undefined): 0 | 1 | 2 | 3 {
+    if (!date) return 0;
+
+    if (date.length === 10) {
+      if (!date.endsWith("-00")) {
+        return 3;
+      }
+
+      return 2;
+    }
+
+    return 1;
   }
 }

@@ -19,7 +19,11 @@ export class Master {
   }
 
   get artists() {
-    return this.master.artists.map((artist) => artist.name).join(", ");
+    return this.master.artists;
+  }
+
+  get formattedArtists() {
+    return this.artists.map((artist) => artist.name).join(", ");
   }
 
   get mainRelease() {
@@ -44,7 +48,7 @@ export class Master {
   // Reject if the master is not by the main band, one of its members, or one of
   // its member's other bands
   private heuristicRejectArtist(): RejectReason | null {
-    if (!this.mainBand.isAuthorOrConnectedAuthor(this.master)) {
+    if (!this.mainBand.isAuthorOrConnectedAuthor(this)) {
       return `Rejected artist(s): ${this.artists}`;
     }
 

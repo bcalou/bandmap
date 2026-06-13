@@ -1,18 +1,6 @@
-import { ArtistReleases } from "../../src_old/types";
 import { fetchArtist } from "../api";
-import {
-  log,
-  logError,
-  logSeparator,
-  logSuccess,
-  logThickSeparator,
-} from "../log";
-import { DCArtistRelease, DCRelease } from "../types";
-import { Artist } from "./Artist";
-import { ArtistRelease } from "./ArtistRelease";
+import { log, logError, logSuccess, logThickSeparator } from "../log";
 import { Band } from "./Band";
-import { Discography } from "./Discography";
-import { Release } from "./Release";
 
 /**
  * Main class of the program.

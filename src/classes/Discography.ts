@@ -58,7 +58,7 @@ export class Discography {
   // Sort releases by release date
   public sort() {
     this.releases.sort((release1, release2) =>
-      release1.date.localeCompare(release2.date)
+      release1.formattedDate.localeCompare(release2.formattedDate)
     );
 
     this.rejectedReleases.sort((release1, release2) =>

@@ -1,4 +1,3 @@
-import { Release } from "../../src_old/types";
 import { fetchArtist, fetchArtistReleases } from "../api";
 import { DISCOGS_ARTIST_URL } from "../env";
 import { logInfo, logSeparator, logSuccess } from "../log";
@@ -6,6 +5,7 @@ import { Credit, DCAlias, DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
+import { Release } from "./Release";
 
 /**
  * An artist, which can be a band or a person
@@ -22,9 +22,9 @@ export class Artist {
     this.artist = artist;
     this.mainBand = mainBand;
 
-    logSeparator();
     logSuccess(`${this.typeIcon} Fetched ${this.type} ${this.name}`);
     logSuccess(`(${this.url})`);
+    logSeparator();
   }
 
   get id() {
@@ -75,10 +75,10 @@ export class Artist {
     await this.fetchReleasesPage(1, this);
 
     for (const alias of this.aliases) {
-      logSeparator();
       const aliasUrl = `${DISCOGS_ARTIST_URL}${alias.id}`;
       logInfo(`Looking at ${this.name} alias ${alias.name}`);
       logInfo(`(${aliasUrl})`);
+      logSeparator();
 
       await this.fetchReleasesPage(1, alias);
     }
@@ -89,12 +89,12 @@ export class Artist {
     page: number,
     from: Artist | DCAlias
   ): Promise<void> {
-    logSeparator();
     const artistReleases = await fetchArtistReleases(from.id, page);
     const count = artistReleases.pagination.items;
 
     if (page === 1) {
       logInfo(`🎼 ${from.name}: ${count} release(s) found`);
+      logSeparator();
     }
 
     await this.analyzeReleases(artistReleases.releases);

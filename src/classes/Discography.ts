@@ -25,17 +25,17 @@ export class Discography {
 
   // Add a release to the discography
   public addAccepted(release: Release) {
-    logSeparator();
     logSuccess(`💿 ${release.label}`);
     log(release.formattedCredits);
+    logSeparator();
     this.releases.push(release);
   }
 
   // Add a release to the rejected list
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
-    logSeparator();
     logError(`❌ ${artistRelease.label}`);
-    logError(`${reason}:`);
+    logError(`${reason}`);
+    logSeparator();
     this.rejectedReleases.push({ artistRelease, reason });
   }
 
@@ -70,25 +70,25 @@ export class Discography {
 
   // Log the list of accepted releases
   public logAccepted() {
-    logSeparator();
     logSuccess(`${this.releases.length} release(s):`);
+    logSeparator();
 
     this.releases.forEach((release) => {
-      logSeparator();
       logSuccess(release.label);
       log(release.formattedCredits);
+      logSeparator();
     });
   }
 
   // Log the list of rejected releases and the reject reason
   public logRejected() {
-    logSeparator();
     logWarning(`${this.rejectedReleases.length} rejected release(s):`);
     logSeparator();
 
     this.rejectedReleases.forEach((release) => {
       logWarning(release.artistRelease.label);
       log(`(${release.reason})`);
+      logSeparator();
     });
   }
 

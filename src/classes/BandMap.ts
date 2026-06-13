@@ -1,6 +1,12 @@
 import { ArtistReleases } from "../../src_old/types";
 import { fetchArtist } from "../api";
-import { log, logError, logSeparator, logSuccess } from "../log";
+import {
+  log,
+  logError,
+  logSeparator,
+  logSuccess,
+  logThickSeparator,
+} from "../log";
 import { DCArtistRelease, DCRelease } from "../types";
 import { Artist } from "./Artist";
 import { ArtistRelease } from "./ArtistRelease";
@@ -46,11 +52,12 @@ export class BandMap {
 
   // Log the final output
   private logFinalOutput() {
-    logSeparator();
-    logSeparator();
-    logSeparator();
+    logThickSeparator();
 
     this.band?.discography.logRejected();
+
+    logThickSeparator();
+
     this.band?.discography.logAccepted();
   }
 

@@ -1,4 +1,5 @@
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
+export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
 export const DISCOGS_ARTIST_URL = "https://www.discogs.com/artist/";
 
 export const ARTIST_RELEASE_ROLES = {

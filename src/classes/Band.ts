@@ -57,14 +57,14 @@ export class Band extends Artist {
   }
 
   // Is the given release by one of the band members?
-  public isByOneOfBandMembers(release: Release) {
-    return this.members.find((member) => member.isAuthor(release));
+  public isByOneOfBandMembers(release: Release): boolean {
+    return !!this.members.find((member) => member.isAuthor(release));
   }
 
   // Fetch each of the band members and its connected bands infos
   public async fetchMembersAndConnectedBands(): Promise<void> {
-    logSeparator();
     logInfo(`👥 ${this.bandMembers.length} member(s)`);
+    logSeparator();
 
     for (const _member of this.bandMembers) {
       const member = new Artist(await fetchArtist(_member.id), this.band);
@@ -133,14 +133,15 @@ export class Band extends Artist {
   // Nicely log connected bands and their members in common with the main band
   private logConnectedBands(): void {
     logInfo(`${this.connectedBands.length} connected band(s)`);
+    logSeparator();
 
     this.connectedBands.forEach((band) => {
       const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
-      logSeparator();
-      logInfo(`🔗 Connected band ${clean(band.band.name)}`);
+      logInfo(`🔗 ${clean(band.band.name)}`);
       logInfo(`(${url})`);
       logInfo(`${band.members.length} member(s): ${featuring}`);
+      logSeparator();
     });
   }
 

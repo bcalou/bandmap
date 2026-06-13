@@ -1,5 +1,5 @@
 import { ExtraArtist } from "../../src_old/types";
-import { fetchVersions } from "../api";
+import { fetchRelease, fetchVersions } from "../api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logWarning } from "../log";
 import {
@@ -35,7 +35,11 @@ export class Release {
   }
 
   get artists() {
-    return this.release.artists.map((artist) => artist.name).join(", ");
+    return this.release.artists;
+  }
+
+  get formattedArtists() {
+    return this.artists.map((artist) => artist.name).join(", ");
   }
 
   get extraArtists() {
@@ -64,7 +68,7 @@ export class Release {
   }
 
   get label() {
-    return `${this.date} - ${this.artists} - "${this.title}"\n(${this.url})`;
+    return `${this.date} - ${this.formattedArtists} - "${this.title}"\n(${this.url})`;
   }
 
   get formats() {
@@ -80,6 +84,19 @@ export class Release {
 
   get tracklist() {
     return this.release.tracklist;
+  }
+
+  // Extract the credits from the extra artists list
+  public extractCredits(): Credit[] {
+    return [...this.extraArtists, ...this.getTracklistCredits()]
+      .filter(this.mainBand.isExtraArtistConnectedToBand.bind(this.mainBand))
+      .reduce(this.appendExtraArtistToCredits.bind(this), [])
+      .map((credit) => ({
+        ...credit,
+        roles: Array.from(new Set(credit.roles)),
+      }))
+      .filter(this.isValidCredit.bind(this))
+      .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
   }
 
   // Return release object if it's considered acceptable
@@ -98,7 +115,7 @@ export class Release {
   // of its member's other bands
   private heuristicRejectArtist(): RejectReason | null {
     if (!this.mainBand.isAuthorOrConnectedAuthor(this.release)) {
-      return `rejected artist(s): ${this.artists}`;
+      return `Rejected artist(s): ${this.formattedArtists}`;
     }
 
     return null;
@@ -112,10 +129,10 @@ export class Release {
           `Invalid main release format (${this.printFormats(this.formats)})`
         );
 
-        if (await this.hasValidVersion()) return null;
+        if (await this.hasVersionWithValidFormat()) return null;
       }
 
-      return `rejected format(s): ${this.printFormats(this.formats)}`;
+      return `Rejected format(s): ${this.printFormats(this.formats)}`;
     }
 
     return null;
@@ -135,7 +152,7 @@ export class Release {
   }
 
   // Does one of the version has a valid format list?
-  private async hasValidVersion(): Promise<boolean> {
+  private async hasVersionWithValidFormat(): Promise<boolean> {
     if (!this.masterId) return false;
 
     const versions = await fetchVersions(this.masterId);
@@ -153,6 +170,8 @@ export class Release {
 
   // Is the format list valid for this version?
   private async isValidVersion(version: DCVersion): Promise<boolean> {
+    if (version.id === this.id) return false;
+
     log(
       `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
     );
@@ -160,23 +179,57 @@ export class Release {
     const formats = [...version.major_formats, ...version.format.split(", ")];
     log(`Format: ${this.printFormats(formats)}`);
 
-    if (this.isValidFormatList(formats)) {
-      // this.release = fetchRelease(version.id);
+    return this.isValidFormatList(formats);
+  }
 
-      return true;
+  // Reject if the artist if the associate role is only writing
+  private async heuristicRejectNoCredits(): Promise<RejectReason | null> {
+    this.credits = this.extractCredits();
+
+    if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
+
+    if (this.credits.length === 0) {
+      logWarning("No valid credits found");
+
+      if (await this.hasVersionWithValidCredits()) return null;
+
+      return "Band release with no credits other than writing";
+    }
+
+    return null;
+  }
+
+  // Does one of the version has a valid format list?
+  private async hasVersionWithValidCredits(): Promise<boolean> {
+    if (!this.masterId) return false;
+
+    const versions = await fetchVersions(this.masterId);
+
+    log(`🗃️ Looking into ${versions.pagination.items} version(s)`);
+
+    for (const version of versions.versions) {
+      if (await this.versionHasValidCredits(version)) return true;
     }
 
     return false;
   }
 
-  // Reject if the artist if the associate role is only writing
-  private heuristicRejectNoCredits(): RejectReason | null {
-    this.extractCredits();
+  // Does the release associate to this version have a valid credit?
+  private async versionHasValidCredits(version: DCVersion): Promise<boolean> {
+    if (version.id === this.id) return false;
 
-    return !this.mainBand.isByOneOfBandMembers(this.release) &&
-      !this.credits.length
-      ? "no credits other than writing"
-      : null;
+    log(
+      `🗃️ Analyzing version ${version.id} (${DISCOGS_RELEASE_URL}${version.id})`
+    );
+
+    const versionRelease = new Release(
+      await fetchRelease(version.id),
+      this.mainBand
+    );
+
+    this.credits = versionRelease.extractCredits();
+
+    return this.credits.length > 0;
   }
 
   // Is the credit of type written / composed?
@@ -186,22 +239,9 @@ export class Release {
     );
   }
 
-  // Extract the credits from the extra artists list
-  private extractCredits() {
-    this.credits = [...this.extraArtists, ...this.getTracklistCredits()]
-      .filter(this.mainBand.isExtraArtistConnectedToBand.bind(this.mainBand))
-      .reduce(this.appendExtraArtistToCredits.bind(this), [])
-      .map((credit) => ({
-        ...credit,
-        roles: Array.from(new Set(credit.roles)),
-      }))
-      .filter(this.isValidCredit.bind(this))
-      .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
-  }
-
   // Return true if the credit is other that writing type, or the release is by
   // a band member
-  private isValidCredit(credit: Credit) {
+  private isValidCredit(credit: Credit): boolean {
     return (
       this.mainBand.isByOneOfBandMembers(this.release) ||
       !this.creditIsWrittenOnly(credit)

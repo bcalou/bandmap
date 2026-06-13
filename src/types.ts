@@ -22,6 +22,12 @@ export const DCGroup = z.object({
   resource_url: z.string(),
 });
 
+export type DCAlias = z.infer<typeof DCAlias>;
+export const DCAlias = z.object({
+  id: z.number(),
+  name: z.string(),
+});
+
 export type DCArtist = z.infer<typeof DCArtist>;
 export const DCArtist = z.object({
   id: z.number(),
@@ -29,14 +35,7 @@ export const DCArtist = z.object({
   uri: z.string(),
   members: z.array(DCMember).optional(),
   groups: z.array(DCGroup).optional(),
-  aliases: z
-    .array(
-      z.object({
-        id: z.number(),
-        name: z.string(),
-      })
-    )
-    .optional(),
+  aliases: z.array(DCAlias).optional(),
 });
 
 export type DCArtistRelease = z.infer<typeof DCArtistRelease>;

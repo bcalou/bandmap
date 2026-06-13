@@ -1,5 +1,6 @@
 import { ArtistReleases } from "../../src_old/types";
 import { fetchArtist } from "../api";
+import { log, logError, logSeparator, logSuccess } from "../log";
 import { DCArtistRelease, DCRelease } from "../types";
 import { Artist } from "./Artist";
 import { ArtistRelease } from "./ArtistRelease";
@@ -18,13 +19,17 @@ export class BandMap {
   // The band we're loonking at
   private band: Band | undefined;
 
-  constructor(bandId: number) {
+  // A list of ID that should to test the program output against
+  private expectedIdList: string | undefined;
+
+  constructor(bandId: number, expectedIdList?: string) {
     this.bandId = bandId;
+    this.expectedIdList = expectedIdList;
     this.init();
   }
 
   // Main sequence of events
-  async init() {
+  private async init() {
     const band = await fetchArtist(this.bandId);
     this.band = new Band(band);
 
@@ -34,7 +39,33 @@ export class BandMap {
 
     this.band.discography.sort();
 
-    this.band.discography.logRejected();
-    this.band.discography.logAccepted();
+    this.logFinalOutput();
+
+    this.testResult();
+  }
+
+  // Log the final output
+  private logFinalOutput() {
+    logSeparator();
+    logSeparator();
+    logSeparator();
+
+    this.band?.discography.logRejected();
+    this.band?.discography.logAccepted();
+  }
+
+  // Test the program result against what's expected
+  private testResult() {
+    if (this.expectedIdList) {
+      const idList = this.band?.discography.getAcceptedIdList();
+
+      if (idList === this.expectedIdList) {
+        logSuccess(`✓ IDs list matches the expected result: ${idList}`);
+      } else {
+        logError(`❌ IDs list doesn't match the expected result`);
+        log(`Expected: ${this.expectedIdList}`);
+        log(`Got:      ${idList}`);
+      }
+    }
   }
 }

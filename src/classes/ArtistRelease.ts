@@ -1,4 +1,8 @@
-import { ARTIST_RELEASE_ROLES } from "../../src_old/env";
+import {
+  ARTIST_RELEASE_ROLES,
+  DISCOGS_MASTER_URL,
+  DISCOGS_RELEASE_URL,
+} from "../../src_old/env";
 import { fetchMaster, fetchRelease } from "../api";
 import { logSeparator, logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
@@ -40,7 +44,13 @@ export class ArtistRelease {
   }
 
   get label() {
-    return `${this.year} - ${this.artist} - "${this.title}"`;
+    return `${this.year} - ${this.artist} - "${this.title}"\n(${this.url})`;
+  }
+
+  get url() {
+    return this.type === "master"
+      ? `${DISCOGS_MASTER_URL}${this.id}`
+      : `${DISCOGS_RELEASE_URL}${this.id}`;
   }
 
   get type() {

@@ -43,8 +43,8 @@ export class Band extends Artist {
     return release.artists.find(
       (artist) =>
         artist.id === this.id ||
-        this.members.find((member) => member.id === artist.id) ||
-        this.connectedBands.find((band) => band.band.id === artist.id),
+        this.members.find((member) => member.matchesId(artist.id)) ||
+        this.connectedBands.find((band) => band.band.id === artist.id)
     );
   }
 
@@ -52,8 +52,13 @@ export class Band extends Artist {
   public isExtraArtistConnectedToBand(artist: ExtraArtist) {
     return (
       artist.id === this.id ||
-      this.members.find((member) => member.id === artist.id)
+      this.members.find((member) => member.matchesId(artist.id))
     );
+  }
+
+  // Is the given release by one of the band members?
+  public isByOneOfBandMembers(release: Release) {
+    return this.members.find((member) => member.isAuthor(release));
   }
 
   // Fetch each of the band members and its connected bands infos
@@ -114,14 +119,14 @@ export class Band extends Artist {
   // Get the member of the main band that are members of the connected band
   private getConnectedBandMembers(band: DCGroup): Artist[] {
     return this.members.filter((member) =>
-      member.bands.find((_band) => _band.id === band.id),
+      member.bands.find((_band) => _band.id === band.id)
     );
   }
 
   // Order connected bands by number of members in common with then main band
   private orderConnectedBands(): void {
     this.connectedBands.sort(
-      (band1, band2) => band2.members.length - band1.members.length,
+      (band1, band2) => band2.members.length - band1.members.length
     );
   }
 
@@ -133,7 +138,8 @@ export class Band extends Artist {
       const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
       logSeparator();
-      logInfo(`🔗 Connected band "${clean(band.band.name)}" (${url})`);
+      logInfo(`🔗 Connected band ${clean(band.band.name)}`);
+      logInfo(`(${url})`);
       logInfo(`${band.members.length} member(s): ${featuring}`);
     });
   }

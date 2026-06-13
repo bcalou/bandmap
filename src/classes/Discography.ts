@@ -34,7 +34,8 @@ export class Discography {
   // Add a release to the rejected list
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
     logSeparator();
-    logError(`❌ ${artistRelease.label} (${reason})`);
+    logError(`❌ ${artistRelease.label}`);
+    logError(`${reason}`);
     this.rejectedReleases.push({ artistRelease, reason });
   }
 
@@ -89,5 +90,10 @@ export class Discography {
       logWarning(release.artistRelease.label);
       log(`(${release.reason})`);
     });
+  }
+
+  // Get the ID list of accepted releases
+  public getAcceptedIdList(): string {
+    return this.releases.map((release) => release.id).join(",");
   }
 }

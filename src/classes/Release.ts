@@ -64,7 +64,7 @@ export class Release {
   }
 
   get label() {
-    return `${this.date} - ${this.artists} - "${this.title}"\n(${this.url})"`;
+    return `${this.date} - ${this.artists} - "${this.title}"\n(${this.url})`;
   }
 
   get formats() {
@@ -87,11 +87,9 @@ export class Release {
     const reject =
       this.heuristicRejectArtist() ??
       (await this.heuristicRejectFormat()) ??
-      (await this.heuristicRejectWrittenByOnly());
+      (await this.heuristicRejectNoCredits());
 
     if (reject) return reject;
-
-    this.extractCredits();
 
     return this;
   }
@@ -171,20 +169,21 @@ export class Release {
     return false;
   }
 
-  // Reject if the artist or connected artist role is only writing
-  private async heuristicRejectWrittenByOnly(): RejectReason | null {
-    const roles = this.extraArtists.filter(
-      (artist) =>
-        this.mainBand.members.find((member) => member.id === artist.id)
-      // ||
-      // this.artist.aliases?.map((alias) => alias.id).includes(artist.id),
+  // Reject if the artist if the associate role is only writing
+  private heuristicRejectNoCredits(): RejectReason | null {
+    this.extractCredits();
+
+    return !this.mainBand.isByOneOfBandMembers(this.release) &&
+      !this.credits.length
+      ? "no credits other than writing"
+      : null;
+  }
+
+  // Is the credit of type written / composed?
+  private creditIsWrittenOnly(credit: Credit): boolean {
+    return credit.roles.every((role) =>
+      ["Written-By", "Composed By"].includes(role)
     );
-
-    // if (roles === "Written-By") {
-    //   return "Written-By only";
-    // }
-
-    return null;
   }
 
   // Extract the credits from the extra artists list
@@ -196,9 +195,17 @@ export class Release {
         ...credit,
         roles: Array.from(new Set(credit.roles)),
       }))
-      .sort((credit1, credit2) =>
-        credit1.artist.name.localeCompare(credit2.artist.name)
-      );
+      .filter(this.isValidCredit.bind(this))
+      .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
+  }
+
+  // Return true if the credit is other that writing type, or the release is by
+  // a band member
+  private isValidCredit(credit: Credit) {
+    return (
+      this.mainBand.isByOneOfBandMembers(this.release) ||
+      !this.creditIsWrittenOnly(credit)
+    );
   }
 
   // Get the extra artist credits from the tracklist
@@ -213,11 +220,11 @@ export class Release {
     credits: Credit[],
     extraArtist: ExtraArtist
   ): Credit[] {
-    const member = this.mainBand.members.find(
-      (member) => member.id === extraArtist.id
+    const member = this.mainBand.members.find((member) =>
+      member.matchesId(extraArtist.id)
     );
 
-    let credit = credits.find((credits) => credits.artist.id === member?.id);
+    let credit = credits.find((credit) => member?.matchesId(credit.artist.id));
 
     if (member && !credit) {
       credit = { artist: member, roles: [] };

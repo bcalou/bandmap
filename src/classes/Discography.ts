@@ -42,7 +42,7 @@ export class Discography {
   // If the given id is included in the discography, return whether it's
   // accepted or rejected. Return false if the id is not present at all.
   public includes(id: number): "accepted" | "rejected" | false {
-    if (this.releases.find((release) => release.id === id)) {
+    if (this.releases.find((release) => release.discographyId === id)) {
       return "accepted";
     }
 

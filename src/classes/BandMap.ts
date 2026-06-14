@@ -29,7 +29,7 @@ export class BandMap {
 
     await this.band.fetchMembersAndConnectedBands();
 
-    await this.band.fetchReleases();
+    await this.band.fetchReleases(false);
 
     this.band.discography.sort();
 

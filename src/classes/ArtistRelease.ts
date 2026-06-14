@@ -43,6 +43,10 @@ export class ArtistRelease {
     return this.artistRelease.year ?? "unknown date";
   }
 
+  get role() {
+    return this.artistRelease.role;
+  }
+
   get label() {
     return `${this.year} - ${this.artist} - "${this.title}"\n(${this.url})`;
   }
@@ -104,8 +108,18 @@ export class ArtistRelease {
 
   // Reject artist releases with an invalid role
   public heuristicRejectRole(): RejectReason | null {
-    if (ARTIST_RELEASE_ROLES.reject.includes(this.artistRelease.role)) {
-      return `rejected release role: ${this.artistRelease.role}`;
+    if (ARTIST_RELEASE_ROLES.reject.includes(this.role)) {
+      return `Rejected release role: ${this.role}`;
+    }
+
+    return null;
+  }
+
+  // Reject copies of a release with translate titles (noted with a = sign on
+  // discogs)
+  public heuristicRejectAlternateLanguage(): RejectReason | null {
+    if (this.title.indexOf(" = ") > -1) {
+      return "Alternate language release";
     }
 
     return null;

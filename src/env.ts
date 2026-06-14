@@ -19,3 +19,14 @@ export const FORMATS = {
     "Single",
   ],
 };
+
+export const ROLES = {
+  rejectIfOnly: [
+    "Written-By",
+    "Written By",
+    "Composed-By",
+    "Composed By",
+    "Lyrics-By",
+    "Lyrics By",
+  ],
+};

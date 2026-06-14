@@ -49,7 +49,7 @@ export class Master {
   // its member's other bands
   private heuristicRejectArtist(): RejectReason | null {
     if (!this.mainBand.isAuthorOrConnectedAuthor(this)) {
-      return `Rejected artist(s): ${this.artists}`;
+      return `Rejected artist(s): ${this.formattedArtists}`;
     }
 
     return null;

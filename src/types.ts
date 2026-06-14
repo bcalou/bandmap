@@ -3,11 +3,6 @@ import { Artist } from "./classes/Artist";
 
 export type RejectReason = string;
 
-export type Credit = {
-  artist: Artist;
-  roles: string[];
-};
-
 export type DCMember = z.infer<typeof DCMember>;
 export const DCMember = z.object({
   id: z.number(),

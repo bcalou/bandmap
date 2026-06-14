@@ -11,18 +11,28 @@ import {
 export const DELAY = 3000;
 const API_URL = "https://api.discogs.com";
 
-export function fetchResource<ReturnType>(
+function fetchResource<ReturnType>(
   url: string,
   type: ZodObject
 ): Promise<ReturnType> {
   return fetch(url)
     .then((res) => res.json())
     .catch(logError)
-    .then(async (res) => {
-      type.parse(res);
-      await new Promise((_) => setTimeout(_, DELAY));
-      return res;
-    });
+    .then((res) => handleResponse(url, res, type));
+}
+
+async function handleResponse<ReturnType>(
+  url: string,
+  res: any,
+  type: ZodObject
+): Promise<ReturnType> {
+  try {
+    type.parse(res);
+    await new Promise((_) => setTimeout(_, DELAY));
+    return res;
+  } catch {
+    throw Error(`Error fetching ${url}`);
+  }
 }
 
 export function fetchArtist(id: number): Promise<DCArtist> {

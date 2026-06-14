@@ -77,14 +77,14 @@ export class Band extends Artist {
   }
 
   // Fetch the releases associated to the artist + the releases of the members
-  public async fetchReleases() {
+  public async fetchReleases(includeMembers = true) {
     await super.fetchReleases();
 
-    for (const member of this.members) {
-      await member.fetchReleases();
+    if (includeMembers) {
+      for (const member of this.members) {
+        await member.fetchReleases();
+      }
     }
-
-    this.sortReleases();
   }
 
   // Fetch the bands connected to the main band members
@@ -145,7 +145,4 @@ export class Band extends Artist {
       logSeparator();
     });
   }
-
-  // Sort the release by date
-  private sortReleases(): void {}
 }

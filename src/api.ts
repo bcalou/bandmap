@@ -9,6 +9,7 @@ import {
 } from "./types";
 
 export const DELAY = 3000;
+export const PER_PAGE = 100;
 const API_URL = "https://api.discogs.com";
 
 function fetchResource<ReturnType>(
@@ -18,21 +19,16 @@ function fetchResource<ReturnType>(
   return fetch(url)
     .then((res) => res.json())
     .catch(logError)
-    .then((res) => handleResponse(url, res, type));
+    .then((res) => handleResponse(res, type));
 }
 
 async function handleResponse<ReturnType>(
-  url: string,
   res: any,
   type: ZodObject
 ): Promise<ReturnType> {
-  try {
-    type.parse(res);
-    await new Promise((_) => setTimeout(_, DELAY));
-    return res;
-  } catch {
-    throw Error(`Error fetching ${url}`);
-  }
+  type.parse(res);
+  await new Promise((_) => setTimeout(_, DELAY));
+  return res;
 }
 
 export function fetchArtist(id: number): Promise<DCArtist> {
@@ -44,7 +40,7 @@ export function fetchArtistReleases(
   page?: number
 ): Promise<DCArtistReleases> {
   return fetchResource(
-    `${API_URL}/artists/${artistId}/releases?per_page=100${
+    `${API_URL}/artists/${artistId}/releases?per_page=${PER_PAGE}${
       page ? `&page=${page}` : ""
     }`,
     DCArtistReleases
@@ -64,7 +60,7 @@ export function fetchVersions(
   page?: number
 ): Promise<DCVersions> {
   return fetchResource(
-    `${API_URL}/masters/${masterId}/versions?per-page=100${
+    `${API_URL}/masters/${masterId}/versions?per_page=${PER_PAGE}${
       page ? `&page=${page}` : ""
     }`,
     DCVersions

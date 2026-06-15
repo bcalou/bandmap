@@ -1,4 +1,4 @@
-import { fetchRelease, fetchVersions } from "../api";
+import { fetchRelease, fetchVersions, PER_PAGE } from "../api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logError, logWarning } from "../log";
 import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";
@@ -111,18 +111,16 @@ export class Release {
 
   // Return the version list (possibly cached)
   public async getVersionsList(): Promise<DCVersions> {
-    if (!this.versionsList) {
-      this.versionsList = await this.fetchVersions();
-    }
+    if (!this.versionsList) this.versionsList = await this.fetchVersions();
 
-    if (this.versionsList.pagination.items === 0) return this.versionsList;
+    const count = this.versionsList.pagination.items;
 
-    if (this.versionsList.pagination.pages > 1) {
-      logError(`Too many versions: ${this.versionsList.pagination.items}`);
-    }
+    if (count === 0) return this.versionsList;
 
     log(
-      `🗃️ Looking at ${this.versionsList.pagination.items} alternate version(s)`
+      `🗃️ Looking at ${count} alternate version(s)${
+        count > PER_PAGE ? ` (limiting to ${PER_PAGE})` : ""
+      }`
     );
 
     return this.versionsList;
@@ -145,8 +143,10 @@ export class Release {
       const version = new Release(await fetchRelease(versionId), this.mainBand);
       this.versions.push(version);
       return version;
-    } catch {
-      logError("Error while fetching the release");
+    } catch (error) {
+      if (typeof error === "string") {
+        logError(error);
+      }
       return null;
     }
   }

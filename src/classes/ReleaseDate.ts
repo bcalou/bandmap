@@ -37,13 +37,10 @@ export class ReleaseDate {
   public async extractPreciseDate() {
     const initialDateQuality = this.getDateQuality(this.date);
 
-    if (initialDateQuality !== DateQuality.Perfect) {
+    if (!this.isSufficientDateQuality(initialDateQuality)) {
       logWarning(`Imprecise date (${this.date}) for "${this.release.title}"`);
 
-      for (const version of (await this.release.getVersionsList()).versions) {
-        if ((await this.extractVersionDate(version)) === DateQuality.Perfect)
-          return;
-      }
+      await this.findBetterDate();
 
       if (this.getDateQuality(this.date) === initialDateQuality) {
         logWarning("No better date found");
@@ -51,22 +48,41 @@ export class ReleaseDate {
     }
   }
 
+  // Find a better date for the release
+  private async findBetterDate() {
+    for (const version of (await this.release.getVersionsList()).versions) {
+      if (this.year && version.released !== this.year) {
+        logWarning(`No more versions for year ${this.year}`);
+        break;
+      }
+
+      const dateQuality = await this.extractVersionDate(version);
+
+      if (dateQuality && this.isSufficientDateQuality(dateQuality)) {
+        return;
+      }
+    }
+  }
+
+  // Is the date quality considered good enough
+  private isSufficientDateQuality(quality: DateQuality) {
+    return quality >= DateQuality.MonthOnly;
+  }
+
   // Use the given version date if it's of better quality than what we have
   // Return the quality of the date found, or null if the date is not better
   private async extractVersionDate(
     version: DCVersion
   ): Promise<DateQuality | null> {
-    if (this.year && version.released !== this.year) return null;
-
     const versionRelease = await this.release.getVersion(version.id);
 
     if (!versionRelease) return null;
 
-    const dateQuality = this.getDateQuality(versionRelease.released);
+    const dateQuality = this.getDateQuality(version.released);
 
     if (dateQuality > this.getDateQuality(this.date)) {
-      log(`Found better release date: ${versionRelease.released}`);
-      this.date = versionRelease.released;
+      log(`Found better release date: ${version.released}`);
+      this.date = version.released;
 
       return dateQuality;
     }

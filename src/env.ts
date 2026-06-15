@@ -7,17 +7,17 @@ export const ARTIST_RELEASE_ROLES = {
 };
 
 export const FORMATS = {
+  // Utiliser l'API !
   accept: ["Album", "EP"],
   reject: [
     "Blu-ray",
     "Blu-ray-R",
-    "Compilation",
     "DVD",
     "DVDr",
     "DVD-Video",
     "Limited Edition",
-    "Single",
   ],
+  eliminatory: ["Compilation", "Single"],
 };
 
 export const ROLES = {

@@ -30,7 +30,7 @@ export class Formats {
   public async heuristicRejectFormat(): Promise<RejectReason | null> {
     return this.isValidFormatList(this.formats) ||
       (this.release.masterId &&
-        !this.formats.includes("Single") &&
+        !this.isEliminatoryFormatList(this.formats) &&
         (await this.hasVersionWithValidFormat()))
       ? null
       : `Rejected format(s): ${this.printFormats(this.formats)}`;
@@ -41,12 +41,18 @@ export class Formats {
     return (formats ?? this.formats).join(", ") ?? "not specified";
   }
 
-  // Is this list of formats considered valid for the discogaphy?
+  // Is this list of formats considered valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
     return (
       !!formats.find((format) => FORMATS.accept.includes(format)) &&
-      !formats.find((format) => FORMATS.reject.includes(format))
+      !formats.find((format) => FORMATS.reject.includes(format)) &&
+      !this.isEliminatoryFormatList(formats)
     );
+  }
+
+  // Should we stop looking for other formats when we encounter this one?
+  private isEliminatoryFormatList(formats: string[]): boolean {
+    return !!formats.find((format) => FORMATS.eliminatory.includes(format));
   }
 
   // Does one of the version has a valid format list?
@@ -58,21 +64,32 @@ export class Formats {
     );
 
     for (const version of (await this.release.getVersionsList()).versions) {
-      if (await this.isValidFormat(version)) {
-        return true;
-      }
+      const isValidVersion = this.analyzeVersionFormat(version);
+
+      if (isValidVersion === null) continue;
+
+      return isValidVersion;
     }
 
     return false;
   }
 
   // Is the format list valid for this version?
-  private async isValidFormat(version: DCVersion): Promise<boolean> {
+  // Return true if valid, false if eliminatory, else null
+  private analyzeVersionFormat(version: DCVersion): boolean | null {
     log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
     log(`Format: ${this.printFormats(formats)}`);
 
-    return this.isValidFormatList(formats);
+    if (this.isEliminatoryFormatList(formats)) {
+      return false;
+    }
+
+    if (this.isValidFormatList(formats)) {
+      return true;
+    }
+
+    return null;
   }
 }

@@ -80,16 +80,24 @@ export class ArtistRelease {
 
   // Return the matching release object if it's considered acceptable
   private async getAcceptedRelease(): Promise<Release | RejectReason> {
-    const reject = this.heuristicRejectRole();
+    return (
+      this.heuristicRejectRole() ??
+      this.heuristicRejectAlternateLanguage() ??
+      this.fetchRelease()
+    );
+  }
 
-    if (reject) return reject;
-
-    const release =
-      this.type === "master"
-        ? new Master(await fetchMaster(this.id), this.mainBand)
-        : new Release(await fetchRelease(this.id), this.mainBand);
-
-    return release.getAcceptedRelease();
+  // Fetch the master or release in order to accept/reject it
+  private async fetchRelease(): Promise<Release | RejectReason> {
+    try {
+      const release =
+        this.type === "master"
+          ? new Master(await fetchMaster(this.id), this.mainBand)
+          : new Release(await fetchRelease(this.id), this.mainBand);
+      return release.getAcceptedRelease();
+    } catch (err) {
+      return `Error while fetching release: ${err}`;
+    }
   }
 
   // Return true if the artistRelease is already in the discography
@@ -107,7 +115,7 @@ export class ArtistRelease {
   }
 
   // Reject artist releases with an invalid role
-  public heuristicRejectRole(): RejectReason | null {
+  private heuristicRejectRole(): RejectReason | null {
     if (ARTIST_RELEASE_ROLES.reject.includes(this.role)) {
       return `Rejected release role: ${this.role}`;
     }
@@ -117,7 +125,7 @@ export class ArtistRelease {
 
   // Reject copies of a release with translate titles (noted with a = sign on
   // discogs)
-  public heuristicRejectAlternateLanguage(): RejectReason | null {
+  private heuristicRejectAlternateLanguage(): RejectReason | null {
     if (this.title.indexOf(" = ") > -1) {
       return "Alternate language release";
     }

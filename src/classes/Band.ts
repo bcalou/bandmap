@@ -1,5 +1,5 @@
 import { fetchArtist } from "../api";
-import { DISCOGS_ARTIST_URL } from "../env";
+import { DISCOGS_ARTIST_URL, OPTION_INCLUDE_CONNECTED_RELEASES } from "../env";
 import { logInfo, logSeparator } from "../log";
 import { DCArtist, DCExtraArtist, DCGroup } from "../types";
 import { clean } from "../utils";
@@ -77,10 +77,10 @@ export class Band extends Artist {
   }
 
   // Fetch the releases associated to the artist + the releases of the members
-  public async fetchReleases(includeMembers = true) {
+  public async fetchReleases() {
     await super.fetchReleases();
 
-    if (includeMembers) {
+    if (OPTION_INCLUDE_CONNECTED_RELEASES) {
       for (const member of this.members) {
         await member.fetchReleases();
       }

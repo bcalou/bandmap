@@ -19,14 +19,21 @@ function fetchResource<ReturnType>(
   return fetch(url)
     .then((res) => res.json())
     .catch(logError)
-    .then((res) => handleResponse(res, type));
+    .then((res) => handleResponse(res, type, url));
 }
 
 async function handleResponse<ReturnType>(
   res: any,
-  type: ZodObject
+  type: ZodObject,
+  url: string
 ): Promise<ReturnType> {
-  type.parse(res);
+  try {
+    type.parse(res);
+  } catch (error) {
+    logError(`Failed to fetch ${url}`);
+    throw error;
+  }
+
   await new Promise((_) => setTimeout(_, DELAY));
   return res;
 }

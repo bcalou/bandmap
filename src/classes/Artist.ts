@@ -100,9 +100,9 @@ export class Artist {
     await this.analyzeReleases(artistReleases.releases);
 
     // Handle the next page if any
-    if (artistReleases.pagination.pages > page) {
-      return await this.fetchReleasesPage(page + 1, from);
-    }
+    // if (artistReleases.pagination.pages > page) {
+    //   return await this.fetchReleasesPage(page + 1, from);
+    // }
   }
 
   // Loop over the given releases and add them to the global discography

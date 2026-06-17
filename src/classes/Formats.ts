@@ -80,7 +80,7 @@ export class Formats {
     log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
-    log(`Format: ${this.printFormats(formats)}`);
+    log(`💿 Format: ${this.printFormats(formats)}`);
 
     if (this.isEliminatoryFormatList(formats)) {
       return false;

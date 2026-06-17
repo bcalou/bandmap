@@ -1,3 +1,5 @@
+export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
+
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
 export const DISCOGS_ARTIST_URL = "https://www.discogs.com/artist/";
@@ -17,7 +19,7 @@ export const FORMATS = {
     "DVD-Video",
     "Limited Edition",
   ],
-  eliminatory: ["Compilation", "Single"],
+  eliminatory: ["Compilation", "Single", "Maxi-Single"],
 };
 
 export const ROLES = {

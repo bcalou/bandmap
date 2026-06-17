@@ -38,21 +38,23 @@ export class ReleaseDate {
     const initialDateQuality = this.getDateQuality(this.date);
 
     if (!this.isSufficientDateQuality(initialDateQuality)) {
-      logWarning(`Imprecise date (${this.date}) for "${this.release.title}"`);
+      logWarning(
+        `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`
+      );
 
       await this.findBetterDate();
 
       if (this.getDateQuality(this.date) === initialDateQuality) {
-        logWarning("No better date found");
+        logWarning("🗓️ No better date found");
       }
     }
   }
 
   // Find a better date for the release
-  private async findBetterDate() {
+  private async findBetterDate(): Promise<void> {
     for (const version of (await this.release.getVersionsList()).versions) {
       if (this.year && version.released !== this.year) {
-        logWarning(`No more versions for year ${this.year}`);
+        logWarning(`🗓️ No more versions for year ${this.year}`);
         break;
       }
 
@@ -78,11 +80,12 @@ export class ReleaseDate {
 
     if (!versionRelease) return null;
 
-    const dateQuality = this.getDateQuality(version.released);
+    const dateQuality = this.getDateQuality(versionRelease.released);
+    log(`🗓️ Release date: ${versionRelease.released}`);
 
     if (dateQuality > this.getDateQuality(this.date)) {
-      log(`Found better release date: ${version.released}`);
-      this.date = version.released;
+      log(`Found better release date: ${versionRelease.released}`);
+      this.date = versionRelease.released;
 
       return dateQuality;
     }

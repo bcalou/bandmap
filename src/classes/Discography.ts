@@ -74,7 +74,7 @@ export class Discography {
     logSeparator();
 
     this.releases.forEach((release) => {
-      logSuccess(release.label);
+      logSuccess(`💿 ${release.label}`);
       log(release.formattedCredits);
       logSeparator();
     });
@@ -86,7 +86,7 @@ export class Discography {
     logSeparator();
 
     this.rejectedReleases.forEach((release) => {
-      logWarning(release.artistRelease.label);
+      logWarning(`❌ ${release.artistRelease.label}`);
       log(`(${release.reason})`);
       logSeparator();
     });

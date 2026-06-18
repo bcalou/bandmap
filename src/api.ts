@@ -7,6 +7,38 @@ import {
   DCRelease,
   DCVersions,
 } from "./types";
+import * as Discogs from "disconnect";
+
+// var discogs = new Client({
+//   consumerKey: "KjrpvorlXakACBzWYgvl",
+//   consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
+// });
+
+var db = new Discogs.Client({
+  consumerKey: "KjrpvorlXakACBzWYgvl",
+  consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
+}).database();
+db.search(
+  "",
+  {
+    artist: "moon safari",
+    type: "release",
+    country: "sweden",
+    per_page: 100,
+  },
+  function (err, data) {
+    console.log(data);
+  }
+);
+
+// var db = new Client.database();
+// db.getRelease(176126, function(err, data){
+// 	console.log(data);
+// });
+
+// discogs.database.getRelease(176126, function (err: any, data: any) {
+//   console.log(data);
+// });
 
 export const DELAY = 3000;
 export const PER_PAGE = 100;

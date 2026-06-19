@@ -1,4 +1,4 @@
-import { fetchRelease, fetchVersions, PER_PAGE } from "../api";
+import { fetchRelease, fetchVersions, PER_PAGE } from "./Api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logError, logWarning } from "../log";
 import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";

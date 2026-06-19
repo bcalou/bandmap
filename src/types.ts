@@ -3,6 +3,25 @@ import { Artist } from "./classes/Artist";
 
 export type RejectReason = string;
 
+export const DCPagination = z.object({
+  pages: z.number(),
+  items: z.number(),
+});
+
+export type DCSearch = z.infer<typeof DCSearch>;
+export const DCSearch = z.object({
+  pagination: DCPagination,
+  results: z.array(
+    z.object({
+      id: z.number(),
+      master_id: z.number(),
+      format: z.array(z.string()),
+      title: z.string(),
+      year: z.string(),
+    })
+  ),
+});
+
 export type DCMember = z.infer<typeof DCMember>;
 export const DCMember = z.object({
   id: z.number(),
@@ -114,9 +133,6 @@ export const DCVersion = z.object({
 
 export type DCVersions = z.infer<typeof DCVersions>;
 export const DCVersions = z.object({
-  pagination: z.object({
-    pages: z.number(),
-    items: z.number(),
-  }),
+  pagination: DCPagination,
   versions: z.array(DCVersion),
 });

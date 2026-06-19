@@ -1,12 +1,12 @@
 import { ZodObject } from "zod";
-import { logError } from "./log";
+import { logError } from "../log";
 import {
   DCArtist,
   DCArtistReleases,
   DCMaster,
   DCRelease,
   DCVersions,
-} from "./types";
+} from "../types";
 import * as Discogs from "disconnect";
 
 // var discogs = new Client({
@@ -14,31 +14,49 @@ import * as Discogs from "disconnect";
 //   consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
 // });
 
-var db = new Discogs.Client({
-  consumerKey: "KjrpvorlXakACBzWYgvl",
-  consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
-}).database();
-db.search(
-  "",
-  {
-    artist: "moon safari",
-    type: "release",
-    country: "sweden",
-    per_page: 100,
-  },
-  function (err, data) {
-    console.log(data);
+export class Api {
+  private database: any;
+
+  constructor() {
+    this.database = new Discogs.Client({
+      consumerKey: "KjrpvorlXakACBzWYgvl",
+      consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
+    }).database();
+
+    this.database.search(
+      "",
+      {
+        artist: "moon safari",
+        type: "release",
+        country: "sweden",
+        per_page: 100,
+        format: "album",
+      },
+      function (err: any, data: any) {
+        console.log(JSON.stringify(data));
+        console.log(data);
+      }
+    );
   }
-);
 
-// var db = new Client.database();
-// db.getRelease(176126, function(err, data){
-// 	console.log(data);
-// });
-
-// discogs.database.getRelease(176126, function (err: any, data: any) {
-//   console.log(data);
-// });
+  // Search the discogs database
+  public search(options: {
+    artist: string;
+    country: string;
+    format: "album" | "ep";
+  }) {
+    return this.database
+      .search("", {
+        ...options,
+        type: "release",
+        per_page: 100,
+      })
+      .then(function (results: any) {
+        console.log(JSON.parse(results));
+        return results;
+      });
+  }
+}
 
 export const DELAY = 3000;
 export const PER_PAGE = 100;

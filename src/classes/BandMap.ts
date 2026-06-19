@@ -1,4 +1,4 @@
-import { fetchArtist } from "../api";
+import { Api, fetchArtist } from "./Api";
 import { log, logError, logSuccess, logThickSeparator } from "../log";
 import { Band } from "./Band";
 
@@ -24,6 +24,8 @@ export class BandMap {
 
   // Main sequence of events
   private async init() {
+    new Api();
+
     const band = await fetchArtist(this.bandId);
     this.band = new Band(band);
 

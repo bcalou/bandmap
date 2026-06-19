@@ -3,7 +3,7 @@ import {
   DISCOGS_MASTER_URL,
   DISCOGS_RELEASE_URL,
 } from "../env";
-import { fetchMaster, fetchRelease } from "../api";
+import { fetchMaster, fetchRelease } from "./Api";
 import { logSeparator, logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
 import { Band } from "./Band";

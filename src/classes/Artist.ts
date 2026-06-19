@@ -1,4 +1,4 @@
-import { fetchArtistReleases } from "../api";
+import { fetchArtistReleases } from "./Api";
 import { DISCOGS_ARTIST_URL } from "../env";
 import { logInfo, logSeparator, logSuccess } from "../log";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";

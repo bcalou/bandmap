@@ -1,4 +1,4 @@
-import { fetchRelease } from "../api";
+import { fetchRelease } from "./Api";
 import { DCMaster, RejectReason } from "../types";
 import { Band } from "./Band";
 import { Release } from "./Release";

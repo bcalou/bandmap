@@ -5,6 +5,7 @@ import {
   DCArtistReleases,
   DCMaster,
   DCRelease,
+  DCSearch,
   DCVersions,
 } from "../types";
 import * as Discogs from "disconnect";
@@ -14,37 +15,33 @@ import * as Discogs from "disconnect";
 //   consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
 // });
 
+export const DELAY = 3000;
+export const PER_PAGE = 100;
+const API_URL = "https://api.discogs.com";
+
 export class Api {
+  static instance: Api;
   private database: any;
 
   constructor() {
+    if (!!Api.instance) {
+      return Api.instance;
+    }
+
+    Api.instance = this;
+
     this.database = new Discogs.Client({
       consumerKey: "KjrpvorlXakACBzWYgvl",
       consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
     }).database();
-
-    this.database.search(
-      "",
-      {
-        artist: "moon safari",
-        type: "release",
-        country: "sweden",
-        per_page: 100,
-        format: "album",
-      },
-      function (err: any, data: any) {
-        console.log(JSON.stringify(data));
-        console.log(data);
-      }
-    );
   }
 
   // Search the discogs database
   public search(options: {
-    artist: string;
-    country: string;
-    format: "album" | "ep";
-  }) {
+    artist?: string;
+    country?: string;
+    format?: "album" | "ep";
+  }): Promise<DCSearch> {
     return this.database
       .search("", {
         ...options,
@@ -52,15 +49,11 @@ export class Api {
         per_page: 100,
       })
       .then(function (results: any) {
-        console.log(JSON.parse(results));
+        DCSearch.parse(results);
         return results;
       });
   }
 }
-
-export const DELAY = 3000;
-export const PER_PAGE = 100;
-const API_URL = "https://api.discogs.com";
 
 function fetchResource<ReturnType>(
   url: string,

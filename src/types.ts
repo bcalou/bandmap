@@ -8,18 +8,19 @@ export const DCPagination = z.object({
   items: z.number(),
 });
 
+export type DCSearchResult = z.infer<typeof DCSearchResult>;
+export const DCSearchResult = z.object({
+  id: z.number(),
+  master_id: z.number(),
+  format: z.array(z.string()),
+  title: z.string(),
+  year: z.string().optional(),
+});
+
 export type DCSearch = z.infer<typeof DCSearch>;
 export const DCSearch = z.object({
   pagination: DCPagination,
-  results: z.array(
-    z.object({
-      id: z.number(),
-      master_id: z.number(),
-      format: z.array(z.string()),
-      title: z.string(),
-      year: z.string(),
-    })
-  ),
+  results: z.array(DCSearchResult),
 });
 
 export type DCMember = z.infer<typeof DCMember>;

@@ -3,7 +3,7 @@ import {
   DISCOGS_MASTER_URL,
   DISCOGS_RELEASE_URL,
 } from "../env";
-import { fetchMaster, fetchRelease } from "./Api";
+import { Api } from "./Api";
 import { logSeparator, logWarning } from "../log";
 import { DCArtistRelease, RejectReason } from "../types";
 import { Band } from "./Band";
@@ -22,9 +22,13 @@ export class ArtistRelease {
   // The main band of the program
   private mainBand: Band;
 
+  // The api object
+  private api: Api;
+
   constructor(artistRelease: DCArtistRelease, mainBand: Band) {
     this.artistRelease = artistRelease;
     this.mainBand = mainBand;
+    this.api = new Api();
   }
 
   get id() {
@@ -92,8 +96,8 @@ export class ArtistRelease {
     try {
       const release =
         this.type === "master"
-          ? new Master(await fetchMaster(this.id), this.mainBand)
-          : new Release(await fetchRelease(this.id), this.mainBand);
+          ? new Master(await this.api.getMaster(this.id), this.mainBand)
+          : new Release(await this.api.getRelease(this.id), this.mainBand);
       return release.getAcceptedRelease();
     } catch (err) {
       return `Error while fetching release: ${err}`;

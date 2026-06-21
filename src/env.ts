@@ -1,4 +1,4 @@
-export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
+export const OPTION_INCLUDE_CONNECTED_RELEASES = true;
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
@@ -9,7 +9,6 @@ export const ARTIST_RELEASE_ROLES = {
 };
 
 export const FORMATS = {
-  // Utiliser l'API !
   accept: ["Album", "EP"],
   reject: [
     "Blu-ray",

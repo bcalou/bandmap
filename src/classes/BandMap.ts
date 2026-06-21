@@ -1,4 +1,4 @@
-import { Api, fetchArtist } from "./Api";
+import { Api } from "./Api";
 import { log, logError, logSuccess, logThickSeparator } from "../log";
 import { Band } from "./Band";
 
@@ -16,9 +16,13 @@ export class BandMap {
   // A list of ID that should to test the program output against
   private expectedIdList: string | undefined;
 
+  // The api object
+  private api: Api;
+
   constructor(bandId: number, expectedIdList?: string) {
     this.bandId = bandId;
     this.expectedIdList = expectedIdList;
+    this.api = new Api();
     this.init();
   }
 
@@ -26,7 +30,7 @@ export class BandMap {
   private async init() {
     new Api();
 
-    const band = await fetchArtist(this.bandId);
+    const band = await this.api.getArtist(this.bandId);
     this.band = new Band(band);
 
     await this.band.fetchMembersAndConnectedBands();

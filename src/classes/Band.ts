@@ -1,8 +1,8 @@
-import { fetchArtist } from "./Api";
 import { DISCOGS_ARTIST_URL, OPTION_INCLUDE_CONNECTED_RELEASES } from "../env";
 import { logInfo, logSeparator } from "../log";
 import { DCArtist, DCExtraArtist, DCGroup } from "../types";
 import { clean } from "../utils";
+import { Api } from "./Api";
 import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
@@ -68,7 +68,10 @@ export class Band extends Artist {
     logSeparator();
 
     for (const _member of this.bandMembers) {
-      const member = new Artist(await fetchArtist(_member.id), this.band);
+      const member = new Artist(
+        await this.api.getArtist(_member.id),
+        this.band
+      );
 
       this.members.push(member);
     }

@@ -1,23 +1,16 @@
-import { ZodObject } from "zod";
-import { logError } from "../log";
 import {
   DCArtist,
   DCArtistReleases,
   DCMaster,
   DCRelease,
-  DCSearch,
   DCVersions,
 } from "../types";
+
+// @ts-ignore
 import * as Discogs from "disconnect";
 
-// var discogs = new Client({
-//   consumerKey: "KjrpvorlXakACBzWYgvl",
-//   consumerSecret: "CggkIagphcuYfzlkoqElKiVtyyNsYZMR",
-// });
-
-export const DELAY = 3000;
+export const DELAY = 1000;
 export const PER_PAGE = 100;
-const API_URL = "https://api.discogs.com";
 
 export class Api {
   static instance: Api;
@@ -36,83 +29,45 @@ export class Api {
     }).database();
   }
 
-  // Search the discogs database
-  public search(options: {
-    artist?: string;
-    country?: string;
-    format?: "album" | "ep";
-  }): Promise<DCSearch> {
+  public async getArtist(id: number): Promise<DCArtist> {
+    await this.delay();
     return this.database
-      .search("", {
-        ...options,
-        type: "release",
-        per_page: 100,
-      })
-      .then(function (results: any) {
-        DCSearch.parse(results);
-        return results;
-      });
-  }
-}
-
-function fetchResource<ReturnType>(
-  url: string,
-  type: ZodObject
-): Promise<ReturnType> {
-  return fetch(url)
-    .then((res) => res.json())
-    .catch(logError)
-    .then((res) => handleResponse(res, type, url));
-}
-
-async function handleResponse<ReturnType>(
-  res: any,
-  type: ZodObject,
-  url: string
-): Promise<ReturnType> {
-  try {
-    type.parse(res);
-  } catch (error) {
-    logError(`Failed to fetch ${url}`);
-    throw error;
+      .getArtist(id)
+      .then((result: any) => DCArtist.parse(result));
   }
 
-  await new Promise((_) => setTimeout(_, DELAY));
-  return res;
-}
+  public async getArtistReleases(
+    id: number,
+    page = 1
+  ): Promise<DCArtistReleases> {
+    await this.delay();
+    return this.database
+      .getArtistReleases(id, { page: page, per_page: PER_PAGE })
+      .then((result: any) => DCArtistReleases.parse(result));
+  }
 
-export function fetchArtist(id: number): Promise<DCArtist> {
-  return fetchResource(`${API_URL}/artists/${id}`, DCArtist);
-}
+  public async getRelease(id: number): Promise<DCRelease> {
+    await this.delay();
+    return this.database
+      .getRelease(id)
+      .then((result: any) => DCRelease.parse(result));
+  }
 
-export function fetchArtistReleases(
-  artistId: number,
-  page?: number
-): Promise<DCArtistReleases> {
-  return fetchResource(
-    `${API_URL}/artists/${artistId}/releases?per_page=${PER_PAGE}${
-      page ? `&page=${page}` : ""
-    }`,
-    DCArtistReleases
-  );
-}
+  public async getMaster(id: number): Promise<DCMaster> {
+    await this.delay();
+    return this.database
+      .getMaster(id)
+      .then((result: any) => DCMaster.parse(result));
+  }
 
-export function fetchRelease(id: number): Promise<DCRelease> {
-  return fetchResource(`${API_URL}/releases/${id}`, DCRelease);
-}
+  public async getVersions(id: number): Promise<DCVersions> {
+    await this.delay();
+    return this.database
+      .getMasterVersions(id)
+      .then((result: any) => DCVersions.parse(result));
+  }
 
-export function fetchMaster(id: number): Promise<DCMaster> {
-  return fetchResource(`${API_URL}/masters/${id}`, DCMaster);
-}
-
-export function fetchVersions(
-  masterId: number,
-  page?: number
-): Promise<DCVersions> {
-  return fetchResource(
-    `${API_URL}/masters/${masterId}/versions?per_page=${PER_PAGE}${
-      page ? `&page=${page}` : ""
-    }`,
-    DCVersions
-  );
+  private async delay() {
+    return new Promise((res) => setTimeout(res, DELAY));
+  }
 }

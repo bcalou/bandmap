@@ -1,4 +1,4 @@
-import { fetchRelease, fetchVersions, PER_PAGE } from "./Api";
+import { Api, PER_PAGE } from "./Api";
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { log, logError, logWarning } from "../log";
 import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";
@@ -29,12 +29,16 @@ export class Release {
   // List of versions
   private versionsList: DCVersions | undefined = undefined;
 
+  // The api object
+  private api: Api;
+
   constructor(release: DCRelease, mainBand: Band) {
     this.release = release;
     this.mainBand = mainBand;
     this.credits = new Credits(this, this.mainBand);
     this.formats = new Formats(this);
     this.releaseDate = new ReleaseDate(this);
+    this.api = new Api();
   }
 
   get id() {
@@ -138,17 +142,13 @@ export class Release {
   }
 
   // Fetch a version and add it to the cached versions
-  private async fetchVersion(versionId: number): Promise<Release | null> {
-    try {
-      const version = new Release(await fetchRelease(versionId), this.mainBand);
-      this.versions.push(version);
-      return version;
-    } catch (error) {
-      if (typeof error === "string") {
-        logError(error);
-      }
-      return null;
-    }
+  private async fetchVersion(versionId: number): Promise<Release> {
+    const version = new Release(
+      await this.api.getRelease(versionId),
+      this.mainBand
+    );
+    this.versions.push(version);
+    return version;
   }
 
   // Shortcut to the credit extract method for this release
@@ -161,7 +161,7 @@ export class Release {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
-    const versions = await fetchVersions(this.masterId);
+    const versions = await this.api.getVersions(this.masterId);
     versions.versions = versions.versions.filter(
       (version) => version.id !== this.id
     );

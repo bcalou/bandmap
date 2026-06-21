@@ -78,10 +78,7 @@ export const DCArtistRelease = z.object({
 
 export type DCArtistReleases = z.infer<typeof DCArtistReleases>;
 export const DCArtistReleases = z.object({
-  pagination: z.object({
-    pages: z.number(),
-    items: z.number(),
-  }),
+  pagination: DCPagination,
   releases: z.array(DCArtistRelease),
 });
 

@@ -1,8 +1,8 @@
-import { fetchArtistReleases } from "./Api";
 import { DISCOGS_ARTIST_URL } from "../env";
 import { logInfo, logSeparator, logSuccess } from "../log";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
+import { Api } from "./Api";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
 import { Release } from "./Release";
@@ -12,15 +12,19 @@ import { Release } from "./Release";
  */
 export class Artist {
   // The artist object
-  artist: DCArtist;
+  protected artist: DCArtist;
+
+  // The API object
+  protected api: Api;
 
   // The main band object of the program
   // Undefined if the artist is the band itself
-  mainBand: Band | undefined;
+  private mainBand: Band | undefined;
 
   constructor(artist: DCArtist, mainBand?: Band) {
     this.artist = artist;
     this.mainBand = mainBand;
+    this.api = new Api();
 
     logSuccess(`${this.typeIcon} Fetched ${this.type} ${this.name}`);
     logSuccess(`(${this.url})`);
@@ -89,7 +93,7 @@ export class Artist {
     page: number,
     from: Artist | DCAlias
   ): Promise<void> {
-    const artistReleases = await fetchArtistReleases(from.id, page);
+    const artistReleases = await this.api.getArtistReleases(from.id, page);
     const count = artistReleases.pagination.items;
 
     if (page === 1) {
@@ -100,9 +104,9 @@ export class Artist {
     await this.analyzeReleases(artistReleases.releases);
 
     // Handle the next page if any
-    // if (artistReleases.pagination.pages > page) {
-    //   return await this.fetchReleasesPage(page + 1, from);
-    // }
+    if (artistReleases.pagination.pages > page) {
+      return await this.fetchReleasesPage(page + 1, from);
+    }
   }
 
   // Loop over the given releases and add them to the global discography

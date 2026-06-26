@@ -1,5 +1,5 @@
 import { ROLES } from "../env";
-import { log, logWarning } from "../log";
+import { Logger } from "../log";
 import { DCExtraArtist, DCVersion, RejectReason } from "../types";
 import { Artist } from "./Artist";
 import { Band } from "./Band";
@@ -25,9 +25,13 @@ export class Credits {
   // The artist associated to this release and their roles
   private credits: Credit[] = [];
 
+  // The logger object
+  private logger: Logger;
+
   constructor(release: Release, mainBand: Band) {
     this.release = release;
     this.mainBand = mainBand;
+    this.logger = new Logger();
   }
 
   get formattedCredits() {
@@ -46,7 +50,9 @@ export class Credits {
     if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
 
     if (this.credits.length === 0) {
-      logWarning(`No valid credits found for "${this.release.title}"`);
+      this.logger.logWarning(
+        `No valid credits found for "${this.release.title}"`
+      );
 
       return this.lookForCreditsInOtherVersions();
     }
@@ -71,7 +77,7 @@ export class Credits {
   private async lookForCreditsInOtherVersions(): Promise<RejectReason | null> {
     for (const version of (await this.release.getVersionsList()).versions) {
       if (await this.versionHasValidCredits(version)) {
-        log(`Found credits`);
+        this.logger.log(`Found credits`);
 
         return null;
       }

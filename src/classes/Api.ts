@@ -47,7 +47,7 @@ export class Api {
   public async getArtist(id: number): Promise<DCArtist> {
     const key = `artist_${id}`;
 
-    return this.fetchAndCache<DCArtist>(key, () =>
+    return this.getCached<DCArtist>(key, () =>
       this.discogs.getArtist(id).then((result: any) => DCArtist.parse(result))
     );
   }
@@ -57,7 +57,7 @@ export class Api {
     page = 1
   ): Promise<DCArtistReleases> {
     const key = `artist_releases_${id}_${page}`;
-    return this.fetchAndCache<DCArtistReleases>(key, () =>
+    return this.getCached<DCArtistReleases>(key, () =>
       this.discogs
         .getArtistReleases(id, { page: page, per_page: PER_PAGE })
         .then((result: any) => DCArtistReleases.parse(result))
@@ -66,21 +66,21 @@ export class Api {
 
   public async getRelease(id: number): Promise<DCRelease> {
     const key = `release_${id}`;
-    return this.fetchAndCache<DCRelease>(key, () =>
+    return this.getCached<DCRelease>(key, () =>
       this.discogs.getRelease(id).then((result: any) => DCRelease.parse(result))
     );
   }
 
   public async getMaster(id: number): Promise<DCMaster> {
     const key = `master_${id}`;
-    return this.fetchAndCache<DCMaster>(key, () =>
+    return this.getCached<DCMaster>(key, () =>
       this.discogs.getMaster(id).then((result: any) => DCMaster.parse(result))
     );
   }
 
   public async getVersions(id: number): Promise<DCVersions> {
     const key = `versions_${id}`;
-    return this.fetchAndCache<DCVersions>(key, () =>
+    return this.getCached<DCVersions>(key, () =>
       this.discogs
         .getMasterVersions(id)
         .then((result: any) => DCVersions.parse(result))
@@ -113,8 +113,8 @@ export class Api {
   private async getCached<ResultType>(
     key: string,
     fetcher: () => Promise<ResultType>
-  ): Promise<ResultType | null> {
-    if (!this.cache) return null;
+  ): Promise<ResultType> {
+    if (!this.cache) return this.fetchAndCache<ResultType>(key, fetcher);
 
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
@@ -136,6 +136,7 @@ export class Api {
     this.cache
       .prepare("INSERT OR REPLACE INTO cache (key, value) VALUES (?, ?)")
       .run(key, JSON.stringify(data));
+
     return data;
   }
 

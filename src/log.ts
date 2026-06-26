@@ -1,3 +1,5 @@
+import fs from "node:fs";
+
 const colors = {
   error: "\x1b[31m",
   success: "\x1b[32m",
@@ -5,40 +7,64 @@ const colors = {
   info: "\x1b[34m",
 };
 
-export function log(
-  message: string,
-  type?: "info" | "error" | "success" | "warning"
-) {
-  if (!message) return;
+/**
+ * Un logger permettant d'afficher des données en direct et de les stocker dans
+ * un fichier
+ */
+export class Logger {
+  // The singleton instance
+  static instance: Logger;
 
-  console.log(`${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`);
-}
+  // Le chemin du fichier dans lequel stocker les informations
+  private filename: string | undefined;
 
-export function logError(message: string) {
-  log(message, "error");
-}
+  constructor(filename?: string) {
+    if (!!Logger.instance) {
+      return Logger.instance;
+    }
 
-export function logInfo(message: string) {
-  log(message, "info");
-}
+    Logger.instance = this;
 
-export function logSuccess(message: string) {
-  log(message, "success");
-}
+    if (filename) {
+      this.filename = filename;
+      fs.writeFileSync("", filename);
+    }
+  }
 
-export function logWarning(message: string) {
-  log(message, "warning");
-}
+  public log(message: string, type?: "info" | "error" | "success" | "warning") {
+    if (!message) return;
 
-export function logSeparator() {
-  log(
-    "——————————————————————————————————————————————————————————————————————————"
-  );
-}
+    if (this.filename) {
+      fs.appendFileSync(this.filename, message);
+    }
 
-export function logThickSeparator() {
-  log(
-    "██████████████████████████████████████████████████████████████████████████"
-  );
-  logSeparator();
+    console.log(
+      `${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`
+    );
+  }
+
+  public logError(message: string) {
+    this.log(message, "error");
+  }
+
+  public logInfo(message: string) {
+    this.log(message, "info");
+  }
+
+  public logSuccess(message: string) {
+    this.log(message, "success");
+  }
+
+  public logWarning(message: string) {
+    this.log(message, "warning");
+  }
+
+  public logSeparator() {
+    this.log("———————————————————————————————————————————————————————————————");
+  }
+
+  public logThickSeparator() {
+    this.log("███████████████████████████████████████████████████████████████");
+    this.logSeparator();
+  }
 }

@@ -1,5 +1,5 @@
+import { Logger } from "../log";
 import { Api } from "./Api";
-import { log, logError, logSuccess, logThickSeparator } from "../log";
 import { Band } from "./Band";
 
 /**
@@ -19,10 +19,14 @@ export class BandMap {
   // The api object
   private api: Api;
 
+  // The logger object
+  private logger: Logger;
+
   constructor(bandId: number, expectedIdList?: string) {
     this.bandId = bandId;
     this.expectedIdList = expectedIdList;
     this.api = new Api();
+    this.logger = new Logger();
     this.init();
   }
 
@@ -46,11 +50,11 @@ export class BandMap {
 
   // Log the final output
   private logFinalOutput() {
-    logThickSeparator();
+    this.logger.logThickSeparator();
 
     this.band?.discography.logRejected();
 
-    logThickSeparator();
+    this.logger.logThickSeparator();
 
     this.band?.discography.logAccepted();
   }
@@ -61,11 +65,11 @@ export class BandMap {
       const idList = this.band?.discography.getAcceptedIdList();
 
       if (idList === this.expectedIdList) {
-        logSuccess(`✓ IDs list matches the expected result: ${idList}`);
+        this.logger.logSuccess(`✓ IDs list matches expectation: ${idList}`);
       } else {
-        logError(`❌ IDs list doesn't match the expected result`);
-        log(`Expected: ${this.expectedIdList}`);
-        log(`Got:      ${idList}`);
+        this.logger.logError(`❌ IDs list doesn't match the expected result`);
+        this.logger.log(`Expected: ${this.expectedIdList}`);
+        this.logger.log(`Got:      ${idList}`);
       }
     }
   }

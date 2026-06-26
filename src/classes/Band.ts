@@ -1,8 +1,6 @@
 import { DISCOGS_ARTIST_URL, OPTION_INCLUDE_CONNECTED_RELEASES } from "../env";
-import { logInfo, logSeparator } from "../log";
 import { DCArtist, DCExtraArtist, DCGroup } from "../types";
 import { clean } from "../utils";
-import { Api } from "./Api";
 import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
@@ -64,8 +62,8 @@ export class Band extends Artist {
 
   // Fetch each of the band members and its connected bands infos
   public async fetchMembersAndConnectedBands(): Promise<void> {
-    logInfo(`👥 ${this.bandMembers.length} member(s)`);
-    logSeparator();
+    this.logger.logInfo(`👥 ${this.bandMembers.length} member(s)`);
+    this.logger.logSeparator();
 
     for (const _member of this.bandMembers) {
       const member = new Artist(
@@ -136,16 +134,16 @@ export class Band extends Artist {
 
   // Nicely log connected bands and their members in common with the main band
   private logConnectedBands(): void {
-    logInfo(`${this.connectedBands.length} connected band(s)`);
-    logSeparator();
+    this.logger.logInfo(`${this.connectedBands.length} connected band(s)`);
+    this.logger.logSeparator();
 
     this.connectedBands.forEach((band) => {
       const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
-      logInfo(`🔗 ${clean(band.band.name)}`);
-      logInfo(`(${url})`);
-      logInfo(`${band.members.length} member(s): ${featuring}`);
-      logSeparator();
+      this.logger.logInfo(`🔗 ${clean(band.band.name)}`);
+      this.logger.logInfo(`(${url})`);
+      this.logger.logInfo(`${band.members.length} member(s): ${featuring}`);
+      this.logger.logSeparator();
     });
   }
 }

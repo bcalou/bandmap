@@ -1,4 +1,4 @@
-export const OPTION_INCLUDE_CONNECTED_RELEASES = true;
+export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
@@ -17,6 +17,7 @@ export const FORMATS = {
     "DVDr",
     "DVD-Video",
     "Limited Edition",
+    "Unofficial Release",
   ],
   eliminatory: ["Compilation", "Single", "Maxi-Single"],
 };

@@ -1,5 +1,5 @@
 import { DISCOGS_ARTIST_URL } from "../env";
-import { logInfo, logSeparator, logSuccess } from "../log";
+import { Logger } from "../log";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
 import { Api } from "./Api";
@@ -17,6 +17,9 @@ export class Artist {
   // The API object
   protected api: Api;
 
+  // The Logger object
+  protected logger: Logger;
+
   // The main band object of the program
   // Undefined if the artist is the band itself
   private mainBand: Band | undefined;
@@ -25,10 +28,13 @@ export class Artist {
     this.artist = artist;
     this.mainBand = mainBand;
     this.api = new Api();
+    this.logger = new Logger();
 
-    logSuccess(`${this.typeIcon} Fetched ${this.type} ${this.name}`);
-    logSuccess(`(${this.url})`);
-    logSeparator();
+    this.logger.logSuccess(
+      `${this.typeIcon} Fetched ${this.type} ${this.name}`
+    );
+    this.logger.logSuccess(`(${this.url})`);
+    this.logger.logSeparator();
   }
 
   get id() {
@@ -80,9 +86,9 @@ export class Artist {
 
     for (const alias of this.aliases) {
       const aliasUrl = `${DISCOGS_ARTIST_URL}${alias.id}`;
-      logInfo(`Looking at ${this.name} alias ${alias.name}`);
-      logInfo(`(${aliasUrl})`);
-      logSeparator();
+      this.logger.logInfo(`Looking at ${this.name} alias ${alias.name}`);
+      this.logger.logInfo(`(${aliasUrl})`);
+      this.logger.logSeparator();
 
       await this.fetchReleasesPage(1, alias);
     }
@@ -97,8 +103,8 @@ export class Artist {
     const count = artistReleases.pagination.items;
 
     if (page === 1) {
-      logInfo(`🎼 ${from.name}: ${count} release(s) found`);
-      logSeparator();
+      this.logger.logInfo(`🎼 ${from.name}: ${count} release(s) found`);
+      this.logger.logSeparator();
     }
 
     await this.analyzeReleases(artistReleases.releases);

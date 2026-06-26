@@ -1,4 +1,4 @@
-import { log, logError, logSeparator, logSuccess, logWarning } from "../log";
+import { Logger } from "../log";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Release } from "./Release";
@@ -11,6 +11,9 @@ export class Discography {
   // The list of releases constituting the discography
   private releases: Release[] = [];
 
+  // The logger object
+  private logger: Logger;
+
   // The list of releases that were considered but not used
   // For some of them, the ArtistRelease object info was enough to reject them,
   // hence the type
@@ -21,21 +24,23 @@ export class Discography {
     reason: RejectReason;
   }[] = [];
 
-  constructor() {}
+  constructor() {
+    this.logger = new Logger();
+  }
 
   // Add a release to the discography
   public addAccepted(release: Release) {
-    logSuccess(`💿 ${release.label}`);
-    log(release.formattedCredits);
-    logSeparator();
+    this.logger.logSuccess(`💿 ${release.label}`);
+    this.logger.log(release.formattedCredits);
+    this.logger.logSeparator();
     this.releases.push(release);
   }
 
   // Add a release to the rejected list
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
-    logError(`❌ ${artistRelease.label}`);
-    logError(`${reason}`);
-    logSeparator();
+    this.logger.logError(`❌ ${artistRelease.label}`);
+    this.logger.logError(`${reason}`);
+    this.logger.logSeparator();
     this.rejectedReleases.push({ artistRelease, reason });
   }
 
@@ -58,37 +63,39 @@ export class Discography {
   // Sort releases by release date
   public sort() {
     this.releases.sort((release1, release2) =>
-      release1.formattedDate.localeCompare(release2.formattedDate)
+      release1.formattedDate.localeCompare(release2.formattedDate),
     );
 
     this.rejectedReleases.sort((release1, release2) =>
       release1.artistRelease.year
         .toString()
-        .localeCompare(release2.artistRelease.year.toString())
+        .localeCompare(release2.artistRelease.year.toString()),
     );
   }
 
   // Log the list of accepted releases
   public logAccepted() {
-    logSuccess(`${this.releases.length} release(s):`);
-    logSeparator();
+    this.logger.logSuccess(`${this.releases.length} release(s):`);
+    this.logger.logSeparator();
 
     this.releases.forEach((release) => {
-      logSuccess(`💿 ${release.label}`);
-      log(release.formattedCredits);
-      logSeparator();
+      this.logger.logSuccess(`💿 ${release.label}`);
+      this.logger.log(release.formattedCredits);
+      this.logger.logSeparator();
     });
   }
 
   // Log the list of rejected releases and the reject reason
   public logRejected() {
-    logWarning(`${this.rejectedReleases.length} rejected release(s):`);
-    logSeparator();
+    this.logger.logWarning(
+      `${this.rejectedReleases.length} rejected release(s):`,
+    );
+    this.logger.logSeparator();
 
     this.rejectedReleases.forEach((release) => {
-      logWarning(`❌ ${release.artistRelease.label}`);
-      log(`(${release.reason})`);
-      logSeparator();
+      this.logger.logWarning(`❌ ${release.artistRelease.label}`);
+      this.logger.log(`(${release.reason})`);
+      this.logger.logSeparator();
     });
   }
 

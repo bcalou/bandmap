@@ -1,5 +1,5 @@
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { log, logWarning } from "../log";
+import { Logger } from "../log";
 import { DCVersion, RejectReason } from "../types";
 import { Release } from "./Release";
 
@@ -11,8 +11,12 @@ export class Formats {
   // The associated release
   private release: Release;
 
+  // The logger object
+  private logger: Logger;
+
   constructor(release: Release) {
     this.release = release;
+    this.logger = new Logger();
   }
 
   get formats() {
@@ -59,7 +63,7 @@ export class Formats {
   private async hasVersionWithValidFormat(): Promise<boolean> {
     if (!this.release.masterId) return false;
 
-    logWarning(
+    this.logger.logWarning(
       `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`
     );
 
@@ -77,10 +81,10 @@ export class Formats {
   // Is the format list valid for this version?
   // Return true if valid, false if eliminatory, else null
   private analyzeVersionFormat(version: DCVersion): boolean | null {
-    log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
+    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
-    log(`💿 Format: ${this.printFormats(formats)}`);
+    this.logger.log(`💿 Format: ${this.printFormats(formats)}`);
 
     if (this.isEliminatoryFormatList(formats)) {
       return false;

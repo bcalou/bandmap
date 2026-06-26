@@ -1,7 +1,7 @@
+import { DISCOGS_RELEASE_URL } from "../env";
+import { Logger } from "../log";
+import { DCRelease, DCVersions, RejectReason } from "../types";
 import { Api, PER_PAGE } from "./Api";
-import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { log, logError, logWarning } from "../log";
-import { DCRelease, DCVersion, DCVersions, RejectReason } from "../types";
 import { Band } from "./Band";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
@@ -32,6 +32,9 @@ export class Release {
   // The api object
   private api: Api;
 
+  // The logger object
+  private logger: Logger;
+
   constructor(release: DCRelease, mainBand: Band) {
     this.release = release;
     this.mainBand = mainBand;
@@ -39,6 +42,7 @@ export class Release {
     this.formats = new Formats(this);
     this.releaseDate = new ReleaseDate(this);
     this.api = new Api();
+    this.logger = new Logger();
   }
 
   get id() {
@@ -121,7 +125,7 @@ export class Release {
 
     if (count === 0) return this.versionsList;
 
-    log(
+    this.logger.log(
       `🗃️ Looking at ${count} alternate version(s)${
         count > PER_PAGE ? ` (limiting to ${PER_PAGE})` : ""
       }`
@@ -132,7 +136,7 @@ export class Release {
 
   // Fetch the version or return the one already fetched
   public async getVersion(versionId: number): Promise<Release | null> {
-    log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
+    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
       (_version) => _version.release.id === versionId

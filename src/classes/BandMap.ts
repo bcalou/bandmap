@@ -32,9 +32,8 @@ export class BandMap {
 
   // Main sequence of events
   private async init() {
-    new Api();
-
     const band = await this.api.getArtist(this.bandId);
+    this.logger.initLogFile(`./logs/bands/${band.id}_${band.name}.txt`);
     this.band = new Band(band);
 
     await this.band.fetchMembersAndConnectedBands();

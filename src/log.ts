@@ -18,19 +18,21 @@ export class Logger {
   // Le chemin du fichier dans lequel stocker les informations
   private filename: string | undefined;
 
-  constructor(filename?: string) {
+  constructor() {
     if (!!Logger.instance) {
       return Logger.instance;
     }
 
     Logger.instance = this;
-
-    if (filename) {
-      this.filename = filename;
-      fs.writeFileSync("", filename);
-    }
   }
 
+  // Create or reset a file in which the logs will be written
+  public initLogFile(filename: string) {
+    this.filename = filename;
+    fs.writeFileSync(filename, "");
+  }
+
+  // Main log function
   public log(message: string, type?: "info" | "error" | "success" | "warning") {
     if (!message) return;
 
@@ -43,26 +45,32 @@ export class Logger {
     );
   }
 
+  // Log an error
   public logError(message: string) {
     this.log(message, "error");
   }
 
+  // Log an info
   public logInfo(message: string) {
     this.log(message, "info");
   }
 
+  // Log a success
   public logSuccess(message: string) {
     this.log(message, "success");
   }
 
+  // Log a warning
   public logWarning(message: string) {
     this.log(message, "warning");
   }
 
+  // Log an horizontal line
   public logSeparator() {
     this.log("———————————————————————————————————————————————————————————————");
   }
 
+  // Log a thick horizontal line
   public logThickSeparator() {
     this.log("███████████████████████████████████████████████████████████████");
     this.logSeparator();

@@ -85,9 +85,9 @@ export class Credits {
     }
 
     this.logger.log(versions.pagination.pages.toString())
-    if (versions.pagination.pages > page) {
+
+    if (versions.pagination.pages > page)
       return await this.lookForCreditsInOtherVersions(page + 1);
-    }
 
     return "Band release with no credits other than writing";
   }

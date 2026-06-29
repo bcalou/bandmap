@@ -1,5 +1,5 @@
-import { Logger } from "./Logger";
 import { DCVersion } from "../types";
+import { Logger } from "./Logger";
 import { Release } from "./Release";
 
 enum DateQuality {
@@ -56,7 +56,7 @@ export class ReleaseDate {
 
   // Find a better date for the release
   private async findBetterDate(): Promise<void> {
-    for (const version of (await this.release.getVersionsList()).versions) {
+    for (const version of (await this.release.getVersions()).versions) {
       if (this.year && version.released !== this.year) {
         this.logger.logWarning(`🗓️ No more versions for year ${this.year}`);
         break;

@@ -1,8 +1,8 @@
-import { OPTION_INCLUDE_CONNECTED_RELEASES, ROLES } from "../env";
-import { Logger } from "./Logger";
+import { ROLES } from "../env";
 import { DCExtraArtist, DCVersion, RejectReason } from "../types";
 import { Artist } from "./Artist";
 import { Band } from "./Band";
+import { Logger } from "./Logger";
 import { Release } from "./Release";
 
 type Credit = {
@@ -48,7 +48,7 @@ export class Credits {
 
     if (this.credits.length === 0) {
       this.logger.logWarning(
-        `No valid creditlengths found for "${this.release.title}"`
+        `No valid credit found for "${this.release.title}"`,
       );
 
       return this.lookForCreditsInOtherVersions();
@@ -71,13 +71,22 @@ export class Credits {
   }
 
   // Look for valid credits in other versions of the release
-  private async lookForCreditsInOtherVersions(): Promise<RejectReason | null> {
-    for (const version of (await this.release.getVersionsList()).versions) {
+  private async lookForCreditsInOtherVersions(
+    page = 1,
+  ): Promise<RejectReason | null> {
+    const versions = await this.release.getVersions(page);
+
+    for (const version of versions.versions) {
       if (await this.versionHasValidCredits(version)) {
         this.logger.log(`Found credits`);
 
         return null;
       }
+    }
+
+    this.logger.log(versions.pagination.pages.toString())
+    if (versions.pagination.pages > page) {
+      return await this.lookForCreditsInOtherVersions(page + 1);
     }
 
     return "Band release with no credits other than writing";
@@ -118,10 +127,10 @@ export class Credits {
   // Append the extra artist infos to the credits list
   private appendExtraArtistToCredits(
     credits: Credit[],
-    extraArtist: DCExtraArtist
+    extraArtist: DCExtraArtist,
   ): Credit[] {
     const member = this.mainBand.members.find((member) =>
-      member.matchesId(extraArtist.id)
+      member.matchesId(extraArtist.id),
     );
 
     let credit = credits.find((credit) => member?.matchesId(credit.artist.id));

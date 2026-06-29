@@ -1,6 +1,6 @@
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { Logger } from "./Logger";
 import { DCVersion, RejectReason } from "../types";
+import { Logger } from "./Logger";
 import { Release } from "./Release";
 
 /**
@@ -67,7 +67,7 @@ export class Formats {
       `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`
     );
 
-    for (const version of (await this.release.getVersionsList()).versions) {
+    for (const version of (await this.release.getVersions()).versions) {
       const isValidVersion = this.analyzeVersionFormat(version);
 
       if (isValidVersion === null) continue;

@@ -37,7 +37,7 @@ declare module "disconnect" {
     getArtistReleases(id: number, options?: PaginationOptions): Promise<any>;
     getRelease(id: number): Promise<any>;
     getMaster(id: number): Promise<any>;
-    getMasterVersions(id: number): Promise<any>;
+    getMasterVersions(id: number, options?: PaginationOptions): Promise<any>;
     search(
       query: string,
       options?: { type?: string; page?: number; per_page?: number }

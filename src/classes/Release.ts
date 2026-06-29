@@ -1,10 +1,10 @@
 import { DISCOGS_RELEASE_URL, GENRES } from "../env";
-import { Logger } from "./Logger";
 import { DCRelease, DCVersions, RejectReason } from "../types";
-import { Api, PER_PAGE } from "./Api";
+import { Api } from "./Api";
 import { Band } from "./Band";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
+import { Logger } from "./Logger";
 import { ReleaseDate } from "./ReleaseDate";
 
 export class Release {
@@ -26,8 +26,8 @@ export class Release {
   // Versions of the same releases
   private versions: Release[] = [];
 
-  // List of versions
-  private versionsList: DCVersions | undefined = undefined;
+  // List of versions pages
+  private versionsList: DCVersions[] = [];
 
   // The api object
   private api: Api;
@@ -123,20 +123,17 @@ export class Release {
   }
 
   // Return the version list (possibly cached)
-  public async getVersionsList(): Promise<DCVersions> {
-    if (!this.versionsList) this.versionsList = await this.fetchVersions();
+  public async getVersions(page = 1): Promise<DCVersions> {
+    if (!this.versionsList[page - 1])
+      this.versionsList[page - 1] = await this.fetchVersions(page);
 
-    const count = this.versionsList.pagination.items;
+    const count = this.versionsList[page - 1].pagination.items;
 
-    if (count === 0) return this.versionsList;
+    if (count === 0) return this.versionsList[page - 1];
 
-    this.logger.log(
-      `🗃️ Looking at ${count} alternate version(s)${
-        count > PER_PAGE ? ` (limiting to ${PER_PAGE})` : ""
-      }`
-    );
+    this.logger.log(`🗃️ Looking at ${count} alternate version(s)`);
 
-    return this.versionsList;
+    return this.versionsList[page - 1];
   }
 
   // Fetch the version or return the one already fetched
@@ -144,7 +141,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId
+      (_version) => _version.release.id === versionId,
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -154,7 +151,7 @@ export class Release {
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand
+      this.mainBand,
     );
     this.versions.push(version);
     return version;
@@ -166,13 +163,13 @@ export class Release {
   }
 
   // Fetch the versions list and remove the version matching the current release
-  private async fetchVersions(): Promise<DCVersions> {
+  private async fetchVersions(page = 1): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
-    const versions = await this.api.getVersions(this.masterId);
+    const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
     versions.pagination.items--;
 

@@ -1,3 +1,7 @@
+import Database from "better-sqlite3";
+import * as Discogs from "disconnect";
+import path from "path";
+import { ZodObject } from "zod";
 import {
   DCArtist,
   DCArtistReleases,
@@ -5,10 +9,6 @@ import {
   DCRelease,
   DCVersions,
 } from "../types";
-import * as Discogs from "disconnect";
-import Database from "better-sqlite3";
-import path from "path";
-import { ZodObject } from "zod";
 
 export const DELAY = 1000;
 export const PER_PAGE = 100;
@@ -51,20 +51,20 @@ export class Api {
     return this.getCached<DCArtist>(
       key,
       () => this.discogs.getArtist(id),
-      DCArtist
+      DCArtist,
     );
   }
 
   public async getArtistReleases(
     id: number,
-    page = 1
+    page = 1,
   ): Promise<DCArtistReleases> {
     const key = `artist_releases_${id}_${page}`;
     return this.getCached<DCArtistReleases>(
       key,
       () =>
-        this.discogs.getArtistReleases(id, { page: page, per_page: PER_PAGE }),
-      DCArtistReleases
+        this.discogs.getArtistReleases(id, { page, per_page: PER_PAGE }),
+      DCArtistReleases,
     );
   }
 
@@ -73,7 +73,7 @@ export class Api {
     return this.getCached<DCRelease>(
       key,
       () => this.discogs.getRelease(id),
-      DCRelease
+      DCRelease,
     );
   }
 
@@ -82,16 +82,17 @@ export class Api {
     return this.getCached<DCMaster>(
       key,
       () => this.discogs.getMaster(id),
-      DCMaster
+      DCMaster,
     );
   }
 
-  public async getVersions(id: number): Promise<DCVersions> {
-    const key = `versions_${id}`;
+  public async getVersions(id: number, page = 1): Promise<DCVersions> {
+    const key = `versions_${id}_${page}`;
     return this.getCached<DCVersions>(
       key,
-      () => this.discogs.getMasterVersions(id),
-      DCVersions
+      () =>
+        this.discogs.getMasterVersions(id, { page, per_page: PER_PAGE }),
+      DCVersions,
     );
   }
 
@@ -121,7 +122,7 @@ export class Api {
   private async getCached<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject
+    parser: ZodObject,
   ): Promise<ResultType> {
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
@@ -136,7 +137,7 @@ export class Api {
   private async fetchAndCache<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject
+    parser: ZodObject,
   ): Promise<ResultType> {
     const data = await fetcher();
     await this.delay();

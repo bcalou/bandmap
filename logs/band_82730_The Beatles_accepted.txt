@@ -1,139 +1,316 @@
 ███████████████████████████████████████████████████████████████
 ———————————————————————————————————————————————————————————————
-45 release(s):
+49 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1963-03-22 - The Beatles - "Please Please Me"
 (https://www.discogs.com/release/1350468-The-Beatles-Please-Please-Me)
+George Harrison: Lead Guitar, Vocals
+John Lennon: Rhythm Guitar, Vocals
+Paul McCartney: Bass Guitar, Vocals
+Richard Starkey: Drums, Vocals
 ———————————————————————————————————————————————————————————————
 💿 1963-11-22 - The Beatles - "With The Beatles"
 (https://www.discogs.com/release/768729-The-Beatles-With-The-Beatles)
+George Harrison: Vocals, Lead Guitar, Backing Vocals, Lead Vocals, Written-By, Acoustic Guitar
+John Lennon: Vocals, Rhythm Guitar, Lead Vocals, Backing Vocals, Tambourine, Mouth Organ, Acoustic Guitar, Electric Organ [Hammond]
+Paul McCartney: Vocals, Bass, Backing Vocals, Lead Vocals, Claves, Piano
+Richard Starkey: Vocals, Drums, Bongos [Arabian], Bongos, Lead Vocals, Maracas
 ———————————————————————————————————————————————————————————————
 💿 1964-01-20 - The Beatles - "Meet The Beatles!"
 (https://www.discogs.com/release/1349112-The-Beatles-Meet-The-Beatles)
+George Harrison: Lead Guitar, Vocals
+John Lennon: Rhythm Guitar, Harmonica, Vocals
+Paul McCartney: Electric Bass, Vocals
+Richard Starkey: Drums, Vocals
 ———————————————————————————————————————————————————————————————
 💿 1964-04-10 - The Beatles - "The Beatles' Second Album"
 (https://www.discogs.com/release/3220469-The-Beatles-The-Beatles-Second-Album)
-———————————————————————————————————————————————————————————————
-💿 1964-04-27 - The Beatles - "Long Tall Sally"
-(https://www.discogs.com/release/1949916-The-Beatles-Long-Tall-Sally)
+George Harrison: Performer [Electrifying Big-Beat Performances By]
+John Lennon: Performer [Electrifying Big-Beat Performances By]
+Paul McCartney: Performer [Electrifying Big-Beat Performances By]
+Richard Starkey: Performer [Electrifying Big-Beat Performances By]
 ———————————————————————————————————————————————————————————————
 💿 1964-06-26 - The Beatles - "A Hard Day's Night (Original Motion Picture Sound Track)"
 (https://www.discogs.com/release/1017762-The-Beatles-A-Hard-Days-Night-Original-Motion-Picture-Sound-Track)
+George Harrison: Performer [The Beatles:]
+John Lennon: Performer [The Beatles:]
+Paul McCartney: Performer [The Beatles:]
+Richard Starkey: Performer [The Beatles:]
 ———————————————————————————————————————————————————————————————
 💿 1964-07-10 - The Beatles - "A Hard Day's Night"
 (https://www.discogs.com/release/4953644-The-Beatles-A-Hard-Days-Night)
+George Harrison: Vocals, Lead Guitar
+John Lennon: Rhythm Guitar, Vocals, Harmonica, Tambourine
+Paul McCartney: Vocals, Bass, Piano
+Richard Starkey: Drums, Bongos, Vocals
 ———————————————————————————————————————————————————————————————
 💿 1964-07-20 - The Beatles - "Something New"
 (https://www.discogs.com/release/851584-The-Beatles-Something-New)
-———————————————————————————————————————————————————————————————
-💿 1964-11-23 - The Beatles - "The Beatles' Story"
-(https://www.discogs.com/release/962004-The-Beatles-The-Beatles-Story)
+John Lennon: Written-By
+Paul McCartney: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1964-12-04 - The Beatles - "Beatles For Sale"
 (https://www.discogs.com/release/651143-The-Beatles-Beatles-For-Sale)
+George Harrison: Drum [African]
+John Lennon: Piano
+Paul McCartney: Piano, Electric Organ [Hammond Organ]
+Richard Starkey: Timpani
 ———————————————————————————————————————————————————————————————
 💿 1964-12-15 - The Beatles - "Beatles '65"
 (https://www.discogs.com/release/4893517-The-Beatles-Beatles-65)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
 ———————————————————————————————————————————————————————————————
 💿 1965-06-14 - The Beatles - "Beatles VI"
 (https://www.discogs.com/release/611459-The-Beatles-Beatles-VI)
+George Harrison: Vocals, Written-By
+John Lennon: Vocals
+Paul McCartney: Vocals
 ———————————————————————————————————————————————————————————————
 💿 1965-08-06 - The Beatles - "Help!"
 (https://www.discogs.com/release/735564-The-Beatles-Help)
+George Harrison: Lead Guitar, Written-By
+John Lennon: Electric Piano
+Paul McCartney: Guitar, Piano [Steinway]
 ———————————————————————————————————————————————————————————————
 💿 1965-08-13 - The Beatles - "Help! (Original Motion Picture Soundtrack)"
 (https://www.discogs.com/release/478424-The-Beatles-Help-Original-Motion-Picture-Soundtrack)
+George Harrison: Acoustic Guitar [Uncredited], Backing Vocals [Uncredited], Lead Guitar [Uncredited], Lead Vocals [Double Tracked, Uncredited], Written-By, Lead Vocals [Uncredited]
+John Lennon: Acoustic Guitar [Uncredited], Backing Vocals [Uncredited], Lead Vocals [Uncredited], Electric Piano [Uncredited], Rhythm Guitar, Tambourine [Uncredited]
+Paul McCartney: Acoustic Guitar [Uncredited], Backing Vocals [Uncredited], Bass [Uncredited], Lead Vocals [Uncredited], Lead Vocals, Lead Guitar [Uncredited], Lead Guitar, Harmony Vocals [Uncredited], Piano [Uncredited]
+Richard Starkey: Drums [Uncredited], Tambourine [Uncredited], Bongos [Uncredited]
 ———————————————————————————————————————————————————————————————
 💿 1965-12-03 - The Beatles - "Rubber Soul"
 (https://www.discogs.com/release/5501695-The-Beatles-Rubber-Soul)
+George Harrison: Written-By, Sitar
+Paul McCartney: Piano, Bass [Fuzz]
+Richard Starkey: Written-By, Organ [Hammond]
 ———————————————————————————————————————————————————————————————
 💿 1966-08-05 - The Beatles - "Revolver"
 (https://www.discogs.com/release/2318045-The-Beatles-Revolver)
+George Harrison: Written-By, Lead Vocals
+John Lennon: Lead Vocals
+Paul McCartney: Lead Vocals
+Richard Starkey: Lead Vocals
 ———————————————————————————————————————————————————————————————
 💿 1967-05-26 - The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
 (https://www.discogs.com/release/499497-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band)
+George Harrison: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1967-12-06 - The Beatles - "Magical Mystery Tour"
 (https://www.discogs.com/release/464292-The-Beatles-Magical-Mystery-Tour)
+George Harrison: Written-By
+John Lennon: Written-By
+Paul McCartney: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1968 - The Beatles - "The Beatles Volume One"
 (https://www.discogs.com/release/24075866-The-Beatles-The-Beatles-Volume-One)
+George Harrison: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1968-11-22 - The Beatles - "The Beatles"
 (https://www.discogs.com/release/456663-The-Beatles-The-Beatles)
+George Harrison: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1969 - The Beatles - "The Beatles Vol. II"
 (https://www.discogs.com/release/6667782-The-Beatles-The-Beatles-Vol-II)
+George Harrison: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1969-01-17 - The Beatles - "Yellow Submarine"
 (https://www.discogs.com/release/651180-The-Beatles-Yellow-Submarine)
+George Harrison: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1969-09-26 - The Beatles - "Abbey Road"
 (https://www.discogs.com/release/2607424-The-Beatles-Abbey-Road)
+George Harrison: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1970-05-08 - The Beatles - "Let It Be"
 (https://www.discogs.com/release/5787944-The-Beatles-Let-It-Be)
+George Harrison: Written-By, Arranged By
+John Lennon: Written-By, Arranged By
+Paul McCartney: Written-By, Arranged By
+Richard Starkey: Written-By, Arranged By
 ———————————————————————————————————————————————————————————————
 💿 1976-07-30 - The Beatles, David Wigg - "The Beatles Tapes From The David Wigg Interviews"
 (https://www.discogs.com/release/889101-The-Beatles-David-Wigg-The-Beatles-Tapes-From-The-David-Wigg-Interviews)
+George Harrison: Written-By
+John Lennon: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1977 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962"
 (https://www.discogs.com/release/1113880-The-Beatles-Live-At-The-Star-Club-In-Hamburg-Germany-1962)
+George Harrison: Featuring
+John Lennon: Featuring
+Paul McCartney: Featuring
+Richard Starkey: Featuring
+Stuart Sutcliffe: Featuring
 ———————————————————————————————————————————————————————————————
 💿 1977-05-06 - The Beatles - "The Beatles At The Hollywood Bowl"
 (https://www.discogs.com/release/722725-The-Beatles-The-Beatles-At-The-Hollywood-Bowl)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
+———————————————————————————————————————————————————————————————
+💿 1978-11-10 - The Beatles - "The Beatles Collection"
+(https://www.discogs.com/release/2023842-The-Beatles-The-Beatles-Collection)
+George Harrison: Written-By
+Richard Starkey: Written-By
 ———————————————————————————————————————————————————————————————
 💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume One)"
 (https://www.discogs.com/release/2010331-The-Beatles-1st-Live-Recordings-Volume-One)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
 ———————————————————————————————————————————————————————————————
 💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume Two)"
 (https://www.discogs.com/release/2449750-The-Beatles-1st-Live-Recordings-Volume-Two)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
 ———————————————————————————————————————————————————————————————
-💿 1983-12-30 - The Beatles - "The Hamburg Tapes Volume 1"
-(https://www.discogs.com/release/2628099-The-Beatles-The-Hamburg-Tapes-Volume-1)
+💿 1982 - The Beatles - "Mono Collection"
+(https://www.discogs.com/release/4766123-The-Beatles-Mono-Collection)
+George Harrison: Guitar, Composed By, Chorus, Vocals [Occasonally], Vocals, Sitar, Lead Vocals
+John Lennon: Guitar, Vocals [Double Tracked], Vocals [Mainly], Vocals [Short Passages], Vocals, Electric Piano, Flute, Composed By, Lead Vocals
+Paul McCartney: Bass Guitar, Vocals [Occasionally], Vocals [Short Passages], Vocals, Vocals [Double Tracked Here And There], Guitar, Piano [Steinway], Electric Piano, Piano, Bass [Fuzz], Composed By, Lead Vocals
+Richard Starkey: Drums, Vocals, Composed By, Organ [Hammond], Lead Vocals
 ———————————————————————————————————————————————————————————————
-💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
-(https://www.discogs.com/release/3021718-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-1)
-———————————————————————————————————————————————————————————————
-💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)"
-(https://www.discogs.com/release/3021754-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-2)
+💿 1982 - The Beatles - "The Collection"
+(https://www.discogs.com/release/2914755-The-Beatles-The-Collection)
+George Harrison: Written-By, Arranged By
+John Lennon: Written-By, Arranged By
+Paul McCartney: Written-By, Arranged By
+Richard Starkey: Written-By, Arranged By
 ———————————————————————————————————————————————————————————————
 💿 1987 - The Beatles - "From Britain... With Beat!"
 (https://www.discogs.com/release/4899785-The-Beatles-From-Britain-With-Beat)
-———————————————————————————————————————————————————————————————
-💿 1987 - The Beatles - "Moviemania!"
-(https://www.discogs.com/release/3839106-The-Beatles-Moviemania)
+George Harrison: Interviewee
+John Lennon: Interviewee
+Paul McCartney: Interviewee
+Richard Starkey: Interviewee
 ———————————————————————————————————————————————————————————————
 💿 1988 - The Beatles - "Here There And Everywhere"
 (https://www.discogs.com/release/5081306-The-Beatles-Here-There-And-Everywhere)
+George Harrison: Interviewee
+John Lennon: Interviewee
+Paul McCartney: Interviewee
+Richard Starkey: Interviewee
 ———————————————————————————————————————————————————————————————
-💿 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
-(https://www.discogs.com/release/1436372-The-Beatles-Live-At-The-Star-Club-In-Hamburg-Germany-1962-Vol-1)
+💿 1994-11-30 - The Beatles - "Live At The BBC"
+(https://www.discogs.com/release/1461424-The-Beatles-Live-At-The-BBC)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
 ———————————————————————————————————————————————————————————————
 💿 1995-11-20 - The Beatles - "Anthology 1"
 (https://www.discogs.com/release/864767-The-Beatles-Anthology-1)
+George Harrison: Acoustic Guitar, Lead Guitar, Slide Guitar, Soloist [Slide], Producer, Vocals [New Vocals], Written-By [Beatles Version], Guitar, Written-By, Lead Guitar [Opening Passage], Backing Vocals, Performer, Lead Vocals, Twelve-String Guitar, Soloist
+John Lennon: Producer, Vocals, Piano, Written-By [Beatles Version], Written-By [Original Composition], Interviewee, Guitar, Lead Vocals, Vocals [Spoken Middle Section], Performer, Written-By, Backing Vocals, Harmonica, Lead Guitar, Vocals [Guide Vocal]
+Paul McCartney: Acoustic Guitar, Bass, Piano, Producer, Vocals [New Vocals], Written-By [Beatles Version], Guitar, Harmony Vocals [High Harmonies], Written-By, Interviewee, Lead Vocals, Backing Vocals [Background Shouts], Performer, Vocals
+Pete Best: Drums, Performer
+Richard Starkey: Drums, Producer, Vocals [New Vocals], Written-By [Beatles Version], Performer, Lead Vocals
+Stuart Sutcliffe: Bass, Guitar
 ———————————————————————————————————————————————————————————————
 💿 1996-03-18 - The Beatles - "Anthology 2"
 (https://www.discogs.com/release/501599-The-Beatles-Anthology-2)
+George Harrison: Producer, Vocals, Written-By
+John Lennon: Producer, Written-By, Vocals
+Paul McCartney: Producer
+Richard Starkey: Producer, Vocals
 ———————————————————————————————————————————————————————————————
 💿 1996-10-28 - The Beatles - "Anthology 3"
 (https://www.discogs.com/release/431433-The-Beatles-Anthology-3)
+George Harrison: Written-By
+Paul McCartney: Written-By
+Richard Starkey: Written-By
+———————————————————————————————————————————————————————————————
+💿 2001-09-10 - The Beatles, Tony Sheridan - "Beatles Bop - Hamburg Days"
+(https://www.discogs.com/release/8073111-The-Beatles-With-Tony-Sheridan-Beatles-Bop-Hamburg-Days)
+George Harrison: Written-By
+John Lennon: Written-By
 ———————————————————————————————————————————————————————————————
 💿 2003-11-17 - The Beatles - "Let It Be... Naked"
 (https://www.discogs.com/release/375500-The-Beatles-Let-It-Be-Naked)
+George Harrison: Arranged By, Composed By
+John Lennon: Arranged By, Composed By
+Paul McCartney: Arranged By
+Richard Starkey: Arranged By, Composed By
+———————————————————————————————————————————————————————————————
+💿 2004-11-16 - The Beatles - "The Capitol Albums Vol.1"
+(https://www.discogs.com/release/2668008-The-Beatles-The-Capitol-Albums-Vol1)
+George Harrison: Written-By
+———————————————————————————————————————————————————————————————
+💿 2006-04-11 - The Beatles - "The Capitol Albums Vol.2"
+(https://www.discogs.com/release/922554-The-Beatles-The-Capitol-Albums-Vol2)
+George Harrison: Written-By
 ———————————————————————————————————————————————————————————————
 💿 2006-11-20 - The Beatles - "Love"
 (https://www.discogs.com/release/842126-The-Beatles-Love)
+George Harrison: Musician [Music & Inspiration], Songwriter
+John Lennon: Musician [Music & Inspiration]
+Paul McCartney: Musician [Music & Inspiration]
+Richard Starkey: Musician [Music & Inspiration], Songwriter
+———————————————————————————————————————————————————————————————
+💿 2009-09-09 - The Beatles - "The Beatles"
+(https://www.discogs.com/release/1919340-The-Beatles-The-Beatles)
+George Harrison: Lead Guitar, Written-By, Chorus, Lead Vocals [Occasionally], Lead Vocals, Sitar, Composed By, Synthesizer [Moog], Arranged By
+John Lennon: Rhythm Guitar, Lead Vocals [Double Tracked], Lead Vocals [Mainly], Lead Vocals [Short Passages], Lead Vocals, Electric Piano, Flute, Written-By, Arranged By, Harmonica
+Paul McCartney: Bass Guitar, Liner Notes [Cd8], Lead Vocals [Occasionally], Lead Vocals [Short Passages], Lead Vocals, Lead Vocals [Double Tracked Here And There], Guitar, Piano [Steinway], Electric Piano, Piano, Bass [Fuzz Bass], Written-By, Arranged By
+Richard Starkey: Drums, Lead Vocals, Composed By, Organ [Hammond], Written-By, Arranged By
+———————————————————————————————————————————————————————————————
+💿 2009-09-09 - The Beatles - "The Beatles In Mono"
+(https://www.discogs.com/release/1920733-The-Beatles-The-Beatles-In-Mono)
+George Harrison: Lead Guitar, Composed By, Chorus, Vocals [Occasonally], Vocals, Sitar, Lead Vocals
+John Lennon: Rhythm Guitar, Vocals [Double Tracked], Vocals [Mainly], Vocals [Short Passages], Vocals, Electric Piano, Flute, Composed By, Lead Vocals
+Paul McCartney: Bass Guitar, Vocals [Occasionally], Vocals [Short Passages], Vocals, Vocals [Double Tracked Here And There], Guitar, Piano [Steinway], Electric Piano, Piano, Bass [Fuzz], Composed By, Lead Vocals
+Richard Starkey: Drums, Vocals, Composed By, Organ [Hammond], Lead Vocals
 ———————————————————————————————————————————————————————————————
 💿 2013-11-08 - The Beatles - "On Air - Live At The BBC Volume 2"
 (https://www.discogs.com/release/5079564-The-Beatles-On-Air-Live-At-The-BBC-Volume-2)
+George Harrison: Performer [The Beatles], Speech, Interviewee
+John Lennon: Performer [The Beatles], Speech, Interviewee
+Paul McCartney: Performer [The Beatles], Sleeve Notes [Introduction], Speech, Interviewee
+Richard Starkey: Performer [The Beatles], Interviewee
 ———————————————————————————————————————————————————————————————
-💿 2013-12-17 - The Beatles - "Bootleg Recordings 1963"
-(https://www.discogs.com/release/5200022-The-Beatles-Bootleg-Recordings-1963)
+💿 2013-11-11 - The Beatles - "Live At The BBC - The Collection (Vol. 1 & 2)"
+(https://www.discogs.com/release/5102759-The-Beatles-Live-At-The-BBC-The-Collection-Vol-1-2)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Liner Notes [Introduction On Vol. 2], Performer
+Richard Starkey: Performer
+———————————————————————————————————————————————————————————————
+💿 2014-01-17 - The Beatles - "The U.S. Albums"
+(https://www.discogs.com/release/5338386-The-Beatles-The-US-Albums)
+George Harrison: Composed By
+Richard Starkey: Composed By
 ———————————————————————————————————————————————————————————————
 💿 2016-11-18 - The Beatles - "Live At The Hollywood Bowl"
 (https://www.discogs.com/release/9345562-The-Beatles-Live-At-The-Hollywood-Bowl)
+George Harrison: Performer
+John Lennon: Performer
+Paul McCartney: Performer
+Richard Starkey: Performer
 ———————————————————————————————————————————————————————————————
 💿 2022-01-28 - The Beatles - "Get Back - The Rooftop Performance"
 (https://www.discogs.com/release/22314403-The-Beatles-Get-Back-The-Rooftop-Performance)
+George Harrison: Guitar, Vocals
+John Lennon: Guitar, Vocals
+Paul McCartney: Bass, Vocals
+Richard Starkey: Drums
+———————————————————————————————————————————————————————————————
+💿 2025-11-21 - The Beatles - "Anthology 4"
+(https://www.discogs.com/release/35598649-The-Beatles-Anthology-4)
+George Harrison: Producer, Written-By, Written-By [Beatles Version By]
+John Lennon: Producer, Composed By [Original Composition By], Written-By [Beatles Version By], Written-By
+Paul McCartney: Producer, Written-By, Written-By [Beatles Version By]
+Richard Starkey: Producer, Written-By, Written-By [Beatles Version By]
 ———————————————————————————————————————————————————————————————

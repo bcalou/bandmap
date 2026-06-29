@@ -1,6 +1,6 @@
 ███████████████████████████████████████████████████████████████
 ———————————————————————————————————————————————————————————————
-9377 rejected release(s):
+9373 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 1958 - The Quarrymen - "That'll Be The Day"
 (https://www.discogs.com/master/748150)
@@ -778,6 +778,10 @@
 (https://www.discogs.com/master/641140)
 (Rejected format(s): Vinyl, 7", 45 RPM, Single Sided, Promo)
 ———————————————————————————————————————————————————————————————
+❌ 1964 - The Beatles - "The Beatles' Story"
+(https://www.discogs.com/master/329854)
+(Band release with no credits other than writing)
+———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Rock And Roll Music"
 (https://www.discogs.com/master/1575132)
 (Rejected format(s): Vinyl, 7", Single)
@@ -865,6 +869,10 @@
 ❌ 1964 - The Beatles!* - "I Feel Fine"
 (https://www.discogs.com/master/929294)
 (Rejected format(s): Vinyl, 7", 45 RPM, EP)
+———————————————————————————————————————————————————————————————
+❌ 1964 - The Beatles - "Long Tall Sally"
+(https://www.discogs.com/master/216645)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Que Noche La De Aquel Dia"
 (https://www.discogs.com/master/1289900)
@@ -972,7 +980,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles Vs The Four Seasons - "The Beatles Vs The Four Seasons"
 (https://www.discogs.com/master/570218)
-(Rejected format(s): Vinyl, LP, Album, Reissue, Mono, Vinyl, LP, Compilation, Reissue, Mono, All Media, Compilation)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Cry For A Shadow / Why"
 (https://www.discogs.com/master/381865)
@@ -4830,6 +4838,10 @@
 (https://www.discogs.com/master/54819)
 (Rejected format(s): Vinyl, LP, Compilation)
 ———————————————————————————————————————————————————————————————
+❌ 1977 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
+(https://www.discogs.com/master/433362)
+(Band release with no credits other than writing)
+———————————————————————————————————————————————————————————————
 ❌ 1977 - Vivaldi Ensemble Tokyo, Shigeru Toyama, Masaaki Hayakawa - "Concerto in E. Op 8 No. 1 "Spring"; The Beatles Medley"
 (https://www.discogs.com/release/14206550)
 (Rejected artist(s): Vivaldi Ensemble Tokyo, Shigeru Toyama, Masaaki Hayakawa)
@@ -5005,10 +5017,6 @@
 ❌ 1978 - The Beatles - "The Beatles"
 (https://www.discogs.com/master/468838)
 (Rejected format(s): Vinyl, 7", 45 RPM, EP)
-———————————————————————————————————————————————————————————————
-❌ 1978 - The Beatles - "The Beatles Collection"
-(https://www.discogs.com/master/59435)
-(Rejected format(s): Box Set, Compilation, Vinyl, LP, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - The Beatles - "The Beatles Singles Collection"
 (https://www.discogs.com/master/372379)
@@ -6078,10 +6086,6 @@
 (https://www.discogs.com/master/199493)
 (Rejected format(s): Vinyl, LP, Limited Edition, Picture Disc)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - The Beatles - "Mono Collection"
-(https://www.discogs.com/master/683556)
-(Rejected format(s): Box Set, Compilation, Repress, Limited Edition, Vinyl, LP, Album, Mono, Reissue)
-———————————————————————————————————————————————————————————————
 ❌ 1982 - The Beatles - "Three Records"
 (https://www.discogs.com/master/381148)
 (Rejected format(s): Vinyl, LP, Compilation, Box Set, Unofficial Release)
@@ -6105,10 +6109,6 @@
 ❌ 1982 - The Beatles - "The Beatles' Movie Medley"
 (https://www.discogs.com/master/79858)
 (Rejected format(s): Vinyl, 7", Single, 45 RPM)
-———————————————————————————————————————————————————————————————
-❌ 1982 - The Beatles - "The Collection"
-(https://www.discogs.com/master/2201920)
-(Rejected format(s): Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Vinyl, LP, Album, Reissue, Remastered, Stereo, Box Set, Compilation, Limited Edition, Numbered)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - The Beatles - "20 Greatest Hits"
 (https://www.discogs.com/master/31261)
@@ -6465,6 +6465,10 @@
 ❌ 1983 - Beatles* - "Expedice R'n'R"
 (https://www.discogs.com/master/1158570)
 (Rejected format(s): Vinyl, LP, Compilation, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1983 - The Beatles - "The Hamburg Tapes Volume 1"
+(https://www.discogs.com/master/1060859)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - The Beatles - "The Number Ones"
 (https://www.discogs.com/master/333201)
@@ -7268,7 +7272,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - The Kinks, The Beatles, Paul Anka - "Tres 33, Nº 9"
 (https://www.discogs.com/master/3318313)
-(Rejected format(s): Vinyl, LP, Album, Stereo, Box Set, Compilation, Reissue)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - The Beatles - "East Coast Invasion!"
 (https://www.discogs.com/master/797144)
@@ -7277,6 +7281,10 @@
 ❌ 1985 - The Beatles - "The Golden Beatles"
 (https://www.discogs.com/master/576364)
 (Rejected genre(s): Non-Music)
+———————————————————————————————————————————————————————————————
+❌ 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)"
+(https://www.discogs.com/master/1060866)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - The Beatles - "The Beatles Live - Ready Steady Go! Special Edition"
 (https://www.discogs.com/master/384603)
@@ -8161,6 +8169,10 @@
 ❌ 1987 - The Beatles - "Best The Beatles Vol. 10"
 (https://www.discogs.com/master/579023)
 (Rejected format(s): CD, Compilation)
+———————————————————————————————————————————————————————————————
+❌ 1987 - The Beatles - "Moviemania!"
+(https://www.discogs.com/master/555619)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - The Beatles - "Interviews II"
 (https://www.discogs.com/master/900226)
@@ -10794,9 +10806,13 @@
 (https://www.discogs.com/master/499817)
 (Rejected format(s): CD, Compilation, Remastered)
 ———————————————————————————————————————————————————————————————
+❌ 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
+(https://www.discogs.com/master/1180927)
+(Band release with no credits other than writing)
+———————————————————————————————————————————————————————————————
 ❌ 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 2)"
 (https://www.discogs.com/master/435995)
-(Rejected format(s): CD, Compilation, Remastered)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - The Beatles - "Press Conferences 1964 - 1966"
 (https://www.discogs.com/master/873166)
@@ -12481,10 +12497,6 @@
 ❌ 1994 - The Beatles - "Birthday / Taxman"
 (https://www.discogs.com/master/1372503)
 (Rejected format(s): Vinyl, 7", 45 RPM, Single, Jukebox, Stereo)
-———————————————————————————————————————————————————————————————
-❌ 1994 - The Beatles - "Live At The BBC"
-(https://www.discogs.com/master/45540)
-(Rejected format(s): Vinyl, LP, Misprint, Remastered, Mono)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - The Beatles - "The Making Of A Hard Day's Night (Featuring The Performance Of "You Can't Do That" Cut From The Original Movie)"
 (https://www.discogs.com/master/891279)
@@ -17106,10 +17118,6 @@
 (https://www.discogs.com/release/36879709)
 (Rejected format(s): DVD, DVD-Video, PAL, Remastered)
 ———————————————————————————————————————————————————————————————
-❌ 2001 - The Beatles With Tony Sheridan - "Beatles Bop - Hamburg Days"
-(https://www.discogs.com/master/954720)
-(Rejected format(s): Box Set, CD, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2001 - The Beatles - "Interviews"
 (https://www.discogs.com/master/2306962)
 (Rejected genre(s): Non-Music)
@@ -19018,10 +19026,6 @@
 (https://www.discogs.com/release/37262139)
 (Rejected format(s): DVD, Multichannel, NTSC)
 ———————————————————————————————————————————————————————————————
-❌ 2004 - The Beatles - "The Capitol Albums Vol.1"
-(https://www.discogs.com/master/303956)
-(Rejected format(s): CD, Album, Reissue, Remastered, Stereo, Mono, CD, Album, Reissue, Remastered, Stereo, Mono, CD, Album, Reissue, Remastered, Stereo, Mono, CD, Album, Reissue, Remastered, Stereo, Mono, Box Set, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2004 - The Beatles - "The Capitol Albums Volume 1 Sampler"
 (https://www.discogs.com/master/1037602)
 (Rejected format(s): CD, Promo, Sampler, Compilation)
@@ -20458,10 +20462,6 @@
 (https://www.discogs.com/master/583909)
 (Rejected genre(s): Non-Music)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - The Beatles - "The Capitol Albums Vol.2"
-(https://www.discogs.com/master/212948)
-(Rejected format(s): Box Set, Compilation, CD, Album, CD, Album, CD, Album, CD, Album, All Media, Reissue, Remastered, Stereo, Mono)
-———————————————————————————————————————————————————————————————
 ❌ 2006 - Various - "Defining Moments"
 (https://www.discogs.com/release/808933)
 (Rejected artist(s): Various)
@@ -21886,17 +21886,9 @@
 (https://www.discogs.com/release/34520428)
 (Rejected format(s): DVD)
 ———————————————————————————————————————————————————————————————
-❌ 2009 - The Beatles - "The Beatles"
-(https://www.discogs.com/master/180645)
-(Rejected format(s): CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Album, Enhanced, Remastered, Stereo, CD, Compilation, Remastered, Stereo, DVD, DVD-Video, NTSC, Box Set, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2009 - The Beatles - "With Love From Me To You "
 (https://www.discogs.com/master/1800249)
-(Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered)
-———————————————————————————————————————————————————————————————
-❌ 2009 - The Beatles - "The Beatles In Mono"
-(https://www.discogs.com/master/490445)
-(Rejected format(s): Box Set, Compilation, Limited Edition, Remastered, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Stereo, Mono, CD, Album, Reissue, Stereo, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Album, Reissue, Mono, CD, Compilation, Mono)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Beat Torrent - "Whole Lotta Love"
 (https://www.discogs.com/release/1910666)
@@ -23766,6 +23758,10 @@
 (https://www.discogs.com/release/37397079)
 (Rejected format(s): Blu-ray, Stereo, Multichannel)
 ———————————————————————————————————————————————————————————————
+❌ 2013 - The Beatles - "Bootleg Recordings 1963"
+(https://www.discogs.com/master/632092)
+(Band release with no credits other than writing)
+———————————————————————————————————————————————————————————————
 ❌ 2013 - The Beatles - "On Air - Live At The BBC Volume 2"
 (https://www.discogs.com/master/610646)
 (Rejected format(s): Vinyl, 7", 45 RPM, EP, Promo, Mono)
@@ -23777,10 +23773,6 @@
 ❌ 2013 - The Beatles - "I Saw Her Standing There"
 (https://www.discogs.com/master/653150)
 (Rejected format(s): CD, Compilation, Partially Unofficial)
-———————————————————————————————————————————————————————————————
-❌ 2013 - The Beatles - "Live At The BBC - The Collection (Vol. 1 & 2)"
-(https://www.discogs.com/master/638130)
-(Rejected format(s): CD, Album, Reissue, Remastered, Mono, CD, Album, Remastered, Mono, Box Set, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Rose Melberg - "September"
 (https://www.discogs.com/release/4348141)
@@ -24257,10 +24249,6 @@
 ❌ 2014 - The Beatles - "Meet The Beatles! (Japan Box)"
 (https://www.discogs.com/master/3368482)
 (Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, Mono, CD, Album, Reissue, Remastered, Mono, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Mono, CD, Album, Reissue, Remastered, Stereo)
-———————————————————————————————————————————————————————————————
-❌ 2014 - The Beatles - "The U.S. Albums"
-(https://www.discogs.com/master/670143)
-(Rejected format(s): CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Stereo, CD, Album, Stereo, Mono, CD, Compilation, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Album, Stereo, Mono, CD, Compilation, Stereo, Box Set, Compilation, Remastered)
 ———————————————————————————————————————————————————————————————
 ❌ 2014 - Dire Straits / The Beatles - "Dire Straits / Revolver"
 (https://www.discogs.com/master/23759)
@@ -28514,13 +28502,9 @@
 (https://www.discogs.com/master/4043188)
 (Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono)
 ———————————————————————————————————————————————————————————————
-❌ 2025 - The Beatles - "Anthology 4"
-(https://www.discogs.com/master/4043479)
-(Rejected format(s): Vinyl, LP, Album, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2025 - The Beatles - "Anthology Collection"
 (https://www.discogs.com/master/4043860)
-(Rejected format(s): Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Compilation, Box Set, Compilation, Limited Edition, Numbered, Stereo, Mono)
+(Band release with no credits other than writing)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - The Beatles - "The Last Radio Show 1965"
 (https://www.discogs.com/master/3913960)

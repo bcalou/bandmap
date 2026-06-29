@@ -1,5 +1,5 @@
 import { DISCOGS_ARTIST_URL } from "../env";
-import { Logger } from "../log";
+import { Logger } from "./Logger";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";
 import { clean } from "../utils";
 import { Api } from "./Api";

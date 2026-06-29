@@ -8,6 +8,7 @@ import {
 import * as Discogs from "disconnect";
 import Database from "better-sqlite3";
 import path from "path";
+import { ZodObject } from "zod";
 
 export const DELAY = 1000;
 export const PER_PAGE = 100;
@@ -47,8 +48,10 @@ export class Api {
   public async getArtist(id: number): Promise<DCArtist> {
     const key = `artist_${id}`;
 
-    return this.getCached<DCArtist>(key, () =>
-      this.discogs.getArtist(id).then((result: any) => DCArtist.parse(result))
+    return this.getCached<DCArtist>(
+      key,
+      () => this.discogs.getArtist(id),
+      DCArtist
     );
   }
 
@@ -57,33 +60,38 @@ export class Api {
     page = 1
   ): Promise<DCArtistReleases> {
     const key = `artist_releases_${id}_${page}`;
-    return this.getCached<DCArtistReleases>(key, () =>
-      this.discogs
-        .getArtistReleases(id, { page: page, per_page: PER_PAGE })
-        .then((result: any) => DCArtistReleases.parse(result))
+    return this.getCached<DCArtistReleases>(
+      key,
+      () =>
+        this.discogs.getArtistReleases(id, { page: page, per_page: PER_PAGE }),
+      DCArtistReleases
     );
   }
 
   public async getRelease(id: number): Promise<DCRelease> {
     const key = `release_${id}`;
-    return this.getCached<DCRelease>(key, () =>
-      this.discogs.getRelease(id).then((result: any) => DCRelease.parse(result))
+    return this.getCached<DCRelease>(
+      key,
+      () => this.discogs.getRelease(id),
+      DCRelease
     );
   }
 
   public async getMaster(id: number): Promise<DCMaster> {
     const key = `master_${id}`;
-    return this.getCached<DCMaster>(key, () =>
-      this.discogs.getMaster(id).then((result: any) => DCMaster.parse(result))
+    return this.getCached<DCMaster>(
+      key,
+      () => this.discogs.getMaster(id),
+      DCMaster
     );
   }
 
   public async getVersions(id: number): Promise<DCVersions> {
     const key = `versions_${id}`;
-    return this.getCached<DCVersions>(key, () =>
-      this.discogs
-        .getMasterVersions(id)
-        .then((result: any) => DCVersions.parse(result))
+    return this.getCached<DCVersions>(
+      key,
+      () => this.discogs.getMasterVersions(id),
+      DCVersions
     );
   }
 
@@ -112,23 +120,23 @@ export class Api {
   // Récupère ou stocke dans le cache
   private async getCached<ResultType>(
     key: string,
-    fetcher: () => Promise<ResultType>
+    fetcher: () => Promise<any>,
+    parser: ZodObject
   ): Promise<ResultType> {
-    if (!this.cache) return this.fetchAndCache<ResultType>(key, fetcher);
-
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
       .get(key) as CacheEntry;
 
     return row
       ? (JSON.parse(row.value) as ResultType)
-      : this.fetchAndCache(key, fetcher);
+      : this.fetchAndCache<ResultType>(key, fetcher, parser);
   }
 
   // Fetch the data and add it to the cache
   private async fetchAndCache<ResultType>(
     key: string,
-    fetcher: () => Promise<ResultType>
+    fetcher: () => Promise<any>,
+    parser: ZodObject
   ): Promise<ResultType> {
     const data = await fetcher();
     await this.delay();
@@ -137,7 +145,7 @@ export class Api {
       .prepare("INSERT OR REPLACE INTO cache (key, value) VALUES (?, ?)")
       .run(key, JSON.stringify(data));
 
-    return data;
+    return parser.parse(data) as ResultType;
   }
 
   private async delay() {

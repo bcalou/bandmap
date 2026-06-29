@@ -2,6 +2,8 @@ import { Api } from "./Api";
 import { DCMaster, RejectReason } from "../types";
 import { Band } from "./Band";
 import { Release } from "./Release";
+import { GENRES } from "../env";
+import { Logger } from "./Logger";
 
 /**
  * A master, which represent a group of similar releases
@@ -34,9 +36,13 @@ export class Master {
     return this.master.main_release;
   }
 
+  get genres() {
+    return this.master.genres ?? [];
+  }
+
   // Return main release object if it's considered acceptable
   public async getAcceptedRelease(): Promise<Release | RejectReason> {
-    const reject = this.heuristicRejectArtist();
+    const reject = this.heuristicRejectArtist() ?? this.heuristicRejectGenre();
 
     if (reject) return reject;
 
@@ -54,6 +60,15 @@ export class Master {
   private heuristicRejectArtist(): RejectReason | null {
     if (!this.mainBand.isAuthorOrConnectedAuthor(this)) {
       return `Rejected artist(s): ${this.formattedArtists}`;
+    }
+
+    return null;
+  }
+
+  // Reject if the master is non-music only
+  private heuristicRejectGenre(): RejectReason | null {
+    if (this.genres.every((genre) => GENRES.reject.includes(genre))) {
+      return `Rejected genre(s): ${this.master.genres}`;
     }
 
     return null;

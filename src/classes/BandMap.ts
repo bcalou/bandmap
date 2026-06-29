@@ -1,4 +1,4 @@
-import { Logger } from "../log";
+import { Logger } from "./Logger";
 import { Api } from "./Api";
 import { Band } from "./Band";
 
@@ -33,7 +33,7 @@ export class BandMap {
   // Main sequence of events
   private async init() {
     const band = await this.api.getArtist(this.bandId);
-    this.logger.initLogFile(`./logs/bands/${band.id}_${band.name}.txt`);
+    this.logger.setLogFile(`band_${band.id}_${band.name}_details.txt`);
     this.band = new Band(band);
 
     await this.band.fetchMembersAndConnectedBands();
@@ -49,9 +49,17 @@ export class BandMap {
 
   // Log the final output
   private logFinalOutput() {
+    this.logger.setLogFile(
+      `band_${this.band?.id}_${this.band?.name}_rejected.txt`
+    );
+
     this.logger.logThickSeparator();
 
     this.band?.discography.logRejected();
+
+    this.logger.setLogFile(
+      `band_${this.band?.id}_${this.band?.name}_accepted.txt`
+    );
 
     this.logger.logThickSeparator();
 

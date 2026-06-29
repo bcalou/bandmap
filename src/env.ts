@@ -9,7 +9,7 @@ export const ARTIST_RELEASE_ROLES = {
 };
 
 export const FORMATS = {
-  accept: ["Album", "EP"],
+  accept: ["Album"],
   reject: [
     "Blu-ray",
     "Blu-ray-R",
@@ -18,17 +18,23 @@ export const FORMATS = {
     "DVD-Video",
     "Limited Edition",
     "Unofficial Release",
+    "VHS",
   ],
   eliminatory: ["Compilation", "Single", "Maxi-Single"],
 };
 
+export const GENRES = {
+  reject: ["Non-Music"],
+};
+
 export const ROLES = {
   rejectIfOnly: [
-    "Written-By",
-    "Written By",
     "Composed-By",
     "Composed By",
+    "Interviewee",
     "Lyrics-By",
     "Lyrics By",
+    "Written-By",
+    "Written By",
   ],
 };

@@ -1,4 +1,4 @@
-import { Logger } from "../log";
+import { Logger } from "./Logger";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Release } from "./Release";
@@ -63,13 +63,13 @@ export class Discography {
   // Sort releases by release date
   public sort() {
     this.releases.sort((release1, release2) =>
-      release1.formattedDate.localeCompare(release2.formattedDate),
+      release1.formattedDate.localeCompare(release2.formattedDate)
     );
 
     this.rejectedReleases.sort((release1, release2) =>
       release1.artistRelease.year
         .toString()
-        .localeCompare(release2.artistRelease.year.toString()),
+        .localeCompare(release2.artistRelease.year.toString())
     );
   }
 
@@ -88,7 +88,7 @@ export class Discography {
   // Log the list of rejected releases and the reject reason
   public logRejected() {
     this.logger.logWarning(
-      `${this.rejectedReleases.length} rejected release(s):`,
+      `${this.rejectedReleases.length} rejected release(s):`
     );
     this.logger.logSeparator();
 

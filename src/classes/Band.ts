@@ -42,8 +42,9 @@ export class Band extends Artist {
     return release.artists.find(
       (artist) =>
         artist.id === this.id ||
-        this.members.find((member) => member.matchesId(artist.id)) ||
-        this.connectedBands.find((band) => band.band.id === artist.id)
+        (OPTION_INCLUDE_CONNECTED_RELEASES &&
+          (this.members.find((member) => member.matchesId(artist.id)) ||
+            this.connectedBands.find((band) => band.band.id === artist.id)))
     );
   }
 

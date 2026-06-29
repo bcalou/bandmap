@@ -8,7 +8,7 @@ import { DCArtistRelease, RejectReason } from "../types";
 import { Band } from "./Band";
 import { Master } from "./Master";
 import { Release } from "./Release";
-import { Logger } from "../log";
+import { Logger } from "./Logger";
 
 /**
  * An artist's release, which is an simplified representation of a release

@@ -1,5 +1,5 @@
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { Logger } from "../log";
+import { Logger } from "./Logger";
 import { DCVersion, RejectReason } from "../types";
 import { Release } from "./Release";
 
@@ -24,7 +24,7 @@ export class Formats {
       (allFormats: string[], format) => [
         ...allFormats,
         format.name,
-        ...format.descriptions,
+        ...(format.descriptions ?? []),
       ],
       []
     );

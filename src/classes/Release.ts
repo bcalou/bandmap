@@ -1,5 +1,5 @@
-import { DISCOGS_RELEASE_URL } from "../env";
-import { Logger } from "../log";
+import { DISCOGS_RELEASE_URL, GENRES } from "../env";
+import { Logger } from "./Logger";
 import { DCRelease, DCVersions, RejectReason } from "../types";
 import { Api, PER_PAGE } from "./Api";
 import { Band } from "./Band";
@@ -61,6 +61,10 @@ export class Release {
     return this.release.artists;
   }
 
+  get genres() {
+    return this.release.genres ?? [];
+  }
+
   get formattedArtists() {
     return this.artists.map((artist) => artist.name).join(", ");
   }
@@ -107,6 +111,7 @@ export class Release {
   public async getAcceptedRelease(): Promise<Release | RejectReason> {
     const reject =
       this.heuristicRejectArtist() ??
+      this.heuristicRejectGenre() ??
       (await this.formats.heuristicRejectFormat()) ??
       (await this.credits.heuristicRejectNoCredits());
 
@@ -179,6 +184,15 @@ export class Release {
   private heuristicRejectArtist(): RejectReason | null {
     if (!this.mainBand.isAuthorOrConnectedAuthor(this)) {
       return `Rejected artist(s): ${this.formattedArtists}`;
+    }
+
+    return null;
+  }
+
+  // Reject if the master is non-music only
+  private heuristicRejectGenre(): RejectReason | null {
+    if (this.genres.every((genre) => GENRES.reject.includes(genre))) {
+      return `Rejected genre(s): ${this.release.genres}`;
     }
 
     return null;

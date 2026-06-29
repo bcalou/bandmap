@@ -1,5 +1,5 @@
-import { ROLES } from "../env";
-import { Logger } from "../log";
+import { OPTION_INCLUDE_CONNECTED_RELEASES, ROLES } from "../env";
+import { Logger } from "./Logger";
 import { DCExtraArtist, DCVersion, RejectReason } from "../types";
 import { Artist } from "./Artist";
 import { Band } from "./Band";
@@ -36,14 +36,11 @@ export class Credits {
 
   get formattedCredits() {
     return this.credits
-      .map(
-        (credit) =>
-          `\x1b[1m${credit.artist.name}\x1b[0m: ${credit.roles.join(", ")}`
-      )
+      .map((credit) => `${credit.artist.name}: ${credit.roles.join(", ")}`)
       .join("\n");
   }
 
-  // Reject if the artist if the associate role is only writing
+  // Reject if the artist if the associate role is only writing, interviewee...
   public async heuristicRejectNoCredits(): Promise<RejectReason | null> {
     this.credits = this.extractCredits();
 
@@ -51,7 +48,7 @@ export class Credits {
 
     if (this.credits.length === 0) {
       this.logger.logWarning(
-        `No valid credits found for "${this.release.title}"`
+        `No valid creditlengths found for "${this.release.title}"`
       );
 
       return this.lookForCreditsInOtherVersions();

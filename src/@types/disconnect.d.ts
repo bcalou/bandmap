@@ -19,9 +19,10 @@ declare module "disconnect" {
     };
   }
 
-  export interface PaginationOptions {
+  export interface Options {
     page?: number;
     per_page?: number;
+    country?: string;
   }
 
   export interface RequestOptions {
@@ -34,10 +35,10 @@ declare module "disconnect" {
   // --- Database API ---
   export interface DatabaseAPI {
     getArtist(id: number): Promise<any>;
-    getArtistReleases(id: number, options?: PaginationOptions): Promise<any>;
+    getArtistReleases(id: number, options?: Options): Promise<any>;
     getRelease(id: number): Promise<any>;
     getMaster(id: number): Promise<any>;
-    getMasterVersions(id: number, options?: PaginationOptions): Promise<any>;
+    getMasterVersions(id: number, options?: Options): Promise<any>;
     search(
       query: string,
       options?: { type?: string; page?: number; per_page?: number }
@@ -52,7 +53,7 @@ declare module "disconnect" {
     getCollectionReleases(
       user: string,
       folderId?: number,
-      options?: PaginationOptions
+      options?: Options
     ): Promise<any>;
     // Add other user methods as needed
   }
@@ -60,7 +61,7 @@ declare module "disconnect" {
   // --- Marketplace API ---
   export interface MarketplaceAPI {
     getListing(id: number): Promise<any>;
-    getInventory(user: string, options?: PaginationOptions): Promise<any>;
+    getInventory(user: string, options?: Options): Promise<any>;
     // Add other marketplace methods as needed
   }
 

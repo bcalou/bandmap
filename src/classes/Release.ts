@@ -65,6 +65,10 @@ export class Release {
     return this.release.genres ?? [];
   }
 
+  get country() {
+    return this.release.country;
+  }
+
   get formattedArtists() {
     return this.artists.map((artist) => artist.name).join(", ");
   }
@@ -112,8 +116,9 @@ export class Release {
     const reject =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicRejectFormat()) ??
-      (await this.credits.heuristicRejectNoCredits());
+      (await this.heuristicRejectCountry()) ??
+      (await this.formats.heuristicRejectFormat());
+    // (await this.credits.heuristicRejectNoCredits());
 
     if (reject) return reject;
 
@@ -131,7 +136,9 @@ export class Release {
 
     if (count === 0) return this.versionsList[page - 1];
 
-    this.logger.log(`🗃️ Looking at ${count} alternate version(s)`);
+    if (page === 1) {
+      this.logger.log(`🗃️ Looking at ${count} alternate version(s)`);
+    }
 
     return this.versionsList[page - 1];
   }
@@ -141,7 +148,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId,
+      (_version) => _version.release.id === versionId
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -151,7 +158,7 @@ export class Release {
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand,
+      this.mainBand
     );
     this.versions.push(version);
     return version;
@@ -169,9 +176,12 @@ export class Release {
 
     const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
-    versions.pagination.items--;
+
+    if (versions.pagination.items) {
+      versions.pagination.items--;
+    }
 
     return versions;
   }
@@ -189,9 +199,40 @@ export class Release {
   // Reject if the master is non-music only
   private heuristicRejectGenre(): RejectReason | null {
     if (this.genres.every((genre) => GENRES.reject.includes(genre))) {
-      return `Rejected genre(s): ${this.release.genres}`;
+      return `Rejected genre(s): ${this.genres}`;
     }
 
     return null;
+  }
+
+  // Reject if the country does not match the main country
+  private async heuristicRejectCountry(): Promise<RejectReason | null> {
+    if (!["UK", "Europe", "Worldwide"].includes(this.country)) {
+      return await this.hasVersionFromValidCountry(1);
+    }
+
+    return null;
+  }
+
+  // TODO too long
+  // Is there a version from a valid country ?
+  private async hasVersionFromValidCountry(
+    page = 1
+  ): Promise<RejectReason | null> {
+    const versions = await this.getVersions(page);
+
+    for (const version of versions.versions) {
+      if (["UK", "Europe", "Worldwide"].includes(version.country)) {
+        this.logger.log(`Found version from UK`);
+
+        return null;
+      }
+    }
+
+    if (versions.pagination.pages > page) {
+      return await this.hasVersionFromValidCountry(page + 1);
+    }
+
+    return "No version from valid country found";
   }
 }

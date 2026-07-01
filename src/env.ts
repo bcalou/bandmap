@@ -20,7 +20,7 @@ export const FORMATS = {
     "Unofficial Release",
     "VHS",
   ],
-  eliminatory: ["Compilation", "Single", "Maxi-Single"],
+  eliminatory: ["Single", "Maxi-Single"],
 };
 
 export const GENRES = {

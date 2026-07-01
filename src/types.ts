@@ -98,7 +98,7 @@ export const DCRelease = z.object({
   year: z.number(),
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
   genres: z.array(z.string()).optional(),
-  country: z.string(),
+  country: z.string().or(z.null()),
   formats: z.array(
     z.object({
       name: z.string(),
@@ -130,7 +130,7 @@ export const DCVersion = z.object({
   major_formats: z.array(z.string()),
   format: z.string(),
   released: z.string().optional(),
-  country: z.string(),
+  country: z.string().or(z.null()),
 });
 
 export type DCVersions = z.infer<typeof DCVersions>;

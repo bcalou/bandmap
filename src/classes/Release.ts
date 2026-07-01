@@ -116,9 +116,9 @@ export class Release {
     const reject =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.heuristicRejectCountry()) ??
-      (await this.formats.heuristicRejectFormat()) ??
-      (await this.credits.heuristicRejectNoCredits());
+      // (await this.heuristicRejectCountry()) ??
+      (await this.formats.heuristicRejectFormat());
+    // (await this.credits.heuristicRejectNoCredits());
 
     if (reject) return reject;
 
@@ -207,7 +207,7 @@ export class Release {
 
   // Reject if the country does not match the main country
   private async heuristicRejectCountry(): Promise<RejectReason | null> {
-    if (!["UK", "Europe", "Worldwide"].includes(this.country ?? "")) {
+    if (!["UK", "Worldwide"].includes(this.country ?? "")) {
       return await this.hasVersionFromValidCountry(1);
     }
 
@@ -220,9 +220,15 @@ export class Release {
     page = 1
   ): Promise<RejectReason | null> {
     const versions = await this.getVersions(page);
+    const year = this.release.released?.slice(0, 4);
 
     for (const version of versions.versions) {
-      if (["UK", "Europe", "Worldwide"].includes(version.country ?? "")) {
+      if (year && version.released !== year) {
+        this.logger.logWarning(`🗓️ No more versions for year ${year}`);
+        break;
+      }
+
+      if (["UK", "Worldwide"].includes(version.country ?? "")) {
         this.logger.log(`Found version from UK`);
 
         return null;

@@ -5,6 +5,7 @@ import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
 import { Release } from "./Release";
+import { Repertoire } from "./Repertoire";
 
 /**
  * The main band which we're looking at
@@ -12,6 +13,9 @@ import { Release } from "./Release";
 export class Band extends Artist {
   // The discography of the band and its connected artists/bands
   public discography: Discography;
+
+  // The list of songs performed by the band and its connected artists/bands
+  public repertoire: Repertoire;
 
   // The members of the band
   public members: Artist[] = [];
@@ -27,6 +31,7 @@ export class Band extends Artist {
   constructor(band: DCArtist) {
     super(band);
     this.discography = new Discography();
+    this.repertoire = new Repertoire();
   }
 
   get band(): Band {

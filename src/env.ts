@@ -17,10 +17,11 @@ export const FORMATS = {
     "DVDr",
     "DVD-Video",
     "Limited Edition",
+    "Reissue",
     "Unofficial Release",
     "VHS",
   ],
-  eliminatory: ["Single", "Maxi-Single"],
+  eliminatory: ["Box Set", "Single", "Maxi-Single"],
 };
 
 export const GENRES = {

@@ -62,6 +62,8 @@ export class Discography {
 
   // Sort releases by release date
   public sort() {
+    this.releases.forEach((release) => console.log(release.country));
+
     this.releases.sort((release1, release2) =>
       release1.formattedDate.localeCompare(release2.formattedDate)
     );

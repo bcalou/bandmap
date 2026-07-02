@@ -2049,14 +2049,43 @@ Invalid format(s) (Vinyl, LP, Compilation) for "The Beatles Vol. 3"
 🗃️ Looking at 18 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/36328126
 💿 Format: Vinyl, LP, Album, Compilation, Promo
-🗓️ Imprecise date (1964) for "The Beatles Vol. 3"
-🗃️ Looking at 18 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/36328126
-🗓️ Release date: 1964
-🗓️ No more versions for year 1964
-🗓️ No better date found
-💿 1964 - The Beatles - "The Beatles Vol. 3"
-(https://www.discogs.com/release/8595911-The-Beatles-The-Beatles-Vol-3)
+🗃️ Analyzing version https://www.discogs.com/release/15082705
+💿 Format: Vinyl, LP, Compilation, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/15013130
+💿 Format: Vinyl, LP, Compilation, Mono
+🗃️ Analyzing version https://www.discogs.com/release/24172865
+💿 Format: Cassette, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/34168861
+💿 Format: Vinyl, LP, Compilation, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/13282098
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/4276791
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/15725741
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/17892796
+💿 Format: Vinyl, LP, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/37462107
+💿 Format: Vinyl, LP, Compilation, Misprint
+🗃️ Analyzing version https://www.discogs.com/release/9094344
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/36563671
+💿 Format: Vinyl, LP, Compilation, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9643113
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8072806
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/35572309
+💿 Format: Vinyl, LP, Compilation, Reissue, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/11921623
+💿 Format: Vinyl, LP, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/14210418
+💿 Format: CD, Compilation, Promo, Unofficial Release, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/12569673
+💿 Format: CDr, Compilation, Unofficial Release, Stereo
+❌ 1964 - The Beatles - "The Beatles Vol. 3"
+(https://www.discogs.com/master/976696)
+Rejected format(s): Vinyl, LP, Compilation
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Eight Days A Week / Every Little Thing"
 (https://www.discogs.com/master/2467741)
@@ -6758,8 +6787,149 @@ Invalid format(s) (Vinyl, LP, Compilation) for "From Then To You (The Beatles Ch
 🗃️ Looking at 71 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/1121737
 💿 Format: Vinyl, LP, Album, Compilation, Promo
-💿 1970-12-18 - The Beatles - "From Then To You (The Beatles Christmas Record, 1970)"
-(https://www.discogs.com/release/2171406-The-Beatles-From-Then-To-You-The-Beatles-Christmas-Record-1970)
+🗃️ Analyzing version https://www.discogs.com/release/4203945
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10838948
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/25267492
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/25889572
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/17279038
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/31109174
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/34295581
+💿 Format: Vinyl, LP, Compilation, Unofficial Release, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/34197814
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/1959848
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10507375
+💿 Format: Vinyl, LP, Compilation, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/4474307
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7554681
+💿 Format: Vinyl, LP, Compilation, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6095600
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4914284
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10038167
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/16052334
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8146698
+💿 Format: Vinyl, LP, Compilation, Unofficial Release, White Label
+🗃️ Analyzing version https://www.discogs.com/release/7087534
+💿 Format: Vinyl, 10", Compilation, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7065494
+💿 Format: CD, Album, Compilation, Promo, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/2657457
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13975660
+💿 Format: CD, Compilation, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8651986
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/1079456
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11291745
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/2885112
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4131557
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/3187777
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/33703908
+💿 Format: CD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/5664111
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5186325
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/30718787
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13312433
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4141271
+💿 Format: CD, Compilation, Mono, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/2546162
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/2362563
+💿 Format: CD, Album, Remastered, Unofficial Release, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/4840018
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4277792
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9355006
+💿 Format: CD, Album, Compilation, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/27593205
+💿 Format: Vinyl, LP, Compilation, Promo, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/16593531
+💿 Format: Vinyl, LP, Album, Compilation, Promo, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6774011
+💿 Format: Vinyl, LP, Compilation, Unofficial Release, White Label
+🗃️ Analyzing version https://www.discogs.com/release/27782052
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/16670205
+💿 Format: CDr, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/19589596
+💿 Format: Vinyl, LP, Album, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/19214545
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6083374
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/24056675
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10394346
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13195475
+💿 Format: Vinyl, LP, Album, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/3074543
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7887587
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/18073102
+💿 Format: Vinyl, LP, Album, Compilation, Unofficial Release, White Label
+🗃️ Analyzing version https://www.discogs.com/release/4698316
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/14822672
+💿 Format: CD, Album, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/22930658
+💿 Format: Vinyl, LP, Album, Compilation, Limited Edition, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13592966
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6684843
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/1407970
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8692584
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6224115
+💿 Format: Vinyl, LP, Compilation, Picture Disc, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11571304
+💿 Format: Vinyl, LP, Compilation, Limited Edition, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6188945
+💿 Format: CDr, Compilation, Unofficial Release, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/8981627
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8037948
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8704320
+💿 Format: CD, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13654274
+💿 Format: Vinyl, LP, Album, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13998463
+💿 Format: CD, Compilation, Unofficial Release, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/12920240
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6694101
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/14372716
+💿 Format: Vinyl, LP, Compilation, Unofficial Release
+❌ 1970 - The Beatles - "From Then To You (The Beatles Christmas Record, 1970)"
+(https://www.discogs.com/master/297993)
+Rejected format(s): Vinyl, LP, Compilation
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles - "Oh! Darling / Here Comes The Sun"
 (https://www.discogs.com/master/461919)
@@ -10279,8 +10449,25 @@ Invalid format(s) (Vinyl, LP, Compilation, Vinyl, 7", 45 RPM, EP, Compilation) f
 💿 Format: Vinyl, 7", 45 RPM, EP
 🗃️ Analyzing version https://www.discogs.com/release/29700826
 💿 Format: Vinyl, LP, Album, Compilation, Promo
-💿 1983-05-13 - The Beatles - "The Number Ones"
-(https://www.discogs.com/release/894406-The-Beatles-The-Number-Ones)
+🗃️ Analyzing version https://www.discogs.com/release/12884935
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/14636788
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/2862172
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/30991705
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/12884921
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/23283374
+💿 Format: Vinyl, LP, Album, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/12918187
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/36142231
+💿 Format: Vinyl, 7", 45 RPM, EP
+❌ 1983 - The Beatles - "The Number Ones"
+(https://www.discogs.com/master/333201)
+Rejected format(s): Vinyl, LP, Compilation, Vinyl, 7", 45 RPM, EP, Compilation
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP) for "The Hamburg Tapes Volume 2"
 🗃️ Looking at 1 alternate version(s)
@@ -11956,19 +12143,19 @@ Invalid format(s) (CD, Compilation, Remastered) for "Rockin' At The Star-Club, 1
 (https://www.discogs.com/master/499817)
 Rejected format(s): CD, Compilation, Remastered
 ———————————————————————————————————————————————————————————————
-🗓️ Imprecise date (1991) for "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
+Invalid format(s) (CD, Album, Remastered) for "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
 🗃️ Looking at 4 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9457772
-🗓️ Release date: 1991
+💿 Format: Cassette, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8476493
-🗓️ Release date: 1991
+💿 Format: Cassette, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/20540041
-🗓️ Release date: 1991
+💿 Format: CD, Compilation, Remastered, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/29639239
-🗓️ Release date: 1991
-🗓️ No better date found
-💿 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
-(https://www.discogs.com/release/1436372-The-Beatles-Live-At-The-Star-Club-In-Hamburg-Germany-1962-Vol-1)
+💿 Format: Cassette, Album, Unofficial Release
+❌ 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
+(https://www.discogs.com/master/1180927)
+Rejected format(s): CD, Album, Remastered
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (CD, Compilation, Remastered) for "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 2)"
 🗃️ Looking at 3 alternate version(s)
@@ -12264,8 +12451,181 @@ Invalid format(s) (Vinyl, LP, Misprint, Remastered, Mono) for "Live At The BBC"
 💿 Format: Vinyl, LP, Compilation, Mono, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/26607101
 💿 Format: CD, Album, Remastered, Mono
-💿 1994-11-30 - The Beatles - "Live At The BBC"
-(https://www.discogs.com/release/1461424-The-Beatles-Live-At-The-BBC)
+🗃️ Analyzing version https://www.discogs.com/release/431450
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/17605366
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/3814424
+💿 Format: Cassette, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8893589
+💿 Format: CD, Remastered, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13152428
+💿 Format: CD, Compilation, Promo, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/37450752
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/5555642
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/23798570
+💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/27879141
+💿 Format: CD, Album, Promo, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/7467847
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/11016979
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/23273519
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/30022924
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/1801697
+💿 Format: Vinyl, LP, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13407813
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/12883574
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/3780747
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/14427969
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/5045660
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/14871748
+💿 Format: Cassette, Compilation, Mono
+🗃️ Analyzing version https://www.discogs.com/release/10367848
+💿 Format: Cassette, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/1393293
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/14307430
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/17372614
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/8738615
+💿 Format: Cassette, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/36305530
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/6632065
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/8685676
+💿 Format: Cassette, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/2272763
+💿 Format: CD, Compilation, Mono, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/2066016
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/15769968
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/3570563
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/1199500
+💿 Format: CD, Compilation, Mono, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/1320799
+💿 Format: CD, Compilation, Mono, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/31937569
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/8063194
+💿 Format: CD, Limited Edition, Numbered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13689588
+💿 Format: CD, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/6379913
+💿 Format: CD, Album, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/2066942
+💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/10759674
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/6449938
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/6854888
+💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9784729
+💿 Format: Cassette, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8081031
+💿 Format: Vinyl, LP, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5021666
+💿 Format: CD, Compilation, Reissue, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/18566908
+💿 Format: CD, Album, Promo, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/7141635
+💿 Format: CD, Album, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/12146579
+💿 Format: CD, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/2370905
+💿 Format: CD, Compilation, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8110285
+💿 Format: CD, Compilation, Mono, Remastered, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/13152040
+💿 Format: CD, Compilation, Reissue, Remastered, Repress, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5264606
+💿 Format: CD, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5094576
+💿 Format: CD, Compilation, Mono, Remastered, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/5200980
+💿 Format: Vinyl, LP, Album, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/11574347
+💿 Format: CD, Compilation, Reissue, Remastered, Repress, Mono
+🗃️ Analyzing version https://www.discogs.com/release/9473771
+💿 Format: CD, Album, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/35465704
+💿 Format: File, FLAC, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/5133314
+💿 Format: CD, Compilation, Mono, Remastered, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/5123967
+💿 Format: CD, Compilation, Mono, Remastered, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/11309413
+💿 Format: CD, Compilation, Mono, Remastered, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/10795400
+💿 Format: Vinyl, LP, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/9213404
+💿 Format: CD, Album, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/7625296
+💿 Format: Vinyl, LP, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/16303213
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/10882473
+💿 Format: CD, Album, Enhanced, Remastered, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/10009282
+💿 Format: CD, Album, Limited Edition, Remastered, Repress
+🗃️ Analyzing version https://www.discogs.com/release/10720419
+💿 Format: Vinyl, LP, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/10910891
+💿 Format: Vinyl, LP, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/11863763
+💿 Format: Vinyl, LP, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/27371223
+💿 Format: CD, Album, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/23373422
+💿 Format: Vinyl, LP, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/11984190
+💿 Format: CD, Album, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/17475838
+💿 Format: Vinyl, LP, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13589150
+💿 Format: Vinyl, LP, Album, Reissue, Remastered, Repress, Mono
+🗃️ Analyzing version https://www.discogs.com/release/4796401
+💿 Format: CD, Compilation, Mono, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/25582570
+💿 Format: Cassette, Compilation, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9594704
+💿 Format: CD, Compilation, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/14030406
+💿 Format: Cassette, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/8180279
+💿 Format: Cassette, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6979193
+💿 Format: CD, Compilation, Remastered, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/10642807
+💿 Format: CD, Compilation, Reissue, Remastered, Repress, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13940084
+💿 Format: CD, Compilation, Reissue, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/23635553
+💿 Format: Cassette, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/19563430
+💿 Format: CD, Album, Unofficial Release, Mono
+🗃️ Analyzing version https://www.discogs.com/release/4463986
+💿 Format: Cassette, Compilation, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5456194
+💿 Format: CD, Compilation, Mono, Remastered
+❌ 1994 - The Beatles - "Live At The BBC"
+(https://www.discogs.com/master/45540)
+Rejected format(s): Vinyl, LP, Misprint, Remastered, Mono
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (VHS, PAL) for "The Making Of A Hard Day's Night (Featuring The Performance Of "You Can't Do That" Cut From The Original Movie)"
 🗃️ Looking at 8 alternate version(s)
@@ -13544,8 +13904,9 @@ Rejected format(s): CDr, Promo
 (https://www.discogs.com/release/7569975)
 Rejected format(s): CD, Limited Edition, Promo, Mono
 ———————————————————————————————————————————————————————————————
-💿 2011-06-14 - The Beatles - "Anthology Highlights"
-(https://www.discogs.com/release/10144045-The-Beatles-Anthology-Highlights)
+❌ 2011 - The Beatles - "Anthology Highlights"
+(https://www.discogs.com/release/10144045)
+Rejected format(s): File, AAC, Album, Compilation, Remastered
 ———————————————————————————————————————————————————————————————
 ❌ 2011 - The Beatles - "Rock And Roll Music ( Live At Budokan )"
 (https://www.discogs.com/release/22784015)
@@ -13640,6 +14001,30 @@ Rejected format(s): Blu-ray, Stereo, Multichannel
 💿 2013-12-17 - The Beatles - "Bootleg Recordings 1963"
 (https://www.discogs.com/release/5200022-The-Beatles-Bootleg-Recordings-1963)
 ———————————————————————————————————————————————————————————————
+Invalid format(s) (Vinyl, LP, Album, Remastered, Mono) for "On Air - Live At The BBC Volume 2"
+🗃️ Looking at 32 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/12482930
+💿 Format: CD, 
+🗃️ Analyzing version https://www.discogs.com/release/5293778
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5322358
+💿 Format: Vinyl, LP, Album, Limited Edition, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/30443366
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5099891
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/6735352
+💿 Format: CD, Compilation, Promo, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/5088052
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/5098379
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/36012253
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/13654408
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/10792756
+💿 Format: CD, Album, Mono
 💿 2013-11-08 - The Beatles - "On Air - Live At The BBC Volume 2"
 (https://www.discogs.com/release/5079564-The-Beatles-On-Air-Live-At-The-BBC-Volume-2)
 ———————————————————————————————————————————————————————————————
@@ -13847,6 +14232,32 @@ Invalid format(s) (Blu-ray, Special Edition) for "Eight Days A Week (The Touring
 (https://www.discogs.com/master/1094518)
 Rejected format(s): Blu-ray, Special Edition
 ———————————————————————————————————————————————————————————————
+Invalid format(s) (Vinyl, LP, Album, Remastered) for "Live At The Hollywood Bowl"
+🗃️ Looking at 21 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/9022775
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/11309570
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9463013
+💿 Format: CD, Album, Reissue, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9101396
+💿 Format: CDr, Album, Numbered, Promo
+🗃️ Analyzing version https://www.discogs.com/release/14406458
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9317564
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9174344
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9097806
+💿 Format: CD, Album, Reissue, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9060630
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9111951
+💿 Format: File, MP3, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/10313616
+💿 Format: CD, Album, Promo, Remastered, Sampler, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9822881
+💿 Format: CD, Album, Stereo
 💿 2016-11-18 - The Beatles - "Live At The Hollywood Bowl"
 (https://www.discogs.com/release/9345562-The-Beatles-Live-At-The-Hollywood-Bowl)
 ———————————————————————————————————————————————————————————————
@@ -27505,7 +27916,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1971 - The Beatles - "Complete Christmas Collection"
-(https://www.discogs.com/master/297993)" (skipping, already accepted)
+(https://www.discogs.com/master/297993)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - The Beatles - "The Never Released Mary Jane"
 (https://www.discogs.com/master/1020357)
@@ -30245,7 +30656,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962"
-(https://www.discogs.com/master/1180927)" (skipping, already accepted)
+(https://www.discogs.com/master/1180927)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - The Beatles - "Unsurpassed Demos"
 (https://www.discogs.com/master/337842)
@@ -31328,7 +31739,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/1577197)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1994 - The Beatles - "Live At The BBC"
-(https://www.discogs.com/master/45540)" (skipping, already accepted)
+(https://www.discogs.com/master/45540)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - The Beatles - "Revolution"
 (https://www.discogs.com/master/1168292)
@@ -46719,7 +47130,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "The Beatles Vol. 3"
-(https://www.discogs.com/master/976696)" (skipping, already accepted)
+(https://www.discogs.com/master/976696)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - The Beatles - "Yesterday's Mixes...Today"
 (https://www.discogs.com/master/3024758)
@@ -47681,3 +48092,6 @@ Looking at The Beatles alias The Four Liverpudlians
 ↷ "1970 - The Four Liverpudlians - "Alive At Last"
 (https://www.discogs.com/master/557783)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+Identifying main country
+🌎 Main country is UK with 23 release(s)
+{"US":21,"UK":23,"Canada":3,"Venezuela":1,"Ecuador":1,"France":1,"Germany":1,"Chile":1,"USA & Canada":1,"Spain":1,"Japan":3,"Hungary":3,"Worldwide":5,"Europe":5,"Taiwan":1}

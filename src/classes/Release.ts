@@ -116,7 +116,6 @@ export class Release {
     const reject =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      // (await this.heuristicRejectCountry()) ??
       (await this.formats.heuristicRejectFormat());
     // (await this.credits.heuristicRejectNoCredits());
 
@@ -154,6 +153,11 @@ export class Release {
     return version ?? this.fetchVersion(versionId);
   }
 
+  // Shortcut to the credit extract method for this release
+  public extractCredits() {
+    return this.credits.extractCredits();
+  }
+
   // Fetch a version and add it to the cached versions
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
@@ -162,11 +166,6 @@ export class Release {
     );
     this.versions.push(version);
     return version;
-  }
-
-  // Shortcut to the credit extract method for this release
-  public extractCredits() {
-    return this.credits.extractCredits();
   }
 
   // Fetch the versions list and remove the version matching the current release
@@ -203,42 +202,5 @@ export class Release {
     }
 
     return null;
-  }
-
-  // Reject if the country does not match the main country
-  private async heuristicRejectCountry(): Promise<RejectReason | null> {
-    if (!["UK", "Worldwide"].includes(this.country ?? "")) {
-      return await this.hasVersionFromValidCountry(1);
-    }
-
-    return null;
-  }
-
-  // TODO too long
-  // Is there a version from a valid country ?
-  private async hasVersionFromValidCountry(
-    page = 1
-  ): Promise<RejectReason | null> {
-    const versions = await this.getVersions(page);
-    const year = this.release.released?.slice(0, 4);
-
-    for (const version of versions.versions) {
-      if (year && version.released !== year) {
-        this.logger.logWarning(`🗓️ No more versions for year ${year}`);
-        break;
-      }
-
-      if (["UK", "Worldwide"].includes(version.country ?? "")) {
-        this.logger.log(`Found version from UK`);
-
-        return null;
-      }
-    }
-
-    if (versions.pagination.pages > page) {
-      return await this.hasVersionFromValidCountry(page + 1);
-    }
-
-    return "No version from valid country found";
   }
 }

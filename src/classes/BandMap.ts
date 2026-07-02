@@ -40,6 +40,8 @@ export class BandMap {
 
     await this.band.fetchReleases();
 
+    this.band.identifyMainCountry();
+
     this.band.discography.sort();
 
     this.logFinalOutput();

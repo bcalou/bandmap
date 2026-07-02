@@ -110,6 +110,7 @@ export const DCRelease = z.object({
   extraartists: z.array(DCExtraArtist).optional(),
   tracklist: z.array(
     z.object({
+      title: z.string(),
       extraartists: z.array(DCExtraArtist).optional(),
     })
   ),

@@ -28,6 +28,11 @@ export class Discography {
     this.logger = new Logger();
   }
 
+  // Get the releases
+  public getReleases() {
+    return this.releases;
+  }
+
   // Add a release to the discography
   public addAccepted(release: Release) {
     this.logger.logSuccess(`💿 ${release.label}`);

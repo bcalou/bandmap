@@ -1,6 +1,6 @@
 ███████████████████████████████████████████████████████████████
 ———————————————————————————————————————————————————————————————
-9344 rejected release(s):
+9350 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 1958 - The Quarrymen - "That'll Be The Day"
 (https://www.discogs.com/master/748150)
@@ -757,6 +757,10 @@
 ❌ 1964 - Les Beatles* - "Chansons Du Film "4 Garçons Dans Le Vent""
 (https://www.discogs.com/master/993052)
 (Rejected format(s): Vinyl, 7", 45 RPM, EP)
+———————————————————————————————————————————————————————————————
+❌ 1964 - The Beatles - "The Beatles Vol. 3"
+(https://www.discogs.com/master/976696)
+(Rejected format(s): Vinyl, LP, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Eight Days A Week / Every Little Thing"
 (https://www.discogs.com/master/2467741)
@@ -3305,6 +3309,10 @@
 ❌ 1970 - Битълс*, Сребърните Гривни - "Пеят Наши И Чужди Изпълнители"
 (https://www.discogs.com/master/583326)
 (Rejected format(s): Vinyl, 7", 33 ⅓ RPM, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1970 - The Beatles - "From Then To You (The Beatles Christmas Record, 1970)"
+(https://www.discogs.com/master/297993)
+(Rejected format(s): Vinyl, LP, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles - "Oh! Darling / Here Comes The Sun"
 (https://www.discogs.com/master/461919)
@@ -6377,6 +6385,10 @@
 ❌ 1983 - Beatles* - "Expedice R'n'R"
 (https://www.discogs.com/master/1158570)
 (Rejected format(s): Vinyl, LP, Compilation, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1983 - The Beatles - "The Number Ones"
+(https://www.discogs.com/master/333201)
+(Rejected format(s): Vinyl, LP, Compilation, Vinyl, 7", 45 RPM, EP, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - The Beatles - "The Hamburg Tapes Volume 2"
 (https://www.discogs.com/master/3438248)
@@ -10694,6 +10706,10 @@
 (https://www.discogs.com/master/499817)
 (Rejected format(s): CD, Compilation, Remastered)
 ———————————————————————————————————————————————————————————————
+❌ 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)"
+(https://www.discogs.com/master/1180927)
+(Rejected format(s): CD, Album, Remastered)
+———————————————————————————————————————————————————————————————
 ❌ 1991 - The Beatles - "Press Conferences 1964 - 1966"
 (https://www.discogs.com/master/873166)
 (Rejected genre(s): Non-Music)
@@ -12377,6 +12393,10 @@
 ❌ 1994 - The Beatles - "Birthday / Taxman"
 (https://www.discogs.com/master/1372503)
 (Rejected format(s): Vinyl, 7", 45 RPM, Single, Jukebox, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1994 - The Beatles - "Live At The BBC"
+(https://www.discogs.com/master/45540)
+(Rejected format(s): Vinyl, LP, Misprint, Remastered, Mono)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - The Beatles - "The Making Of A Hard Day's Night (Featuring The Performance Of "You Can't Do That" Cut From The Original Movie)"
 (https://www.discogs.com/master/891279)
@@ -22757,6 +22777,10 @@
 ❌ 2011 - The Beatles - "Rock And Roll Music (Live At Budokan)"
 (https://www.discogs.com/release/7569975)
 (Rejected format(s): CD, Limited Edition, Promo, Mono)
+———————————————————————————————————————————————————————————————
+❌ 2011 - The Beatles - "Anthology Highlights"
+(https://www.discogs.com/release/10144045)
+(Rejected format(s): File, AAC, Album, Compilation, Remastered)
 ———————————————————————————————————————————————————————————————
 ❌ 2011 - The Beatles - "Rock And Roll Music ( Live At Budokan )"
 (https://www.discogs.com/release/22784015)

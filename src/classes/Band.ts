@@ -28,6 +28,9 @@ export class Band extends Artist {
     members: Artist[];
   }[] = [];
 
+  // The country in which most core releases were released
+  public mainCountry: string | undefined;
+
   constructor(band: DCArtist) {
     super(band);
     this.discography = new Discography();
@@ -92,6 +95,39 @@ export class Band extends Artist {
         await member.fetchReleases();
       }
     }
+  }
+
+  // Find in which country most of the core releases were relesased
+  public identifyMainCountry(): void {
+    const countries = this.getReleasesCountByCountry();
+
+    const maxReleases = Math.max(...Object.values(countries));
+    this.mainCountry = Object.keys(countries).find(
+      (key) => countries[key] === maxReleases
+    );
+
+    this.logger.logInfo(
+      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`
+    );
+
+    this.logger.log(JSON.stringify(countries));
+  }
+
+  // Get the number of releases in each country
+  private getReleasesCountByCountry(): Record<string, number> {
+    const countries: Record<string, number> = {};
+
+    this.discography.getReleases().forEach((release) => {
+      if (!release.country) return;
+
+      if (!countries[release.country]) {
+        countries[release.country] = 0;
+      }
+
+      countries[release.country]++;
+    });
+
+    return countries;
   }
 
   // Fetch the bands connected to the main band members

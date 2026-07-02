@@ -1,4 +1,4 @@
-252 track(s):
+209 track(s):
 ———————————————————————————————————————————————————————————————
 -
 Release(s): A Hard Day's Night
@@ -7,19 +7,10 @@ A Day In The Life
 Release(s): Sgt. Pepper's Lonely Hearts Club Band
 ———————————————————————————————————————————————————————————————
 A Hard Day's Night
-Release(s): A Hard Day's Night
-———————————————————————————————————————————————————————————————
-A Hard Day's Night
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): A Hard Day's Night, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 A Taste Of Honey
-Release(s): Please Please Me
-———————————————————————————————————————————————————————————————
-A Taste Of Honey
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-A Taste Of Honey
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Please Please Me, Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Across The Universe
 Release(s): Let It Be
@@ -37,10 +28,7 @@ All I've Got To Do
 Release(s): With The Beatles
 ———————————————————————————————————————————————————————————————
 All My Loving
-Release(s): With The Beatles
-———————————————————————————————————————————————————————————————
-All My Loving
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): With The Beatles, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 All Together Now
 Release(s): Yellow Submarine
@@ -64,10 +52,7 @@ Any Time At All
 Release(s): A Hard Day's Night
 ———————————————————————————————————————————————————————————————
 Ask Me Why
-Release(s): Please Please Me
-———————————————————————————————————————————————————————————————
-Ask Me Why
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
+Release(s): Please Please Me, Live! At The Star-Club In Hamburg, Germany; 1962
 ———————————————————————————————————————————————————————————————
 Baby It's You
 Release(s): Please Please Me
@@ -79,10 +64,8 @@ Back In The U.S.S.R.
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Be-Bop A-Lula
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Be-Bop-A-Lula
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Variation(s): Be-Bop-A-Lula
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Because
 Release(s): Abbey Road
@@ -91,10 +74,7 @@ Being For The Benefit Of Mr. Kite !
 Release(s): Sgt. Pepper's Lonely Hearts Club Band
 ———————————————————————————————————————————————————————————————
 Besame Mucho
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Besame Mucho
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Birthday
 Release(s): The Beatles
@@ -103,16 +83,10 @@ Blackbird
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Boys
-Release(s): Please Please Me
-———————————————————————————————————————————————————————————————
-Boys
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): Please Please Me, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Can't Buy Me Love
-Release(s): A Hard Day's Night
-———————————————————————————————————————————————————————————————
-Can't Buy Me Love
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): A Hard Day's Night, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Carry That Weight
 Release(s): Abbey Road
@@ -139,10 +113,7 @@ Dig It
 Release(s): Let It Be
 ———————————————————————————————————————————————————————————————
 Dizzy Miss Lizzy
-Release(s): Help!
-———————————————————————————————————————————————————————————————
-Dizzy Miss Lizzy
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): Help!, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Do You Want To Know A Secret
 Release(s): Please Please Me
@@ -172,19 +143,10 @@ Everybody's Got Something To Hide Except Me And My Monkey
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Everybody's Trying To Be My Baby
-Release(s): Beatles For Sale
-———————————————————————————————————————————————————————————————
-Everybody's Trying To Be My Baby
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Everybody's Trying To Be My Baby
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Beatles For Sale, Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Falling In Love Again
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Falling In Love Again
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Fixing A Hole
 Release(s): Sgt. Pepper's Lonely Hearts Club Band
@@ -222,20 +184,16 @@ Release(s): The Beatles
 Got To Get You Into My Life
 Release(s): Revolver
 ———————————————————————————————————————————————————————————————
-Hallelujah I Love Her So
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
-———————————————————————————————————————————————————————————————
 Hallelujah, I Love Her So
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
+Variation(s): Hallelujah I Love Her So
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Happiness Is A Warm Gun
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
-Help
-Release(s): The Beatles At The Hollywood Bowl
-———————————————————————————————————————————————————————————————
 Help!
-Release(s): Help!
+Variation(s): Help
+Release(s): Help!, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Helter Skelter
 Release(s): The Beatles
@@ -253,19 +211,13 @@ Hey Bulldog
 Release(s): Yellow Submarine
 ———————————————————————————————————————————————————————————————
 Hippy Hippy Shake
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Hippy Hippy Shake
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Hold Me Tight
 Release(s): With The Beatles
 ———————————————————————————————————————————————————————————————
 Honey Don't
 Release(s): Beatles For Sale
-———————————————————————————————————————————————————————————————
-Honey Pie
-Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 I Don't Want To Spoil The Party
 Release(s): Beatles For Sale
@@ -277,16 +229,10 @@ I Need You
 Release(s): Help!
 ———————————————————————————————————————————————————————————————
 I Remember You
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-I Remember You
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 I Saw Her Standing There
-Release(s): Please Please Me
-———————————————————————————————————————————————————————————————
-I Saw Her Standing There
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
+Release(s): Please Please Me, Live! At The Star-Club In Hamburg, Germany; 1962
 ———————————————————————————————————————————————————————————————
 I Should Have Known Better
 Release(s): A Hard Day's Night
@@ -361,19 +307,13 @@ Julia
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Kansas City
-Release(s): Beatles For Sale
-———————————————————————————————————————————————————————————————
-Kansas City
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
+Release(s): Beatles For Sale, Live! At The Star-Club In Hamburg, Germany; 1962
 ———————————————————————————————————————————————————————————————
 Kansas City / Hey Hey Hey Hey
 Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Lend Me Your Comb
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Lend Me Your Comb
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Let It Be
 Release(s): Let It Be
@@ -382,19 +322,10 @@ Little Child
 Release(s): With The Beatles
 ———————————————————————————————————————————————————————————————
 Little Queenie
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Little Queenie
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Long Tall Sally
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Long Tall Sally
-Release(s): The Beatles At The Hollywood Bowl
-———————————————————————————————————————————————————————————————
-Long Tall Sally
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, The Beatles At The Hollywood Bowl, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Long, Long, Long
 Release(s): The Beatles
@@ -445,13 +376,7 @@ Mother Nature's Son
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Mr. Moonlight
-Release(s): Beatles For Sale
-———————————————————————————————————————————————————————————————
-Mr. Moonlight
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Mr. Moonlight
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Beatles For Sale, Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 No Reply
 Release(s): Beatles For Sale
@@ -505,19 +430,14 @@ Polythene Pam
 Release(s): Abbey Road
 ———————————————————————————————————————————————————————————————
 Red Sails In The Sunset
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Red Sails In The Sunset
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Reminiscing
 Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
 ———————————————————————————————————————————————————————————————
 Revolution 1
-Release(s): The Beatles
-———————————————————————————————————————————————————————————————
-Revolution 9
-Release(s): The Beatles
+Variation(s): Revolution 9
+Release(s): The Beatles, The Beatles
 ———————————————————————————————————————————————————————————————
 Rock And Roll Music
 Release(s): Beatles For Sale
@@ -526,16 +446,7 @@ Rocky Raccoon
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Roll Over Beethoven
-Release(s): With The Beatles
-———————————————————————————————————————————————————————————————
-Roll Over Beethoven
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Roll Over Beethoven
-Release(s): The Beatles At The Hollywood Bowl
-———————————————————————————————————————————————————————————————
-Roll Over Beethoven
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): With The Beatles, Live! At The Star-Club In Hamburg, Germany; 1962, The Beatles At The Hollywood Bowl, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Run For Your Life 
 Release(s): Rubber Soul
@@ -556,10 +467,8 @@ Sexy Sadie
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Sgt. Pepper's Lonely Hearts Club Band
-Release(s): Sgt. Pepper's Lonely Hearts Club Band
-———————————————————————————————————————————————————————————————
-Sgt. Pepper's Lonely Hearts Club Band (Reprise)
-Release(s): Sgt. Pepper's Lonely Hearts Club Band
+Variation(s): Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+Release(s): Sgt. Pepper's Lonely Hearts Club Band, Sgt. Pepper's Lonely Hearts Club Band
 ———————————————————————————————————————————————————————————————
 She Came In Through The Bathroom Window
 Release(s): Abbey Road
@@ -580,10 +489,7 @@ Sheila
 Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Shimmy Shake
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Shimmy Shake
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Something
 Release(s): Abbey Road
@@ -595,16 +501,11 @@ Sun King
 Release(s): Abbey Road
 ———————————————————————————————————————————————————————————————
 Sweet Little Sixteen
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Sweet Little Sixteen
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 Talkin' 'Bout You
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Talking Bout You
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Variation(s): Talking Bout You
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Taxman
 Release(s): Revolver
@@ -637,43 +538,25 @@ There's A Place
 Release(s): Please Please Me
 ———————————————————————————————————————————————————————————————
 Things We Said Today
-Release(s): A Hard Day's Night
-———————————————————————————————————————————————————————————————
-Things We Said Today
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): A Hard Day's Night, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Think For Yourself 
 Release(s): Rubber Soul
 ———————————————————————————————————————————————————————————————
 Ticket To Ride
-Release(s): Help!
-———————————————————————————————————————————————————————————————
-Ticket To Ride
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): Help!, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Till There Was You
-Release(s): With The Beatles
-———————————————————————————————————————————————————————————————
-Till There Was You
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Release(s): With The Beatles, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————
 To Know Her Is To Love Her
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-To Know Her Is To Love Her
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)
 ———————————————————————————————————————————————————————————————
 Tomorrow Never Knows
 Release(s): Revolver
 ———————————————————————————————————————————————————————————————
 Twist And Shout
-Release(s): Please Please Me
-———————————————————————————————————————————————————————————————
-Twist And Shout
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Twist And Shout
-Release(s): The Beatles At The Hollywood Bowl
+Release(s): Please Please Me, Live! At The Star-Club In Hamburg, Germany; 1962, The Beatles At The Hollywood Bowl
 ———————————————————————————————————————————————————————————————
 Two Of Us
 Release(s): Let It Be
@@ -703,7 +586,8 @@ Why Don't We Do It In The Road?
 Release(s): The Beatles
 ———————————————————————————————————————————————————————————————
 Wild Honey Pie
-Release(s): The Beatles
+Variation(s): Honey Pie
+Release(s): The Beatles, The Beatles
 ———————————————————————————————————————————————————————————————
 With A Little Help From My Friends
 Release(s): Sgt. Pepper's Lonely Hearts Club Band
@@ -715,10 +599,7 @@ Words Of Love
 Release(s): Beatles For Sale
 ———————————————————————————————————————————————————————————————
 Yellow Submarine
-Release(s): Revolver
-———————————————————————————————————————————————————————————————
-Yellow Submarine
-Release(s): Yellow Submarine
+Release(s): Revolver, Yellow Submarine
 ———————————————————————————————————————————————————————————————
 Yellow Submarine In Pepperland
 Release(s): Yellow Submarine
@@ -751,8 +632,6 @@ You've Got To Hide Your Love Away
 Release(s): Help!
 ———————————————————————————————————————————————————————————————
 Your Feet's Too Big
-Release(s): Live! At The Star-Club In Hamburg, Germany; 1962
-———————————————————————————————————————————————————————————————
-Your Feets Too Big
-Release(s): Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
+Variation(s): Your Feets Too Big
+Release(s): Live! At The Star-Club In Hamburg, Germany; 1962, Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)
 ———————————————————————————————————————————————————————————————

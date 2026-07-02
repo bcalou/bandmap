@@ -89,6 +89,12 @@ export const DCExtraArtist = z.object({
   name: z.string(),
 });
 
+export type DCTrack = z.infer<typeof DCTrack>;
+export const DCTrack = z.object({
+  title: z.string(),
+  extraartists: z.array(DCExtraArtist).optional(),
+});
+
 export type DCRelease = z.infer<typeof DCRelease>;
 export const DCRelease = z.object({
   id: z.number(),
@@ -108,12 +114,7 @@ export const DCRelease = z.object({
   master_id: z.number().optional(),
   released: z.string().optional(),
   extraartists: z.array(DCExtraArtist).optional(),
-  tracklist: z.array(
-    z.object({
-      title: z.string(),
-      extraartists: z.array(DCExtraArtist).optional(),
-    })
-  ),
+  tracklist: z.array(DCTrack),
 });
 
 export type DCMaster = z.infer<typeof DCMaster>;

@@ -1,5 +1,5 @@
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
-export const OPTION_TITLE_SIMILARITY_CONSIDERED_IDENTICAL = 0.2;
+export const OPTION_TITLE_SIMILARITY_CONSIDERED_IDENTICAL = 0.75;
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";

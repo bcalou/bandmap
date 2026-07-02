@@ -1,6 +1,6 @@
-import { Logger } from "./Logger";
 import { Api } from "./Api";
 import { Band } from "./Band";
+import { Logger } from "./Logger";
 
 /**
  * Main class of the program.
@@ -33,14 +33,16 @@ export class BandMap {
   // Main sequence of events
   private async init() {
     const band = await this.api.getArtist(this.bandId);
-    this.logger.setLogFile(`band_${band.id}_${band.name}_details.txt`);
+    this.setLogFile("details");
     this.band = new Band(band);
 
     await this.band.fetchMembersAndConnectedBands();
 
     await this.band.fetchReleases();
 
-    this.band.identifyMainCountry();
+    this.band.discography.identifyMainCountry();
+
+    this.band.discography.selectValidCandidates();
 
     this.band.discography.sort();
 
@@ -51,21 +53,24 @@ export class BandMap {
 
   // Log the final output
   private logFinalOutput() {
-    this.logger.setLogFile(
-      `band_${this.band?.id}_${this.band?.name}_rejected.txt`
-    );
-
-    this.logger.logThickSeparator();
+    this.setLogFile("rejected");
 
     this.band?.discography.logRejected();
 
-    this.logger.setLogFile(
-      `band_${this.band?.id}_${this.band?.name}_accepted.txt`
-    );
-
-    this.logger.logThickSeparator();
+    this.setLogFile("accepted");
 
     this.band?.discography.logAccepted();
+
+    this.setLogFile("repertoire");
+
+    this.band?.discography?.repertoire?.logTracks();
+  }
+
+  // Set the log file name
+  private setLogFile(name: string) {
+    this.logger.setLogFile(
+      `band_${this.band?.id}_${this.band?.name}_${name}.txt`
+    );
   }
 
   // Test the program result against what's expected

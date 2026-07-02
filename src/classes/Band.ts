@@ -5,7 +5,6 @@ import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
 import { Release } from "./Release";
-import { Repertoire } from "./Repertoire";
 
 /**
  * The main band which we're looking at
@@ -13,9 +12,6 @@ import { Repertoire } from "./Repertoire";
 export class Band extends Artist {
   // The discography of the band and its connected artists/bands
   public discography: Discography;
-
-  // The list of songs performed by the band and its connected artists/bands
-  public repertoire: Repertoire;
 
   // The members of the band
   public members: Artist[] = [];
@@ -28,13 +24,9 @@ export class Band extends Artist {
     members: Artist[];
   }[] = [];
 
-  // The country in which most core releases were released
-  public mainCountry: string | undefined;
-
   constructor(band: DCArtist) {
     super(band);
     this.discography = new Discography();
-    this.repertoire = new Repertoire();
   }
 
   get band(): Band {
@@ -95,39 +87,6 @@ export class Band extends Artist {
         await member.fetchReleases();
       }
     }
-  }
-
-  // Find in which country most of the core releases were relesased
-  public identifyMainCountry(): void {
-    const countries = this.getReleasesCountByCountry();
-
-    const maxReleases = Math.max(...Object.values(countries));
-    this.mainCountry = Object.keys(countries).find(
-      (key) => countries[key] === maxReleases
-    );
-
-    this.logger.logInfo(
-      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`
-    );
-
-    this.logger.logSeparator();
-  }
-
-  // Get the number of releases in each country
-  private getReleasesCountByCountry(): Record<string, number> {
-    const countries: Record<string, number> = {};
-
-    this.discography.getReleases().forEach((release) => {
-      if (!release.country) return;
-
-      if (!countries[release.country]) {
-        countries[release.country] = 0;
-      }
-
-      countries[release.country]++;
-    });
-
-    return countries;
   }
 
   // Fetch the bands connected to the main band members

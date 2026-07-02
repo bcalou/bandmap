@@ -1,7 +1,8 @@
-import { Logger } from "./Logger";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
+import { Logger } from "./Logger";
 import { Release } from "./Release";
+import { Repertoire } from "./Repertoire";
 
 /**
  * A discography, which is, in the case of this app, the list of releases from
@@ -10,6 +11,9 @@ import { Release } from "./Release";
 export class Discography {
   // The list of releases constituting the final discography
   private releases: Release[] = [];
+
+  // The list of songs performed by the band and its connected artists/bands
+  public repertoire: Repertoire;
 
   // The list of releases that could be included in the final discography
   private candidateReleases: Release[] = [];
@@ -27,13 +31,22 @@ export class Discography {
     reason: RejectReason;
   }[] = [];
 
+  // The country in which most core releases were released
+  public mainCountry: string | undefined;
+
   constructor() {
     this.logger = new Logger();
+    this.repertoire = new Repertoire();
   }
 
   // Get the releases
   public getReleases() {
     return this.releases;
+  }
+
+  // Get the candidate releases
+  public getCandidateReleases() {
+    return this.candidateReleases;
   }
 
   // Add a release to the discography
@@ -62,7 +75,10 @@ export class Discography {
 
   // If the given id is included in the discography, return whether it's
   // candidate or rejected. Return false if the id is not present at all.
-  public includes(id: number): "candidate" | "rejected" | false {
+  public includes(id: number): "accepted" | "candidate" | "rejected" | false {
+    if (this.releases.find((release) => release.discographyId === id))
+      return "accepted";
+
     if (this.candidateReleases.find((release) => release.discographyId === id))
       return "candidate";
 
@@ -74,18 +90,27 @@ export class Discography {
     return false;
   }
 
+  // Select which candidate releases are actually valid
+  public selectValidCandidates() {
+    this.candidateReleases
+      .filter((candidateRelease) => candidateRelease.isCoreRelease())
+      .forEach((coreRelease, index) => {
+        this.candidateReleases.splice(index, 1)
+        this.repertoire.addReleaseTracks(coreRelease);
+        this.releases.push(coreRelease);
+      });
+  }
+
   // Sort releases by release date
   public sort() {
-    this.releases.forEach((release) => console.log(release.country));
-
     this.releases.sort((release1, release2) =>
-      release1.formattedDate.localeCompare(release2.formattedDate)
+      release1.formattedDate.localeCompare(release2.formattedDate),
     );
 
     this.rejectedReleases.sort((release1, release2) =>
       release1.artistRelease.year
         .toString()
-        .localeCompare(release2.artistRelease.year.toString())
+        .localeCompare(release2.artistRelease.year.toString()),
     );
   }
 
@@ -104,7 +129,7 @@ export class Discography {
   // Log the list of rejected releases and the reject reason
   public logRejected() {
     this.logger.logWarning(
-      `${this.rejectedReleases.length} rejected release(s):`
+      `${this.rejectedReleases.length} rejected release(s):`,
     );
     this.logger.logSeparator();
 
@@ -118,5 +143,38 @@ export class Discography {
   // Get the ID list of accepted releases
   public getAcceptedIdList(): string {
     return this.releases.map((release) => release.id).join(",");
+  }
+
+  // Find in which country most of the core releases were relesased
+  public identifyMainCountry(): void {
+    const countries = this.getReleasesCountByCountry();
+
+    const maxReleases = Math.max(...Object.values(countries));
+    this.mainCountry = Object.keys(countries).find(
+      (key) => countries[key] === maxReleases,
+    );
+
+    this.logger.logInfo(
+      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`,
+    );
+
+    this.logger.logSeparator();
+  }
+
+  // Get the number of releases in each country
+  private getReleasesCountByCountry(): Record<string, number> {
+    const countries: Record<string, number> = {};
+
+    this.getCandidateReleases().forEach((release) => {
+      if (!release.country) return;
+
+      if (!countries[release.country]) {
+        countries[release.country] = 0;
+      }
+
+      countries[release.country]++;
+    });
+
+    return countries;
   }
 }

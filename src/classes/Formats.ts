@@ -40,6 +40,11 @@ export class Formats {
       : `Rejected format(s): ${this.printFormats(this.formats)}`;
   }
 
+  // Is the format a core format (exclude secondary formats)
+  public isCoreFormat(): boolean {
+    return !this.formats.find(format => FORMATS.secondary.includes(format))
+  }
+
   // Transform a format list to a printable string
   private printFormats(formats?: string[]) {
     return (formats ?? this.formats).join(", ") ?? "not specified";

@@ -43,33 +43,13 @@ export class Repertoire {
     });
   }
 
-  // Add a track variation to the repertoire
-  private addTrackVariation(track: DCTrack, release: Release, addTo: Track) {
-    if (
-      track.title !== addTo.title &&
-      !addTo.variations.find((variation) => variation === track.title)
-    ) {
-      addTo.variations.push(track.title);
-    }
-    addTo.releases.push(release);
-  }
-
-  // Add a new track to the repertoire
-  private addNewTrack(track: DCTrack, release: Release) {
-    this.tracks.push({
-      title: track.title,
-      variations: [],
-      releases: [release],
-    });
-  }
-
   // Nicely log the list of the tracks from the repertoire
   public logTracks() {
     this.logger.log(`${this.tracks.length} track(s):`);
     this.logger.logSeparator();
     this.tracks
       .sort((track1, track2) => track1.title.localeCompare(track2.title))
-      .forEach(this.logTrack);
+      .forEach(this.logTrack.bind(this));
   }
 
   // Is the release tracklist mostly included in the repertoire?
@@ -98,5 +78,25 @@ export class Repertoire {
       stringSimilarity.compareTwoStrings(track1, track2) >
       OPTION_TITLE_SIMILARITY_CONSIDERED_IDENTICAL
     );
+  }
+
+  // Add a track variation to the repertoire
+  private addTrackVariation(track: DCTrack, release: Release, addTo: Track) {
+    if (
+      track.title !== addTo.title &&
+      !addTo.variations.find((variation) => variation === track.title)
+    ) {
+      addTo.variations.push(track.title);
+    }
+    addTo.releases.push(release);
+  }
+
+  // Add a new track to the repertoire
+  private addNewTrack(track: DCTrack, release: Release) {
+    this.tracks.push({
+      title: track.title,
+      variations: [],
+      releases: [release],
+    });
   }
 }

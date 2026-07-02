@@ -5185,8 +5185,13 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 (https://www.discogs.com/master/1457933)
 Alternate language release
 ———————————————————————————————————————————————————————————————
-⌛ 1965-09-00 - The Beatles - "Beatles VI / Something New"
-(https://www.discogs.com/release/6807217-The-Beatles-Beatles-VI-Something-New)
+Invalid format(s) (Reel-To-Reel, 3 ¾ ips, ¼", 4-Track Stereo, 7" Cine Reel, Album, Compilation) for "Beatles VI / Something New"
+🗃️ Looking at 1 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/14310309
+💿 Format: Cassette, Compilation
+❌ 1965 - The Beatles - "Beatles VI / Something New"
+(https://www.discogs.com/master/1679195)
+Rejected format(s): Reel-To-Reel, 3 ¾ ips, ¼", 4-Track Stereo, 7" Cine Reel, Album, Compilation
 ———————————————————————————————————————————————————————————————
 ❌ 1965 - The Beatles - "Beatles Interview (Im Hilton-Hotel, London)"
 (https://www.discogs.com/master/1482609)
@@ -6651,6 +6656,10 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "With A Little Help From My 
 (https://www.discogs.com/master/749061)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
+Invalid format(s) (Reel-To-Reel, 7 ½ ips, ¼", 4-Track Stereo, 7" Cine Reel, Album) for "The Beatles Volume One"
+🗃️ Looking at 38 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/6083517
+💿 Format: Vinyl, LP, Album, Mono
 🗓️ Imprecise date (1968) for "The Beatles Volume One"
 🗃️ Looking at 38 alternate version(s)
 🗓️ No more versions for year 1968

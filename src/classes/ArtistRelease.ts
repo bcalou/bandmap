@@ -2,6 +2,7 @@ import {
   ARTIST_RELEASE_ROLES,
   DISCOGS_MASTER_URL,
   DISCOGS_RELEASE_URL,
+  OPTION_TITLE_SIMILARITY_THRESHOLD,
 } from "../env";
 import { Api } from "./Api";
 import { DCArtistRelease, RejectReason } from "../types";
@@ -9,6 +10,7 @@ import { Band } from "./Band";
 import { Master } from "./Master";
 import { Release } from "./Release";
 import { Logger } from "./Logger";
+import { stringsAreSimilar } from "../utils";
 
 /**
  * An artist's release, which is an simplified representation of a release
@@ -91,6 +93,7 @@ export class ArtistRelease {
     return (
       this.heuristicRejectRole() ??
       this.heuristicRejectAlternateLanguage() ??
+      // this.heuristicRejectSimilarTitle() ??
       this.fetchRelease()
     );
   }
@@ -136,10 +139,19 @@ export class ArtistRelease {
   // Reject copies of a release with translate titles (noted with a = sign on
   // discogs)
   private heuristicRejectAlternateLanguage(): RejectReason | null {
-    if (this.title.indexOf(" = ") > -1) {
-      return "Alternate language release";
-    }
-
-    return null;
+    return this.title.indexOf(" = ") > -1 ? "Alternate language release" : null;
   }
+
+  // Reject a release having a title too similar to another selected release
+  // private heuristicRejectSimilarTitle(): RejectReason | null {
+  //   const similarRelease = this.mainBand.discography
+  //     .getCandidateReleases()
+  //     .find((release) => stringsAreSimilar(release.title, this.title));
+
+  //   if (similarRelease) {
+  //     return `Title too similar to ${similarRelease.label}`;
+  //   }
+
+  //   return null;
+  // }
 }

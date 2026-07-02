@@ -147,7 +147,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId,
+      (_version) => _version.release.id === versionId
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -171,7 +171,7 @@ export class Release {
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand,
+      this.mainBand
     );
     this.versions.push(version);
     return version;
@@ -184,7 +184,7 @@ export class Release {
 
     const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     if (versions.pagination.items) {

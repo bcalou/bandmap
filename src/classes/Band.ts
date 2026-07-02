@@ -110,7 +110,7 @@ export class Band extends Artist {
       `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`
     );
 
-    this.logger.log(JSON.stringify(countries));
+    this.logger.logSeparator();
   }
 
   // Get the number of releases in each country

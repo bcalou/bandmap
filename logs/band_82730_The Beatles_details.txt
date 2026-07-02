@@ -363,7 +363,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM) for "I Saw Her Standing There "
 (https://www.discogs.com/master/1353141)
 Rejected format(s): Vinyl, 7", 45 RPM
 ———————————————————————————————————————————————————————————————
-💿 1964-01-20 - The Beatles - "Meet The Beatles!"
+⌛ 1964-01-20 - The Beatles - "Meet The Beatles!"
 (https://www.discogs.com/release/1349112-The-Beatles-Meet-The-Beatles)
 ———————————————————————————————————————————————————————————————
 ❌ 1963 - The Beatles - "Abrazame Fuerte / No Otra Vez"
@@ -452,7 +452,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 (https://www.discogs.com/master/45316)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 ———————————————————————————————————————————————————————————————
-💿 1963-03-22 - The Beatles - "Please Please Me"
+⌛ 1963-03-22 - The Beatles - "Please Please Me"
 (https://www.discogs.com/release/1350468-The-Beatles-Please-Please-Me)
 ———————————————————————————————————————————————————————————————
 ❌ 1963 - The Beatles - "Please Please Me / From Me To You"
@@ -805,7 +805,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "Twist And Shout"
 (https://www.discogs.com/master/45697)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
-💿 1963-11-22 - The Beatles - "With The Beatles"
+⌛ 1963-11-22 - The Beatles - "With The Beatles"
 (https://www.discogs.com/release/768729-The-Beatles-With-The-Beatles)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "The Beatles (No.1)"
@@ -1802,7 +1802,7 @@ Rejected format(s): Vinyl, 7", 33 ⅓ RPM, Single
 (https://www.discogs.com/master/230666)
 Rejected format(s): Vinyl, 7", 45 RPM, Single
 ———————————————————————————————————————————————————————————————
-💿 1964-02-00 - The Beatles - "Twist And Shout"
+⌛ 1964-02-00 - The Beatles - "Twist And Shout"
 (https://www.discogs.com/release/1883169-The-Beatles-Twist-And-Shout)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Mono) for "The Beatles Beat"
@@ -2125,7 +2125,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, Single Sided, Promo) for "I'll Get You"
 (https://www.discogs.com/master/641140)
 Rejected format(s): Vinyl, 7", 45 RPM, Single Sided, Promo
 ———————————————————————————————————————————————————————————————
-💿 1964-11-23 - The Beatles - "The Beatles' Story"
+⌛ 1964-11-23 - The Beatles - "The Beatles' Story"
 (https://www.discogs.com/release/962004-The-Beatles-The-Beatles-Story)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Rock And Roll Music"
@@ -2446,7 +2446,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Mono) for "The Beatles With Tony Sher
 💿 Format: Vinyl, LP, Compilation, Mono
 🗃️ Analyzing version https://www.discogs.com/release/33102102
 💿 Format: Vinyl, LP, Album, Compilation, Mono
-💿 1964-02-03 - The Beatles, Tony Sheridan - "The Beatles With Tony Sheridan And Guests"
+⌛ 1964-02-03 - The Beatles, Tony Sheridan - "The Beatles With Tony Sheridan And Guests"
 (https://www.discogs.com/release/3815373-The-Beatles-With-Tony-Sheridan-The-Beatles-With-Tony-Sheridan-And-Guests)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP, Promo) for "The Beatles Introduce New Songs"
@@ -2495,7 +2495,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP) for "I Feel Fine"
 (https://www.discogs.com/master/929294)
 Rejected format(s): Vinyl, 7", 45 RPM, EP
 ———————————————————————————————————————————————————————————————
-💿 1964-04-27 - The Beatles - "Long Tall Sally"
+⌛ 1964-04-27 - The Beatles - "Long Tall Sally"
 (https://www.discogs.com/release/1949916-The-Beatles-Long-Tall-Sally)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP) for "Que Noche La De Aquel Dia"
@@ -2749,7 +2749,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, EP
 🗃️ Analyzing version https://www.discogs.com/release/7569874
 🗓️ Release date: 1964-12-15
 Found better release date: 1964-12-15
-💿 1964-12-15 - The Beatles - "Beatles '65"
+⌛ 1964-12-15 - The Beatles - "Beatles '65"
 (https://www.discogs.com/release/4893517-The-Beatles-Beatles-65)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Do You Want To Know A Secret"
@@ -2760,7 +2760,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 (https://www.discogs.com/master/389838)
 Rejected format(s): Vinyl, 7", 45 RPM, Single
 ———————————————————————————————————————————————————————————————
-💿 1964-12-04 - The Beatles - "Beatles For Sale"
+⌛ 1964-12-04 - The Beatles - "Beatles For Sale"
 (https://www.discogs.com/release/651143-The-Beatles-Beatles-For-Sale)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", EP, 45 RPM) for "Misery / Anna (Go To Him) / P.S. I Love You / I Saw Her Standing There"
@@ -2797,7 +2797,7 @@ Invalid format(s) (Vinyl, LP, Album, Reissue, Mono, Vinyl, LP, Compilation, Reis
 🗃️ Looking at 7 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9736019
 💿 Format: Vinyl, LP, Album, Stereo
-💿 1964-08-00 - The Beatles, The Four Seasons - "The Beatles Vs The Four Seasons"
+⌛ 1964-08-00 - The Beatles, The Four Seasons - "The Beatles Vs The Four Seasons"
 (https://www.discogs.com/release/5149112-The-Beatles-Vs-The-Four-Seasons-The-Beatles-Vs-The-Four-Seasons)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "Cry For A Shadow / Why"
@@ -2812,7 +2812,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single
 (https://www.discogs.com/master/504887)
 Rejected format(s): Vinyl, 7", 45 RPM, Single
 ———————————————————————————————————————————————————————————————
-💿 1964-07-20 - The Beatles - "Something New"
+⌛ 1964-07-20 - The Beatles - "Something New"
 (https://www.discogs.com/release/851584-The-Beatles-Something-New)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "All My Loving / Can't Buy Me Love"
@@ -2940,7 +2940,7 @@ Rejected format(s): Vinyl, 7", EP, 45 RPM
 🗃️ Analyzing version https://www.discogs.com/release/36655282
 🗓️ Release date: 1964-04-10
 Found better release date: 1964-04-10
-💿 1964-04-10 - The Beatles - "The Beatles' Second Album"
+⌛ 1964-04-10 - The Beatles - "The Beatles' Second Album"
 (https://www.discogs.com/release/3220469-The-Beatles-The-Beatles-Second-Album)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "I Should Have Known Better"
@@ -3227,7 +3227,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 🗓️ Release date: 1964
 🗓️ No more versions for year 1964
 🗓️ No better date found
-💿 1964 - The Beatles - "Musica De Su Pelicula Yeah, Yeah, Yeah"
+⌛ 1964 - The Beatles - "Musica De Su Pelicula Yeah, Yeah, Yeah"
 (https://www.discogs.com/release/13607252-The-Beatles-Musica-De-Su-Pelicula-Yeah-Yeah-Yeah)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Mono) for "The Beatles Hits"
@@ -3261,7 +3261,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Stereo) for "The Beatles 3"
 🗃️ Analyzing version https://www.discogs.com/release/9057757
 🗓️ Release date: 1964
 🗓️ No better date found
-💿 1964 - The Beatles - "The Beatles 3"
+⌛ 1964 - The Beatles - "The Beatles 3"
 (https://www.discogs.com/release/31865066-The-Beatles-The-Beatles-3)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "No Reply / Baby's In Black"
@@ -3310,7 +3310,7 @@ Invalid format(s) (Vinyl, LP, 10", Compilation) for "Les Beatles"
 💿 Format: Vinyl, LP, 10", Mono, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/2893768
 💿 Format: CD, Album, Compilation, Numbered
-💿 1964-05-22 - The Beatles - "Les Beatles"
+⌛ 1964-05-22 - The Beatles - "Les Beatles"
 (https://www.discogs.com/release/3621499-Les-Beatles-Les-Beatles)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", EP) for "Al Compas De Beethoven"
@@ -3479,7 +3479,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Mono) for "The Beatles' First"
 💿 Format: Vinyl, LP, Compilation, Promo, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/33723507
 💿 Format: Cassette, Album, Compilation, Stereo
-💿 1964-04-00 - The Beatles, Tony Sheridan, Various - "The Beatles' First"
+⌛ 1964-04-00 - The Beatles, Tony Sheridan, Various - "The Beatles' First"
 (https://www.discogs.com/release/1998848-The-Beatles-Featuring-Tony-Sheridan-Guests-The-Beatles-First)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Mono) for "Para Tí"
@@ -3556,14 +3556,14 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single
 (https://www.discogs.com/master/1179059)
 Alternate language release
 ———————————————————————————————————————————————————————————————
-💿 1964-07-10 - The Beatles - "A Hard Day's Night"
+⌛ 1964-07-10 - The Beatles - "A Hard Day's Night"
 (https://www.discogs.com/release/4953644-The-Beatles-A-Hard-Days-Night)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - Die Beatles* - "Komm, Gib Mir Deine Hand / Sie Liebt Dich"
 (https://www.discogs.com/master/171505)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 ———————————————————————————————————————————————————————————————
-💿 1964-06-26 - The Beatles - "A Hard Day's Night (Original Motion Picture Sound Track)"
+⌛ 1964-06-26 - The Beatles - "A Hard Day's Night (Original Motion Picture Sound Track)"
 (https://www.discogs.com/release/1017762-The-Beatles-A-Hard-Days-Night-Original-Motion-Picture-Sound-Track)
 ———————————————————————————————————————————————————————————————
 ❌ 1964 - The Beatles - "I Saw Her Standing There	"
@@ -3915,7 +3915,7 @@ Rejected format(s): Vinyl, 7", 33 ⅓ RPM, EP
 🗃️ Analyzing version https://www.discogs.com/release/13174218
 🗓️ Release date: 1965-08-13
 Found better release date: 1965-08-13
-💿 1965-08-13 - The Beatles - "Help! (Original Motion Picture Soundtrack)"
+⌛ 1965-08-13 - The Beatles - "Help! (Original Motion Picture Soundtrack)"
 (https://www.discogs.com/release/478424-The-Beatles-Help-Original-Motion-Picture-Soundtrack)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Shellac, 10", 78 RPM) for "Dizzy Miss Lizzy / The Night Before"
@@ -4084,7 +4084,7 @@ Rejected format(s): Vinyl, 7", Single, 45 RPM
 (https://www.discogs.com/master/313055)
 Alternate language release
 ———————————————————————————————————————————————————————————————
-💿 1965-06-14 - The Beatles - "Beatles VI"
+⌛ 1965-06-14 - The Beatles - "Beatles VI"
 (https://www.discogs.com/release/611459-The-Beatles-Beatles-VI)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, 10", Compilation, Club Edition, Mono) for "Meet The Beat"
@@ -4341,10 +4341,10 @@ Invalid format(s) (Vinyl, 7", EP) for "We Can Work It Out"
 (https://www.discogs.com/master/2183623)
 Rejected format(s): Vinyl, 7", EP
 ———————————————————————————————————————————————————————————————
-💿 1965-12-03 - The Beatles - "Rubber Soul"
+⌛ 1965-12-03 - The Beatles - "Rubber Soul"
 (https://www.discogs.com/release/5501695-The-Beatles-Rubber-Soul)
 ———————————————————————————————————————————————————————————————
-💿 1965-08-06 - The Beatles - "Help!"
+⌛ 1965-08-06 - The Beatles - "Help!"
 (https://www.discogs.com/release/735564-The-Beatles-Help)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP, Stereo) for "Beatles Forever"
@@ -4991,7 +4991,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single
 (https://www.discogs.com/master/81040)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 ———————————————————————————————————————————————————————————————
-💿 1965-03-22 - The Beatles - "The Early Beatles"
+⌛ 1965-03-22 - The Beatles - "The Early Beatles"
 (https://www.discogs.com/release/1130456-The-Beatles-The-Early-Beatles)
 ———————————————————————————————————————————————————————————————
 ❌ 1965 - The Beatles - "Yesterday / Act Naturally"
@@ -5102,7 +5102,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 (https://www.discogs.com/master/1457933)
 Alternate language release
 ———————————————————————————————————————————————————————————————
-💿 1965-09-00 - The Beatles - "Beatles VI / Something New"
+⌛ 1965-09-00 - The Beatles - "Beatles VI / Something New"
 (https://www.discogs.com/release/6807217-The-Beatles-Beatles-VI-Something-New)
 ———————————————————————————————————————————————————————————————
 ❌ 1965 - The Beatles - "Beatles Interview (Im Hilton-Hotel, London)"
@@ -5465,7 +5465,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 (https://www.discogs.com/master/1075013)
 Rejected format(s): Vinyl, 7", 45 RPM, Single
 ———————————————————————————————————————————————————————————————
-💿 1966-06-20 - The Beatles - "Yesterday And Today"
+⌛ 1966-06-20 - The Beatles - "Yesterday And Today"
 (https://www.discogs.com/release/9822053-The-Beatles-Yesterday-And-Today)
 ———————————————————————————————————————————————————————————————
 ❌ 1966 - The Beatles - "Drive My Car"
@@ -5660,7 +5660,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "Yesterday"
 (https://www.discogs.com/master/241874)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
-💿 1966-08-05 - The Beatles - "Revolver"
+⌛ 1966-08-05 - The Beatles - "Revolver"
 (https://www.discogs.com/release/2318045-The-Beatles-Revolver)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "Michelle"
@@ -5819,7 +5819,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP) for "Volume 4"
 (https://www.discogs.com/master/1194181)
 Rejected format(s): Vinyl, 7", 45 RPM, EP
 ———————————————————————————————————————————————————————————————
-💿 1966-12-10 - The Beatles - "A Collection Of Beatles Oldies"
+⌛ 1966-12-10 - The Beatles - "A Collection Of Beatles Oldies"
 (https://www.discogs.com/release/1520405-The-Beatles-A-Collection-Of-Beatles-Oldies)
 ———————————————————————————————————————————————————————————————
 ❌ 1966 - The Beatles - "Nowhere Man / What Goes On"
@@ -6198,7 +6198,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "Magical Mystery Tour"
 (https://www.discogs.com/master/54445)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
-💿 1967-12-06 - The Beatles - "Magical Mystery Tour"
+⌛ 1967-12-06 - The Beatles - "Magical Mystery Tour"
 (https://www.discogs.com/release/464292-The-Beatles-Magical-Mystery-Tour)
 ———————————————————————————————————————————————————————————————
 ❌ 1967 - The Beatles - "Strawberry Fields Forever / Penny Lane"
@@ -6469,7 +6469,7 @@ Invalid format(s) (Vinyl, 7", 33 ⅓ RPM, EP, Mono) for "All You Need Is Love"
 (https://www.discogs.com/master/1178914)
 Rejected format(s): Vinyl, 7", 33 ⅓ RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
-💿 1967-05-26 - The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
+⌛ 1967-05-26 - The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
 (https://www.discogs.com/release/499497-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP) for "A Collection of Beatles Oldies (Vol. 1)"
@@ -6572,7 +6572,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 🗃️ Looking at 38 alternate version(s)
 🗓️ No more versions for year 1968
 🗓️ No better date found
-💿 1968 - The Beatles - "The Beatles Volume One"
+⌛ 1968 - The Beatles - "The Beatles Volume One"
 (https://www.discogs.com/release/24075866-The-Beatles-The-Beatles-Volume-One)
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - The Beatles - "Ob-La-Di Ob-La-Da / I Will"
@@ -6591,7 +6591,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single
 (https://www.discogs.com/master/46369)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Mono
 ———————————————————————————————————————————————————————————————
-💿 1968-11-22 - The Beatles - "The Beatles"
+⌛ 1968-11-22 - The Beatles - "The Beatles"
 (https://www.discogs.com/release/456663-The-Beatles-The-Beatles)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP) for "Penny Lane"
@@ -6692,7 +6692,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single
 🗃️ Looking at 30 alternate version(s)
 🗓️ No more versions for year 1969
 🗓️ No better date found
-💿 1969 - The Beatles - "The Beatles Vol. II"
+⌛ 1969 - The Beatles - "The Beatles Vol. II"
 (https://www.discogs.com/release/6667782-The-Beatles-The-Beatles-Vol-II)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 33 ⅓ RPM) for "Get Back"
@@ -6715,10 +6715,10 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Stereo
 (https://www.discogs.com/master/54558)
 Rejected format(s): Vinyl, 7", 45 RPM, Single
 ———————————————————————————————————————————————————————————————
-💿 1969-01-17 - The Beatles - "Yellow Submarine"
+⌛ 1969-01-17 - The Beatles - "Yellow Submarine"
 (https://www.discogs.com/release/651180-The-Beatles-Yellow-Submarine)
 ———————————————————————————————————————————————————————————————
-💿 1969-09-26 - The Beatles - "Abbey Road"
+⌛ 1969-09-26 - The Beatles - "Abbey Road"
 (https://www.discogs.com/release/2607424-The-Beatles-Abbey-Road)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles, Badfinger - "Let It Be / Rock Of All Ages"
@@ -7087,7 +7087,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Stereo) for "Hey Jude (The Beatles Ag
 💿 Format: Vinyl, LP, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/5350871
 💿 Format: Vinyl, LP, Album, Compilation, Repress, Stereo
-💿 1970-02-26 - The Beatles - "Hey Jude (The Beatles Again)"
+⌛ 1970-02-26 - The Beatles - "Hey Jude (The Beatles Again)"
 (https://www.discogs.com/release/5849410-The-Beatles-Hey-Jude-The-Beatles-Again)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles - "A Day In The Life = Un Día En La Vida "
@@ -7102,7 +7102,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Stereo
 (https://www.discogs.com/master/72918)
 Rejected artist(s): John Lennon, The Plastic Ono Band
 ———————————————————————————————————————————————————————————————
-💿 1970-05-08 - The Beatles - "Let It Be"
+⌛ 1970-05-08 - The Beatles - "Let It Be"
 (https://www.discogs.com/release/5787944-The-Beatles-Let-It-Be)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7") for "Oh! Darling / Maxwell’s Silver Hammer"
@@ -7645,7 +7645,7 @@ Invalid format(s) (Vinyl, 7", 33 ⅓ RPM, Repress, Mono) for "Любовь Не�
 (https://www.discogs.com/master/212199)
 Rejected format(s): Vinyl, 7", 33 ⅓ RPM, Repress, Mono
 ———————————————————————————————————————————————————————————————
-💿 1973-04-19 - The Beatles - "1962-1966"
+⌛ 1973-04-19 - The Beatles - "1962-1966"
 (https://www.discogs.com/release/936664-The-Beatles-1962-1966)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Stereo) for "1967-1970"
@@ -7678,7 +7678,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Stereo) for "1967-1970"
 💿 Format: 8-Track Cartridge, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/23950985
 💿 Format: Vinyl, LP, Album, Compilation, Stereo
-💿 1973-04-19 - The Beatles - "1967-1970"
+⌛ 1973-04-19 - The Beatles - "1967-1970"
 (https://www.discogs.com/release/851518-The-Beatles-1967-1970)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - I Beatles* Con Tony Sheridan / Anita Bryant - "My Bonnie / Yesterday"
@@ -8079,7 +8079,7 @@ Invalid format(s) (Vinyl, LP, Compilation) for "Rock 'N' Roll Music"
 💿 Format: 8-Track Cartridge, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/22680482
 💿 Format: Vinyl, LP, Album, Compilation
-💿 1976-06-11 - The Beatles - "Rock 'N' Roll Music"
+⌛ 1976-06-11 - The Beatles - "Rock 'N' Roll Music"
 (https://www.discogs.com/release/618563-The-Beatles-Rock-N-Roll-Music)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", EP, 45 RPM) for "Hey Jude"
@@ -8296,7 +8296,7 @@ Invalid format(s) (Vinyl, LP) for "Live! At The Star-Club In Hamburg, Germany; 1
 🗓️ Release date: 1977
 🗓️ No more versions for year 1977
 🗓️ No better date found
-💿 1977 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962"
+⌛ 1977 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962"
 (https://www.discogs.com/release/1113880-The-Beatles-Live-At-The-Star-Club-In-Hamburg-Germany-1962)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation) for "Love Songs"
@@ -8433,17 +8433,17 @@ Invalid format(s) (Vinyl, LP, Compilation) for "Love Songs"
 💿 Format: Vinyl, LP, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/3728396
 💿 Format: Vinyl, LP, Album, Compilation, Stereo
-💿 1977-10-21 - The Beatles - "Love Songs"
+⌛ 1977-10-21 - The Beatles - "Love Songs"
 (https://www.discogs.com/release/7964234-The-Beatles-Love-Songs)
 ———————————————————————————————————————————————————————————————
-💿 1977-05-06 - The Beatles - "The Beatles At The Hollywood Bowl"
+⌛ 1977-05-06 - The Beatles - "The Beatles At The Hollywood Bowl"
 (https://www.discogs.com/release/722725-The-Beatles-The-Beatles-At-The-Hollywood-Bowl)
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1985) for "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
 🗃️ Looking at 12 alternate version(s)
 🗓️ No more versions for year 1985
 🗓️ No better date found
-💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
+⌛ 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
 (https://www.discogs.com/release/3021718-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-1)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - The Beatles - "Recorded Live In Hamburg 1962 (Volume 1)"
@@ -8618,7 +8618,7 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 (https://www.discogs.com/release/37532667)
 Rejected format(s): Cassette, Compilation, Stereo
 ———————————————————————————————————————————————————————————————
-💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume One)"
+⌛ 1979-01-29 - The Beatles - "1st Live Recordings (Volume One)"
 (https://www.discogs.com/release/2010331-The-Beatles-1st-Live-Recordings-Volume-One)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Stereo) for "1st Live Recordings (Volume Two)"
@@ -8634,7 +8634,7 @@ Invalid format(s) (Vinyl, LP, Stereo) for "1st Live Recordings (Volume Two)"
 🗃️ Analyzing version https://www.discogs.com/release/7966331
 🗓️ Release date: 1979-01-29
 Found better release date: 1979-01-29
-💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume Two)"
+⌛ 1979-01-29 - The Beatles - "1st Live Recordings (Volume Two)"
 (https://www.discogs.com/release/2449750-The-Beatles-1st-Live-Recordings-Volume-Two)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Stereo, Mono) for "Rarities"
@@ -8655,7 +8655,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Stereo, Mono) for "Rarities"
 💿 Format: Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/3643410
 💿 Format: Vinyl, LP, Album, Compilation, Stereo, Mono
-💿 1979-10-00 - The Beatles - "Rarities"
+⌛ 1979-10-00 - The Beatles - "Rarities"
 (https://www.discogs.com/release/977590-The-Beatles-Rarities)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Cassette, Compilation) for "Paul, John, George Y Ringo!!! Banda de Sonido de la Película Ye, Ye, Ye."
@@ -9068,7 +9068,7 @@ Invalid format(s) (Vinyl, LP, Compilation) for "Rock 'N' Roll Music Vol. 2"
 💿 Format: Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/13986829
 💿 Format: Cassette, Album, Compilation, Stereo
-💿 1980-10-24 - The Beatles - "Rock 'N' Roll Music Vol. 2"
+⌛ 1980-10-24 - The Beatles - "Rock 'N' Roll Music Vol. 2"
 (https://www.discogs.com/release/777879-The-Beatles-Rock-N-Roll-Music-Vol-2)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 12", 45 RPM) for "Hey Jude / Yesterday / A Hard Day's Night"
@@ -9624,7 +9624,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Reissue, Stereo) for "The Beatles Wit
 🗃️ Analyzing version https://www.discogs.com/release/1231311
 🗓️ Release date: 1981
 🗓️ No better date found
-💿 1981 - The Beatles, Tony Sheridan - "The Beatles With Tony Sheridan"
+⌛ 1981 - The Beatles, Tony Sheridan - "The Beatles With Tony Sheridan"
 (https://www.discogs.com/release/3503311-The-Beatles-With-Tony-Sheridan-The-Beatles-With-Tony-Sheridan)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - The Beatles - "Talk Downunder"
@@ -9673,7 +9673,7 @@ Invalid format(s) (Vinyl, LP, Compilation) for "Early Years (2)"
 💿 Format: Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/6475353
 💿 Format: Cassette, Album, Compilation
-💿 1981-07-17 - The Beatles - "Early Years (2)"
+⌛ 1981-07-17 - The Beatles - "Early Years (2)"
 (https://www.discogs.com/release/5515995-The-Beatles-Early-Years-2)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation) for "Rare Beatles"
@@ -9955,7 +9955,7 @@ Invalid format(s) (Vinyl, LP, Compilation, Stereo) for "Reel Music"
 🗃️ Analyzing version https://www.discogs.com/release/6414605
 🗓️ Release date: 1982-03-24
 Found better release date: 1982-03-24
-💿 1982-03-24 - The Beatles - "Reel Music"
+⌛ 1982-03-24 - The Beatles - "Reel Music"
 (https://www.discogs.com/release/10850693-The-Beatles-Reel-Music)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, Promo) for "The Beatles Movie Medley / Fab Four On Film"
@@ -10440,7 +10440,7 @@ Invalid format(s) (Vinyl, LP) for "The Hamburg Tapes Volume 1"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/6479869
 💿 Format: Cassette, Album
-💿 1983-12-30 - The Beatles - "The Hamburg Tapes Volume 1"
+⌛ 1983-12-30 - The Beatles - "The Hamburg Tapes Volume 1"
 (https://www.discogs.com/release/2628099-The-Beatles-The-Hamburg-Tapes-Volume-1)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Compilation, Vinyl, 7", 45 RPM, EP, Compilation) for "The Number Ones"
@@ -10675,7 +10675,7 @@ Rejected genre(s): Non-Music
 🗓️ Release date: 1985
 🗓️ No more versions for year 1985
 🗓️ No better date found
-💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)"
+⌛ 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)"
 (https://www.discogs.com/release/3021754-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-2)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (VHS, Misprint, Special Edition, Mono, PAL) for "The Beatles Live - Ready Steady Go! Special Edition"
@@ -10792,7 +10792,7 @@ Rejected format(s): VHS, NTSC
 🗓️ Release date: 1986
 🗓️ No more versions for year 1986
 🗓️ No better date found
-💿 1986 - The Beatles - "Rock'n Roll Beatles"
+⌛ 1986 - The Beatles - "Rock'n Roll Beatles"
 (https://www.discogs.com/release/10135972-The-Beatles-Rockn-Roll-Beatles)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Cassette, Compilation) for "Only The Beatles ..."
@@ -10945,7 +10945,7 @@ Invalid format(s) (Vinyl, LP) for "From Britain... With Beat!"
 🗓️ Release date: 1987
 🗓️ No more versions for year 1987
 🗓️ No better date found
-💿 1987 - The Beatles - "From Britain... With Beat!"
+⌛ 1987 - The Beatles - "From Britain... With Beat!"
 (https://www.discogs.com/release/4899785-The-Beatles-From-Britain-With-Beat)
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - The Beatles - "The Beatles Anthology"
@@ -11766,17 +11766,17 @@ Rejected format(s): VHS, Compilation, Promo, PAL
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1990) for "Beatles II."
 🗓️ No better date found
-💿 1990 - The Beatles - "Beatles II."
+⌛ 1990 - The Beatles - "Beatles II."
 (https://www.discogs.com/release/11119718-Beatles-Beatles-II)
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1990) for "The Beatles III."
 🗓️ No better date found
-💿 1990 - The Beatles - "The Beatles III."
+⌛ 1990 - The Beatles - "The Beatles III."
 (https://www.discogs.com/release/11119740-The-Beatles-The-Beatles-III)
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1990) for "Beatles I."
 🗓️ No better date found
-💿 1990 - The Beatles - "Beatles I."
+⌛ 1990 - The Beatles - "Beatles I."
 (https://www.discogs.com/release/11179782-Beatles-Beatles-I)
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - The Beatles, Yoko Ono, John Lennon, The Plastic Ono Band, Elton John Band - "A Yoko Ono Birthday Salute"
@@ -12170,7 +12170,7 @@ Invalid format(s) (CD, Compilation, Remastered) for "Live! At The Star-Club In H
 🗃️ Analyzing version https://www.discogs.com/release/1557123
 🗓️ Release date: 1991
 🗓️ No better date found
-💿 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 2)"
+⌛ 1991 - The Beatles - "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 2)"
 (https://www.discogs.com/release/1436366-The-Beatles-Live-At-The-Star-Club-In-Hamburg-Germany-1962-Vol-2)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - The Beatles - "Press Conferences 1964 - 1966"
@@ -12713,7 +12713,7 @@ Rejected format(s): VHS
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1995) for "Vol. 9: Single & Ep Collections II"
 🗓️ No better date found
-💿 1995 - The Beatles - "Vol. 9: Single & Ep Collections II"
+⌛ 1995 - The Beatles - "Vol. 9: Single & Ep Collections II"
 (https://www.discogs.com/release/35847238-The-Beatles-Vol-9-Single-Ep-Collections-II)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - The Beatles - "The Compleat Beatles"
@@ -12741,7 +12741,7 @@ Rejected genre(s): Non-Music
 🗃️ Analyzing version https://www.discogs.com/release/10121341
 🗓️ Release date: 1995-11-20
 Found better release date: 1995-11-20
-💿 1995-11-20 - The Beatles - "Anthology 1"
+⌛ 1995-11-20 - The Beatles - "Anthology 1"
 (https://www.discogs.com/release/864767-The-Beatles-Anthology-1)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - The Beatles - "Beatlemania '95 Gladbeck"
@@ -12928,10 +12928,10 @@ Invalid format(s) (DVD, DVD-Video, NTSC, Mono, Unofficial Release) for "Unauthor
 (https://www.discogs.com/master/403161)
 Rejected format(s): DVD, DVD-Video, NTSC, Mono, Unofficial Release
 ———————————————————————————————————————————————————————————————
-💿 1996-03-18 - The Beatles - "Anthology 2"
+⌛ 1996-03-18 - The Beatles - "Anthology 2"
 (https://www.discogs.com/release/501599-The-Beatles-Anthology-2)
 ———————————————————————————————————————————————————————————————
-💿 1996-10-28 - The Beatles - "Anthology 3"
+⌛ 1996-10-28 - The Beatles - "Anthology 3"
 (https://www.discogs.com/release/431433-The-Beatles-Anthology-3)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, Jukebox, Stereo) for "Across The Universe / Two Of Us"
@@ -13121,7 +13121,7 @@ Invalid format(s) (CD, Compilation, Remastered) for "Yellow Submarine Songtrack"
 🗃️ Analyzing version https://www.discogs.com/release/3377806
 🗓️ Release date: 1999-09-13
 Found better release date: 1999-09-13
-💿 1999-09-13 - The Beatles - "Yellow Submarine Songtrack"
+⌛ 1999-09-13 - The Beatles - "Yellow Submarine Songtrack"
 (https://www.discogs.com/release/3825442-The-Beatles-Yellow-Submarine-Songtrack)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Cassette, Compilation, Stereo) for "The Best Of Beatles III."
@@ -13574,7 +13574,7 @@ Invalid format(s) (DVD, DVD-Video, PAL) for "The Beginnings In Hamburg A Documen
 (https://www.discogs.com/master/1189183)
 Rejected format(s): DVD, DVD-Video, PAL
 ———————————————————————————————————————————————————————————————
-💿 2003-11-17 - The Beatles - "Let It Be... Naked"
+⌛ 2003-11-17 - The Beatles - "Let It Be... Naked"
 (https://www.discogs.com/release/375500-The-Beatles-Let-It-Be-Naked)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (DVD, DVD-Video, NTSC, Multichannel) for "The Four Complete Historic Ed Sullivan Shows Featuring The Beatles"
@@ -13725,7 +13725,7 @@ Rejected format(s): CD, Sampler, Promo
 (https://www.discogs.com/master/583909)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
-💿 2006-11-20 - The Beatles - "Love"
+⌛ 2006-11-20 - The Beatles - "Love"
 (https://www.discogs.com/release/842126-The-Beatles-Love)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - The Beatles - "The Capitol Albums Vol.2"
@@ -13998,7 +13998,7 @@ Rejected format(s): CD, Compilation, Remastered
 (https://www.discogs.com/release/37397079)
 Rejected format(s): Blu-ray, Stereo, Multichannel
 ———————————————————————————————————————————————————————————————
-💿 2013-12-17 - The Beatles - "Bootleg Recordings 1963"
+⌛ 2013-12-17 - The Beatles - "Bootleg Recordings 1963"
 (https://www.discogs.com/release/5200022-The-Beatles-Bootleg-Recordings-1963)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Album, Remastered, Mono) for "On Air - Live At The BBC Volume 2"
@@ -14019,13 +14019,13 @@ Invalid format(s) (Vinyl, LP, Album, Remastered, Mono) for "On Air - Live At The
 💿 Format: CD, Album, Remastered, Mono
 🗃️ Analyzing version https://www.discogs.com/release/5098379
 💿 Format: CD, Album, Remastered, Mono
-🗃️ Analyzing version https://www.discogs.com/release/36012253
-💿 Format: CD, Album, Remastered, Mono
 🗃️ Analyzing version https://www.discogs.com/release/13654408
+💿 Format: CD, Album, Remastered, Mono
+🗃️ Analyzing version https://www.discogs.com/release/36012253
 💿 Format: CD, Album, Remastered, Mono
 🗃️ Analyzing version https://www.discogs.com/release/10792756
 💿 Format: CD, Album, Mono
-💿 2013-11-08 - The Beatles - "On Air - Live At The BBC Volume 2"
+⌛ 2013-11-08 - The Beatles - "On Air - Live At The BBC Volume 2"
 (https://www.discogs.com/release/5079564-The-Beatles-On-Air-Live-At-The-BBC-Volume-2)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, EP, Promo, Mono) for "On Air - Live At The BBC Volume 2"
@@ -14244,9 +14244,9 @@ Invalid format(s) (Vinyl, LP, Album, Remastered) for "Live At The Hollywood Bowl
 💿 Format: CDr, Album, Numbered, Promo
 🗃️ Analyzing version https://www.discogs.com/release/14406458
 💿 Format: CD, Album, Reissue, Remastered
-🗃️ Analyzing version https://www.discogs.com/release/9317564
-💿 Format: CD, Album, Reissue, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/9174344
+💿 Format: CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/9317564
 💿 Format: CD, Album, Reissue, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/9097806
 💿 Format: CD, Album, Reissue, Remastered, Unofficial Release
@@ -14258,7 +14258,7 @@ Invalid format(s) (Vinyl, LP, Album, Remastered) for "Live At The Hollywood Bowl
 💿 Format: CD, Album, Promo, Remastered, Sampler, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/9822881
 💿 Format: CD, Album, Stereo
-💿 2016-11-18 - The Beatles - "Live At The Hollywood Bowl"
+⌛ 2016-11-18 - The Beatles - "Live At The Hollywood Bowl"
 (https://www.discogs.com/release/9345562-The-Beatles-Live-At-The-Hollywood-Bowl)
 ———————————————————————————————————————————————————————————————
 ❌ 2017 - The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
@@ -14425,7 +14425,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Unofficial Release, Mono) for "Wembley
 (https://www.discogs.com/master/4123726)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Unofficial Release, Mono
 ———————————————————————————————————————————————————————————————
-💿 2022-01-28 - The Beatles - "Get Back - The Rooftop Performance"
+⌛ 2022-01-28 - The Beatles - "Get Back - The Rooftop Performance"
 (https://www.discogs.com/release/22314403-The-Beatles-Get-Back-The-Rooftop-Performance)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - The Beatles - "Slow Down - 21 Reprises De Chansons - 1963-1964"
@@ -14484,7 +14484,7 @@ Invalid format(s) (Vinyl, 7", 45 RPM, EP, Mono) for "Here We Go"
 (https://www.discogs.com/master/4043188)
 Rejected format(s): Vinyl, 7", 45 RPM, EP, Mono
 ———————————————————————————————————————————————————————————————
-💿 2025-11-21 - The Beatles - "Anthology 4"
+⌛ 2025-11-21 - The Beatles - "Anthology 4"
 (https://www.discogs.com/release/35598649-The-Beatles-Anthology-4)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - The Beatles - "Anthology Collection"
@@ -14515,7 +14515,7 @@ Rejected format(s): Vinyl, LP, Compilation, Box Set
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (undefined) for "Commemorative Album"
 🗓️ No better date found
-💿 unknown date - The Beatles - "Commemorative Album"
+⌛ unknown date - The Beatles - "Commemorative Album"
 (https://www.discogs.com/release/7251919-The-Beatles-Commemorative-Album)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - The Beatles - "The Best Of The Beatles Vol. 1"
@@ -14756,7 +14756,7 @@ Rejected format(s): Flexi-disc, 5½", 33 ⅓ RPM, Single Sided, Promo, Sampler, 
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (undefined) for "She Loves You - Day Tripper 10"
 🗓️ No better date found
-💿 unknown date - The Beatles - "She Loves You - Day Tripper 10"
+⌛ unknown date - The Beatles - "She Loves You - Day Tripper 10"
 (https://www.discogs.com/release/17694598-The-Beatles-She-Loves-You-Day-Tripper-10)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - The Beatles - "Best Of Artist Selection Vol. 2"
@@ -21988,7 +21988,7 @@ Rejected release role: TrackAppearance
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "1993 - The Beatles / Tony Sheridan And The Beat Brothers - "The Early Tapes Of"
-(https://www.discogs.com/master/81047)" (skipping, already accepted)
+(https://www.discogs.com/master/81047)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Various - "It's My Party"
 (https://www.discogs.com/master/1072583)
@@ -27285,7 +27285,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1964 - The Beatles - "Please Please Me"
-(https://www.discogs.com/master/45362)" (skipping, already accepted)
+(https://www.discogs.com/master/45362)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1964 - The Beatles - "Love Me Do"
 (https://www.discogs.com/master/45574)" (skipping, already rejected)
@@ -27300,10 +27300,10 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/504885)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1964 - The Beatles - "Something New"
-(https://www.discogs.com/master/46151)" (skipping, already accepted)
+(https://www.discogs.com/master/46151)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1964 - The Beatles - "Second Album"
-(https://www.discogs.com/master/54549)" (skipping, already accepted)
+(https://www.discogs.com/master/54549)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1964 - The Beatles & Frank Ifield - "The Beatles And Frank Ifield On Stage"
 (https://www.discogs.com/master/333213)" (skipping, already rejected)
@@ -27333,10 +27333,10 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1965 - The Beatles - "Beatles For Sale"
-(https://www.discogs.com/master/45799)" (skipping, already accepted)
+(https://www.discogs.com/master/45799)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1965 - The Beatles - "Help!"
-(https://www.discogs.com/master/45895)" (skipping, already accepted)
+(https://www.discogs.com/master/45895)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1965 - The Savage Young Beatles* - "This Is The...  The Savage Young Beatles"
 (https://www.discogs.com/master/275560)" (skipping, already rejected)
@@ -27373,13 +27373,13 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1966 - The Beatles - "Revolver"
-(https://www.discogs.com/master/45284)" (skipping, already accepted)
+(https://www.discogs.com/master/45284)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1966 - Битлз* - "Rubber Soul = Резиновая Душа"
-(https://www.discogs.com/master/45526)" (skipping, already accepted)
+(https://www.discogs.com/master/45526)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1966 - The Beatles - "With The Beatles"
-(https://www.discogs.com/master/45729)" (skipping, already accepted)
+(https://www.discogs.com/master/45729)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1966 - The Beatles - "We Can Work It Out / Day Tripper"
 (https://www.discogs.com/master/45985)" (skipping, already rejected)
@@ -27448,20 +27448,20 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1967 - The Beatles - "Yesterday And Today"
-(https://www.discogs.com/master/59364)" (skipping, already accepted)
+(https://www.discogs.com/master/59364)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1967 - The Beatles - "Hello Goodbye"
 (https://www.discogs.com/master/2444803)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1967 - The Beatles - "A Collection Of Beatles Oldies"
-(https://www.discogs.com/master/31249)" (skipping, already accepted)
+(https://www.discogs.com/master/31249)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1967 - The Beatles - "Sgt.Peppers Lonely Hearts Club Band"
-(https://www.discogs.com/master/23934)" (skipping, already accepted)
+(https://www.discogs.com/master/23934)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1967 - The Beatles - "A Hard Day's Night"
-(https://www.discogs.com/master/24003)" (skipping, already accepted)
+(https://www.discogs.com/master/24003)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - The Beatles - "Special!"
 (https://www.discogs.com/release/5333339)
@@ -27532,16 +27532,16 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1968 - The Beatles - "Beatles VI"
-(https://www.discogs.com/master/67473)" (skipping, already accepted)
+(https://www.discogs.com/master/67473)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1968 - The Beatles - "Magical Mystery Tour"
 (https://www.discogs.com/master/54445)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1968 - The Beatles - "Magical Mystery Tour"
-(https://www.discogs.com/master/54463)" (skipping, already accepted)
+(https://www.discogs.com/master/54463)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1968 - The Beatles - "The Beatles"
-(https://www.discogs.com/master/46402)" (skipping, already accepted)
+(https://www.discogs.com/master/46402)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - Various - "The Graduate And Other Hits"
 (https://www.discogs.com/master/1801775)
@@ -27652,7 +27652,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1969 - The Beatles - "The Beatles Story"
-(https://www.discogs.com/master/329854)" (skipping, already accepted)
+(https://www.discogs.com/master/329854)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1969 - The Beatles - "Kum Back"
 (https://www.discogs.com/master/388233)
@@ -27673,13 +27673,13 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/54558)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1969 - Битлз* - "Желтая Субмарина"
-(https://www.discogs.com/master/54565)" (skipping, already accepted)
+(https://www.discogs.com/master/54565)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1969 - The Beatles - "The Early Beatles"
-(https://www.discogs.com/master/81055)" (skipping, already accepted)
+(https://www.discogs.com/master/81055)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1969 - The Beatles - "Abbey Road"
-(https://www.discogs.com/master/24047)" (skipping, already accepted)
+(https://www.discogs.com/master/24047)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles - "1964 - Shea 'The Only Live Recording', Collectors Copy"
 (https://www.discogs.com/release/1702325)
@@ -27822,7 +27822,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1970 - The Beatles - "Hey, Jude"
-(https://www.discogs.com/master/46382)" (skipping, already accepted)
+(https://www.discogs.com/master/46382)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - The Beatles - "Get Back"
 (https://www.discogs.com/master/415267)
@@ -27833,7 +27833,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1970 - Битлз* - "Let It Be = Пусть Будет Так"
-(https://www.discogs.com/master/24212)" (skipping, already accepted)
+(https://www.discogs.com/master/24212)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - The Beatles - "Dear Beatles Vol.3"
 (https://www.discogs.com/release/2171512)
@@ -28122,10 +28122,10 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1973 - The Beatles - "1962 - 1966"
-(https://www.discogs.com/master/23881)" (skipping, already accepted)
+(https://www.discogs.com/master/23881)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1973 - The Beatles - "1967–1970"
-(https://www.discogs.com/master/24155)" (skipping, already accepted)
+(https://www.discogs.com/master/24155)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Various - "Gold - 1967 - Gold"
 (https://www.discogs.com/release/9564622)
@@ -28413,7 +28413,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/717118)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1976 - The Beatles - "Rock 'N' Roll Music"
-(https://www.discogs.com/master/54585)" (skipping, already accepted)
+(https://www.discogs.com/master/54585)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - The Beatles - "ABC Manchester 1964"
 (https://www.discogs.com/master/1725864)
@@ -28467,16 +28467,16 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1977 - The Beatles - "Live At The Star-Club In Hamburg"
-(https://www.discogs.com/master/54479)" (skipping, already accepted)
+(https://www.discogs.com/master/54479)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1977 - The Beatles - "Strawberry Fields Forever / Penny Lane"
 (https://www.discogs.com/master/46287)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1977 - The Beatles - "Love Songs"
-(https://www.discogs.com/master/54819)" (skipping, already accepted)
+(https://www.discogs.com/master/54819)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1977 - The Beatles - "The Beatles At The Hollywood Bowl"
-(https://www.discogs.com/master/54829)" (skipping, already accepted)
+(https://www.discogs.com/master/54829)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - The Beatles - "Twickenham Jams"
 (https://www.discogs.com/master/1129900)
@@ -28574,7 +28574,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1979 - The Beatles - "Rarities"
-(https://www.discogs.com/master/75276)" (skipping, already accepted)
+(https://www.discogs.com/master/75276)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - The Beatles - "Silver Lining"
 (https://www.discogs.com/master/591472)
@@ -28816,7 +28816,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1981 - The Beatles - "The Beatles Featuring Tony Sheridan"
-(https://www.discogs.com/master/81047)" (skipping, already accepted)
+(https://www.discogs.com/master/81047)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - ABBA - "Lay All Your Love"
 (https://www.discogs.com/master/24518)
@@ -28883,7 +28883,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1982 - The Beatles - "Reel Music"
-(https://www.discogs.com/master/230676)" (skipping, already accepted)
+(https://www.discogs.com/master/230676)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - The Beatles - "History Of Rock Music Vol.8"
 (https://www.discogs.com/master/969387)
@@ -30451,7 +30451,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1990 - The Beatles - "Битлз - 1"
-(https://www.discogs.com/master/873157)" (skipping, already accepted)
+(https://www.discogs.com/master/873157)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - The Beatles - "Ultra Rare Trax Vol. 7"
 (https://www.discogs.com/master/955189)
@@ -30965,7 +30965,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1992 - The Beatles - "Битлз - 2"
-(https://www.discogs.com/master/873161)" (skipping, already accepted)
+(https://www.discogs.com/master/873161)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1992 - The Beatles - "The Beatles"
 (https://www.discogs.com/master/1520373)" (skipping, already rejected)
@@ -32100,7 +32100,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1995 - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1995 - The Beatles - "Limited Edition Interview Picture Disc"
 (https://www.discogs.com/master/3393691)" (skipping, already rejected)
@@ -32425,10 +32425,10 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/124830)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1996 - The Beatles - "Anthology 2. Part II"
-(https://www.discogs.com/master/59393)" (skipping, already accepted)
+(https://www.discogs.com/master/59393)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1996 - The Beatles - "Anthology - 3. Part 1"
-(https://www.discogs.com/master/59397)" (skipping, already accepted)
+(https://www.discogs.com/master/59397)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - The Beatles - "Come Together (Beatles In The '90s)"
 (https://www.discogs.com/master/1607920)
@@ -33265,7 +33265,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1999 - The Beatles - "Yellow Submarine Songtrack"
-(https://www.discogs.com/master/65554)" (skipping, already accepted)
+(https://www.discogs.com/master/65554)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - The Beatles - "Swedish Radio Show"
 (https://www.discogs.com/master/1212435)
@@ -33692,7 +33692,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles - "Help! (Version Original De La Peliculia) = Help! (Original Motion Picture Soundtrack)"
-(https://www.discogs.com/master/557656)" (skipping, already accepted)
+(https://www.discogs.com/master/557656)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - The Beatles - "Beatles For Sale / Rubber Soul"
 (https://www.discogs.com/master/1884855)
@@ -33715,7 +33715,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles - "Meet The Beatles"
-(https://www.discogs.com/master/75259)" (skipping, already accepted)
+(https://www.discogs.com/master/75259)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - The Beatles - "The Paris Concerts 1964-1965"
 (https://www.discogs.com/master/525911)
@@ -33758,7 +33758,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles - "Beatles '65"
-(https://www.discogs.com/master/45760)" (skipping, already accepted)
+(https://www.discogs.com/master/45760)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles - "1"
 (https://www.discogs.com/master/447254)" (skipping, already rejected)
@@ -33768,7 +33768,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles vs The Four Seasons - "The Beatles Vs. The Four Seasons"
-(https://www.discogs.com/master/570218)" (skipping, already accepted)
+(https://www.discogs.com/master/570218)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - The Beatles - "The Complete Pop Goes The Weasel"
 (https://www.discogs.com/master/1127453)
@@ -33846,7 +33846,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles - "A Hard Day's Night"
-(https://www.discogs.com/master/507400)" (skipping, already accepted)
+(https://www.discogs.com/master/507400)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - The Beatles - "Thirty Days"
 (https://www.discogs.com/master/532066)
@@ -34119,7 +34119,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2001 - The Beatles - "From Britain With Beat (Previously Unreleased Interviews From The Wildest Days Of Beatlemania)"
-(https://www.discogs.com/master/902512)" (skipping, already accepted)
+(https://www.discogs.com/master/902512)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - The Beatles - "Acetates Collection"
 (https://www.discogs.com/master/1706517)
@@ -34546,7 +34546,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2002 - The Beatles - "Twist And Shout"
-(https://www.discogs.com/master/230677)" (skipping, already accepted)
+(https://www.discogs.com/master/230677)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "2002 - The Beatles - "Unauthorized"
 (https://www.discogs.com/master/403161)" (skipping, already rejected)
@@ -35017,7 +35017,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2003 - The Beatles - "Let It Be... Naked"
-(https://www.discogs.com/master/59442)" (skipping, already accepted)
+(https://www.discogs.com/master/59442)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - The Beatles - "All You Need Is Love. The Best Of The Beatles. Part 2"
 (https://www.discogs.com/master/1157997)
@@ -36373,7 +36373,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2006 - The Beatles - "Love"
-(https://www.discogs.com/master/45547)" (skipping, already accepted)
+(https://www.discogs.com/master/45547)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Depeche Mode - "Playing The Angel (Instrumental)"
 (https://www.discogs.com/master/21165)
@@ -38150,7 +38150,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2013 - The Beatles - "On Air - Live At The BBC Volume 2"
-(https://www.discogs.com/master/618247)" (skipping, already accepted)
+(https://www.discogs.com/master/618247)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "2013 - The Beatles - "I Saw Her Standing There..."
 (https://www.discogs.com/master/653150)" (skipping, already rejected)
@@ -38404,7 +38404,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2014 - The Beatles - "Bootleg Recordings 1963"
-(https://www.discogs.com/master/632092)" (skipping, already accepted)
+(https://www.discogs.com/master/632092)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2014 - The Beatles - "How Pink Is Your Panther?/The Complete Peter Sellers Tape"
 (https://www.discogs.com/master/894358)
@@ -38970,7 +38970,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2016 - The Beatles - "Live At The Hollywood Bowl"
-(https://www.discogs.com/master/1103767)" (skipping, already accepted)
+(https://www.discogs.com/master/1103767)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - The Beatles - "Especial  Shows Live 1962 - 1966"
 (https://www.discogs.com/master/3193737)
@@ -40496,7 +40496,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/4123726)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2022 - The Beatles - "Get Back - The Rooftop Performance"
-(https://www.discogs.com/master/2527834)" (skipping, already accepted)
+(https://www.discogs.com/master/2527834)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2022 - The Beatles - "Philadelphia PA"
 (https://www.discogs.com/master/3388639)
@@ -41232,7 +41232,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2025 - The Beatles - "Anthology 4"
-(https://www.discogs.com/master/4043479)" (skipping, already accepted)
+(https://www.discogs.com/master/4043479)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Wu-Tang Clan Vs The Beatles - "C.R.E.A.M."
 (https://www.discogs.com/master/3855826)
@@ -47288,7 +47288,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/3485218)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "Long Tall Sally"
-(https://www.discogs.com/master/216645)" (skipping, already accepted)
+(https://www.discogs.com/master/216645)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - The Beatles - "G B"
 (https://www.discogs.com/master/3018419)
@@ -47469,7 +47469,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "Early Years (2)"
-(https://www.discogs.com/master/677803)" (skipping, already accepted)
+(https://www.discogs.com/master/677803)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "Do You Want To Know A Secret / Thank You Girl"
 (https://www.discogs.com/master/374775)" (skipping, already rejected)
@@ -47712,7 +47712,7 @@ Rejected artist(s): The Quarrymen
 (https://www.discogs.com/master/4043860)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2025 - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "1988 - John Lennon - "The Lost Lennon Tapes "
 (https://www.discogs.com/release/16767648)" (skipping, already rejected)
@@ -47728,7 +47728,7 @@ Rejected artist(s): The Quarrymen
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "1995 - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Various - "The Best '60s Megamix"
 (https://www.discogs.com/release/17418991)
@@ -47829,7 +47829,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 Looking at The Beatles alias The Beat Brothers (2)
 (https://www.discogs.com/artist/380838)
@@ -47886,7 +47886,7 @@ Rejected artist(s): Tony Sheridan
 (https://www.discogs.com/master/4043860)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2025 - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Tony Sheridan - "The Singles 1961 - 1964 Vol.1"
 (https://www.discogs.com/master/768523)
@@ -47913,7 +47913,7 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/599995)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1966 - The Beatles - "Die Grossen 12"
-(https://www.discogs.com/master/81047)" (skipping, already accepted)
+(https://www.discogs.com/master/81047)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Various - "Non Stop Golden Hits / Das Beste Der 60er Jahre"
 (https://www.discogs.com/release/10418439)
@@ -47926,7 +47926,7 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/579026)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "1995 - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - The Beatles With Tony Sheridan - "Ain't She Sweet"
 (https://www.discogs.com/master/2097589)" (skipping, already rejected)
@@ -47972,7 +47972,7 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/548846)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2013 - The Beatles / The Beatles With Tony Sheridan / Tony Sheridan And The Beat Brothers And The Beat Brothers (2) - "The Early Tapes Of The Beatles"
-(https://www.discogs.com/master/81047)" (skipping, already accepted)
+(https://www.discogs.com/master/81047)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "2013 - The Beatles - "I Saw Her Standing There..."
 (https://www.discogs.com/master/653150)" (skipping, already rejected)
@@ -47981,7 +47981,7 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/119930)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - The Beatles - "Anthology 1"
-(https://www.discogs.com/master/59388)" (skipping, already accepted)
+(https://www.discogs.com/master/59388)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 Looking at The Beatles alias Johnny And The Moondogs
 (https://www.discogs.com/artist/1629736)
@@ -48092,6 +48092,5 @@ Looking at The Beatles alias The Four Liverpudlians
 ↷ "1970 - The Four Liverpudlians - "Alive At Last"
 (https://www.discogs.com/master/557783)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Identifying main country
-🌎 Main country is UK with 23 release(s)
-{"US":21,"UK":23,"Canada":3,"Venezuela":1,"Ecuador":1,"France":1,"Germany":1,"Chile":1,"USA & Canada":1,"Spain":1,"Japan":3,"Hungary":3,"Worldwide":5,"Europe":5,"Taiwan":1}
+🌎 Main country is undefined with -Infinity release(s)
+{}

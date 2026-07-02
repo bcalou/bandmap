@@ -8,8 +8,11 @@ import { Release } from "./Release";
  * the band with connected releases
  */
 export class Discography {
-  // The list of releases constituting the discography
+  // The list of releases constituting the final discography
   private releases: Release[] = [];
+
+  // The list of releases that could be included in the final discography
+  private candidateReleases: Release[] = [];
 
   // The logger object
   private logger: Logger;
@@ -41,6 +44,14 @@ export class Discography {
     this.releases.push(release);
   }
 
+  // Add a candidate to the discography
+  public addCandidate(release: Release) {
+    this.logger.logInfo(`⌛ ${release.label}`);
+    this.logger.log(release.formattedCredits);
+    this.logger.logSeparator();
+    this.candidateReleases.push(release);
+  }
+
   // Add a release to the rejected list
   public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
     this.logger.logError(`❌ ${artistRelease.label}`);
@@ -50,17 +61,15 @@ export class Discography {
   }
 
   // If the given id is included in the discography, return whether it's
-  // accepted or rejected. Return false if the id is not present at all.
-  public includes(id: number): "accepted" | "rejected" | false {
-    if (this.releases.find((release) => release.discographyId === id)) {
-      return "accepted";
-    }
+  // candidate or rejected. Return false if the id is not present at all.
+  public includes(id: number): "candidate" | "rejected" | false {
+    if (this.candidateReleases.find((release) => release.discographyId === id))
+      return "candidate";
 
     if (
       this.rejectedReleases.find((release) => release.artistRelease.id === id)
-    ) {
+    )
       return "rejected";
-    }
 
     return false;
   }

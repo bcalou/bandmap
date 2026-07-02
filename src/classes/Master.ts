@@ -41,7 +41,7 @@ export class Master {
   }
 
   // Return main release object if it's considered acceptable
-  public async getAcceptedRelease(): Promise<Release | RejectReason> {
+  public async getCandidateRelease(): Promise<Release | RejectReason> {
     const reject = this.heuristicRejectArtist() ?? this.heuristicRejectGenre();
 
     if (reject) return reject;
@@ -52,7 +52,7 @@ export class Master {
       this.mainBand
     );
 
-    return release.getAcceptedRelease();
+    return release.getCandidateRelease();
   }
 
   // Reject if the master is not by the main band, one of its members, or one of

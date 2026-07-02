@@ -112,7 +112,7 @@ export class Release {
   }
 
   // Return release object if it's considered acceptable
-  public async getAcceptedRelease(): Promise<Release | RejectReason> {
+  public async getCandidateRelease(): Promise<Release | RejectReason> {
     const reject =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??

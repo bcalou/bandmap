@@ -73,21 +73,21 @@ export class ArtistRelease {
     return this.artistRelease.main_release;
   }
 
-  // Analyze the release and add it to the discography as accepted or rejected
+  // Analyze the release and add it to the discography as candidate or rejected
   public async addToDiscography() {
     if (this.isIncludedInDiscography()) return null;
 
-    const release = await this.getAcceptedRelease();
+    const release = await this.getCandidateRelease();
 
     if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
     } else {
-      this.mainBand.discography.addAccepted(release);
+      this.mainBand.discography.addCandidate(release);
     }
   }
 
   // Return the matching release object if it's considered acceptable
-  private async getAcceptedRelease(): Promise<Release | RejectReason> {
+  private async getCandidateRelease(): Promise<Release | RejectReason> {
     return (
       this.heuristicRejectRole() ??
       this.heuristicRejectAlternateLanguage() ??
@@ -102,7 +102,7 @@ export class ArtistRelease {
         this.type === "master"
           ? new Master(await this.api.getMaster(this.id), this.mainBand)
           : new Release(await this.api.getRelease(this.id), this.mainBand);
-      return release.getAcceptedRelease();
+      return release.getCandidateRelease();
     } catch (err) {
       return `Error while fetching release: ${err}`;
     }

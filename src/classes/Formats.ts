@@ -42,7 +42,15 @@ export class Formats {
 
   // Is the format a core format (exclude secondary formats)
   public isCoreFormat(): boolean {
-    return !this.formats.find(format => FORMATS.secondary.includes(format))
+    return (
+      !!this.formats.find((format) => FORMATS.accept.includes(format)) &&
+      !this.formats.find((format) => FORMATS.secondary.includes(format))
+    );
+  }
+
+  // Is this release of the given format?
+  public isFormat(format: string): boolean {
+    return !!this.formats.find((_format) => _format === format);
   }
 
   // Transform a format list to a printable string
@@ -50,10 +58,12 @@ export class Formats {
     return (formats ?? this.formats).join(", ") ?? "not specified";
   }
 
-  // Is this list of formats considered valid for the discography?
+  // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
     return (
-      !!formats.find((format) => FORMATS.accept.includes(format)) &&
+      !!formats.find((format) =>
+        FORMATS.accept.concat(...FORMATS.secondary).includes(format)
+      ) &&
       !formats.find((format) => FORMATS.reject.includes(format)) &&
       !this.isEliminatoryFormatList(formats)
     );

@@ -26,7 +26,7 @@ export class Discography {
   // hence the type
   private rejectedReleases: {
     // The release object
-    artistRelease: ArtistRelease;
+    release: ArtistRelease | Release;
     // The reason why it was rejected
     reason: RejectReason;
   }[] = [];
@@ -55,6 +55,7 @@ export class Discography {
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();
     this.releases.push(release);
+    this.repertoire.addReleaseTracks(release);
   }
 
   // Add a candidate to the discography
@@ -66,11 +67,14 @@ export class Discography {
   }
 
   // Add a release to the rejected list
-  public addRejected(artistRelease: ArtistRelease, reason: RejectReason) {
+  public addRejected(
+    artistRelease: ArtistRelease | Release,
+    reason: RejectReason
+  ) {
     this.logger.logError(`❌ ${artistRelease.label}`);
     this.logger.logError(`${reason}`);
     this.logger.logSeparator();
-    this.rejectedReleases.push({ artistRelease, reason });
+    this.rejectedReleases.push({ release: artistRelease, reason });
   }
 
   // If the given id is included in the discography, return whether it's
@@ -82,9 +86,7 @@ export class Discography {
     if (this.candidateReleases.find((release) => release.discographyId === id))
       return "candidate";
 
-    if (
-      this.rejectedReleases.find((release) => release.artistRelease.id === id)
-    )
+    if (this.rejectedReleases.find((release) => release.release.id === id))
       return "rejected";
 
     return false;
@@ -92,25 +94,33 @@ export class Discography {
 
   // Select which candidate releases are actually valid
   public selectValidCandidates() {
+    this.selectValidCandidateForFormat("EP");
+    this.selectValidCandidateForFormat("Single");
+  }
+
+  private selectValidCandidateForFormat(format: string) {
     this.candidateReleases
-      .filter((candidateRelease) => candidateRelease.isCoreRelease())
-      .forEach((coreRelease, index) => {
-        this.candidateReleases.splice(index, 1)
-        this.repertoire.addReleaseTracks(coreRelease);
-        this.releases.push(coreRelease);
+      .filter((candidateRelease) => candidateRelease.isFormat(format))
+      .forEach((candidateRelease, index) => {
+        this.candidateReleases.splice(index, 1);
+        if (this.repertoire.hasUnregisteredTracks(candidateRelease)) {
+          this.addAccepted(candidateRelease);
+        } else {
+          this.addRejected(candidateRelease, "No new tracks");
+        }
       });
   }
 
   // Sort releases by release date
   public sort() {
     this.releases.sort((release1, release2) =>
-      release1.formattedDate.localeCompare(release2.formattedDate),
+      release1.formattedDate.localeCompare(release2.formattedDate)
     );
 
     this.rejectedReleases.sort((release1, release2) =>
-      release1.artistRelease.year
+      (release1.release.year ?? "")
         .toString()
-        .localeCompare(release2.artistRelease.year.toString()),
+        .localeCompare((release2.release.year ?? "").toString())
     );
   }
 
@@ -129,12 +139,12 @@ export class Discography {
   // Log the list of rejected releases and the reject reason
   public logRejected() {
     this.logger.logWarning(
-      `${this.rejectedReleases.length} rejected release(s):`,
+      `${this.rejectedReleases.length} rejected release(s):`
     );
     this.logger.logSeparator();
 
     this.rejectedReleases.forEach((release) => {
-      this.logger.logWarning(`❌ ${release.artistRelease.label}`);
+      this.logger.logWarning(`❌ ${release.release.label}`);
       this.logger.log(`(${release.reason})`);
       this.logger.logSeparator();
     });
@@ -151,11 +161,11 @@ export class Discography {
 
     const maxReleases = Math.max(...Object.values(countries));
     this.mainCountry = Object.keys(countries).find(
-      (key) => countries[key] === maxReleases,
+      (key) => countries[key] === maxReleases
     );
 
     this.logger.logInfo(
-      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`,
+      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`
     );
 
     this.logger.logSeparator();

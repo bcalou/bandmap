@@ -1,8 +1,9 @@
+import { OPTION_DATE_QUALITY } from "../env";
 import { DCVersion } from "../types";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
 
-enum DateQuality {
+export enum DateQuality {
   Perfect = 4,
   MonthOnly = 3,
   StartOfYear = 2,
@@ -72,7 +73,7 @@ export class ReleaseDate {
 
   // Is the date quality considered good enough
   private isSufficientDateQuality(quality: DateQuality) {
-    return quality >= DateQuality.MonthOnly;
+    return quality >= OPTION_DATE_QUALITY;
   }
 
   // Use the given version date if it's of better quality than what we have

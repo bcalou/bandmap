@@ -1,5 +1,8 @@
+import { DateQuality } from "./classes/ReleaseDate";
+
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
-export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.75;
+export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
+export const OPTION_DATE_QUALITY = DateQuality.YearOnly;
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
@@ -11,7 +14,7 @@ export const ARTIST_RELEASE_ROLES = {
 
 export const FORMATS = {
   accept: ["Album"],
-  secondary: ["Compilation"],
+  secondary: ["Compilation", "EP", "Maxi-Single", "Single"],
   reject: [
     "Blu-ray",
     "Blu-ray-R",
@@ -24,10 +27,11 @@ export const FORMATS = {
     "Reel-To-Reel",
     "Reissue",
     "Remastered",
+    "Tour Recording",
     "Unofficial Release",
     "VHS",
   ],
-  eliminatory: ["Box Set", "Single", "Maxi-Single"],
+  eliminatory: ["Box Set"],
 };
 
 export const GENRES = {

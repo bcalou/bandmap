@@ -1,4 +1,4 @@
-40 release(s):
+16 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1963-03-22 - The Beatles - "Please Please Me"
 (https://www.discogs.com/release/1350468-The-Beatles-Please-Please-Me)
@@ -6,41 +6,14 @@
 💿 1963-11-22 - The Beatles - "With The Beatles"
 (https://www.discogs.com/release/768729-The-Beatles-With-The-Beatles)
 ———————————————————————————————————————————————————————————————
-💿 1964-01-20 - The Beatles - "Meet The Beatles!"
-(https://www.discogs.com/release/1349112-The-Beatles-Meet-The-Beatles)
-———————————————————————————————————————————————————————————————
-💿 1964-04-10 - The Beatles - "The Beatles' Second Album"
-(https://www.discogs.com/release/3220469-The-Beatles-The-Beatles-Second-Album)
-———————————————————————————————————————————————————————————————
-💿 1964-04-27 - The Beatles - "Long Tall Sally"
-(https://www.discogs.com/release/1949916-The-Beatles-Long-Tall-Sally)
-———————————————————————————————————————————————————————————————
-💿 1964-06-26 - The Beatles - "A Hard Day's Night (Original Motion Picture Sound Track)"
-(https://www.discogs.com/release/1017762-The-Beatles-A-Hard-Days-Night-Original-Motion-Picture-Sound-Track)
-———————————————————————————————————————————————————————————————
 💿 1964-07-10 - The Beatles - "A Hard Day's Night"
 (https://www.discogs.com/release/4953644-The-Beatles-A-Hard-Days-Night)
-———————————————————————————————————————————————————————————————
-💿 1964-07-20 - The Beatles - "Something New"
-(https://www.discogs.com/release/851584-The-Beatles-Something-New)
-———————————————————————————————————————————————————————————————
-💿 1964-11-23 - The Beatles - "The Beatles' Story"
-(https://www.discogs.com/release/962004-The-Beatles-The-Beatles-Story)
 ———————————————————————————————————————————————————————————————
 💿 1964-12-04 - The Beatles - "Beatles For Sale"
 (https://www.discogs.com/release/651143-The-Beatles-Beatles-For-Sale)
 ———————————————————————————————————————————————————————————————
-💿 1964-12-15 - The Beatles - "Beatles '65"
-(https://www.discogs.com/release/4893517-The-Beatles-Beatles-65)
-———————————————————————————————————————————————————————————————
-💿 1965-06-14 - The Beatles - "Beatles VI"
-(https://www.discogs.com/release/611459-The-Beatles-Beatles-VI)
-———————————————————————————————————————————————————————————————
 💿 1965-08-06 - The Beatles - "Help!"
 (https://www.discogs.com/release/735564-The-Beatles-Help)
-———————————————————————————————————————————————————————————————
-💿 1965-08-13 - The Beatles - "Help! (Original Motion Picture Soundtrack)"
-(https://www.discogs.com/release/478424-The-Beatles-Help-Original-Motion-Picture-Soundtrack)
 ———————————————————————————————————————————————————————————————
 💿 1965-12-03 - The Beatles - "Rubber Soul"
 (https://www.discogs.com/release/5501695-The-Beatles-Rubber-Soul)
@@ -51,17 +24,8 @@
 💿 1967-05-26 - The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
 (https://www.discogs.com/release/499497-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band)
 ———————————————————————————————————————————————————————————————
-💿 1967-12-06 - The Beatles - "Magical Mystery Tour"
-(https://www.discogs.com/release/464292-The-Beatles-Magical-Mystery-Tour)
-———————————————————————————————————————————————————————————————
-💿 1968 - The Beatles - "The Beatles Volume One"
-(https://www.discogs.com/release/24075866-The-Beatles-The-Beatles-Volume-One)
-———————————————————————————————————————————————————————————————
 💿 1968-11-22 - The Beatles - "The Beatles"
 (https://www.discogs.com/release/456663-The-Beatles-The-Beatles)
-———————————————————————————————————————————————————————————————
-💿 1969 - The Beatles - "The Beatles Vol. II"
-(https://www.discogs.com/release/6667782-The-Beatles-The-Beatles-Vol-II)
 ———————————————————————————————————————————————————————————————
 💿 1969-01-17 - The Beatles - "Yellow Submarine"
 (https://www.discogs.com/release/651180-The-Beatles-Yellow-Submarine)
@@ -78,45 +42,9 @@
 💿 1977-05-06 - The Beatles - "The Beatles At The Hollywood Bowl"
 (https://www.discogs.com/release/722725-The-Beatles-The-Beatles-At-The-Hollywood-Bowl)
 ———————————————————————————————————————————————————————————————
-💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume One)"
-(https://www.discogs.com/release/2010331-The-Beatles-1st-Live-Recordings-Volume-One)
-———————————————————————————————————————————————————————————————
-💿 1979-01-29 - The Beatles - "1st Live Recordings (Volume Two)"
-(https://www.discogs.com/release/2449750-The-Beatles-1st-Live-Recordings-Volume-Two)
-———————————————————————————————————————————————————————————————
 💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)"
 (https://www.discogs.com/release/3021718-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-1)
 ———————————————————————————————————————————————————————————————
 💿 1985 - The Beatles - "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)"
 (https://www.discogs.com/release/3021754-The-Beatles-Live-At-The-Star-Club-Hamburg-Germany-1962-Volume-2)
-———————————————————————————————————————————————————————————————
-💿 1987 - The Beatles - "From Britain... With Beat!"
-(https://www.discogs.com/release/4899785-The-Beatles-From-Britain-With-Beat)
-———————————————————————————————————————————————————————————————
-💿 1995-11-20 - The Beatles - "Anthology 1"
-(https://www.discogs.com/release/864767-The-Beatles-Anthology-1)
-———————————————————————————————————————————————————————————————
-💿 1996-03-18 - The Beatles - "Anthology 2"
-(https://www.discogs.com/release/501599-The-Beatles-Anthology-2)
-———————————————————————————————————————————————————————————————
-💿 1996-10-28 - The Beatles - "Anthology 3"
-(https://www.discogs.com/release/431433-The-Beatles-Anthology-3)
-———————————————————————————————————————————————————————————————
-💿 2003-11-17 - The Beatles - "Let It Be... Naked"
-(https://www.discogs.com/release/375500-The-Beatles-Let-It-Be-Naked)
-———————————————————————————————————————————————————————————————
-💿 2006-11-20 - The Beatles - "Love"
-(https://www.discogs.com/release/842126-The-Beatles-Love)
-———————————————————————————————————————————————————————————————
-💿 2013-11-08 - The Beatles - "On Air - Live At The BBC Volume 2"
-(https://www.discogs.com/release/5079564-The-Beatles-On-Air-Live-At-The-BBC-Volume-2)
-———————————————————————————————————————————————————————————————
-💿 2013-12-17 - The Beatles - "Bootleg Recordings 1963"
-(https://www.discogs.com/release/5200022-The-Beatles-Bootleg-Recordings-1963)
-———————————————————————————————————————————————————————————————
-💿 2016-11-18 - The Beatles - "Live At The Hollywood Bowl"
-(https://www.discogs.com/release/9345562-The-Beatles-Live-At-The-Hollywood-Bowl)
-———————————————————————————————————————————————————————————————
-💿 2022-01-28 - The Beatles - "Get Back - The Rooftop Performance"
-(https://www.discogs.com/release/22314403-The-Beatles-Get-Back-The-Rooftop-Performance)
 ———————————————————————————————————————————————————————————————

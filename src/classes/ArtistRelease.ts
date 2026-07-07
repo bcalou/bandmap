@@ -84,6 +84,15 @@ export class ArtistRelease {
     if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
     } else {
+      this.addAcceptedOrCandidate(release);
+    }
+  }
+
+  // Add to accepted or candidate releases
+  private addAcceptedOrCandidate(release: Release) {
+    if (release.isCoreRelease()) {
+      this.mainBand.discography.addAccepted(release);
+    } else {
       this.mainBand.discography.addCandidate(release);
     }
   }

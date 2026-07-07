@@ -1,4 +1,4 @@
-import { OPTION_TITLE_SIMILARITY_CONSIDERED_IDENTICAL } from "../env";
+import { OPTION_TITLE_SIMILARITY_THRESHOLD } from "../env";
 import { DCTrack } from "../types";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -52,6 +52,15 @@ export class Repertoire {
       .forEach(this.logTrack.bind(this));
   }
 
+  // Does the given release contain tracks that are not in the repertoire yet?
+  public hasUnregisteredTracks(release: Release): boolean {
+    return !!release.tracklist.find((track) =>
+      this.tracks.every(
+        (_track) => !this.isSimilarTrackName(track.title, _track.title)
+      )
+    );
+  }
+
   // Is the release tracklist mostly included in the repertoire?
   public tracklistIsAlreadyInRepertoire(release: Release): boolean {
     return true;
@@ -75,8 +84,10 @@ export class Repertoire {
   // Are the two track title similar enough to consider that they're the same?
   private isSimilarTrackName(track1: string, track2: string) {
     return (
-      stringSimilarity.compareTwoStrings(track1, track2) >
-      OPTION_TITLE_SIMILARITY_CONSIDERED_IDENTICAL
+      stringSimilarity.compareTwoStrings(
+        this.normalizeTitle(track1),
+        this.normalizeTitle(track2)
+      ) > OPTION_TITLE_SIMILARITY_THRESHOLD
     );
   }
 
@@ -98,5 +109,10 @@ export class Repertoire {
       variations: [],
       releases: [release],
     });
+  }
+
+  // Convert a string to a normalized, comparable string
+  private normalizeTitle(title: string) {
+    return title.replace(/^.*=/g, "").replace(/\s*[\(\{\[].*?[\)\}\]]\s*/g, "");
   }
 }

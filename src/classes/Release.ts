@@ -89,6 +89,10 @@ export class Release {
     return this.release.released;
   }
 
+  get year() {
+    return this.releaseDate.year;
+  }
+
   get formattedDate() {
     return this.releaseDate.formattedDate;
   }
@@ -160,11 +164,12 @@ export class Release {
 
   // Should the release be automatically considered a core release?
   public isCoreRelease(): boolean {
-    return (
-      !!this.mainBand.discography.mainCountry &&
-      this.mainBand.discography.mainCountry === this.country &&
-      this.formats.isCoreFormat()
-    );
+    return this.formats.isCoreFormat();
+  }
+
+  // Is the release of the given format?
+  public isFormat(format: string): boolean {
+    return this.formats.isFormat(format);
   }
 
   // Fetch a version and add it to the cached versions

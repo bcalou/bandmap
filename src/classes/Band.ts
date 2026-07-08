@@ -26,7 +26,7 @@ export class Band extends Artist {
 
   constructor(band: DCArtist) {
     super(band);
-    this.discography = new Discography();
+    this.discography = new Discography(this);
   }
 
   get band(): Band {
@@ -49,10 +49,10 @@ export class Band extends Artist {
   }
 
   // Is the artist the band itself or a member of the band?
-  public isExtraArtistConnectedToBand(artist: DCExtraArtist) {
+  public isArtistConnectedToBand(artistId: number) {
     return (
-      artist.id === this.id ||
-      this.members.find((member) => member.matchesId(artist.id))
+      artistId === this.id ||
+      this.members.find((member) => member.matchesId(artistId))
     );
   }
 

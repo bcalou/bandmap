@@ -14,6 +14,9 @@ export class Formats {
   // The logger object
   private logger: Logger;
 
+  // The main valid format (album, EP...) associated with the release, if any
+  public mainFormat: string | undefined;
+
   constructor(release: Release) {
     this.release = release;
     this.logger = new Logger();
@@ -30,6 +33,10 @@ export class Formats {
     );
   }
 
+  public getMainFormat() {
+    return this.mainFormat;
+  }
+
   // Reject if the release have an invalid format
   public async heuristicRejectFormat(): Promise<RejectReason | null> {
     return this.isValidFormatList(this.formats) ||
@@ -42,15 +49,7 @@ export class Formats {
 
   // Is the format a core format (exclude secondary formats)
   public isCoreFormat(): boolean {
-    return (
-      !!this.formats.find((format) => FORMATS.accept.includes(format)) &&
-      !this.formats.find((format) => FORMATS.secondary.includes(format))
-    );
-  }
-
-  // Is this release of the given format?
-  public isFormat(format: string): boolean {
-    return !!this.formats.find((_format) => _format === format);
+    return !!this.mainFormat && FORMATS.accept.includes(this.mainFormat);
   }
 
   // Transform a format list to a printable string
@@ -60,10 +59,14 @@ export class Formats {
 
   // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
+    this.mainFormat = formats.find((format) =>
+      FORMATS.accept
+        .concat(...FORMATS.secondaryOrderedByImportance)
+        .includes(format)
+    );
+
     return (
-      !!formats.find((format) =>
-        FORMATS.accept.concat(...FORMATS.secondary).includes(format)
-      ) &&
+      !!this.mainFormat &&
       !formats.find((format) => FORMATS.reject.includes(format)) &&
       !this.isEliminatoryFormatList(formats)
     );

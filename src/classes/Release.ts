@@ -104,7 +104,11 @@ export class Release {
   get label() {
     const artists = this.formattedArtists;
     const date = this.releaseDate.formattedDate;
-    return `${date} - ${artists} - "${this.title}"\n(${this.url})`;
+    const format =
+      this.formats.getMainFormat() === "Album"
+        ? ""
+        : ` (${this.formats.getMainFormat()})`;
+    return `${date} - ${artists} - "${this.title}${format}"\n(${this.url})`;
   }
 
   get releaseFormats() {
@@ -117,17 +121,12 @@ export class Release {
 
   // Return release object if it's considered acceptable
   public async getCandidateRelease(): Promise<Release | RejectReason> {
-    const reject =
+    return (
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicRejectFormat());
-    // (await this.credits.heuristicRejectNoCredits());
-
-    if (reject) return reject;
-
-    await this.releaseDate.extractPreciseDate();
-
-    return this;
+      (await this.formats.heuristicRejectFormat()) ??
+      this
+    );
   }
 
   // Return the version list (possibly cached)
@@ -168,8 +167,13 @@ export class Release {
   }
 
   // Is the release of the given format?
-  public isFormat(format: string): boolean {
-    return this.formats.isFormat(format);
+  public isMainFormat(format: string): boolean {
+    return this.formats.getMainFormat() === format;
+  }
+
+  // Extract the precise date for this release
+  public async extractPreciseDate() {
+    this.releaseDate.extractPreciseDate();
   }
 
   // Fetch a version and add it to the cached versions

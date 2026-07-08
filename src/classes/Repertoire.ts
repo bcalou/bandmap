@@ -1,5 +1,6 @@
 import { OPTION_TITLE_SIMILARITY_THRESHOLD } from "../env";
 import { DCTrack } from "../types";
+import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
 var stringSimilarity = require("string-similarity");
@@ -18,13 +19,17 @@ type Track = {
  * The list of tracks performed by a band or artist
  */
 export class Repertoire {
+  // The band
+  private band: Band;
+
   // The list of tracks
   private tracks: Track[] = [];
 
   // The logger object
   private logger: Logger;
 
-  constructor() {
+  constructor(band: Band) {
+    this.band = band;
     this.logger = new Logger();
   }
 
@@ -54,19 +59,16 @@ export class Repertoire {
 
   // Does the given release contain tracks that are not in the repertoire yet?
   public hasUnregisteredTracks(release: Release): boolean {
-    return !!release.tracklist.find((track) =>
-      this.tracks.every(
-        (_track) => !this.isSimilarTrackName(track.title, _track.title)
-      )
+    return !!release.tracklist.find(
+      (track) =>
+        !track.artists?.every(
+          (artist) => !this.band.isArtistConnectedToBand(artist.id)
+        ) &&
+        track.title.indexOf(" = ") === -1 &&
+        this.tracks.every(
+          (_track) => !this.isSimilarTrackName(track.title, _track.title)
+        )
     );
-  }
-
-  // Is the release tracklist mostly included in the repertoire?
-  public tracklistIsAlreadyInRepertoire(release: Release): boolean {
-    return true;
-    // return release.tracklist.every((track) =>
-    //   this.tracks.find((_track) => _track === track.title),
-    // );
   }
 
   // Log a track details

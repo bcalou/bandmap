@@ -40,15 +40,13 @@ export class BandMap {
 
     await this.band.fetchReleases();
 
-    this.band.discography.identifyMainCountry();
-
-    this.band.discography.selectValidCandidates();
+    await this.band.discography.selectValidCandidates();
 
     this.band.discography.sort();
 
     this.logFinalOutput();
 
-    this.testResult();
+    this.logIds();
   }
 
   // Log the final output
@@ -66,25 +64,35 @@ export class BandMap {
     this.band?.discography?.repertoire?.logTracks();
   }
 
+  // Log the generated list of releases ID
+  private logIds() {
+    if (!this.band) return;
+
+    this.setLogFile("tests");
+    const idList = this.band.discography.getAcceptedIdList();
+
+    if (this.expectedIdList) {
+      this.compareToExpected(idList);
+    } else {
+      this.logger.log(`ID list: ${idList}`);
+    }
+  }
+
+  // Test the program result against what's expected
+  private compareToExpected(idList: string) {
+    if (idList === this.expectedIdList) {
+      this.logger.logSuccess(`✓ IDs list matches expectation: ${idList}`);
+    } else {
+      this.logger.logError(`❌ IDs list doesn't match the expected result`);
+      this.logger.log(`Expected: ${this.expectedIdList}`);
+      this.logger.log(`Got:      ${idList}`);
+    }
+  }
+
   // Set the log file name
   private setLogFile(name: string) {
     this.logger.setLogFile(
       `band_${this.band?.id}_${this.band?.name}_${name}.txt`
     );
-  }
-
-  // Test the program result against what's expected
-  private testResult() {
-    if (this.expectedIdList) {
-      const idList = this.band?.discography.getAcceptedIdList();
-
-      if (idList === this.expectedIdList) {
-        this.logger.logSuccess(`✓ IDs list matches expectation: ${idList}`);
-      } else {
-        this.logger.logError(`❌ IDs list doesn't match the expected result`);
-        this.logger.log(`Expected: ${this.expectedIdList}`);
-        this.logger.log(`Got:      ${idList}`);
-      }
-    }
   }
 }

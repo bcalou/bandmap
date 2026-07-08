@@ -84,14 +84,14 @@ export class ArtistRelease {
     if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
     } else {
-      this.addAcceptedOrCandidate(release);
+      await this.addAcceptedOrCandidate(release);
     }
   }
 
   // Add to accepted or candidate releases
-  private addAcceptedOrCandidate(release: Release) {
+  private async addAcceptedOrCandidate(release: Release) {
     if (release.isCoreRelease()) {
-      this.mainBand.discography.addAccepted(release);
+      await this.mainBand.discography.addAccepted(release);
     } else {
       this.mainBand.discography.addCandidate(release);
     }
@@ -102,7 +102,6 @@ export class ArtistRelease {
     return (
       this.heuristicRejectRole() ??
       this.heuristicRejectAlternateLanguage() ??
-      // this.heuristicRejectSimilarTitle() ??
       this.fetchRelease()
     );
   }
@@ -150,17 +149,4 @@ export class ArtistRelease {
   private heuristicRejectAlternateLanguage(): RejectReason | null {
     return this.title.indexOf(" = ") > -1 ? "Alternate language release" : null;
   }
-
-  // Reject a release having a title too similar to another selected release
-  // private heuristicRejectSimilarTitle(): RejectReason | null {
-  //   const similarRelease = this.mainBand.discography
-  //     .getCandidateReleases()
-  //     .find((release) => stringsAreSimilar(release.title, this.title));
-
-  //   if (similarRelease) {
-  //     return `Title too similar to ${similarRelease.label}`;
-  //   }
-
-  //   return null;
-  // }
 }

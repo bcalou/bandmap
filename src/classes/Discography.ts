@@ -1,5 +1,7 @@
+import { FORMATS } from "../env";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
+import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
 import { Repertoire } from "./Repertoire";
@@ -31,12 +33,9 @@ export class Discography {
     reason: RejectReason;
   }[] = [];
 
-  // The country in which most core releases were released
-  public mainCountry: string | undefined;
-
-  constructor() {
+  constructor(band: Band) {
     this.logger = new Logger();
-    this.repertoire = new Repertoire();
+    this.repertoire = new Repertoire(band);
   }
 
   // Get the releases
@@ -50,7 +49,8 @@ export class Discography {
   }
 
   // Add a release to the discography
-  public addAccepted(release: Release) {
+  public async addAccepted(release: Release) {
+    await release.extractPreciseDate();
     this.logger.logSuccess(`💿 ${release.label}`);
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();
@@ -93,22 +93,29 @@ export class Discography {
   }
 
   // Select which candidate releases are actually valid
-  public selectValidCandidates() {
-    this.selectValidCandidateForFormat("EP");
-    this.selectValidCandidateForFormat("Single");
+  public async selectValidCandidates() {
+    for (const format of FORMATS.secondaryOrderedByImportance) {
+      this.logger.log(`Looking for valid candidates for "${format}" format`);
+      for (const release of this.candidateReleases.filter((release) =>
+        release.isMainFormat(format)
+      )) {
+        await this.selectCandidate(release);
+      }
+      this.logger.logSeparator();
+    }
   }
 
-  private selectValidCandidateForFormat(format: string) {
-    this.candidateReleases
-      .filter((candidateRelease) => candidateRelease.isFormat(format))
-      .forEach((candidateRelease, index) => {
-        this.candidateReleases.splice(index, 1);
-        if (this.repertoire.hasUnregisteredTracks(candidateRelease)) {
-          this.addAccepted(candidateRelease);
-        } else {
-          this.addRejected(candidateRelease, "No new tracks");
-        }
-      });
+  // Move a release from the candidate list to the accepted list
+  private async selectCandidate(release: Release): Promise<void> {
+    this.candidateReleases = this.candidateReleases.filter(
+      (_release) => _release.id !== release.id
+    );
+
+    if (this.repertoire.hasUnregisteredTracks(release)) {
+      await this.addAccepted(release);
+    } else {
+      this.addRejected(release, "No new tracks");
+    }
   }
 
   // Sort releases by release date
@@ -153,38 +160,5 @@ export class Discography {
   // Get the ID list of accepted releases
   public getAcceptedIdList(): string {
     return this.releases.map((release) => release.id).join(",");
-  }
-
-  // Find in which country most of the core releases were relesased
-  public identifyMainCountry(): void {
-    const countries = this.getReleasesCountByCountry();
-
-    const maxReleases = Math.max(...Object.values(countries));
-    this.mainCountry = Object.keys(countries).find(
-      (key) => countries[key] === maxReleases
-    );
-
-    this.logger.logInfo(
-      `🌎 Main country is ${this.mainCountry} with ${maxReleases} release(s)`
-    );
-
-    this.logger.logSeparator();
-  }
-
-  // Get the number of releases in each country
-  private getReleasesCountByCountry(): Record<string, number> {
-    const countries: Record<string, number> = {};
-
-    this.getCandidateReleases().forEach((release) => {
-      if (!release.country) return;
-
-      if (!countries[release.country]) {
-        countries[release.country] = 0;
-      }
-
-      countries[release.country]++;
-    });
-
-    return countries;
   }
 }

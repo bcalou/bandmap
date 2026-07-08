@@ -2,7 +2,7 @@ import { DateQuality } from "./classes/ReleaseDate";
 
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
-export const OPTION_DATE_QUALITY = DateQuality.YearOnly;
+export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";
@@ -14,7 +14,7 @@ export const ARTIST_RELEASE_ROLES = {
 
 export const FORMATS = {
   accept: ["Album"],
-  secondary: ["Compilation", "EP", "Maxi-Single", "Single"],
+  secondaryOrderedByImportance: ["Compilation", "EP", "Maxi-Single", "Single"],
   reject: [
     "Blu-ray",
     "Blu-ray-R",

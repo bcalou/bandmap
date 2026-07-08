@@ -60,7 +60,7 @@ export class Credits {
   // Extract the credits from the extra artists list
   public extractCredits(): Credit[] {
     return [...this.release.extraArtists, ...this.getTracklistCredits()]
-      .filter(this.mainBand.isExtraArtistConnectedToBand.bind(this.mainBand))
+      .filter((artist) => this.mainBand.isArtistConnectedToBand(artist.id))
       .reduce(this.appendExtraArtistToCredits.bind(this), [])
       .map((credit) => ({
         ...credit,

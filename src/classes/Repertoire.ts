@@ -35,7 +35,7 @@ export class Repertoire {
 
   // Add the tracks from the given release to the repertoire
   public addReleaseTracks(release: Release) {
-    release.tracklist.forEach((releaseTrack) => {
+    this.getReleaseTracks(release).forEach((releaseTrack) => {
       let track = this.tracks.find((_track) =>
         this.isSimilarTrackName(_track.title, releaseTrack.title)
       );
@@ -59,7 +59,7 @@ export class Repertoire {
 
   // Does the given release contain tracks that are not in the repertoire yet?
   public hasUnregisteredTracks(release: Release): boolean {
-    return !!release.tracklist.find(
+    return !!this.getReleaseTracks(release).find(
       (track) =>
         !track.artists?.every(
           (artist) => !this.band.isArtistConnectedToBand(artist.id)
@@ -69,6 +69,11 @@ export class Repertoire {
           (_track) => !this.isSimilarTrackName(track.title, _track.title)
         )
     );
+  }
+
+  // Get the list of tracks for the given release
+  private getReleaseTracks(release: Release): DCTrack[] {
+    return release.tracklist.filter((track) => track.type_ === "track");
   }
 
   // Log a track details

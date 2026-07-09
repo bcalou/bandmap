@@ -29,7 +29,7 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      []
+      [],
     );
   }
 
@@ -47,11 +47,6 @@ export class Formats {
       : `Rejected format(s): ${this.printFormats(this.formats)}`;
   }
 
-  // Is the format a core format (exclude secondary formats)
-  public isCoreFormat(): boolean {
-    return !!this.mainFormat && FORMATS.accept.includes(this.mainFormat);
-  }
-
   // Transform a format list to a printable string
   private printFormats(formats?: string[]) {
     return (formats ?? this.formats).join(", ") ?? "not specified";
@@ -59,11 +54,7 @@ export class Formats {
 
   // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
-    this.mainFormat = formats.find((format) =>
-      FORMATS.accept
-        .concat(...FORMATS.secondaryOrderedByImportance)
-        .includes(format)
-    );
+    this.mainFormat = formats.find((format) => FORMATS.accept.includes(format));
 
     return (
       !!this.mainFormat &&
@@ -82,7 +73,7 @@ export class Formats {
     if (!this.release.masterId) return false;
 
     this.logger.logWarning(
-      `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`
+      `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`,
     );
 
     for (const version of (await this.release.getVersions()).versions) {

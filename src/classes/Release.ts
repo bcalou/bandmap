@@ -121,12 +121,16 @@ export class Release {
 
   // Return release object if it's considered acceptable
   public async getCandidateRelease(): Promise<Release | RejectReason> {
-    return (
+    const rejectReason =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicRejectFormat()) ??
-      this
-    );
+      (await this.formats.heuristicRejectFormat());
+
+    if (rejectReason) return rejectReason;
+
+    await this.releaseDate.extractPreciseDate();
+
+    return this;
   }
 
   // Return the version list (possibly cached)
@@ -150,7 +154,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId
+      (_version) => _version.release.id === versionId,
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -159,11 +163,6 @@ export class Release {
   // Shortcut to the credit extract method for this release
   public extractCredits() {
     return this.credits.extractCredits();
-  }
-
-  // Should the release be automatically considered a core release?
-  public isCoreRelease(): boolean {
-    return this.formats.isCoreFormat();
   }
 
   // Is the release of the given format?
@@ -180,7 +179,7 @@ export class Release {
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand
+      this.mainBand,
     );
     this.versions.push(version);
     return version;
@@ -193,7 +192,7 @@ export class Release {
 
     const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
 
     if (versions.pagination.items) {

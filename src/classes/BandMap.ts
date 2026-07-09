@@ -40,6 +40,8 @@ export class BandMap {
 
     await this.band.fetchReleases();
 
+    this.band.discography.sort();
+
     await this.band.discography.selectValidCandidates();
 
     this.band.discography.sort();
@@ -92,7 +94,7 @@ export class BandMap {
   // Set the log file name
   private setLogFile(name: string) {
     this.logger.setLogFile(
-      `band_${this.band?.id}_${this.band?.name}_${name}.txt`
+      `band_${this.band?.id}_${this.band?.name}_${name}.txt`,
     );
   }
 }

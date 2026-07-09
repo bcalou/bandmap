@@ -1,9 +1,5 @@
 827 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
-(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
 (https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
 (No new tracks)
@@ -44,16 +40,16 @@
 (https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1974 - Supertramp - "Bloody Well Right (Single)"
+(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1974-03-01 - Supertramp - "Land Ho  (Single)"
 (https://www.discogs.com/release/3402272-Supertramp-Land-Ho-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-11-01 - Supertramp - "Dreamer (Single)"
 (https://www.discogs.com/release/721754-Supertramp-Dreamer)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Bloody Well Right (Single)"
-(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Various - "Hårete Låter"
@@ -192,7 +188,7 @@
 (https://www.discogs.com/release/3347037-Supertramp-Dreamer)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977 - Supertramp - "Give A Little Bit (Single)"
+❌ 1977-05-00 - Supertramp - "Give A Little Bit (Single)"
 (https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -384,16 +380,16 @@
 (https://www.discogs.com/release/12138792-Supertramp-The-Logical-Song-Goodbye-Stranger)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Goodbye Stranger (Single)"
+❌ 1979-01-21 - Supertramp - "Goodbye Stranger (Single)"
 (https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Breakfast In America (Single)"
-(https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America)
+❌ 1979-03-00 - Supertramp - "The Logical Song (Single)"
+(https://www.discogs.com/release/444840-Supertramp-The-Logical-Song)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song (Single)"
-(https://www.discogs.com/release/444840-Supertramp-The-Logical-Song)
+❌ 1979-07-25 - Supertramp - "Breakfast In America (Single)"
+(https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1979-10-00 - Supertramp - "Take The Long Way Home (Single)"
@@ -624,12 +620,16 @@
 (https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "It's Raining Again (Single)"
-(https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again)
+❌ 1982 - Supertramp - "Dreamer / Give A Little Bit  (Single)"
+(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "Crazy (Single)"
 (https://www.discogs.com/release/999816-Supertramp-Crazy)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1982-10-22 - Supertramp - "It's Raining Again (Single)"
+(https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Supertramp - "Supersampler"
@@ -716,12 +716,12 @@
 (https://www.discogs.com/release/36406591)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "Don't Leave Me Now (Single)"
-(https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1983 - Supertramp - "School (Single)"
 (https://www.discogs.com/release/2210323-Supertramp-School)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983-05-00 - Supertramp - "Don't Leave Me Now (Single)"
+(https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Various - "Llena Tu Cabeza De Rock '84"
@@ -750,7 +750,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp / Bryan Ferry - "Cannonball / Slave To Love"
 (https://www.discogs.com/release/4208787)
-(Rejected format(s): Vinyl, 7", 45 RPM, Promo)
+(Rejected format(s): Vinyl, 7", 45 RPM, Promo, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Howard Jones / Supertramp - "The King Biscuit Flower Hour"
 (https://www.discogs.com/release/8772089)
@@ -852,16 +852,16 @@
 (https://www.discogs.com/release/32545968)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Better Days (Maxi-Single)"
+❌ 1985-07-00 - Supertramp - "Better Days (Maxi-Single)"
 (https://www.discogs.com/release/2774976-Supertramp-Better-Days)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1985-05-00 - Supertramp - "Cannonball (Single)"
+(https://www.discogs.com/release/4106612-Supertramp-Cannonball)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1985-07-19 - Supertramp - "Still In Love / No Inbetween (Single)"
 (https://www.discogs.com/release/3648249-Supertramp-Still-In-Love-No-Inbetween)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Cannonball (Single)"
-(https://www.discogs.com/release/4106612-Supertramp-Cannonball)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "Westwood One Startrak Profile "
@@ -904,7 +904,7 @@
 (https://www.discogs.com/master/847277)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1986 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
+❌ 1986-10-21 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
 (https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -976,7 +976,7 @@
 (https://www.discogs.com/release/1065115-Supertramp-Free-As-A-Bird)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1987 - Supertramp - "I'm Beggin' You (Single)"
+❌ 1987-11-21 - Supertramp - "I'm Beggin' You (Single)"
 (https://www.discogs.com/release/882745-Supertramp-Im-Beggin-You)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -2988,7 +2988,7 @@
 (https://www.discogs.com/release/10028771)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Various - "Mister Stampoulis Rock Επιλογές"
+❌ unknown date - Various - "Mister Stampoulis Rock Επιλο��ές"
 (https://www.discogs.com/release/10313288)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————

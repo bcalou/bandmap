@@ -2,15 +2,13 @@ import {
   ARTIST_RELEASE_ROLES,
   DISCOGS_MASTER_URL,
   DISCOGS_RELEASE_URL,
-  OPTION_TITLE_SIMILARITY_THRESHOLD,
 } from "../env";
-import { Api } from "./Api";
 import { DCArtistRelease, RejectReason } from "../types";
+import { Api } from "./Api";
 import { Band } from "./Band";
+import { Logger } from "./Logger";
 import { Master } from "./Master";
 import { Release } from "./Release";
-import { Logger } from "./Logger";
-import { stringsAreSimilar } from "../utils";
 
 /**
  * An artist's release, which is an simplified representation of a release
@@ -84,15 +82,6 @@ export class ArtistRelease {
     if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
     } else {
-      await this.addAcceptedOrCandidate(release);
-    }
-  }
-
-  // Add to accepted or candidate releases
-  private async addAcceptedOrCandidate(release: Release) {
-    if (release.isCoreRelease()) {
-      await this.mainBand.discography.addAccepted(release);
-    } else {
       this.mainBand.discography.addCandidate(release);
     }
   }
@@ -125,7 +114,7 @@ export class ArtistRelease {
 
     if (inclusionState) {
       this.logger.logWarning(
-        `↷ "${this.label}" (skipping, already ${inclusionState})`
+        `↷ "${this.label}" (skipping, already ${inclusionState})`,
       );
       this.logger.logSeparator();
 

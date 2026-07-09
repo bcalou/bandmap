@@ -23,6 +23,8 @@ declare module "disconnect" {
     page?: number;
     per_page?: number;
     country?: string;
+    sort?: string;
+    sort_order?: "asc" | "desc";
   }
 
   export interface RequestOptions {

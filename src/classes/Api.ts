@@ -46,55 +46,54 @@ export class Api {
   }
 
   public async getArtist(id: number): Promise<DCArtist> {
-    const key = `artist_${id}`;
-
     return this.getCached<DCArtist>(
-      key,
+      `artist_${id}`,
       () => this.discogs.getArtist(id),
-      DCArtist
+      DCArtist,
     );
   }
 
   public async getArtistReleases(
     id: number,
-    page = 1
+    page = 1,
   ): Promise<DCArtistReleases> {
-    const key = `artist_releases_${id}_${page}`;
     return this.getCached<DCArtistReleases>(
-      key,
-      () => this.discogs.getArtistReleases(id, { page, per_page: PER_PAGE }),
-      DCArtistReleases
+      `artist_releases_${id}_${page}`,
+      () =>
+        this.discogs.getArtistReleases(id, {
+          sort: "year",
+          page,
+          per_page: PER_PAGE,
+        }),
+      DCArtistReleases,
     );
   }
 
   public async getRelease(id: number): Promise<DCRelease> {
-    const key = `release_${id}`;
     return this.getCached<DCRelease>(
-      key,
+      `release_${id}`,
       () => this.discogs.getRelease(id),
-      DCRelease
+      DCRelease,
     );
   }
 
   public async getMaster(id: number): Promise<DCMaster> {
-    const key = `master_${id}`;
     return this.getCached<DCMaster>(
-      key,
+      `master_${id}`,
       () => this.discogs.getMaster(id),
-      DCMaster
+      DCMaster,
     );
   }
 
   public async getVersions(id: number, page = 1): Promise<DCVersions> {
-    const key = `versions_${id}_${page}`;
     return this.getCached<DCVersions>(
-      key,
+      `versions_${id}_${page}`,
       () =>
         this.discogs.getMasterVersions(id, {
           page,
           per_page: PER_PAGE,
         }),
-      DCVersions
+      DCVersions,
     );
   }
 
@@ -124,7 +123,7 @@ export class Api {
   private async getCached<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject
+    parser: ZodObject,
   ): Promise<ResultType> {
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
@@ -139,7 +138,7 @@ export class Api {
   private async fetchAndCache<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject
+    parser: ZodObject,
   ): Promise<ResultType> {
     const data = await fetcher();
     await this.delay();

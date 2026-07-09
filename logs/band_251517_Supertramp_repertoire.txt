@@ -1,4 +1,4 @@
-108 track(s):
+107 track(s):
 ———————————————————————————————————————————————————————————————
 A Soapbox Opera
 Variation(s): A Soap Box Opera
@@ -27,7 +27,7 @@ Aries
 Release(s): Indelibly Stamped
 ———————————————————————————————————————————————————————————————
 Asylum
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79
+Release(s): Crime Of The Century, Paris, Is Everybody Listening?, Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Aubade
 Release(s): Supertramp
@@ -42,13 +42,10 @@ Better Days
 Release(s): Brother Where You Bound
 ———————————————————————————————————————————————————————————————
 Bloody Well Right
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Paris, Live '88, It Was The Best Of Times, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Bonnie
 Release(s): "...Famous Last Words..."
-———————————————————————————————————————————————————————————————
-Bonus Tracks: Remixed Audio With Newly Created Visuals
-Release(s): Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Breakfast In America
 Release(s): Breakfast In America, Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
@@ -81,7 +78,7 @@ Crazy
 Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Crime Of The Century
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Paris, Live '88, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Dead Man's Blues
 Release(s): Slow Motion
@@ -96,7 +93,7 @@ Downstream
 Release(s): Even In The Quietest Moments..., Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Dreamer
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Paris, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Easy Does It
 Release(s): Crisis? What Crisis?
@@ -148,7 +145,7 @@ Help Me Down That Road
 Release(s): Some Things Never Change
 ———————————————————————————————————————————————————————————————
 Hide In Your Shell
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79
+Release(s): Crime Of The Century, Paris, Is Everybody Listening?, Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Home Again
 Release(s): Supertramp
@@ -244,10 +241,10 @@ Rosie Had Everything Planned
 Release(s): Indelibly Stamped
 ———————————————————————————————————————————————————————————————
 Rudy
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Paris, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 School
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Paris, It Was The Best Of Times, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Shadow Song
 Release(s): Supertramp

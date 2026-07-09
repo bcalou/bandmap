@@ -1,4 +1,4 @@
-import { FORMATS } from "../env";
+import { OPTION_SECONDARY_FORMATS_LOOKUP_ORDER } from "../env";
 import { RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
@@ -49,8 +49,7 @@ export class Discography {
   }
 
   // Add a release to the discography
-  public async addAccepted(release: Release) {
-    await release.extractPreciseDate();
+  public addAccepted(release: Release) {
     this.logger.logSuccess(`💿 ${release.label}`);
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();
@@ -69,7 +68,7 @@ export class Discography {
   // Add a release to the rejected list
   public addRejected(
     artistRelease: ArtistRelease | Release,
-    reason: RejectReason
+    reason: RejectReason,
   ) {
     this.logger.logError(`❌ ${artistRelease.label}`);
     this.logger.logError(`${reason}`);
@@ -93,26 +92,45 @@ export class Discography {
   }
 
   // Select which candidate releases are actually valid
-  public async selectValidCandidates() {
-    for (const format of FORMATS.secondaryOrderedByImportance) {
+  public selectValidCandidates() {
+    this.selectAlbumsAndEps();
+    this.selectSecondaryRelease();
+  }
+
+  // Select all the albums + the EPs containing new tracks
+  private selectAlbumsAndEps() {
+    for (const release of this.candidateReleases) {
+      if (release.isMainFormat("Album")) {
+        this.selectCandidate(release, true);
+      }
+
+      if (release.isMainFormat("EP")) {
+        this.selectCandidate(release);
+      }
+    }
+  }
+
+  // Select the secondary releases containing new track
+  private selectSecondaryRelease() {
+    for (const format of OPTION_SECONDARY_FORMATS_LOOKUP_ORDER) {
       this.logger.log(`Looking for valid candidates for "${format}" format`);
       for (const release of this.candidateReleases.filter((release) =>
-        release.isMainFormat(format)
+        release.isMainFormat(format),
       )) {
-        await this.selectCandidate(release);
+        this.selectCandidate(release);
       }
       this.logger.logSeparator();
     }
   }
 
   // Move a release from the candidate list to the accepted list
-  private async selectCandidate(release: Release): Promise<void> {
+  private selectCandidate(release: Release, isCoreRelease?: boolean) {
     this.candidateReleases = this.candidateReleases.filter(
-      (_release) => _release.id !== release.id
+      (_release) => _release.id !== release.id,
     );
 
-    if (this.repertoire.hasUnregisteredTracks(release)) {
-      await this.addAccepted(release);
+    if (isCoreRelease || this.repertoire.hasUnregisteredTracks(release)) {
+      this.addAccepted(release);
     } else {
       this.addRejected(release, "No new tracks");
     }
@@ -120,14 +138,16 @@ export class Discography {
 
   // Sort releases by release date
   public sort() {
-    this.releases.sort((release1, release2) =>
-      release1.formattedDate.localeCompare(release2.formattedDate)
-    );
+    [this.releases, this.candidateReleases].forEach((releaseGroup) => {
+      releaseGroup.sort((release1, release2) =>
+        release1.formattedDate.localeCompare(release2.formattedDate),
+      );
+    });
 
     this.rejectedReleases.sort((release1, release2) =>
       (release1.release.year ?? "")
         .toString()
-        .localeCompare((release2.release.year ?? "").toString())
+        .localeCompare((release2.release.year ?? "").toString()),
     );
   }
 
@@ -146,7 +166,7 @@ export class Discography {
   // Log the list of rejected releases and the reject reason
   public logRejected() {
     this.logger.logWarning(
-      `${this.rejectedReleases.length} rejected release(s):`
+      `${this.rejectedReleases.length} rejected release(s):`,
     );
     this.logger.logSeparator();
 

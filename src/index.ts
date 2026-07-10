@@ -1,3 +1,4 @@
 import { BandMap } from "./classes/BandMap";
+import { refs } from "./refs";
 
-new BandMap(251517);
+new BandMap(refs.HAKEN.id, refs.HAKEN.expectedIdList);

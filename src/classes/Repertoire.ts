@@ -37,7 +37,7 @@ export class Repertoire {
   public addReleaseTracks(release: Release) {
     this.getReleaseTracks(release).forEach((releaseTrack) => {
       let track = this.tracks.find((_track) =>
-        this.isSimilarTrackName(_track.title, releaseTrack.title)
+        this.areSimilarTrackNames(_track.title, releaseTrack.title)
       );
 
       if (track) {
@@ -61,12 +61,23 @@ export class Repertoire {
   public hasUnregisteredTracks(release: Release): boolean {
     return !!this.getReleaseTracks(release).find(
       (track) =>
+        // Ignore track not written by the artist
         !track.artists?.every(
           (artist) => !this.band.isArtistConnectedToBand(artist.id)
         ) &&
+        // Ignore track containing an equal (translation title)
         track.title.indexOf(" = ") === -1 &&
-        this.tracks.every(
-          (_track) => !this.isSimilarTrackName(track.title, _track.title)
+        this.trackIsUnregistered(track)
+    );
+  }
+
+  // Try to find the given track inside the repertoire
+  private trackIsUnregistered(track: DCTrack) {
+    return this.tracks.every(
+      (_track) =>
+        !this.areSimilarTrackNames(track.title, _track.title) &&
+        !_track.variations.find((variation) =>
+          this.areSimilarTrackNames(track.title, variation)
         )
     );
   }
@@ -89,11 +100,30 @@ export class Repertoire {
   }
 
   // Are the two track title similar enough to consider that they're the same?
-  private isSimilarTrackName(track1: string, track2: string) {
+  private areSimilarTrackNames(track1: string, track2: string) {
+    const areSimilar =
+      stringSimilarity.compareTwoStrings(track1, track2) >
+      OPTION_TITLE_SIMILARITY_THRESHOLD;
+
+    if (!!(track1 + track2).match(/[\(\{\[]/g)) {
+      return (
+        areSimilar ||
+        this.areSimilarTrackNamesWithoutParenthesis(track1, track2)
+      );
+    }
+
+    return areSimilar;
+  }
+
+  // Are the two track title similar when removing the content in parenthesis?
+  private areSimilarTrackNamesWithoutParenthesis(
+    track1: string,
+    track2: string
+  ): boolean {
     return (
       stringSimilarity.compareTwoStrings(
-        this.normalizeTitle(track1),
-        this.normalizeTitle(track2)
+        this.removeParenthesisContent(track1),
+        this.removeParenthesisContent(track2)
       ) > OPTION_TITLE_SIMILARITY_THRESHOLD
     );
   }
@@ -119,7 +149,7 @@ export class Repertoire {
   }
 
   // Convert a string to a normalized, comparable string
-  private normalizeTitle(title: string) {
-    return title.replace(/^.*=/g, "").replace(/\s*[\(\{\[].*?[\)\}\]]\s*/g, "");
+  private removeParenthesisContent(title: string) {
+    return title.replace(/\s*[\(\{\[].*?[\)\}\]]\s*/g, "");
   }
 }

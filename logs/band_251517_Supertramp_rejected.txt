@@ -1,4 +1,4 @@
-827 rejected release(s):
+828 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
 (https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
@@ -106,6 +106,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1976 - Supertramp - "Lady (Single)"
+(https://www.discogs.com/release/2469812-Supertramp-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"

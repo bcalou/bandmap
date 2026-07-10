@@ -55,6 +55,11 @@ export const refs: { [key: string]: { id: number; expectedIdList: string } } = {
     expectedIdList:
       "8543634,5057408,3346064,3346056,4045354,3398502,5212812,23243657,2922066",
   },
+  SUPERTRAMP: {
+    id: 251517,
+    expectedIdList:
+      "2862074,1414075,31408358,1414002,4727625,617486,448302,3058365,736899,1373129,13339667,1138644,903197,791136,1492418,587270,3837154",
+  },
   TOBIAS_LUNDGREN: {
     id: 2943819,
     expectedIdList:

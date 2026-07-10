@@ -68,7 +68,7 @@ export class Discography {
   // Add a release to the rejected list
   public addRejected(
     artistRelease: ArtistRelease | Release,
-    reason: RejectReason,
+    reason: RejectReason
   ) {
     this.logger.logError(`❌ ${artistRelease.label}`);
     this.logger.logError(`${reason}`);
@@ -115,7 +115,7 @@ export class Discography {
     for (const format of OPTION_SECONDARY_FORMATS_LOOKUP_ORDER) {
       this.logger.log(`Looking for valid candidates for "${format}" format`);
       for (const release of this.candidateReleases.filter((release) =>
-        release.isMainFormat(format),
+        release.isMainFormat(format)
       )) {
         this.selectCandidate(release);
       }
@@ -126,7 +126,7 @@ export class Discography {
   // Move a release from the candidate list to the accepted list
   private selectCandidate(release: Release, isCoreRelease?: boolean) {
     this.candidateReleases = this.candidateReleases.filter(
-      (_release) => _release.id !== release.id,
+      (_release) => _release.id !== release.id
     );
 
     if (isCoreRelease || this.repertoire.hasUnregisteredTracks(release)) {
@@ -140,14 +140,14 @@ export class Discography {
   public sort() {
     [this.releases, this.candidateReleases].forEach((releaseGroup) => {
       releaseGroup.sort((release1, release2) =>
-        release1.formattedDate.localeCompare(release2.formattedDate),
+        release1.formattedDate.localeCompare(release2.formattedDate)
       );
     });
 
     this.rejectedReleases.sort((release1, release2) =>
       (release1.release.year ?? "")
         .toString()
-        .localeCompare((release2.release.year ?? "").toString()),
+        .localeCompare((release2.release.year ?? "").toString())
     );
   }
 
@@ -166,7 +166,7 @@ export class Discography {
   // Log the list of rejected releases and the reject reason
   public logRejected() {
     this.logger.logWarning(
-      `${this.rejectedReleases.length} rejected release(s):`,
+      `${this.rejectedReleases.length} rejected release(s):`
     );
     this.logger.logSeparator();
 

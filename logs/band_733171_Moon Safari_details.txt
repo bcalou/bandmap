@@ -130,9 +130,10 @@ Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
 ⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
 ———————————————————————————————————————————————————————————————
-❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
-(https://www.discogs.com/release/15123057)
-Rejected format(s): CD, Compilation, Reissue, Stereo
+🗓️ Imprecise date (2016) for "Two In One (Spork / Live In Mexico)"
+🗓️ No better date found
+⌛ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
+(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
 ———————————————————————————————————————————————————————————————
 ⌛ 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 (https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2)
@@ -250,17 +251,21 @@ No new tracks
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 (https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2)
 ———————————————————————————————————————————————————————————————
+Looking for valid candidates for "Maxi-Single" format
+———————————————————————————————————————————————————————————————
+Looking for valid candidates for "Single" format
+———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Compilation" format
 ❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
+(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
 (https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special)
 No new tracks
 ———————————————————————————————————————————————————————————————
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Maxi-Single" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Single" format
 ———————————————————————————————————————————————————————————————

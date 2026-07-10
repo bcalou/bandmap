@@ -128,6 +128,7 @@ export class Release {
 
     if (rejectReason) return rejectReason;
 
+    // TODO : ce n'est pas toujours indispensable à ce moment là, selon le type
     await this.releaseDate.extractPreciseDate();
 
     return this;

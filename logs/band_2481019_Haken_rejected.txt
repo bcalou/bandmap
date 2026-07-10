@@ -1,11 +1,7 @@
-40 rejected release(s):
+41 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Haken (2) - "Haken"
 (https://www.discogs.com/release/15000061)
-(Rejected format(s): CDr)
-———————————————————————————————————————————————————————————————
-❌ 2008 - Haken (2) - "Enter The 5th Dimension"
-(https://www.discogs.com/master/1706323)
 (Rejected format(s): CDr)
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Various - "Classic Rock Presents PROG: Prognosis 2"
@@ -88,17 +84,29 @@
 (https://www.discogs.com/release/11005671)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2016 - Haken (2) - "Initiate"
+(https://www.discogs.com/master/1237559)
+(Rejected format(s): File, MP3, Single)
+———————————————————————————————————————————————————————————————
+❌ 2016 - Haken (2) - "The Endless Knot"
+(https://www.discogs.com/master/1237560)
+(Rejected format(s): File, MP3, Single)
+———————————————————————————————————————————————————————————————
 ❌ 2016 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In April/Early May 2016)"
 (https://www.discogs.com/release/8506811)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2016-03-08 - Haken (2) - "Initiate (Single)"
-(https://www.discogs.com/release/10831860-Haken-2-Initiate)
-(No new tracks)
+❌ 2018 - Haken (2) - "The Good Doctor"
+(https://www.discogs.com/master/1521736)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
-❌ 2016-04-15 - Haken (2) - "The Endless Knot (Single)"
-(https://www.discogs.com/release/10831861-Haken-2-The-Endless-Knot)
-(No new tracks)
+❌ 2018 - Haken (2) - "Puzzle Box"
+(https://www.discogs.com/master/1521737)
+(Rejected format(s): File, MP3, Single)
+———————————————————————————————————————————————————————————————
+❌ 2018 - Haken (2) - "A Cell Divides"
+(https://www.discogs.com/master/1521738)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
 ❌ 2018 - Various - "The Art Of Sysyphus 100"
 (https://www.discogs.com/release/12718024)
@@ -108,45 +116,37 @@
 (https://www.discogs.com/release/30549505-Haken-2-L1VE)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2018-08-31 - Haken (2) - "The Good Doctor (Single)"
-(https://www.discogs.com/release/13392239-Haken-2-The-Good-Doctor)
-(No new tracks)
+❌ 2020 - Haken (2) - "Prosthetic"
+(https://www.discogs.com/release/15041770)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
-❌ 2018-09-28 - Haken (2) - "Puzzle Box (Single)"
-(https://www.discogs.com/release/13392251-Haken-2-Puzzle-Box)
-(No new tracks)
+❌ 2020 - Haken (2) - "Invasion"
+(https://www.discogs.com/release/15349077)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
-❌ 2018-10-19 - Haken (2) - "A Cell Divides (Single)"
-(https://www.discogs.com/release/13392264-Haken-2-A-Cell-Divides)
-(No new tracks)
+❌ 2020 - Haken (2) - "Canary Yellow"
+(https://www.discogs.com/master/3538078)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
-❌ 2020-04-02 - Haken (2) - "The Architect - Jazzfinity (Single)"
-(https://www.discogs.com/release/15038791-Haken-2-The-Architect-Jazzfinity)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2020-04-03 - Haken (2) - "Prosthetic (Single)"
-(https://www.discogs.com/release/15041770-Haken-2-Prosthetic)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2020-05-01 - Haken (2) - "Canary Yellow (Single)"
-(https://www.discogs.com/release/15222568-Haken-2-Canary-Yellow)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2020-05-22 - Haken (2) - "Invasion (Single)"
-(https://www.discogs.com/release/15349077-Haken-2-Invasion)
-(No new tracks)
+❌ 2020 - Haken (2) - "The Architect - Jazzfinity"
+(https://www.discogs.com/master/1879641)
+(Rejected format(s): File, MP3, Single)
 ———————————————————————————————————————————————————————————————
 ❌ 2021 - Kyros (3) - "Recover"
 (https://www.discogs.com/master/3006722)
 (Rejected artist(s): Kyros (3))
 ———————————————————————————————————————————————————————————————
+❌ 2022 - Haken (2) - "Nightingale"
+(https://www.discogs.com/master/2608775)
+(Rejected format(s): File, AAC, Single)
+———————————————————————————————————————————————————————————————
 ❌ 2022 - Various - "Le Sampler RockHard 232"
 (https://www.discogs.com/release/23520782)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2022-04-26 - Haken (2) - "Nightingale (Single)"
-(https://www.discogs.com/release/23010590-Haken-2-Nightingale)
-(No new tracks)
+❌ 2023 - Haken (2) - "The Last Lullaby"
+(https://www.discogs.com/release/27466704)
+(Rejected format(s): File, AAC, Single)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Various - "Le Sampler RockHard 240"
 (https://www.discogs.com/release/26395064)
@@ -156,7 +156,11 @@
 (https://www.discogs.com/release/27837942)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2023-06-21 - Haken (2) - "The Last Lullaby (Single)"
-(https://www.discogs.com/release/27466704-Haken-2-The-Last-Lullaby)
-(No new tracks)
+❌ 2026 - Haken (2) - "In A Fever Dream"
+(https://www.discogs.com/release/37415226)
+(Rejected format(s): File, FLAC, Single)
+———————————————————————————————————————————————————————————————
+❌ 2026 - Haken (2) - "Bleeding Sky"
+(https://www.discogs.com/release/37690941)
+(Rejected format(s): File, FLAC, Single)
 ———————————————————————————————————————————————————————————————

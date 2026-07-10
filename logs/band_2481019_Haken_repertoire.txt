@@ -1,4 +1,4 @@
-69 track(s):
+73 track(s):
 ———————————————————————————————————————————————————————————————
 1985
 Variation(s): 1985 (Live In London 2024)
@@ -30,8 +30,11 @@ Beneath The White Rainbow
 Variation(s): Beneath The White Rainbow (Live In London 2024)
 Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
 ———————————————————————————————————————————————————————————————
-Bleeding Sky
-Release(s): Bleeding Sky
+Black Seed
+Release(s): Enter The 5th Dimension
+———————————————————————————————————————————————————————————————
+Blind
+Release(s): Enter The 5th Dimension
 ———————————————————————————————————————————————————————————————
 Bound By Gravity
 Release(s): Affinity
@@ -91,9 +94,6 @@ Release(s): The Mountain
 Host
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-In A Fever Dream
-Release(s): In A Fever Dream
-———————————————————————————————————————————————————————————————
 In Memorian
 Variation(s): In Memoriam
 Release(s): The Mountain, L-1VE
@@ -117,6 +117,9 @@ Release(s): Affinity
 Lovebite
 Variation(s): Lovebite (Live In London 2024)
 Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+———————————————————————————————————————————————————————————————
+Manifolds
+Release(s): Enter The 5th Dimension
 ———————————————————————————————————————————————————————————————
 Messiah Complex i: Ivory Tower
 Release(s): Virus
@@ -176,8 +179,17 @@ Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
 Shapeshifter
 Release(s): Visions
 ———————————————————————————————————————————————————————————————
+Sleeping Thoughts Wake
+Release(s): Enter The 5th Dimension
+———————————————————————————————————————————————————————————————
+Snow
+Release(s): Enter The 5th Dimension
+———————————————————————————————————————————————————————————————
 Somebody
 Release(s): The Mountain
+———————————————————————————————————————————————————————————————
+Souls
+Release(s): Enter The 5th Dimension
 ———————————————————————————————————————————————————————————————
 Strainwreck (Live In London 2024)
 Release(s): Liveforms: An Evening With Haken (Live In London 2024)

@@ -59,6 +59,10 @@ export class Formats {
     return (
       !!this.mainFormat &&
       !formats.find((format) => FORMATS.reject.includes(format)) &&
+      (this.mainFormat === "Album" ||
+        !formats.find((format) =>
+          FORMATS.rejectExceptIfAlbum.includes(format),
+        )) &&
       !this.isEliminatoryFormatList(formats)
     );
   }

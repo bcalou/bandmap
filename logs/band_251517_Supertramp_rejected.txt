@@ -36,10 +36,6 @@
 (https://www.discogs.com/master/2680901)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Land Ho / Summer Romance (Single)"
-(https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1974 - Supertramp - "Bloody Well Right (Single)"
 (https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
 (No new tracks)
@@ -80,12 +76,12 @@
 (https://www.discogs.com/master/1168129)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1975-03-00 - Supertramp, Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day (Compilation)"
-(https://www.discogs.com/release/32732025-Supertramp-Gil-Scott-Heron-Brian-Jackson-Crime-Of-The-CenturyMidnight-BandThe-First-Minute-Of-a-New-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1975 - Supertramp - "Sister Moonshine  (Single)"
 (https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1975-03-00 - Supertramp, Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day (Compilation)"
+(https://www.discogs.com/release/32732025-Supertramp-Gil-Scott-Heron-Brian-Jackson-Crime-Of-The-CenturyMidnight-BandThe-First-Minute-Of-a-New-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp / Chris Hillman - "Rock Around The World #115"
@@ -2127,6 +2123,10 @@
 ❌ 2005 - Various - "Легенды Poka Volume 8 (Art Rock)"
 (https://www.discogs.com/release/13452829)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology) (Compilation)"
+(https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Various - "Chill Out Sessions Vol. 4"
 (https://www.discogs.com/release/794443)

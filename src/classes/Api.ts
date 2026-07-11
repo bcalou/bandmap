@@ -49,13 +49,13 @@ export class Api {
     return this.getCached<DCArtist>(
       `artist_${id}`,
       () => this.discogs.getArtist(id),
-      DCArtist,
+      DCArtist
     );
   }
 
   public async getArtistReleases(
     id: number,
-    page = 1,
+    page = 1
   ): Promise<DCArtistReleases> {
     return this.getCached<DCArtistReleases>(
       `artist_releases_${id}_${page}`,
@@ -65,7 +65,7 @@ export class Api {
           page,
           per_page: PER_PAGE,
         }),
-      DCArtistReleases,
+      DCArtistReleases
     );
   }
 
@@ -73,7 +73,7 @@ export class Api {
     return this.getCached<DCRelease>(
       `release_${id}`,
       () => this.discogs.getRelease(id),
-      DCRelease,
+      DCRelease
     );
   }
 
@@ -81,7 +81,7 @@ export class Api {
     return this.getCached<DCMaster>(
       `master_${id}`,
       () => this.discogs.getMaster(id),
-      DCMaster,
+      DCMaster
     );
   }
 
@@ -93,7 +93,7 @@ export class Api {
           page,
           per_page: PER_PAGE,
         }),
-      DCVersions,
+      DCVersions
     );
   }
 
@@ -123,7 +123,7 @@ export class Api {
   private async getCached<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject,
+    parser: ZodObject
   ): Promise<ResultType> {
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
@@ -138,7 +138,7 @@ export class Api {
   private async fetchAndCache<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject,
+    parser: ZodObject
   ): Promise<ResultType> {
     const data = await fetcher();
     await this.delay();

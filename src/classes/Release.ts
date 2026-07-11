@@ -121,17 +121,12 @@ export class Release {
 
   // Return release object if it's considered acceptable
   public async getCandidateRelease(): Promise<Release | RejectReason> {
-    const rejectReason =
+    return (
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicRejectFormat());
-
-    if (rejectReason) return rejectReason;
-
-    // TODO : ce n'est pas toujours indispensable à ce moment là, selon le type
-    await this.releaseDate.extractPreciseDate();
-
-    return this;
+      (await this.formats.heuristicRejectFormat()) ??
+      this
+    );
   }
 
   // Return the version list (possibly cached)
@@ -155,7 +150,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId,
+      (_version) => _version.release.id === versionId
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -173,14 +168,14 @@ export class Release {
 
   // Extract the precise date for this release
   public async extractPreciseDate() {
-    this.releaseDate.extractPreciseDate();
+    await this.releaseDate.extractPreciseDate();
   }
 
   // Fetch a version and add it to the cached versions
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand,
+      this.mainBand
     );
     this.versions.push(version);
     return version;
@@ -193,7 +188,7 @@ export class Release {
 
     const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     if (versions.pagination.items) {
@@ -213,9 +208,9 @@ export class Release {
     return null;
   }
 
-  // Reject if the master is non-music only
+  // Reject if the master contains non-music only
   private heuristicRejectGenre(): RejectReason | null {
-    if (this.genres.every((genre) => GENRES.reject.includes(genre))) {
+    if (!!this.genres.find((genre) => GENRES.reject.includes(genre))) {
       return `Rejected genre(s): ${this.genres}`;
     }
 

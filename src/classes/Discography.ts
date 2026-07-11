@@ -49,7 +49,8 @@ export class Discography {
   }
 
   // Add a release to the discography
-  public addAccepted(release: Release) {
+  public async addAccepted(release: Release) {
+    await release.extractPreciseDate();
     this.logger.logSuccess(`💿 ${release.label}`);
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();
@@ -92,45 +93,37 @@ export class Discography {
   }
 
   // Select which candidate releases are actually valid
-  public selectValidCandidates() {
-    this.selectAlbumsAndEps();
-    this.selectSecondaryRelease();
-  }
-
-  // Select all the albums + the EPs containing new tracks
-  private selectAlbumsAndEps() {
+  public async selectValidCandidates() {
     for (const release of this.candidateReleases) {
       if (release.isMainFormat("Album")) {
-        this.selectCandidate(release, true);
-      }
-
-      if (release.isMainFormat("EP")) {
-        this.selectCandidate(release);
+        await this.selectCandidate(release, true);
       }
     }
+
+    await this.selectSecondaryRelease();
   }
 
   // Select the secondary releases containing new track
-  private selectSecondaryRelease() {
+  private async selectSecondaryRelease() {
     for (const format of OPTION_SECONDARY_FORMATS_LOOKUP_ORDER) {
       this.logger.log(`Looking for valid candidates for "${format}" format`);
       for (const release of this.candidateReleases.filter((release) =>
         release.isMainFormat(format)
       )) {
-        this.selectCandidate(release);
+        await this.selectCandidate(release);
       }
       this.logger.logSeparator();
     }
   }
 
   // Move a release from the candidate list to the accepted list
-  private selectCandidate(release: Release, isCoreRelease?: boolean) {
+  private async selectCandidate(release: Release, isCoreRelease?: boolean) {
     this.candidateReleases = this.candidateReleases.filter(
       (_release) => _release.id !== release.id
     );
 
     if (isCoreRelease || this.repertoire.hasUnregisteredTracks(release)) {
-      this.addAccepted(release);
+      await this.addAccepted(release);
     } else {
       this.addRejected(release, "No new tracks");
     }

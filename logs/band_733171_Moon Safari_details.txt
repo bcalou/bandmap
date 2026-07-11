@@ -130,10 +130,9 @@ Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
 ⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
 ———————————————————————————————————————————————————————————————
-🗓️ Imprecise date (2016) for "Two In One (Spork / Live In Mexico)"
-🗓️ No better date found
-⌛ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
-(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
+❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
+(https://www.discogs.com/release/15123057)
+Rejected format(s): CD, Compilation, Reissue, Stereo
 ———————————————————————————————————————————————————————————————
 ⌛ 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 (https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2)
@@ -232,15 +231,8 @@ Rejected release role: TrackAppearance
 💿 2010-11-11 - Moon Safari - "Lover's End"
 (https://www.discogs.com/release/3346056-Moon-Safari-Lovers-End)
 ———————————————————————————————————————————————————————————————
-💿 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
-(https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade)
-———————————————————————————————————————————————————————————————
 💿 2012-02-08 - Moon Safari - "The Gettysburg Address"
 (https://www.discogs.com/release/3398502-Moon-Safari-The-Gettysburg-Address)
-———————————————————————————————————————————————————————————————
-❌ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (EP)"
-(https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy)
-No new tracks
 ———————————————————————————————————————————————————————————————
 💿 2013-08-21 - Moon Safari - "Himlabacken • Vol 1"
 (https://www.discogs.com/release/5212812-Moon-Safari-Himlabacken-Vol-1)
@@ -251,6 +243,16 @@ No new tracks
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 (https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2)
 ———————————————————————————————————————————————————————————————
+Looking for valid candidates for "EP" format
+❌ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
+(https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (EP)"
+(https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy)
+No new tracks
+———————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Maxi-Single" format
 ———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Single" format
@@ -260,12 +262,10 @@ Looking for valid candidates for "Compilation" format
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
-(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
 (https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special)
 No new tracks
 ———————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————
+Looking for valid candidates for "Unknown" format
 ———————————————————————————————————————————————————————————————

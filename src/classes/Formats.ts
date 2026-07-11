@@ -29,7 +29,7 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      [],
+      []
     );
   }
 
@@ -40,9 +40,7 @@ export class Formats {
   // Reject if the release have an invalid format
   public async heuristicRejectFormat(): Promise<RejectReason | null> {
     return this.isValidFormatList(this.formats) ||
-      (this.release.masterId &&
-        !this.isEliminatoryFormatList(this.formats) &&
-        (await this.hasVersionWithValidFormat()))
+      (this.release.masterId && (await this.hasVersionWithValidFormat()))
       ? null
       : `Rejected format(s): ${this.printFormats(this.formats)}`;
   }
@@ -54,22 +52,10 @@ export class Formats {
 
   // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
-    this.mainFormat = formats.find((format) => FORMATS.accept.includes(format));
+    this.mainFormat =
+      formats.find((format) => FORMATS.main.includes(format)) ?? "Unknown";
 
-    return (
-      !!this.mainFormat &&
-      !formats.find((format) => FORMATS.reject.includes(format)) &&
-      (this.mainFormat === "Album" ||
-        !formats.find((format) =>
-          FORMATS.rejectExceptIfAlbum.includes(format),
-        )) &&
-      !this.isEliminatoryFormatList(formats)
-    );
-  }
-
-  // Should we stop looking for other formats when we encounter this one?
-  private isEliminatoryFormatList(formats: string[]): boolean {
-    return !!formats.find((format) => FORMATS.eliminatory.includes(format));
+    return !formats.find((format) => FORMATS.reject.includes(format));
   }
 
   // Does one of the version has a valid format list?
@@ -77,7 +63,7 @@ export class Formats {
     if (!this.release.masterId) return false;
 
     this.logger.logWarning(
-      `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`,
+      `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`
     );
 
     for (const version of (await this.release.getVersions()).versions) {
@@ -98,10 +84,6 @@ export class Formats {
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
     this.logger.log(`💿 Format: ${this.printFormats(formats)}`);
-
-    if (this.isEliminatoryFormatList(formats)) {
-      return false;
-    }
 
     if (this.isValidFormatList(formats)) {
       return true;

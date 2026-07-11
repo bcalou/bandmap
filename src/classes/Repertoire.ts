@@ -84,7 +84,9 @@ export class Repertoire {
 
   // Get the list of tracks for the given release
   private getReleaseTracks(release: Release): DCTrack[] {
-    return release.tracklist.filter((track) => track.type_ === "track");
+    return release.tracklist.filter(
+      (track) => track.type_ === "track" || track.type_ === "index"
+    );
   }
 
   // Log a track details

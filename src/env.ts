@@ -4,9 +4,11 @@ export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
 export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;
 export const OPTION_SECONDARY_FORMATS_LOOKUP_ORDER = [
+  "Compilation",
+  "EP",
   "Maxi-Single",
   "Single",
-  "Compilation",
+  "Unknown",
 ];
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
@@ -18,24 +20,29 @@ export const ARTIST_RELEASE_ROLES = {
 };
 
 export const FORMATS = {
-  accept: ["Album", "EP", "Compilation", "Maxi-Single", "Single"],
+  main: ["Album", "EP", "Compilation", "Maxi-Single", "Single"],
   reject: [
     "Blu-ray",
     "Blu-ray-R",
+    "Box Set",
     "Cassette",
+    "CDr",
     "DVD",
     "DVDr",
     "DVD-Video",
+    "File",
+    "Flexi-disc",
     "Limited Edition",
     "Promo",
     "Reel-To-Reel",
+    "Reissue",
     "Remastered",
+    "Test Pressing",
     "Tour Recording",
+    "Transcription",
     "Unofficial Release",
     "VHS",
   ],
-  rejectExceptIfAlbum: ["File"],
-  eliminatory: ["Box Set"],
 };
 
 export const GENRES = {

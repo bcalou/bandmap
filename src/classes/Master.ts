@@ -65,9 +65,9 @@ export class Master {
     return null;
   }
 
-  // Reject if the master is non-music only
+  // Reject if the master contains non-music
   private heuristicRejectGenre(): RejectReason | null {
-    if (this.genres.every((genre) => GENRES.reject.includes(genre))) {
+    if (!!this.genres.find((genre) => GENRES.reject.includes(genre))) {
       return `Rejected genre(s): ${this.master.genres}`;
     }
 

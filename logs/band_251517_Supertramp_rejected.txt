@@ -8,10 +8,6 @@
 (https://www.discogs.com/master/750216)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned"
-(https://www.discogs.com/release/5707677)
-(Rejected format(s): Vinyl, 7", 45 RPM, Stereo)
-———————————————————————————————————————————————————————————————
 ❌ 1971 - Supertramp - "Forever / Your Poppa Don't Mind"
 (https://www.discogs.com/release/5835172)
 (Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo)
@@ -27,6 +23,10 @@
 ❌ 1971 - Various - "Come Together"
 (https://www.discogs.com/release/32833005)
 (Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned (Unknown)"
+(https://www.discogs.com/release/5707677-Supertramp-Your-Poppa-Dont-Mind-Rosie-Had-Everything-Planned)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Tony Klinger And Michael Lytton - "Extremes (Excerpts From The Soundtrack)"
 (https://www.discogs.com/master/3040961)
@@ -47,6 +47,10 @@
 ❌ 1974-11-01 - Supertramp - "Dreamer (Single)"
 (https://www.discogs.com/release/721754-Supertramp-Dreamer)
 (No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1975 - Supertramp / Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day"
+(https://www.discogs.com/release/32732025)
+(Rejected format(s): Vinyl, LP, Compilation, Transcription)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Various - "Hårete Låter"
 (https://www.discogs.com/release/3940791)
@@ -80,10 +84,6 @@
 (https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1975-03-00 - Supertramp, Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day (Compilation)"
-(https://www.discogs.com/release/32732025-Supertramp-Gil-Scott-Heron-Brian-Jackson-Crime-Of-The-CenturyMidnight-BandThe-First-Minute-Of-a-New-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp / Chris Hillman - "Rock Around The World #115"
 (https://www.discogs.com/release/34222591)
 (Rejected format(s): Vinyl, LP, Transcription, Stereo)
@@ -110,7 +110,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"
 (https://www.discogs.com/release/9133636)
-(Rejected format(s): Vinyl, LP, Transcription, Stereo)
+(Rejected genre(s): Rock,Non-Music,Pop)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Various - "Foreplay FPS#2: A&M's Pre-Release Sampler"
 (https://www.discogs.com/release/7501664)
@@ -232,21 +232,13 @@
 (https://www.discogs.com/release/6490637)
 (Rejected format(s): Vinyl, LP, Compilation, Limited Edition, Promo, Special Edition, Stereo)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Anita Ward / Supertramp - "Ring My Bell / The Logical Song"
-(https://www.discogs.com/release/7598284)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp / Chicago (2) - "Goodbye Stranger / Must Have Been Crazy"
-(https://www.discogs.com/release/8977422)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
-———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Super Mileage"
 (https://www.discogs.com/release/9801634)
 (Rejected format(s): Vinyl, LP, Compilation, Promo, Sampler, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp / Count Basie - "What's It All About?"
 (https://www.discogs.com/release/9896082)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription, Stereo)
+(Rejected genre(s): Jazz,Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Supertramp En España"
 (https://www.discogs.com/release/10033824)
@@ -255,10 +247,6 @@
 ❌ 1979 - Supertramp - "InnerView"
 (https://www.discogs.com/release/10943284)
 (Rejected genre(s): Non-Music)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp / Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll"
-(https://www.discogs.com/release/15409597)
-(Rejected format(s): Vinyl, 7")
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "Disco Disco / New Disco"
 (https://www.discogs.com/release/2010820)
@@ -396,9 +384,17 @@
 (https://www.discogs.com/release/13133010-Supertramp-Take-The-Long-Way-Home)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp / Francis Cabrel - "Dreamer / Questa Specie Di Poesia"
-(https://www.discogs.com/release/2673783)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
+❌ 1979 - Anita Ward, Supertramp - "Ring My Bell / The Logical Song (Unknown)"
+(https://www.discogs.com/release/7598284-Anita-Ward-Supertramp-Ring-My-Bell-The-Logical-Song)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp, Chicago (2) - "Goodbye Stranger / Must Have Been Crazy (Unknown)"
+(https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Must-Have-Been-Crazy)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp, Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll (Unknown)"
+(https://www.discogs.com/release/15409597-Supertramp-Atlantic-Starr-Even-In-The-Quietest-Moments-Lets-Rock-N-Roll)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Supertramp - "The Supertramp Special"
 (https://www.discogs.com/release/5885525)
@@ -476,9 +472,13 @@
 (https://www.discogs.com/release/1716252-Supertramp-Take-The-Long-Way-Home)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia (Unknown)"
+(https://www.discogs.com/release/2673783-Supertramp-Francis-Cabrel-Dreamer-Questa-Specie-Di-Poesia)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1981 - Mary Turner (4), Supertramp - "Off The Record Specials With Mary Turner"
 (https://www.discogs.com/release/10895032)
-(Rejected format(s): Vinyl, LP, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Supertramp - "The Robert W. Morgan Special Of The Week"
 (https://www.discogs.com/release/30679411)
@@ -534,15 +534,11 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Led Zeppelin / Supertramp - "What's It All About?"
 (https://www.discogs.com/release/5655381)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription, Stereo)
+(Rejected genre(s): Rock,Non-Music,Pop)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp / Michael Jackson - "My Kind Of Lady / Beat It"
 (https://www.discogs.com/release/6755653)
 (Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo)
-———————————————————————————————————————————————————————————————
-❌ 1982 - KC & The Sunshine Band / Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again"
-(https://www.discogs.com/release/6782259)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "B.B.C. Rock Hour #343"
 (https://www.discogs.com/release/21741367)
@@ -624,21 +620,21 @@
 (https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "Crazy (Single)"
-(https://www.discogs.com/release/999816-Supertramp-Crazy)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1982-10-22 - Supertramp - "It's Raining Again (Single)"
 (https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1982 - KC & The Sunshine Band, Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again (Unknown)"
+(https://www.discogs.com/release/6782259-KC-The-Sunshine-Band-Supertramp-You-Said-Youd-Gimme-Some-More-Its-Raining-Again)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1982 - Supertramp - "Crazy (Unknown)"
+(https://www.discogs.com/release/999816-Supertramp-Crazy)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Supertramp - "Supersampler"
 (https://www.discogs.com/release/2080727)
 (Rejected format(s): Vinyl, LP, Promo, Compilation)
-———————————————————————————————————————————————————————————————
-❌ 1983 - Ivano Fossati / Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady"
-(https://www.discogs.com/release/3632856)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Supertramp - "In Concert-309"
 (https://www.discogs.com/release/10969885)
@@ -716,12 +712,16 @@
 (https://www.discogs.com/release/36406591)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "School (Single)"
-(https://www.discogs.com/release/2210323-Supertramp-School)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1983-05-00 - Supertramp - "Don't Leave Me Now (Single)"
 (https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Ivano Fossati, Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady (Unknown)"
+(https://www.discogs.com/release/3632856-Ivano-Fossati-Supertramp-La-Musica-Che-Gira-Intorno-My-Kind-Of-Lady)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Supertramp - "School (Unknown)"
+(https://www.discogs.com/release/2210323-Supertramp-School)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Various - "Llena Tu Cabeza De Rock '84"
@@ -762,11 +762,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Mary Turner (4), Supertramp - "Off The Record Specials With Mary Turner"
 (https://www.discogs.com/release/29945065)
-(Rejected format(s): Vinyl, LP, Transcription)
-———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Brother Where You Bound "
-(https://www.discogs.com/master/1190630)
-(Rejected format(s): VHS, NTSC)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/master/2369530)
@@ -856,17 +852,21 @@
 (https://www.discogs.com/release/2774976-Supertramp-Better-Days)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1985-05-00 - Supertramp - "Cannonball (Single)"
+❌ 1985 - Supertramp - "Brother Where You Bound  (Unknown)"
+(https://www.discogs.com/release/20304460-Supertramp-Brother-Where-You-Bound-)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1985-05-00 - Supertramp - "Cannonball (Unknown)"
 (https://www.discogs.com/release/4106612-Supertramp-Cannonball)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1985-07-19 - Supertramp - "Still In Love / No Inbetween (Single)"
+❌ 1985-07-19 - Supertramp - "Still In Love / No Inbetween (Unknown)"
 (https://www.discogs.com/release/3648249-Supertramp-Still-In-Love-No-Inbetween)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "Westwood One Startrak Profile "
 (https://www.discogs.com/release/4593654)
-(Rejected format(s): Vinyl, LP, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "4 Tracks From "The Autobiography Of Supertramp""
 (https://www.discogs.com/release/4659773)
@@ -976,13 +976,9 @@
 (https://www.discogs.com/release/1065115-Supertramp-Free-As-A-Bird)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1987-11-21 - Supertramp - "I'm Beggin' You (Single)"
+❌ 1987-11-21 - Supertramp - "I'm Beggin' You (Unknown)"
 (https://www.discogs.com/release/882745-Supertramp-Im-Beggin-You)
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1988 - Supertramp - "Compact Hits"
-(https://www.discogs.com/release/4044912)
-(Rejected format(s): CD, Compilation, Limited Edition)
 ———————————————————————————————————————————————————————————————
 ❌ 1988 - Supertramp - "Breakfast In America (Live)"
 (https://www.discogs.com/release/5835953)
@@ -1092,6 +1088,10 @@
 (https://www.discogs.com/release/7228938-Supertramp-Its-Alright)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1988 - Supertramp - "Compact Hits (Compilation)"
+(https://www.discogs.com/release/4044912-Supertramp-Compact-Hits)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1989 - Various - "The Silver Collection"
 (https://www.discogs.com/release/4737152)
 (Rejected release role: TrackAppearance)
@@ -1144,10 +1144,6 @@
 (https://www.discogs.com/master/1028288)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Supertramp - "The Story So Far..."
-(https://www.discogs.com/master/258351)
-(Rejected format(s): VHS, Stereo, PAL)
-———————————————————————————————————————————————————————————————
 ❌ 1990 - Various - "BBC Classic Tracks "
 (https://www.discogs.com/release/2132404)
 (Rejected release role: TrackAppearance)
@@ -1190,6 +1186,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - Supertramp - "The Very Best Of Supertramp (Compilation)"
 (https://www.discogs.com/release/2558598-Supertramp-The-Very-Best-Of-Supertramp)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1990 - Supertramp - "The Story So Far... (Unknown)"
+(https://www.discogs.com/release/5941128-Supertramp-The-Story-So-Far)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Supertramp - "BBC Classic Tracks 91-43"
@@ -1388,10 +1388,6 @@
 (https://www.discogs.com/release/6719517)
 (Rejected format(s): CD, Promo, Sampler)
 ———————————————————————————————————————————————————————————————
-❌ 1997 - Paul McCartney / Supertramp - "Young Boy / You Win, I Lose"
-(https://www.discogs.com/release/8254595)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox)
-———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Some Things Never Change"
 (https://www.discogs.com/release/36378082)
 (Rejected format(s): CD, Advance, Maxi-Single, Promo)
@@ -1576,6 +1572,10 @@
 (https://www.discogs.com/release/2417257-Supertramp-You-Win-I-Lose)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1997 - Paul McCartney, Supertramp - "Young Boy / You Win, I Lose (Unknown)"
+(https://www.discogs.com/release/8254595-Paul-McCartney-Supertramp-Young-Boy-You-Win-I-Lose)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1998 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/release/36958794)
 (Rejected format(s): CDr, Transcription)
@@ -1610,7 +1610,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Supertramp - "In The Studio: Breakfast In America"
 (https://www.discogs.com/release/16535733)
-(Rejected format(s): CDr, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Various - "The Mojo Machine Turns You On (Let Mojo Take You There)"
 (https://www.discogs.com/release/3380745)
@@ -1894,11 +1894,11 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - Supertramp - "Inside Supertramp 1974-1978 (An Independent Critical Review)"
 (https://www.discogs.com/release/2130722)
-(Rejected format(s): DVD, DVD-Video, NTSC, Multichannel)
+(Rejected genre(s): Rock,Non-Music,Pop)
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - Supertramp - "Inside Supertramp 1974-1978 (An Independent Critical Review)"
 (https://www.discogs.com/release/14199507)
-(Rejected format(s): CD)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - Jean-François Guay - "New School"
 (https://www.discogs.com/release/1671365)

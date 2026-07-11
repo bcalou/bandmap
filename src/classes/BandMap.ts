@@ -42,7 +42,7 @@ export class BandMap {
 
     this.band.discography.sort();
 
-    this.band.discography.selectValidCandidates();
+    await this.band.discography.selectValidCandidates();
 
     this.band.discography.sort();
 

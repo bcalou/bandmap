@@ -1,94 +1,102 @@
-23 rejected release(s):
+25 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
-(https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special)
+❌ 2004 - The Dear Hunter - "Dear Ms. Leading"
+(https://www.discogs.com/release/2229811)
+(Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2007 - The Dear Hunter - "Random EP #1"
+(https://www.discogs.com/release/5913707)
+(Rejected format(s): CDr, EP, Limited Edition)
+———————————————————————————————————————————————————————————————
+❌ 2008 - The Dear Hunter - "Random EP #2"
+(https://www.discogs.com/release/7417928)
+(Rejected format(s): CDr, EP, Limited Edition)
+———————————————————————————————————————————————————————————————
+❌ 2008 - Various - "Soundwave 2008"
+(https://www.discogs.com/release/12208614)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2010 - The Dear Hunter - "The Branches EP"
+(https://www.discogs.com/release/28175119)
+(Rejected format(s): File, MP3, EP)
+———————————————————————————————————————————————————————————————
+❌ 2010-06-29 - The Dear Hunter - "Act I: The Lake South, The River North & Act II: The Meaning Of, And All Things Regarding Ms. Leading (Compilation)"
+(https://www.discogs.com/release/2281743-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Act-II-The-Meaning-Of-And-All-Things-Regarding-Ms-Le)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2005 - The Flower Kings - "Fanclub CD 2005 : Harvest"
-(https://www.discogs.com/release/4234020)
-(Rejected artist(s): The Flower Kings)
+❌ 2011 - The Dear Hunter - "Daytrotter Studio  11-3-2011"
+(https://www.discogs.com/release/24140507)
+(Rejected format(s): File, MP3)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - Various - "Music From Time And Space Vol. 18"
-(https://www.discogs.com/release/891435)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2006 - Various - "Empire Art Rock 77"
-(https://www.discogs.com/release/12896004)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2006 - Various - "Terra Incognita - Découvertes Volume 6"
-(https://www.discogs.com/release/15264119)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "Cinematic Sound Vol. 1"
-(https://www.discogs.com/release/1414229)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "Empire Art Rock 85"
-(https://www.discogs.com/release/1634495)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "Convention Prog Resiste 2008"
-(https://www.discogs.com/release/11013347)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "Prog Résiste 53 - Premier Contact"
-(https://www.discogs.com/release/11013367)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2009 - Øresund Space Collective, Darkwater (5), Moon Safari, John Randén & Synkopaterna - "Various - Slottsskogen Goes Progressive 2008"
-(https://www.discogs.com/release/7418394)
-(Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo)
-———————————————————————————————————————————————————————————————
-❌ 2009 - Various - "Mały Leksykon Wielkich Zespołów (15th Anniversary 3 CD Compilation Album)"
-(https://www.discogs.com/release/15504547)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2010 - Various - "Convention Prog Resiste 2010"
-(https://www.discogs.com/release/11021661)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2010 - Various - "Empire Art Rock 94"
-(https://www.discogs.com/release/12896384)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
-(https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade)
+❌ 2011-06-14 - The Dear Hunter - "The Color Spectrum (Unknown)"
+(https://www.discogs.com/release/3067005-The-Dear-Hunter-The-Color-Spectrum)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (EP)"
-(https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy)
+❌ 2012 - Various - "Promo Only Modern Rock Radio: February 2012"
+(https://www.discogs.com/release/19538188)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2013 - The Dear Hunter - "One Night Only - The Dear Hunter Presents The Color Spectrum Live"
+(https://www.discogs.com/release/5115756)
+(Rejected format(s): DVD, DVD-Video)
+———————————————————————————————————————————————————————————————
+❌ 2013 - The Dear Hunter - "Daytrotter Studio  5-2-2013"
+(https://www.discogs.com/release/24140468)
+(Rejected format(s): File, MP3)
+———————————————————————————————————————————————————————————————
+❌ 2013 - Various - "Songs For Justice"
+(https://www.discogs.com/release/5534284)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2013 - Various - "New Sounds 2013 Vol. 1"
+(https://www.discogs.com/release/6211150)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2013 - Various - "BMG Chrysalis Sampler - April 2013 "
+(https://www.discogs.com/release/20448082)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2015 - The Dear Hunter - "Wait"
+(https://www.discogs.com/release/11096094)
+(Rejected format(s): CD, Single, Promo)
+———————————————————————————————————————————————————————————————
+❌ 2015-03-03 - The Dear Hunter - "Live (Unknown)"
+(https://www.discogs.com/release/9182986-The-Dear-Hunter-Live)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2013 - Various - "P16: Arriving Somewhere... ...But Not Here"
-(https://www.discogs.com/release/4887836)
-(Rejected release role: TrackAppearance)
+❌ 2016 - The Dear Hunter - "Gloria"
+(https://www.discogs.com/release/11753584)
+(Rejected format(s): CDr, Single, Promo)
 ———————————————————————————————————————————————————————————————
-❌ 2014 - Various - "The Best Of... 2Days Prog+1 Veruno, September 6,7 & 8 2013"
-(https://www.discogs.com/release/5651684)
-(Rejected release role: TrackAppearance)
+❌ 2016 - The Dear Hunter - "Hymns With The Devil In Confessional"
+(https://www.discogs.com/release/32321916)
+(Rejected format(s): Flexi-disc, Promo)
 ———————————————————————————————————————————————————————————————
-❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
-(https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
+❌ 2017 - The Dear Hunter - "Act I, II & III"
+(https://www.discogs.com/release/10494541)
+(Rejected format(s): CD, Album, Compilation, Reissue)
+———————————————————————————————————————————————————————————————
+❌ 2019 - The Dear Hunter, Casey Crescenzo & Brian Adam McCune With The Awesöme Orchestra* - "The Acts"
+(https://www.discogs.com/release/14573279)
+(Rejected format(s): Box Set, Compilation, Limited Edition, Stereo, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, 12", 45 RPM, Album)
+———————————————————————————————————————————————————————————————
+❌ 2023-09-00 - The Dear Hunter - "Act I: The Lake South, The River North (Live From Seattle, WA) (Unknown)"
+(https://www.discogs.com/release/28393675-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Live-From-Seattle-WA)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
-(https://www.discogs.com/release/15123057)
-(Rejected format(s): CD, Compilation, Reissue, Stereo)
+❌ 2023-10-06 - The Dear Hunter - "Migrant Returned (Unknown)"
+(https://www.discogs.com/release/28505611-The-Dear-Hunter-Migrant-Returned)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2016 - The Syn - "Trustworks"
-(https://www.discogs.com/master/1078050)
-(Rejected artist(s): The Syn)
+❌ 2024-05-00 - The Dear Hunter - "Act II: The Meaning Of, & All Things Regarding Ms. Leading (Live From Seattle, WA) (Unknown)"
+(https://www.discogs.com/release/30616921-The-Dear-Hunter-Act-II-The-Meaning-Of-All-Things-Regarding-Ms-Leading-Live-From-Seattle-WA)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2024 - Various - "Empire Art Rock 154"
-(https://www.discogs.com/release/29524336)
-(Rejected release role: TrackAppearance)
+❌ 2025 - The Dear Hunter - "North American Tour 2023"
+(https://www.discogs.com/release/35057342)
+(Rejected format(s): Blu-ray)
 ———————————————————————————————————————————————————————————————
-❌ 2024 - Various - "The Art Of Sysyphus 128"
-(https://www.discogs.com/release/30147131)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2024 - Various - "PROG Presents: Discovering Summer's End Festival"
-(https://www.discogs.com/release/31678865)
-(Rejected release role: TrackAppearance)
+❌ 2025 - The Dear Hunter - "Ring 7 (8-bit Version)"
+(https://www.discogs.com/master/3821481)
+(Rejected format(s): Flexi-disc, 7")
 ———————————————————————————————————————————————————————————————

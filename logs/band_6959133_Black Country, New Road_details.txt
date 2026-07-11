@@ -68,13 +68,20 @@ Invalid format(s) (Vinyl, 7", Single, Limited Edition, Numbered) for "Athen's, F
 💿 Format: File, FLAC, Single
 🗃️ Analyzing version https://www.discogs.com/release/19991842
 💿 Format: Vinyl, 7", Single, Test Pressing, White Label
-⌛ 2019-03-08 - Black Country, New Road - "Athen's, France (Single)"
-(https://www.discogs.com/release/13318111-Black-Country-New-Road-Athens-France)
+❌ 2019 - Black Country, New Road - "Athen's, France"
+(https://www.discogs.com/master/1636364)
+Rejected format(s): Vinyl, 7", Single, Limited Edition, Numbered
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered) for "Sunglasses"
 🗃️ Looking at 7 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/16699332
 💿 Format: Vinyl, 7", 45 RPM, Single, Test Pressing
+🗃️ Analyzing version https://www.discogs.com/release/24841430
+💿 Format: File, AIFF, Single, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/14036680
+💿 Format: Cassette, Single, Limited Edition, Numbered
+🗃️ Analyzing version https://www.discogs.com/release/14338188
+💿 Format: Vinyl, 7", 45 RPM, Single, Repress
 ⌛ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
 (https://www.discogs.com/release/14003267-Black-Country-New-Road-Sunglasses)
 ———————————————————————————————————————————————————————————————
@@ -98,9 +105,10 @@ Rejected format(s): File, WAV, Single
 (https://www.discogs.com/release/19296817)
 Rejected format(s): File, WAV, Single
 ———————————————————————————————————————————————————————————————
-❌ 2021 - s t a r g a z e* / Black Country, New Road / Loney, Dear / All The Luck In The World - "Now The Villages Are Talking To Europe."
-(https://www.discogs.com/release/19616953)
-Rejected format(s): Vinyl, LP
+🗓️ Imprecise date (2021) for "Now The Villages Are Talking To Europe."
+🗓️ No better date found
+⌛ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+(https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
 ———————————————————————————————————————————————————————————————
 ❌ 2021 - Black Country, New Road - "Never Again"
 (https://www.discogs.com/release/21147799)
@@ -131,6 +139,12 @@ Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
 ⌛ 2022-02-04 - Black Country, New Road - "Ants From Up There"
 (https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There)
 ———————————————————————————————————————————————————————————————
+Invalid format(s) (File, MP3, Album) for "Live At Bush Hall"
+🗃️ Looking at 3 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/26940023
+💿 Format: Vinyl, LP, Album, Limited Edition
+🗃️ Analyzing version https://www.discogs.com/release/26890124
+💿 Format: Vinyl, LP, Album
 ⌛ 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
 (https://www.discogs.com/release/26523116-Black-Country-New-Road-Live-At-Bush-Hall)
 ———————————————————————————————————————————————————————————————
@@ -229,17 +243,21 @@ Rejected release role: UnofficialRelease
 💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
 (https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong)
 ———————————————————————————————————————————————————————————————
+Looking for valid candidates for "EP" format
+———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Maxi-Single" format
 ———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Single" format
-❌ 2019-03-08 - Black Country, New Road - "Athen's, France (Single)"
-(https://www.discogs.com/release/13318111-Black-Country-New-Road-Athens-France)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
 (https://www.discogs.com/release/14003267-Black-Country-New-Road-Sunglasses)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————————————
 Looking for valid candidates for "Compilation" format
+———————————————————————————————————————————————————————————————
+Looking for valid candidates for "Unknown" format
+❌ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+(https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
+No new tracks
+———————————————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————————————

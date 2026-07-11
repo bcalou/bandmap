@@ -1,7 +1,11 @@
-41 rejected release(s):
+42 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Haken (2) - "Haken"
 (https://www.discogs.com/release/15000061)
+(Rejected format(s): CDr)
+———————————————————————————————————————————————————————————————
+❌ 2008 - Haken (2) - "Enter The 5th Dimension"
+(https://www.discogs.com/master/1706323)
 (Rejected format(s): CDr)
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Various - "Classic Rock Presents PROG: Prognosis 2"

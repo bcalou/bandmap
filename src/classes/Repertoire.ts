@@ -57,9 +57,9 @@ export class Repertoire {
       .forEach(this.logTrack.bind(this));
   }
 
-  // Does the given release contain tracks that are not in the repertoire yet?
-  public hasUnregisteredTracks(release: Release): boolean {
-    return !!this.getReleaseTracks(release).find(
+  // Count how many tracks are not registered in this release
+  public getUnregisteredTracksCount(release: Release) {
+    return this.getReleaseTracks(release).filter(
       (track) =>
         // Ignore track not written by the artist
         !track.artists?.every(
@@ -68,7 +68,7 @@ export class Repertoire {
         // Ignore track containing an equal (translation title)
         track.title.indexOf(" = ") === -1 &&
         this.trackIsUnregistered(track)
-    );
+    ).length;
   }
 
   // Try to find the given track inside the repertoire

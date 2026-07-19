@@ -105,9 +105,7 @@ export class Release {
     const artists = this.formattedArtists;
     const date = this.releaseDate.formattedDate;
     const format =
-      this.formats.getMainFormat() === "Album"
-        ? ""
-        : ` (${this.formats.getMainFormat()})`;
+      this.getMainFormat() === "Album" ? "" : ` (${this.getMainFormat()})`;
     return `${date} - ${artists} - "${this.title}${format}"\n(${this.url})`;
   }
 
@@ -161,9 +159,9 @@ export class Release {
     return this.credits.extractCredits();
   }
 
-  // Is the release of the given format?
-  public isMainFormat(format: string): boolean {
-    return this.formats.getMainFormat() === format;
+  // Get the main format for this release
+  public getMainFormat() {
+    return this.formats.getMainFormat();
   }
 
   // Extract the precise date for this release

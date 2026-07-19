@@ -105,8 +105,6 @@ Rejected format(s): File, WAV, Single
 (https://www.discogs.com/release/19296817)
 Rejected format(s): File, WAV, Single
 ———————————————————————————————————————————————————————————————
-🗓️ Imprecise date (2021) for "Now The Villages Are Talking To Europe."
-🗓️ No better date found
 ⌛ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
 (https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
 ———————————————————————————————————————————————————————————————
@@ -129,14 +127,14 @@ Rejected format(s): File, WAV, Single
 🗃️ Analyzing version https://www.discogs.com/release/17250961
 🗓️ Release date: 2021-02-05
 Found better release date: 2021-02-05
-⌛ 2021-02-05 - Black Country, New Road - "For The First Time"
+💿 2021-02-05 - Black Country, New Road - "For The First Time"
 (https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time)
 ———————————————————————————————————————————————————————————————
 ❌ 2022 - Black Country, New Road - "Never Again Part 2"
 (https://www.discogs.com/release/25182631)
 Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
 ———————————————————————————————————————————————————————————————
-⌛ 2022-02-04 - Black Country, New Road - "Ants From Up There"
+💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
 (https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There)
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (File, MP3, Album) for "Live At Bush Hall"
@@ -145,14 +143,14 @@ Invalid format(s) (File, MP3, Album) for "Live At Bush Hall"
 💿 Format: Vinyl, LP, Album, Limited Edition
 🗃️ Analyzing version https://www.discogs.com/release/26890124
 💿 Format: Vinyl, LP, Album
-⌛ 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
+💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
 (https://www.discogs.com/release/26523116-Black-Country-New-Road-Live-At-Bush-Hall)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Black Country, New Road - "Forever Howlong Demos: Live At The Cornish Bank"
 (https://www.discogs.com/release/35664514)
 Rejected format(s): Vinyl, LP, 45 RPM, EP, Limited Edition
 ———————————————————————————————————————————————————————————————
-⌛ 2025-04-04 - Black Country, New Road - "Forever Howlong"
+💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
 (https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - The Wedding Present - "Marc Riley Sessions Volume 5"
@@ -231,33 +229,11 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/2163559)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-💿 2021-02-05 - Black Country, New Road - "For The First Time"
-(https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time)
-———————————————————————————————————————————————————————————————
-💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
-(https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There)
-———————————————————————————————————————————————————————————————
-💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
-(https://www.discogs.com/release/26523116-Black-Country-New-Road-Live-At-Bush-Hall)
-———————————————————————————————————————————————————————————————
-💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
-(https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong)
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "EP" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Maxi-Single" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Single" format
 ❌ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
 (https://www.discogs.com/release/14003267-Black-Country-New-Road-Sunglasses)
 No new tracks
 ———————————————————————————————————————————————————————————————
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Compilation" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Unknown" format
 ❌ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
 (https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
 No new tracks
-———————————————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————————————

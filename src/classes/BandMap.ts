@@ -42,7 +42,7 @@ export class BandMap {
 
     this.band.discography.sort();
 
-    await this.band.discography.selectValidCandidates();
+    await this.band.discography.selectCandidatesWithMostUnregisteredTracks();
 
     this.band.discography.sort();
 

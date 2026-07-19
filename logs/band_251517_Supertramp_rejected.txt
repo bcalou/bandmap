@@ -1,5 +1,9 @@
 828 rejected release(s):
 ———————————————————————————————————————————————————————————————
+❌ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
+(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
 (https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
 (No new tracks)
@@ -36,12 +40,16 @@
 (https://www.discogs.com/master/2680901)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Bloody Well Right (Single)"
-(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
+❌ 1974 - Supertramp - "Land Ho / Summer Romance (Single)"
+(https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-03-01 - Supertramp - "Land Ho  (Single)"
 (https://www.discogs.com/release/3402272-Supertramp-Land-Ho-)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1974 - Supertramp - "Bloody Well Right (Single)"
+(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-11-01 - Supertramp - "Dreamer (Single)"
@@ -188,7 +196,7 @@
 (https://www.discogs.com/release/3347037-Supertramp-Dreamer)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977-05-00 - Supertramp - "Give A Little Bit (Single)"
+❌ 1977 - Supertramp - "Give A Little Bit (Single)"
 (https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -216,7 +224,7 @@
 (https://www.discogs.com/master/2166244)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Supertramp - "4 Sucessos (EP)"
+❌ 1978 - Supertramp - "4 Sucessos (Compilation)"
 (https://www.discogs.com/release/4282303-Supertramp-4-Sucessos)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -356,7 +364,7 @@
 (https://www.discogs.com/master/3721833)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song / Breakfast In America (EP)"
+❌ 1979 - Supertramp - "The Logical Song / Breakfast In America (Compilation)"
 (https://www.discogs.com/release/5368146-Supertramp-The-Logical-Song-Breakfast-In-America)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -368,16 +376,16 @@
 (https://www.discogs.com/release/12138792-Supertramp-The-Logical-Song-Goodbye-Stranger)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-01-21 - Supertramp - "Goodbye Stranger (Single)"
+❌ 1979 - Supertramp - "Goodbye Stranger (Single)"
 (https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-03-00 - Supertramp - "The Logical Song (Single)"
-(https://www.discogs.com/release/444840-Supertramp-The-Logical-Song)
+❌ 1979 - Supertramp - "Breakfast In America (Single)"
+(https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-07-25 - Supertramp - "Breakfast In America (Single)"
-(https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America)
+❌ 1979 - Supertramp - "The Logical Song (Single)"
+(https://www.discogs.com/release/444840-Supertramp-The-Logical-Song)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1979-10-00 - Supertramp - "Take The Long Way Home (Single)"
@@ -456,7 +464,7 @@
 (https://www.discogs.com/master/1374677)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home (EP)"
+❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home (Compilation)"
 (https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -616,11 +624,7 @@
 (https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "Dreamer / Give A Little Bit  (Single)"
-(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1982-10-22 - Supertramp - "It's Raining Again (Single)"
+❌ 1982 - Supertramp - "It's Raining Again (Single)"
 (https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -712,7 +716,7 @@
 (https://www.discogs.com/release/36406591)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1983-05-00 - Supertramp - "Don't Leave Me Now (Single)"
+❌ 1983 - Supertramp - "Don't Leave Me Now (Single)"
 (https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -848,7 +852,7 @@
 (https://www.discogs.com/release/32545968)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1985-07-00 - Supertramp - "Better Days (Maxi-Single)"
+❌ 1985 - Supertramp - "Better Days (Maxi-Single)"
 (https://www.discogs.com/release/2774976-Supertramp-Better-Days)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -856,7 +860,7 @@
 (https://www.discogs.com/release/20304460-Supertramp-Brother-Where-You-Bound-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1985-05-00 - Supertramp - "Cannonball (Unknown)"
+❌ 1985 - Supertramp - "Cannonball (Unknown)"
 (https://www.discogs.com/release/4106612-Supertramp-Cannonball)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -904,7 +908,7 @@
 (https://www.discogs.com/master/847277)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1986-10-21 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
+❌ 1986 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
 (https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -976,9 +980,13 @@
 (https://www.discogs.com/release/1065115-Supertramp-Free-As-A-Bird)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1987-11-21 - Supertramp - "I'm Beggin' You (Unknown)"
+❌ 1987 - Supertramp - "I'm Beggin' You (Unknown)"
 (https://www.discogs.com/release/882745-Supertramp-Im-Beggin-You)
 (No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1988 - Supertramp - "Compact Hits"
+(https://www.discogs.com/release/4044912)
+(Rejected format(s): CD, Compilation, Limited Edition)
 ———————————————————————————————————————————————————————————————
 ❌ 1988 - Supertramp - "Breakfast In America (Live)"
 (https://www.discogs.com/release/5835953)
@@ -1086,10 +1094,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1988 - Supertramp - "It's Alright (Single)"
 (https://www.discogs.com/release/7228938-Supertramp-Its-Alright)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1988 - Supertramp - "Compact Hits (Compilation)"
-(https://www.discogs.com/release/4044912-Supertramp-Compact-Hits)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1989 - Various - "The Silver Collection"
@@ -2123,10 +2127,6 @@
 ❌ 2005 - Various - "Легенды Poka Volume 8 (Art Rock)"
 (https://www.discogs.com/release/13452829)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology) (Compilation)"
-(https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Various - "Chill Out Sessions Vol. 4"
 (https://www.discogs.com/release/794443)

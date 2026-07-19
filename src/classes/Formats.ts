@@ -1,4 +1,4 @@
-import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
+import { DISCOGS_RELEASE_URL, FORMATS, OPTION_FORMATS_PRIORITY } from "../env";
 import { DCVersion, RejectReason } from "../types";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -53,7 +53,9 @@ export class Formats {
   // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: string[]): boolean {
     this.mainFormat =
-      formats.find((format) => FORMATS.main.includes(format)) ?? "Unknown";
+      FORMATS.mainSortedByConsiderationOrder.find((format) =>
+        formats.includes(format)
+      ) ?? "Unknown";
 
     return !formats.find((format) => FORMATS.reject.includes(format));
   }

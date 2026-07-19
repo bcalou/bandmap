@@ -317,22 +317,18 @@ Rejected release role: UnofficialRelease
 ↷ "unknown date - echolyn - "echolyn"
 (https://www.discogs.com/master/471034)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Compilation" format
+Looking for candidates with unregistered tracks
+Found candidate with 6 unregistered track(s)
 🗓️ Imprecise date (2002) for "A Little Nonsense: Now And Then"
 🗓️ No better date found
 💿 2002 - echolyn - "A Little Nonsense: Now And Then (Compilation)"
 (https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then)
 ———————————————————————————————————————————————————————————————
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "EP" format
+Looking for candidates with unregistered tracks
+Found candidate with 0 unregistered track(s)
 ❌ 1993 - echolyn - "...And Every Blossom (EP)"
 (https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Maxi-Single" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Single" format
-———————————————————————————————————————————————————————————————
-Looking for valid candidates for "Unknown" format
 ———————————————————————————————————————————————————————————————

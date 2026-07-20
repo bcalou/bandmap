@@ -54,6 +54,7 @@ export const FORMATS = {
     "DVDr",
     "Edison Disc",
     "Elcaset",
+    "Enhanced",
     "File",
     "Film Reel",
     "Flexi-disc",
@@ -121,3 +122,5 @@ export const ROLES = {
     "Written By",
   ],
 };
+
+export const IGNORE_TITLE_ENDINGS = ["Edit", "Version", "Untitled"];

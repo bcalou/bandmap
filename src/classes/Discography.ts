@@ -1,5 +1,5 @@
 import { FORMATS, OPTION_FORMATS_PRIORITY } from "../env";
-import { RejectReason } from "../types";
+import { DCTrack, RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
@@ -10,8 +10,8 @@ import { Repertoire } from "./Repertoire";
 export type CandidateRelease = {
   // The release object
   release: Release;
-  // The number of tracks that are not included yet in the repertoire
-  unregisteredTracksCount?: number | undefined;
+  // The tracks that are not included yet in the repertoire
+  unregisteredTracks?: DCTrack[] | undefined;
 };
 
 /**
@@ -105,23 +105,22 @@ export class Discography {
     this.logger.logInfo("Looking for candidates with unregistered tracks");
     this.countUnregisteredTracksInCandidatesReleases();
 
-    const trackCount = this.candidates[0].unregisteredTracksCount ?? 0;
-    if (trackCount > 0) {
+    const unregisteredTracks = this.candidates[0].unregisteredTracks ?? [];
+    if (unregisteredTracks.length > 0) {
       await this.selectCandidate(this.candidates[0], true);
       await this.selectCandidatesWithMostUnregisteredTracks();
     } else {
       this.rejectRemainingCandidates();
     }
-
-    this.logger.logSeparator();
   }
 
   // For each candidate release, count how many tracks are not registered yet
   private countUnregisteredTracksInCandidatesReleases() {
     this.candidates.forEach(
       (candidate) =>
-        (candidate.unregisteredTracksCount =
-          this.repertoire.getUnregisteredTracksCount(candidate.release))
+        (candidate.unregisteredTracks = this.repertoire.getUnregisteredTracks(
+          candidate.release
+        ))
     );
 
     this.candidates.sort(this.sortCandidateReleases);
@@ -133,15 +132,16 @@ export class Discography {
     release1: CandidateRelease,
     release2: CandidateRelease
   ) {
-    return release1.unregisteredTracksCount === release2.unregisteredTracksCount
+    return release1.unregisteredTracks?.length ===
+      release2.unregisteredTracks?.length
       ? FORMATS.mainSortedByConsiderationOrder.indexOf(
           release1.release.getMainFormat() ?? ""
         ) -
           FORMATS.mainSortedByConsiderationOrder.indexOf(
             release2.release.getMainFormat() ?? ""
           )
-      : (release2.unregisteredTracksCount ?? 0) -
-          (release1.unregisteredTracksCount ?? 0);
+      : (release2.unregisteredTracks?.length ?? 0) -
+          (release1.unregisteredTracks?.length ?? 0);
   }
 
   // Move a release from the candidate list to the accepted or reject list
@@ -149,14 +149,11 @@ export class Discography {
     candidate: CandidateRelease,
     accepted: boolean
   ) {
-    const tracks = candidate.unregisteredTracksCount;
-    this.logger.logInfo(`Found candidate with ${tracks} unregistered track(s)`);
-
-    this.candidates = this.candidates.filter(
-      (_candidate) => _candidate.release.id !== candidate.release.id
-    );
-
     if (accepted) {
+      this.logCandidateUnregisteredTracks(candidate);
+      this.candidates = this.candidates.filter(
+        (_candidate) => _candidate.release.id !== candidate.release.id
+      );
       await this.addAccepted(candidate.release);
     } else {
       this.addRejected(candidate.release, "No new tracks");
@@ -168,6 +165,16 @@ export class Discography {
     for (const candidateRelease of this.candidates) {
       this.selectCandidate(candidateRelease, false);
     }
+  }
+
+  // Log infos about a candidate unregistered tracks
+  private logCandidateUnregisteredTracks(candidate: CandidateRelease) {
+    const count = candidate.unregisteredTracks?.length;
+    this.logger.logInfo(`Found candidate with ${count} unregistered track(s):`);
+
+    candidate.unregisteredTracks?.forEach((track) =>
+      this.logger.logInfo(`🎵 ${track.title}`)
+    );
   }
 
   // Sort releases by release date

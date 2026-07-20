@@ -1,4 +1,7 @@
-import { OPTION_TITLE_SIMILARITY_THRESHOLD } from "../env";
+import {
+  IGNORE_TITLE_ENDINGS,
+  OPTION_TITLE_SIMILARITY_THRESHOLD,
+} from "../env";
 import { DCTrack } from "../types";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
@@ -58,17 +61,19 @@ export class Repertoire {
   }
 
   // Count how many tracks are not registered in this release
-  public getUnregisteredTracksCount(release: Release) {
+  public getUnregisteredTracks(release: Release): DCTrack[] {
     return this.getReleaseTracks(release).filter(
       (track) =>
         // Ignore track not written by the artist
-        !track.artists?.every(
-          (artist) => !this.band.isArtistConnectedToBand(artist.id)
-        ) &&
+        !track.artists?.every((artist) => this.band.id !== artist.id) &&
         // Ignore track containing an equal (translation title)
         track.title.indexOf(" = ") === -1 &&
+        // Ignore specific title ending such as "edit" or "version"
+        !IGNORE_TITLE_ENDINGS.find((ending) =>
+          track.title.toLowerCase().endsWith(ending.toLowerCase())
+        ) &&
         this.trackIsUnregistered(track)
-    ).length;
+    );
   }
 
   // Try to find the given track inside the repertoire
@@ -85,7 +90,12 @@ export class Repertoire {
   // Get the list of tracks for the given release
   private getReleaseTracks(release: Release): DCTrack[] {
     return release.tracklist.filter(
-      (track) => track.type_ === "track" || track.type_ === "index"
+      (track, index) =>
+        !track.position.charAt(-1).match(/[a-z]/i) &&
+        (track.type_ === "track" ||
+          track.type_ === "index" ||
+          (track.type_ === "heading" &&
+            release.tracklist[index + 1].position.charAt(-1).match(/[a-z]/i)))
     );
   }
 
@@ -99,6 +109,19 @@ export class Repertoire {
       `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
     );
     this.logger.logSeparator();
+  }
+
+  // Get the actual title of the track (or main track if subtrack)
+  private getTrackTitle(track: DCTrack, release: Release) {
+    if (track.title.charAt(-1).match(/[a-z]/i)) {
+      for (let i = release.tracklist.indexOf(track); i >= 0; i--) {
+        if (track.type_ === "heading") {
+          return track.title;
+        }
+      }
+    }
+
+    return track.title;
   }
 
   // Are the two track title similar enough to consider that they're the same?

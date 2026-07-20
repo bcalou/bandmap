@@ -1,4 +1,8 @@
-2363 rejected release(s):
+2375 rejected release(s):
+———————————————————————————————————————————————————————————————
+❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Best Of (Compilation)"
 (https://www.discogs.com/release/12691834-Yes-Best-Of)
@@ -656,6 +660,10 @@
 (https://www.discogs.com/release/35837761)
 (Rejected format(s): Vinyl, LP, Transcription)
 ———————————————————————————————————————————————————————————————
+❌ 1984 - Yes - "Yessongs"
+(https://www.discogs.com/master/555721)
+(Rejected format(s): VHS, Stereo, NTSC)
+———————————————————————————————————————————————————————————————
 ❌ 1984 - Yes - "Twelve Inches On Tape (Leave It / Owner Of A Lonely Heart)"
 (https://www.discogs.com/master/519936)
 (Rejected format(s): Cassette, Compilation)
@@ -900,6 +908,14 @@
 (https://www.discogs.com/release/9861416)
 (Rejected format(s): Vinyl, LP, Transcription, Vinyl, LP, Single Sided, Transcription, Stereo)
 ———————————————————————————————————————————————————————————————
+❌ 1985 - Yes - "Hold On"
+(https://www.discogs.com/master/3381865)
+(Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo)
+———————————————————————————————————————————————————————————————
+❌ 1985 - Yes - "9012Live"
+(https://www.discogs.com/master/431488)
+(Rejected format(s): VHS, Stereo, PAL)
+———————————————————————————————————————————————————————————————
 ❌ 1985 - Various - "Superstars In Digital"
 (https://www.discogs.com/release/6863969)
 (Rejected release role: TrackAppearance)
@@ -954,10 +970,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Yes - "Owner Of A Lonely Heart / Leave It (Single)"
 (https://www.discogs.com/release/1588785-Yes-Owner-Of-A-Lonely-Heart-Leave-It)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1985-10-00 - Yes - "Hold On (Unknown)"
-(https://www.discogs.com/release/2169516-Yes-Hold-On)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Yes - "Pioneers In Music Starring Yes"
@@ -1512,6 +1524,10 @@
 (https://www.discogs.com/master/1102579)
 (Rejected format(s): CD, Compilation, Promo, Sampler)
 ———————————————————————————————————————————————————————————————
+❌ 1991 - Yes - "Greatest Video Hits"
+(https://www.discogs.com/master/431489)
+(Rejected format(s): VHS, PAL)
+———————————————————————————————————————————————————————————————
 ❌ 1991 - Yes - "Yesyears"
 (https://www.discogs.com/master/431490)
 (Rejected genre(s): Rock,Non-Music)
@@ -1824,6 +1840,10 @@
 (https://www.discogs.com/release/28021107)
 (Rejected format(s): CD, Promo, Transcription)
 ———————————————————————————————————————————————————————————————
+❌ 1993 - Yes - "Live 1975 At Q.P.R."
+(https://www.discogs.com/master/1150112)
+(Rejected format(s): Laserdisc, 12", Mono, NTSC)
+———————————————————————————————————————————————————————————————
 ❌ 1993 - Various - "Hardrock Heroes"
 (https://www.discogs.com/release/9023096)
 (Rejected release role: TrackAppearance)
@@ -1916,13 +1936,13 @@
 (https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1993-02-25 - Yes - "Live 1975 At Q.P.R. (Unknown)"
-(https://www.discogs.com/release/4896894-Yes-Live-1975-At-QPR)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1994 - Yes - "State Of Play"
 (https://www.discogs.com/release/3832894)
 (Rejected format(s): CD, Single, Promo)
+———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "Yes Active"
+(https://www.discogs.com/release/3921837)
+(Rejected format(s): CD, Enhanced)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - Yes - "Yesstory Memorial Day Special"
 (https://www.discogs.com/release/16175249)
@@ -2236,6 +2256,10 @@
 (https://www.discogs.com/release/10866676)
 (Rejected format(s): CD, Single, Promo)
 ———————————————————————————————————————————————————————————————
+❌ 1996 - Yes - "Keys To Ascension"
+(https://www.discogs.com/master/431492)
+(Rejected format(s): VHS, PAL)
+———————————————————————————————————————————————————————————————
 ❌ 1996 - Various - "Supernatural Fairy Tales (The Progressive Rock Era)"
 (https://www.discogs.com/master/1938144)
 (Rejected artist(s): Various)
@@ -2371,10 +2395,6 @@
 ❌ 1996 - Yes - "Lost Yes Years"
 (https://www.discogs.com/release/5610437)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1996 - Yes - "Keys To Ascension (Unknown)"
-(https://www.discogs.com/release/3358093-Yes-Keys-To-Ascension)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "Highlights: The Very Best Of Yes"
 (https://www.discogs.com/release/37358832)
@@ -2952,6 +2972,10 @@
 (https://www.discogs.com/master/2287186)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
+(https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "If Only You Knew"
 (https://www.discogs.com/release/4981957)
 (Rejected format(s): CD, Single, Promo)
@@ -2971,6 +2995,10 @@
 ❌ 1999 - Yes - "Homeworld (The Ladder)"
 (https://www.discogs.com/master/4237746)
 (Rejected format(s): CD, Single, Promo)
+———————————————————————————————————————————————————————————————
+❌ 1999 - Yes - "The Union Tour Live"
+(https://www.discogs.com/master/415666)
+(Rejected format(s): Laserdisc, 12", NTSC)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Various - "Listen To The Music"
 (https://www.discogs.com/release/669090)
@@ -3296,10 +3324,6 @@
 (https://www.discogs.com/release/4862479-Yes-The-Best-Of-Yes-1970-1987)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1999 - Yes - "The Union Tour Live (Unknown)"
-(https://www.discogs.com/release/5015443-Yes-The-Union-Tour-Live)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2000 - Yes - "The Masterworks (Your Title)"
 (https://www.discogs.com/master/1174695)
 (Rejected format(s): CDr, Compilation, Limited Edition, Promo)
@@ -3551,6 +3575,10 @@
 ❌ 2000 - Yes - "Drama / Big Generator"
 (https://www.discogs.com/master/1130337)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two) (Compilation)"
+(https://www.discogs.com/release/1607856-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives-Volume-Two)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Yes - "Popular Selections From "Magnification" And "House Of Yes: Live From House Of Blues""
 (https://www.discogs.com/release/3332995)
@@ -4048,6 +4076,10 @@
 (https://www.discogs.com/release/5153523-Yes-Yes-today)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2002 - Yes, Guests - "Essential Elements (Compilation)"
+(https://www.discogs.com/release/1917495-Yes-And-Friends-Essential-Elements)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2002 - Yes - "Extended Versions: The Encore Collection (Compilation)"
 (https://www.discogs.com/release/4631578-Yes-Extended-Versions-The-Encore-Collection)
 (No new tracks)
@@ -4302,6 +4334,14 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - Yes - "Roundabout - The Best Of Yes Live (Compilation)"
 (https://www.discogs.com/release/2080268-Yes-Roundabout-The-Best-Of-Yes-Live)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2003 - Yes - "The Yes Story (Compilation)"
+(https://www.discogs.com/release/2058596-Yes-The-Yes-Story)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2003 - Yes, Friends Of Yes - "Yes + Friends (Compilation)"
+(https://www.discogs.com/release/2321524-Yes-Friends-Yes-Friends)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection (Compilation)"
@@ -4568,12 +4608,12 @@
 (https://www.discogs.com/master/2286988)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics) (Compilation)"
-(https://www.discogs.com/release/14865771-Yes-Topography-The-Yes-Anthology-Studio-Live-Solo-Classics)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2004 - Yes, Jon Anderson, Chris Squire, Steve Howe, Alan White - "The Collection (Compilation)"
 (https://www.discogs.com/release/1530417-Yes-Featuring-Jon-Anderson-Chris-Squire-Steve-Howe-And-Alan-White-The-Collection)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics) (Compilation)"
+(https://www.discogs.com/release/14865771-Yes-Topography-The-Yes-Anthology-Studio-Live-Solo-Classics)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2004 - Yes - "(Re)Union (Compilation)"
@@ -5480,12 +5520,12 @@
 (https://www.discogs.com/master/2287429)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
-(https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes - "The Definitive Rock Collection"
@@ -5792,12 +5832,12 @@
 (https://www.discogs.com/master/2283157)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
-(https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
 (https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
@@ -6111,6 +6151,10 @@
 ❌ 2009 - Yes - "European Tour 2009. Edinburgh - November 19 2009 "
 (https://www.discogs.com/release/15343841)
 (Rejected format(s): Memory Stick, MP3, Transcription)
+———————————————————————————————————————————————————————————————
+❌ 2009 - Yes - "Live in Heerhugowaard"
+(https://www.discogs.com/release/22226941)
+(Rejected format(s): Memory Stick, MP3)
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Maurizio Rolli Big Band - "'Rolli's Tones'"
 (https://www.discogs.com/release/35929384)
@@ -6903,6 +6947,10 @@
 ❌ 2012 - Yes - "Shining & Flying"
 (https://www.discogs.com/master/2285359)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
+(https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Yes - "High Vibration - SACD Box"
 (https://www.discogs.com/release/4960370)

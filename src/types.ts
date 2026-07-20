@@ -91,6 +91,7 @@ export const DCExtraArtist = z.object({
 
 export type DCTrack = z.infer<typeof DCTrack>;
 export const DCTrack = z.object({
+  position: z.string(),
   title: z.string(),
   type_: z.string(),
   extraartists: z.array(DCExtraArtist).optional(),

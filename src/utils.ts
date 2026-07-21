@@ -27,3 +27,10 @@ export function stringsAreSimilar(string1: string, string2: string): boolean {
     OPTION_TITLE_SIMILARITY_THRESHOLD
   );
 }
+
+// Split a complexe string into several parts
+// "Track title - some details (other details)"
+// -> ["Track title", "some details", "other details"]
+export function getStringParts(string: string) {
+  return string.split(/[-()]+/);
+}

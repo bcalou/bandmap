@@ -3,6 +3,7 @@ import {
   OPTION_TITLE_SIMILARITY_THRESHOLD,
 } from "../env";
 import { DCTrack } from "../types";
+import { normalize, removeDetails } from "../utils";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -14,6 +15,8 @@ type Track = {
   title: string;
   // The variation of the title found in other releases
   variations: string[];
+  // The different sections of the track, if any
+  subTracks: string[];
   // The releases in which the track has been found
   releases: Release[];
 };
@@ -57,22 +60,16 @@ export class Repertoire {
     this.logger.logSeparator();
     this.tracks
       .sort((track1, track2) => track1.title.localeCompare(track2.title))
-      .forEach(this.logTrack.bind(this));
+      .forEach((track) => {
+        this.logTrack(track);
+        this.logger.logSeparator();
+      });
   }
 
   // Count how many tracks are not registered in this release
   public getUnregisteredTracks(release: Release): DCTrack[] {
-    return this.getReleaseTracks(release).filter(
-      (track) =>
-        // Ignore track not written by the artist
-        !track.artists?.every((artist) => this.band.id !== artist.id) &&
-        // Ignore track containing an equal (translation title)
-        track.title.indexOf(" = ") === -1 &&
-        // Ignore specific title ending such as "edit" or "version"
-        !IGNORE_TITLE_ENDINGS.find((ending) =>
-          track.title.toLowerCase().endsWith(ending.toLowerCase())
-        ) &&
-        this.trackIsUnregistered(track)
+    return this.getReleaseTracks(release).filter((track) =>
+      this.trackIsUnregistered(track)
     );
   }
 
@@ -81,6 +78,9 @@ export class Repertoire {
     return this.tracks.every(
       (_track) =>
         !this.areSimilarTrackNames(track.title, _track.title) &&
+        !_track.subTracks.find((subtrack) =>
+          this.areSimilarTrackNames(track.title, subtrack)
+        ) &&
         !_track.variations.find((variation) =>
           this.areSimilarTrackNames(track.title, variation)
         )
@@ -92,10 +92,29 @@ export class Repertoire {
     return release.tracklist.filter(
       (track, index) =>
         !track.position.charAt(-1).match(/[a-z]/i) &&
-        (track.type_ === "track" ||
-          track.type_ === "index" ||
-          (track.type_ === "heading" &&
-            release.tracklist[index + 1].position.charAt(-1).match(/[a-z]/i)))
+        this.isValidTrackType(track, index, release) &&
+        // Ignore track not written by the artist
+        !track.artists?.every((artist) => this.band.id !== artist.id) &&
+        // Ignore track containing an equal (translation title)
+        track.title.indexOf(" = ") === -1 &&
+        // Ignore specific title ending such as "edit" or "version"
+        !IGNORE_TITLE_ENDINGS.find((ending) =>
+          normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
+        )
+    );
+  }
+
+  // Return true if the given track is of a valid type in the tracklist
+  private isValidTrackType(
+    track: DCTrack,
+    index: number,
+    release: Release
+  ): boolean {
+    return (
+      track.type_ === "track" ||
+      track.type_ === "index" ||
+      (track.type_ === "heading" &&
+        !!release.tracklist[index + 1].position.charAt(-1).match(/[a-z]/i))
     );
   }
 
@@ -105,10 +124,12 @@ export class Repertoire {
     if (track.variations.length) {
       this.logger.log(`Variation(s): ${track.variations.join(", ")}`);
     }
+    if (track.subTracks.length) {
+      this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
+    }
     this.logger.log(
       `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
     );
-    this.logger.logSeparator();
   }
 
   // Get the actual title of the track (or main track if subtrack)
@@ -127,13 +148,12 @@ export class Repertoire {
   // Are the two track title similar enough to consider that they're the same?
   private areSimilarTrackNames(track1: string, track2: string) {
     const areSimilar =
-      stringSimilarity.compareTwoStrings(track1, track2) >
+      stringSimilarity.compareTwoStrings(normalize(track1), normalize(track2)) >
       OPTION_TITLE_SIMILARITY_THRESHOLD;
 
     if (!!(track1 + track2).match(/[\(\{\[]/g)) {
       return (
-        areSimilar ||
-        this.areSimilarTrackNamesWithoutParenthesis(track1, track2)
+        areSimilar || this.areSimilarTrackNamesWithoutDetails(track1, track2)
       );
     }
 
@@ -141,14 +161,14 @@ export class Repertoire {
   }
 
   // Are the two track title similar when removing the content in parenthesis?
-  private areSimilarTrackNamesWithoutParenthesis(
+  private areSimilarTrackNamesWithoutDetails(
     track1: string,
     track2: string
   ): boolean {
     return (
       stringSimilarity.compareTwoStrings(
-        this.removeParenthesisContent(track1),
-        this.removeParenthesisContent(track2)
+        normalize(removeDetails(track1)),
+        normalize(removeDetails(track2))
       ) > OPTION_TITLE_SIMILARITY_THRESHOLD
     );
   }
@@ -169,12 +189,8 @@ export class Repertoire {
     this.tracks.push({
       title: track.title,
       variations: [],
+      subTracks: track.sub_tracks?.map((subTrack) => subTrack.title) ?? [],
       releases: [release],
     });
-  }
-
-  // Convert a string to a normalized, comparable string
-  private removeParenthesisContent(title: string) {
-    return title.replace(/\s*[\(\{\[].*?[\)\}\]]\s*/g, "");
   }
 }

@@ -1,4 +1,4 @@
-2375 rejected release(s):
+2382 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -166,6 +166,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Yes - "And You And I (Part I & II) (Single)"
 (https://www.discogs.com/release/3330158-Yes-And-You-And-I-Part-I-II)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1972-07-00 - Yes - "America (Single)"
+(https://www.discogs.com/release/3866261-Yes-America)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Yes - "Siberian Khatru  (Unknown)"
@@ -1932,6 +1936,10 @@
 (https://www.discogs.com/master/808430)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1993 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
+(https://www.discogs.com/release/7122772-Yes-Highlights-The-Very-Best-Of-Yes)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
 (https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge)
 (No new tracks)
@@ -2143,6 +2151,10 @@
 ❌ 1994 - Yes - "Endless Dream"
 (https://www.discogs.com/master/2282863)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "The Calling (Single)"
+(https://www.discogs.com/release/4854289-Yes-The-Calling)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - Yes - "An Evening Of Yes Music Plus Sampler (Unknown)"
 (https://www.discogs.com/release/33522524-Yes-An-Evening-Of-Yes-Music-Plus-Sampler)
@@ -2666,6 +2678,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
 (https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1997 - Yes - "New State Of Mind (Single)"
+(https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes - "King Biscuit Flower Hour"
@@ -3840,6 +3856,10 @@
 (https://www.discogs.com/release/1567202-Yes-Keystudio)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
+(https://www.discogs.com/release/7028734-Yes-Live-1975-At-QPR-Vol-2)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2002 - Spock's Beard - "Snow"
 (https://www.discogs.com/master/101496)
 (Rejected artist(s): Spock's Beard)
@@ -4074,6 +4094,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Yes - "Yes-today (Compilation)"
 (https://www.discogs.com/release/5153523-Yes-Yes-today)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
+(https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Yes, Guests - "Essential Elements (Compilation)"
@@ -8378,6 +8402,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
+(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"

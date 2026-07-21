@@ -11582,28 +11582,13 @@ Found better release date: 1991-09-25
 (https://www.discogs.com/release/6517892-Yes-Yes-Years)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 6 unregistered track(s):
+Found candidate with 4 unregistered track(s):
 🎵 Dear Father
 🎵 Richard
 🎵 Tango
-🎵 Never Done Before
-🎵 Crossfire
 🎵 Last Train
 💿 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
 (https://www.discogs.com/release/507282-Yes-In-A-Word-Yes-1969-)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 3 unregistered track(s):
-🎵 Life Seeker
-🎵 Disillusion
-🎵 Würm
-🗓️ Imprecise date (1993) for "Highlights - The Very Best Of Yes"
-🗃️ Looking at 49 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/2459677
-🗓️ Release date: 1993-09-00
-Found better release date: 1993-09-00
-💿 1993-09-00 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
-(https://www.discogs.com/release/7122772-Yes-Highlights-The-Very-Best-Of-Yes)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 Found candidate with 2 unregistered track(s):
@@ -11626,14 +11611,6 @@ Found candidate with 2 unregistered track(s):
 🗓️ No better date found
 💿 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
 (https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 Medley
-🗓️ Imprecise date (2002) for "Friends And Relatives: Ultimate Collection 2"
-🗓️ No better date found
-💿 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
-(https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 Found candidate with 1 unregistered track(s):
@@ -11661,33 +11638,6 @@ Found candidate with 1 unregistered track(s):
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 Found candidate with 1 unregistered track(s):
-🎵 Total Mass Retain
-💿 1972-07-00 - Yes - "America (Single)"
-(https://www.discogs.com/release/3866261-Yes-America)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 Silent Spring
-🗓️ Imprecise date (1994) for "The Calling"
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/4864734
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/9718365
-🗓️ Release date: 1994-03-16
-Found better release date: 1994-03-16
-💿 1994-03-16 - Yes - "The Calling (Single)"
-(https://www.discogs.com/release/4854289-Yes-The-Calling)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 Album Version (Short Ending)
-🗓️ Imprecise date (1997) for "New State Of Mind"
-🗓️ No better date found
-💿 1997 - Yes - "New State Of Mind (Single)"
-(https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
 🎵 Introduction - Sound Chaser
 🗓️ Imprecise date (1998) for "Live 1975 At Q.P.R. Vol. 1"
 🗃️ Looking at 7 alternate version(s)
@@ -11695,22 +11645,6 @@ Found candidate with 1 unregistered track(s):
 🗓️ No better date found
 💿 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
 (https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 And You & I
-🗓️ Imprecise date (2001) for "Live 1975 At Q.P.R. Vol. 2"
-🗃️ Looking at 8 alternate version(s)
-🗓️ No more versions for year 2001
-🗓️ No better date found
-💿 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
-(https://www.discogs.com/release/7028734-Yes-Live-1975-At-QPR-Vol-2)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 All Fighters Past (Steven Wilson Mix)
-💿 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
-(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 ❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
@@ -11773,6 +11707,10 @@ No new tracks
 (https://www.discogs.com/release/14387857-Emerson-Lake-Palmer-Yes-Genesis-Roxy-Music-Progressive-Night-Live-Rock-Super-Hits)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 1993 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
+(https://www.discogs.com/release/7122772-Yes-Highlights-The-Very-Best-Of-Yes)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
 No new tracks
@@ -11795,6 +11733,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Yes - "Yes-today (Compilation)"
 (https://www.discogs.com/release/5153523-Yes-Yes-today)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
+(https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Yes, Guests - "Essential Elements (Compilation)"
@@ -11933,6 +11875,10 @@ No new tracks
 (https://www.discogs.com/release/3330158-Yes-And-You-And-I-Part-I-II)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 1972-07-00 - Yes - "America (Single)"
+(https://www.discogs.com/release/3866261-Yes-America)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 1973 - Yes - "And You And I Live Part 1 Et 2 (Single)"
 (https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2)
 No new tracks
@@ -12005,6 +11951,14 @@ No new tracks
 (https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "The Calling (Single)"
+(https://www.discogs.com/release/4854289-Yes-The-Calling)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1997 - Yes - "New State Of Mind (Single)"
+(https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2004 - Yes - "Roundabout (Acoustic) (Single)"
 (https://www.discogs.com/release/19657846-Yes-Roundabout-Acoustic)
 No new tracks
@@ -12033,8 +11987,16 @@ No new tracks
 (https://www.discogs.com/release/33522524-Yes-An-Evening-Of-Yes-Music-Plus-Sampler)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
+(https://www.discogs.com/release/7028734-Yes-Live-1975-At-QPR-Vol-2)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart (Unknown)"
 (https://www.discogs.com/release/461457-Max-Graham-Vs-Yes-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
+(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Roundabout / Your Move (Unknown)"

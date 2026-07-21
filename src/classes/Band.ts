@@ -1,6 +1,6 @@
 import { DISCOGS_ARTIST_URL, OPTION_INCLUDE_CONNECTED_RELEASES } from "../env";
 import { DCArtist, DCExtraArtist, DCGroup } from "../types";
-import { clean } from "../utils";
+import { removeNumberInParenthesis } from "../utils";
 import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
@@ -141,7 +141,7 @@ export class Band extends Artist {
     this.connectedBands.forEach((band) => {
       const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
-      this.logger.logInfo(`🔗 ${clean(band.band.name)}`);
+      this.logger.logInfo(`🔗 ${removeNumberInParenthesis(band.band.name)}`);
       this.logger.logInfo(`(${url})`);
       this.logger.logInfo(`${band.members.length} member(s): ${featuring}`);
       this.logger.logSeparator();

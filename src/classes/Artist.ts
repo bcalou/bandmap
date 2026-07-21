@@ -1,7 +1,7 @@
 import { DISCOGS_ARTIST_URL } from "../env";
 import { Logger } from "./Logger";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";
-import { clean } from "../utils";
+import { removeNumberInParenthesis } from "../utils";
 import { Api } from "./Api";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
@@ -42,7 +42,7 @@ export class Artist {
   }
 
   get name() {
-    return clean(this.artist.name);
+    return removeNumberInParenthesis(this.artist.name);
   }
 
   get url() {

@@ -96,6 +96,9 @@ export const DCTrack = z.object({
   type_: z.string(),
   extraartists: z.array(DCExtraArtist).optional(),
   artists: z.array(z.object({ id: z.number() })).optional(),
+  get sub_tracks() {
+    return z.array(DCTrack);
+  },
 });
 
 export type DCRelease = z.infer<typeof DCRelease>;

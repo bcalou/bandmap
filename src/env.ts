@@ -123,4 +123,13 @@ export const ROLES = {
   ],
 };
 
-export const IGNORE_TITLE_ENDINGS = ["Edit", "Version", "Untitled"];
+export const IGNORE_TITLE_ENDINGS = [
+  "Bonus Video",
+  "Documentary",
+  "Edit",
+  "Ending",
+  "Medley",
+  "Mix",
+  "Version",
+  "Untitled",
+];

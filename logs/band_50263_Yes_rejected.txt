@@ -1,4 +1,4 @@
-2382 rejected release(s):
+2387 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -2408,6 +2408,10 @@
 (https://www.discogs.com/release/5610437)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
+(https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "Highlights: The Very Best Of Yes"
 (https://www.discogs.com/release/37358832)
 (Rejected format(s): CD, Compilation, Limited Edition)
@@ -2990,6 +2994,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
+(https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "If Only You Knew"
@@ -5856,16 +5864,20 @@
 (https://www.discogs.com/master/2283157)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
+(https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
+(https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
 (https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
-(https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Magnification / Talk"
@@ -6147,6 +6159,10 @@
 ❌ 2008 - Yes - "Moraz Years "
 (https://www.discogs.com/master/2283163)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Collection (Compilation)"
 (https://www.discogs.com/release/4898412-Yes-Collection)
@@ -6787,6 +6803,10 @@
 ❌ 2011 - Yes - "The Revealing Science Of God"
 (https://www.discogs.com/master/1140677)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
+(https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Yes - "The Triple Album Collection"
 (https://www.discogs.com/master/1531396)

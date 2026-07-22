@@ -1,9 +1,15 @@
+import { string } from "zod";
 import {
   IGNORE_TITLE_ENDINGS,
   OPTION_TITLE_SIMILARITY_THRESHOLD,
 } from "../env";
 import { DCTrack } from "../types";
-import { normalize, removeDetails } from "../utils";
+import {
+  getStringParts,
+  normalize,
+  removeDetails,
+  stringsAreSimilar,
+} from "../utils";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -147,17 +153,14 @@ export class Repertoire {
 
   // Are the two track title similar enough to consider that they're the same?
   private areSimilarTrackNames(track1: string, track2: string) {
-    const areSimilar =
-      stringSimilarity.compareTwoStrings(normalize(track1), normalize(track2)) >
-      OPTION_TITLE_SIMILARITY_THRESHOLD;
+    const track1Parts = getStringParts(track1);
+    const track2Parts = getStringParts(track2);
 
-    if (!!(track1 + track2).match(/[\(\{\[]/g)) {
-      return (
-        areSimilar || this.areSimilarTrackNamesWithoutDetails(track1, track2)
-      );
-    }
-
-    return areSimilar;
+    return [track1, ...track1Parts].find((track1part) =>
+      [track2, ...track2Parts].find((track2part) =>
+        stringsAreSimilar(track1part, track2part)
+      )
+    );
   }
 
   // Are the two track title similar when removing the content in parenthesis?

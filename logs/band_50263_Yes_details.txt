@@ -11591,70 +11591,12 @@ Found candidate with 4 unregistered track(s):
 (https://www.discogs.com/release/507282-Yes-In-A-Word-Yes-1969-)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 2 unregistered track(s):
-🎵 Close To The Edge - I. The Solid Time Of Change II. Total Mass Retain III. Get Up I Get Down IV. Seasons Of Man
-🎵 And You And I - I. Cord Of Life II. Eclipse III. The Preacher The Teacher IV. Apocalypse
-🗓️ Imprecise date (2011) for "Wonderous Stories: The Best Of Yes"
-🗃️ Looking at 1 alternate version(s)
-🗓️ No more versions for year 2011
-🗓️ No better date found
-💿 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
-(https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 2 unregistered track(s):
-🎵 Drum Solo
-🎵 The Ancient
-🗓️ Imprecise date (1996) for "Live In Philadelphia 1979"
-🗃️ Looking at 15 alternate version(s)
-🗓️ No more versions for year 1996
-🗓️ No better date found
-💿 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
-(https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
 Found candidate with 1 unregistered track(s):
 🎵 No Clowns
 💿 2003-07-08 - Yes - "Remixes (Compilation)"
 (https://www.discogs.com/release/2068513-Yes-Remixes)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 The Ladder
-🗓️ Imprecise date (2007) for "Hits & More From The Yes Family"
-🗃️ Looking at 1 alternate version(s)
-🗓️ No more versions for year 2007
-🗓️ No better date found
-💿 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
-(https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 In The Presence Of - I Deeper, II Death Of Ego, III True Beginner, IV Turn Around And Remember
-🗓️ Imprecise date (2008) for "Owner Of A Lonely Heart"
-🗓️ No better date found
-💿 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
-(https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 Introduction - Sound Chaser
-🗓️ Imprecise date (1998) for "Live 1975 At Q.P.R. Vol. 1"
-🗃️ Looking at 7 alternate version(s)
-🗓️ No more versions for year 1998
-🗓️ No better date found
-💿 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
-(https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
-(https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
-(https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
 (https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
 No new tracks
@@ -11791,6 +11733,22 @@ No new tracks
 (https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
+(https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
+(https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
+(https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Collection (Compilation)"
 (https://www.discogs.com/release/4898412-Yes-Collection)
 No new tracks
@@ -11801,6 +11759,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "Introducing: Yes (Compilation)"
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
+(https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
@@ -11985,6 +11947,14 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - Yes - "An Evening Of Yes Music Plus Sampler (Unknown)"
 (https://www.discogs.com/release/33522524-Yes-An-Evening-Of-Yes-Music-Plus-Sampler)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
+(https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
+(https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"

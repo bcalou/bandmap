@@ -768,6 +768,10 @@
 (https://www.discogs.com/release/29945065)
 (Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
+❌ 1985 - Supertramp - "Brother Where You Bound "
+(https://www.discogs.com/master/1190630)
+(Rejected format(s): VHS, NTSC)
+———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/master/2369530)
 (Rejected format(s): Vinyl, LP, Transcription)
@@ -854,10 +858,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Better Days (Maxi-Single)"
 (https://www.discogs.com/release/2774976-Supertramp-Better-Days)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Brother Where You Bound  (Unknown)"
-(https://www.discogs.com/release/20304460-Supertramp-Brother-Where-You-Bound-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Cannonball (Unknown)"
@@ -1148,6 +1148,10 @@
 (https://www.discogs.com/master/1028288)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1990 - Supertramp - "The Story So Far..."
+(https://www.discogs.com/master/258351)
+(Rejected format(s): VHS, Stereo, PAL)
+———————————————————————————————————————————————————————————————
 ❌ 1990 - Various - "BBC Classic Tracks "
 (https://www.discogs.com/release/2132404)
 (Rejected release role: TrackAppearance)
@@ -1190,10 +1194,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - Supertramp - "The Very Best Of Supertramp (Compilation)"
 (https://www.discogs.com/release/2558598-Supertramp-The-Very-Best-Of-Supertramp)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1990 - Supertramp - "The Story So Far... (Unknown)"
-(https://www.discogs.com/release/5941128-Supertramp-The-Story-So-Far)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Supertramp - "BBC Classic Tracks 91-43"

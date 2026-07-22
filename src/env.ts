@@ -130,6 +130,7 @@ export const IGNORE_TITLE_ENDINGS = [
   "Ending",
   "Medley",
   "Mix",
+  "Solo",
   "Version",
   "Untitled",
 ];

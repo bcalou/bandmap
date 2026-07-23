@@ -1,4 +1,4 @@
-252 track(s):
+253 track(s):
 ———————————————————————————————————————————————————————————————
 (silence)
 Release(s): Open Your Eyes
@@ -35,13 +35,14 @@ Release(s): Keys To Ascension, Keys To Ascension (Volumes 1 And 2), The Word Is 
 ———————————————————————————————————————————————————————————————
 And You And I
 Sub tracks: (i) Cord Of Life, (ii) Eclipse, (iii) The Preacher The Teacher, (iv) The Apocalypse
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years
 ———————————————————————————————————————————————————————————————
 Angkor Wat
 Release(s): Union
 ———————————————————————————————————————————————————————————————
 Apocalypse (Detroit 1976)
-Release(s): The Word Is Live
+Variation(s): Apocalypse
+Release(s): The Word Is Live, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976
 ———————————————————————————————————————————————————————————————
 Ariadne
 Release(s): Aurora
@@ -125,7 +126,7 @@ Release(s): Time And A Word
 Close To The Edge
 Variation(s): Close To The Edge - Birmingham UK 26th June 1991
 Sub tracks: (i) The Solid Time Of Change, (ii) Total Mass Retain, (iii) I Get Up I Get Down, (iv) Seasons Of Man
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), Symphonic Live, Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live Bonus Tracks & Tour Extras, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), Symphonic Live, Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, 50 Live, Union 30 Live Bonus Tracks & Tour Extras, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Countermovement
 Sub tracks: Taro, Anytime Soon, Blink Of An Eye, Freedom's Edge
@@ -197,7 +198,7 @@ Release(s): 50 Live
 ———————————————————————————————————————————————————————————————
 Excerpts From The Six Wives Of Henry VIII
 Variation(s): Excerpts From "The Six Wives Of Henry VIII"
-Release(s): Yessongs, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)
+Release(s): Yessongs, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two
 ———————————————————————————————————————————————————————————————
 Face To Face
 Release(s): The Ladder, House Of Yes (Live From House Of Blues)
@@ -256,7 +257,7 @@ Release(s): Yes
 ———————————————————————————————————————————————————————————————
 Heart Of The Sunrise
 Variation(s): Heart Of The Sunrise , Heart of the Sunrise
-Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
+Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Hearts
 Release(s): 90125
@@ -293,15 +294,15 @@ I Would Have Waited Forever
 Release(s): Union, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 I'm Down
-Release(s): Yes Years
+Release(s): Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years
 ———————————————————————————————————————————————————————————————
 I'm Running
 Release(s): Big Generator
 ———————————————————————————————————————————————————————————————
 I've Seen All Good People
-Variation(s): Your Move / I've Seen All Good People, I've Seen All Good People (London 1971), I’ve Seen All Good People
+Variation(s): Your Move / I've Seen All Good People, I've Seen All Good People (London 1971), I’ve Seen All Good People, I've Seen All Good People (Your Move / All Good People)
 Sub tracks: Your Move, All Good People
-Release(s): The Yes Album, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, Keys To Ascension 2, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 If Only You Knew
 Release(s): The Ladder
@@ -381,7 +382,7 @@ Release(s): Mirror To The Sky
 ———————————————————————————————————————————————————————————————
 Long Distance Runaround
 Variation(s): Long Distance Runaround - May 30th 1991 - Munich
-Release(s): Fragile, Yessongs, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Fragile, Yessongs, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Long Distance Runaround/Whitefish/Tempus Fugit/Amazing Grace
 Variation(s): Whitefish/Tempus Fugit/Amazing Grace
@@ -447,8 +448,8 @@ Montreux's Theme
 Release(s): Yes Years
 ———————————————————————————————————————————————————————————————
 Mood For A Day
-Variation(s): Clap / Mood For A Day, Mood For A Day / Clap, Mood For A Day/Clap, Clap/Mood For A Day
-Release(s): Fragile, Yessongs, Union Live, Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991
+Variation(s): Clap / Mood For A Day, Mood For A Day / Clap, Clap/Mood For A Day
+Release(s): Fragile, Yessongs, Union Live, Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991
 ———————————————————————————————————————————————————————————————
 Music To My Ears
 Release(s): The Quest
@@ -484,8 +485,8 @@ Open Your Eyes
 Release(s): Open Your Eyes, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Opening (Excerpt From "Firebird Suite")
-Variation(s): Intro / Firebird Suite, Opening (Excerpt From Firebird Suite), Opening (Excerpts From Firebird Suite), Firebird Suite
-Release(s): Yessongs, Songs From Tsongas - Yes 35th Anniversary Concert, Union Live, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991
+Variation(s): Intro / Firebird Suite, Opening (Excerpt From Firebird Suite), Firebird Suite
+Release(s): Yessongs, Songs From Tsongas - Yes 35th Anniversary Concert, Union Live, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991
 ———————————————————————————————————————————————————————————————
 Our Song
 Variation(s): Hello Chicago (Tour Song) (Chicago 1979)
@@ -530,11 +531,11 @@ Release(s): Live At Montreux 2003, Union 30 Live Bonus Tracks & Tour Extras, Uni
 ———————————————————————————————————————————————————————————————
 Ritual - Nous Sommes Du Soleil
 Variation(s): Ritual (Part 1), Ritual (Part 2), Ritual
-Release(s): Tales From Topographic Oceans, Yesshows, Yesshows, House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Topographic Drama (Live Across America), Yes Years, Remixes
+Release(s): Tales From Topographic Oceans, Yesshows, Yesshows, House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Topographic Drama (Live Across America), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Remixes
 ———————————————————————————————————————————————————————————————
 Roundabout
 Variation(s): Roundabout (Chicago 1979), Roundabout 
-Release(s): Fragile, Yessongs, Keys To Ascension, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Fragile, Yessongs, Keys To Ascension, Keys To Ascension (Volumes 1 And 2), House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Run Through The Light
 Release(s): Drama, Topographic Drama (Live Across America)
@@ -565,7 +566,7 @@ Release(s): 9012Live • The Solos
 ———————————————————————————————————————————————————————————————
 Siberian Khatru
 Variation(s): Siberian Khatru (Detroit 1976)
-Release(s): Close To The Edge, Yessongs, Keys To Ascension, Keys To Ascension (Volumes 1 And 2), The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), In A Word: Yes (1969 -    ), Remixes
+Release(s): Close To The Edge, Yessongs, Keys To Ascension, Keys To Ascension (Volumes 1 And 2), The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Sign Language
 Variation(s): New Language
@@ -599,7 +600,7 @@ Release(s): 9012Live • The Solos, 50 Live, Union 30 Live Bonus Tracks & Tour E
 ———————————————————————————————————————————————————————————————
 Sound Chaser
 Variation(s): Sound Chaser (Detroit 1976)
-Release(s): Relayer, The Word Is Live, Yes Years, Remixes
+Release(s): Relayer, The Word Is Live, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Remixes
 ———————————————————————————————————————————————————————————————
 South Side Of The Sky
 Release(s): Fragile, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, In A Word: Yes (1969 -    )
@@ -667,7 +668,7 @@ Release(s): Talk, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 The Clap
 Variation(s): Clap
-Release(s): The Yes Album, Live At Montreux 2003, Like It Is: Yes At The Bristol Hippodrome, Union 30 Live Bonus Tracks & Tour Extras, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Live At Montreux 2003, Like It Is: Yes At The Bristol Hippodrome, Union 30 Live Bonus Tracks & Tour Extras, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 The Fish (Schindleria Praematurus)
 Variation(s): The Fish
@@ -678,7 +679,7 @@ Release(s): Heaven & Earth
 ———————————————————————————————————————————————————————————————
 The Gates Of Delirium
 Variation(s): Gate Of Delirium
-Release(s): Relayer, Yesshows, Symphonic Live, In A Word: Yes (1969 -    )
+Release(s): Relayer, Yesshows, Symphonic Live, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 The Gift Of Love
 Release(s): From A Page
@@ -714,6 +715,10 @@ Release(s): Open Your Eyes
 ———————————————————————————————————————————————————————————————
 The Source
 Release(s): Open Your Eyes
+———————————————————————————————————————————————————————————————
+The Story Of I (Excerpt)
+Variation(s): Olias Of Sunhillow (Excerpt)
+Release(s): Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976
 ———————————————————————————————————————————————————————————————
 The Time, 1968 And Beyond
 Release(s): Union 30 Live Bonus Tracks & Tour Extras
@@ -826,5 +831,5 @@ Release(s): Yessongs
 ———————————————————————————————————————————————————————————————
 Yours Is No Disgrace
 Variation(s): Yours Is No Disgrace (London 1971), Firebird Suite (Intro)/Yours Is No Disgrace, Yours Is No Disgrace - 11th May 1991 Phoenix
-Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, Progeny: Seven Shows From Seventy-Two, 50 Live, Union 30 Live: Wembley Arena London June 29th 1991, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live Bonus Tracks & Tour Extras, Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992, Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991, Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————

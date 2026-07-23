@@ -1,5 +1,9 @@
 import { DateQuality } from "./classes/ReleaseDate";
 
+export const OPTION_CACHE_BUSTER: string[] = [
+  "release_1235659",
+  "versions_236968_1",
+];
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
 export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;
@@ -77,7 +81,7 @@ export const FORMATS = {
     "Pocket Rocker",
     "Promo",
     "RCA Tape Cartridge",
-    "Reel-To-Reel",
+    "Record Store Day",
     "Reel-To-Reel",
     "Reissue",
     "Remastered",

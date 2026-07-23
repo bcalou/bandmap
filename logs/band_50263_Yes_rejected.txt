@@ -1,4 +1,4 @@
-2387 rejected release(s):
+2382 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -247,10 +247,6 @@
 ❌ 1974-01-00 - Yes - "And You And I (Single)"
 (https://www.discogs.com/release/2307699-Yes-And-You-And-I)
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1975 - Yes - "Yesterdays"
-(https://www.discogs.com/release/37872063)
-(Rejected format(s): Cassette, Compilation, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Various - "Jet Music Volume 4"
 (https://www.discogs.com/release/3186829)
@@ -1808,10 +1804,6 @@
 (https://www.discogs.com/release/5834404)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Yes - "Quasi-Mystical Vision"
-(https://www.discogs.com/release/6400121)
-(Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
 ❌ 1992 - Yes - "The Gates Of Jersey"
 (https://www.discogs.com/release/7504234)
 (Rejected release role: UnofficialRelease)
@@ -1902,10 +1894,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Reunion 1992"
 (https://www.discogs.com/release/5000935)
-(Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Unauthorised Live Vol. 1"
-(https://www.discogs.com/release/6163536)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Live In Quebec"
@@ -2672,10 +2660,6 @@
 (https://www.discogs.com/master/2282440)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1997 - Yes - "The Story Of Relayer"
-(https://www.discogs.com/master/1533573)
-(Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "Down At The Edge"
 (https://www.discogs.com/master/2285368)
 (Rejected release role: UnofficialRelease)
@@ -3364,10 +3348,6 @@
 (https://www.discogs.com/release/3022324)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2000 - Various - "VH1: The Big 80's Arena Rock"
-(https://www.discogs.com/release/3620775)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Amplified: The Definitive Double CD Collection Of Classic Rock"
 (https://www.discogs.com/release/5976508)
 (Rejected release role: TrackAppearance)
@@ -3506,6 +3486,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Nostalgie Ultra Pop"
 (https://www.discogs.com/master/1843793)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 2000 - Various - "VH1: The Big 80's Arena Rock"
+(https://www.discogs.com/master/4289463)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "The Best Of Beat-Club '65 - '73"
@@ -5952,7 +5936,7 @@
 (https://www.discogs.com/release/7195371)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "洋楽天国 ザ・定番 素直になれなくて"
+❌ 2008 - Various - "洋楽天国 ザ・定番 ���直になれなくて"
 (https://www.discogs.com/release/8253486)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -8224,6 +8208,10 @@
 (https://www.discogs.com/release/36293671)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
+(https://www.discogs.com/release/26834984)
+(Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo)
+———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
 (https://www.discogs.com/release/27056589)
 (Rejected format(s): CD, Album, DVD)
@@ -8300,6 +8288,10 @@
 (https://www.discogs.com/release/28552702-Yes-Yessingles)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2024 - Yes - "Fragile Outtakes"
+(https://www.discogs.com/master/3674586)
+(Rejected format(s): Vinyl, LP, Record Store Day)
+———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "Yale Bowl '71"
 (https://www.discogs.com/master/1602656)
 (Rejected format(s): Vinyl, LP, Album, Record Store Day, Limited Edition)
@@ -8355,10 +8347,6 @@
 ❌ 2024 - Various - "Now Yearbook '77"
 (https://www.discogs.com/master/3644589)
 (Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 2024 - Yes - "Jersey City - The 1976 Broadcast"
-(https://www.discogs.com/release/30709634)
-(Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "The Classic Tales Of Yes Tour In Vienna 2024 "
 (https://www.discogs.com/release/30885963)
@@ -8424,10 +8412,6 @@
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
-(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"
 (https://www.discogs.com/master/3843522)
 (Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, Etched, All Media, Record Store Day, Limited Edition, Reissue, Stereo)
@@ -8470,10 +8454,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Fragile"
 (https://www.discogs.com/release/34813910)
-(Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2025 - Yes - "Live In New Jersey 1976"
-(https://www.discogs.com/release/35623978)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Costa Mesa 1991 - The West Coast Broadcast"
@@ -8540,9 +8520,9 @@
 (https://www.discogs.com/release/37767183)
 (Rejected format(s): VHS, Stereo, PAL)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Yes - "Highlights - The Very Best Of Yes"
-(https://www.discogs.com/release/37856433)
-(Rejected format(s): CD, Compilation, Reissue, Remastered, Repress)
+❌ unknown date - Yes - "The Yes Album"
+(https://www.discogs.com/release/37950996)
+(Rejected format(s): 8-Track Cartridge, Album)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Your Move"
 (https://www.discogs.com/master/1449763)

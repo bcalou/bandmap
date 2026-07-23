@@ -9,6 +9,7 @@ import {
   DCRelease,
   DCVersions,
 } from "../types";
+import { OPTION_CACHE_BUSTER } from "../env";
 
 export const DELAY = 1000;
 export const PER_PAGE = 100;
@@ -125,6 +126,10 @@ export class Api {
     fetcher: () => Promise<any>,
     parser: ZodObject
   ): Promise<ResultType> {
+    if (OPTION_CACHE_BUSTER.includes(key)) {
+      return this.fetchAndCache<ResultType>(key, fetcher, parser);
+    }
+
     const row = this.cache
       .prepare("SELECT * FROM cache WHERE key = ?")
       .get(key) as CacheEntry;

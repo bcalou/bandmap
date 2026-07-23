@@ -5,9 +5,9 @@ function testArtists(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList);
 }
 
-// new BandMap(50263);
+new BandMap(50263);
 
-testArtists(refs.SUPERTRAMP);
+// testArtists(refs.SUPERTRAMP);
 
 // testArtists.forEach((testArtist) => {
 //   new BandMap(testArtist.id, testArtist.expectedIdList);

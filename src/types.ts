@@ -97,7 +97,7 @@ export const DCTrack = z.object({
   extraartists: z.array(DCExtraArtist).optional(),
   artists: z.array(z.object({ id: z.number() })).optional(),
   get sub_tracks() {
-    return z.array(DCTrack);
+    return z.array(DCTrack).optional();
   },
 });
 

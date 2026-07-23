@@ -631,7 +631,7 @@
 (https://www.discogs.com/artist/1898059)
 1 member(s): Tony Selvidge
 ———————————————————————————————————————————————————————————————
-🎼 Yes: 2540 release(s) found
+🎼 Yes: 2537 release(s) found
 ———————————————————————————————————————————————————————————————
 💿 1969-07-00 - Yes - "Yes"
 (https://www.discogs.com/release/9201144-Yes-Yes)
@@ -754,10 +754,6 @@ Found better release date: 1974-10-00
 ———————————————————————————————————————————————————————————————
 ⌛ 1974-01-00 - Yes - "And You And I (Single)"
 (https://www.discogs.com/release/2307699-Yes-And-You-And-I)
-———————————————————————————————————————————————————————————————
-❌ 1975 - Yes - "Yesterdays"
-(https://www.discogs.com/release/37872063)
-Rejected format(s): Cassette, Compilation, Reissue
 ———————————————————————————————————————————————————————————————
 ⌛ 1975 - Yes - "Soon (Single)"
 (https://www.discogs.com/release/2649508-Yes-Soon)
@@ -1627,12 +1623,12 @@ Found better release date: 1997-11-03
 💿 1997-11-03 - Yes - "Keys To Ascension 2"
 (https://www.discogs.com/release/594710-Yes-Keys-To-Ascension-2)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Remastered) for "Something's Coming: The BBC Recordings 1969-1970"
+Invalid format(s) (CD, Album, Compilation, Remastered) for "Something's Coming: The BBC Recordings 1969-1970"
 🗃️ Looking at 27 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/14798641
-💿 Format: CD, Compilation, Remastered, Stereo
+💿 Format: CD, Album, Compilation, Remastered, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/32586951
-💿 Format: CD, Compilation, Remastered
+💿 Format: CD, Album, Compilation, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/3618240
 💿 Format: Vinyl, LP, Compilation
 ⌛ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
@@ -2473,8 +2469,9 @@ Invalid format(s) (Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, N
 (https://www.discogs.com/master/2300686)
 Rejected format(s): Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, NTSC, CD, DVD, NTSC, CD, CD, CD, CD, DVD, NTSC, CD, CD, DVD, NTSC, CD, DVD, Multichannel, NTSC, CD
 ———————————————————————————————————————————————————————————————
-💿 2023-04-22 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
-(https://www.discogs.com/release/26834984-Yes-Live-At-Knoxville-Civic-Auditorium-Knoxville-Tennessee-November-15-1972)
+❌ 2023 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
+(https://www.discogs.com/release/26834984)
+Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo
 ———————————————————————————————————————————————————————————————
 💿 2023-05-12 - Yes - "Union 30 Live: Wembley Arena London June 29th 1991"
 (https://www.discogs.com/release/26901044-Yes-Union-30-Live-Wembley-Arena-London-June-29th-1991)
@@ -2532,8 +2529,13 @@ Rejected format(s): CD, Album, DVD
 ⌛ 2024-10-25 - Yes - "Yessingles II (Compilation)"
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 ———————————————————————————————————————————————————————————————
-⌛ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
-(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
+Invalid format(s) (Vinyl, LP, Record Store Day) for "Fragile Outtakes"
+🗃️ Looking at 1 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/32464089
+💿 Format: Vinyl, LP, Record Store Day
+❌ 2024 - Yes - "Fragile Outtakes"
+(https://www.discogs.com/master/3674586)
+Rejected format(s): Vinyl, LP, Record Store Day
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, LP, Album, Record Store Day, Limited Edition) for "Yale Bowl '71"
 🗃️ Looking at 9 alternate version(s)
@@ -2573,6 +2575,9 @@ Rejected format(s): Vinyl, LP, Record Store Day, Limited Edition
 ———————————————————————————————————————————————————————————————
 💿 2026-06-12 - Yes - "Aurora"
 (https://www.discogs.com/release/37608273-Yes-Aurora)
+———————————————————————————————————————————————————————————————
+💿 2026-07-17 - Yes - "Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976"
+(https://www.discogs.com/release/37912833-Yes-Live-At-Roosevelt-Stadium-Jersey-City-NJ-June-17-1976)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Love Will Find A Way / Rhythm Of Love"
 (https://www.discogs.com/release/3884133)
@@ -2625,9 +2630,9 @@ Rejected genre(s): Rock,Non-Music
 (https://www.discogs.com/release/37767183)
 Rejected format(s): VHS, Stereo, PAL
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Yes - "Highlights - The Very Best Of Yes"
-(https://www.discogs.com/release/37856433)
-Rejected format(s): CD, Compilation, Reissue, Remastered, Repress
+❌ unknown date - Yes - "The Yes Album"
+(https://www.discogs.com/release/37950996)
+Rejected format(s): 8-Track Cartridge, Album
 ———————————————————————————————————————————————————————————————
 Invalid format(s) (Vinyl, 7", Single, 45 RPM, Reissue) for "Your Move"
 🗃️ Looking at 2 alternate version(s)
@@ -4929,10 +4934,6 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/release/3022324)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-❌ 2000 - Various - "VH1: The Big 80's Arena Rock"
-(https://www.discogs.com/release/3620775)
-Rejected release role: TrackAppearance
-———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Amplified: The Definitive Double CD Collection Of Classic Rock"
 (https://www.discogs.com/release/5976508)
 Rejected release role: TrackAppearance
@@ -5071,6 +5072,10 @@ Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Nostalgie Ultra Pop"
 (https://www.discogs.com/master/1843793)
+Rejected release role: TrackAppearance
+———————————————————————————————————————————————————————————————
+❌ 2000 - Various - "VH1: The Big 80's Arena Rock"
+(https://www.discogs.com/master/4289463)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "The Best Of Beat-Club '65 - '73"
@@ -6781,7 +6786,7 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/release/7195371)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-❌ 2008 - Various - "洋楽天国 ザ・定番 素直になれなくて"
+❌ 2008 - Various - "洋楽天国 ザ・定番 ���直になれなくて"
 (https://www.discogs.com/release/8253486)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
@@ -8765,10 +8770,6 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/release/5834404)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Yes - "Quasi-Mystical Vision"
-(https://www.discogs.com/release/6400121)
-Rejected release role: UnofficialRelease
-———————————————————————————————————————————————————————————————
 ❌ 1992 - Yes - "The Gates Of Jersey"
 (https://www.discogs.com/release/7504234)
 Rejected release role: UnofficialRelease
@@ -8796,16 +8797,15 @@ Rejected release role: UnofficialRelease
 ↷ "1992 - Various - "Popdreams & Rocktracks - The Earthquake Album"
 (https://www.discogs.com/master/11622)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+↷ "1992 - Yes - "The Story Of Relayer"
+(https://www.discogs.com/master/1533573)" (skipping, already accepted)
+———————————————————————————————————————————————————————————————
 ❌ 1993 - Various - "The Best Of Dance Rock V"
 (https://www.discogs.com/release/2807243)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Reunion 1992"
 (https://www.discogs.com/release/5000935)
-Rejected release role: UnofficialRelease
-———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Unauthorised Live Vol. 1"
-(https://www.discogs.com/release/6163536)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Live In Quebec"
@@ -8989,10 +8989,6 @@ Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "1997 - Yes - "Keys To Ascension"
 (https://www.discogs.com/master/36036)" (skipping, already accepted)
-———————————————————————————————————————————————————————————————
-❌ 1997 - Yes - "The Story Of Relayer"
-(https://www.discogs.com/master/1533573)
-Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "Down At The Edge"
 (https://www.discogs.com/master/2285368)
@@ -10746,10 +10742,6 @@ Rejected release role: UnofficialRelease
 ↷ "2023 - Yes - "Mirror To The Sky"
 (https://www.discogs.com/master/3101595)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-❌ 2024 - Yes - "Jersey City - The 1976 Broadcast"
-(https://www.discogs.com/release/30709634)
-Rejected release role: UnofficialRelease
-———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "The Classic Tales Of Yes Tour In Vienna 2024 "
 (https://www.discogs.com/release/30885963)
 Rejected release role: UnofficialRelease
@@ -10832,10 +10824,6 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/release/34813910)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-❌ 2025 - Yes - "Live In New Jersey 1976"
-(https://www.discogs.com/release/35623978)
-Rejected release role: UnofficialRelease
-———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Costa Mesa 1991 - The West Coast Broadcast"
 (https://www.discogs.com/release/35935588)
 Rejected release role: UnofficialRelease
@@ -10855,6 +10843,9 @@ Rejected release role: UnofficialRelease
 ❌ 2026 - Yes - "Live In Phoenix 1984"
 (https://www.discogs.com/release/37812210)
 Rejected release role: UnofficialRelease
+———————————————————————————————————————————————————————————————
+↷ "2026 - Yes - "Aurora"
+(https://www.discogs.com/master/4254969)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "2026 - Yes - "From A Page (Expanded And Remastered Edition)"
 (https://www.discogs.com/master/1808364)" (skipping, already accepted)
@@ -11552,7 +11543,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 10 unregistered track(s):
+Found candidate with 8 unregistered track(s):
 🎵 Something's Coming
 🎵 Vevey, Part One
 🎵 Montreux's Theme
@@ -11560,8 +11551,6 @@ Found candidate with 10 unregistered track(s):
 🎵 Money
 🎵 Abilene
 🎵 Run With The Fox
-🎵 I'm Down
-🎵 Make It Easy
 🎵 Love Conquers All
 🗓️ Imprecise date (1991) for "Yes Years"
 🗃️ Looking at 12 alternate version(s)
@@ -11613,16 +11602,12 @@ No new tracks
 (https://www.discogs.com/release/936904-Yes-Yesterdays)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
-(https://www.discogs.com/release/32112012-Yes-Yessingles-II)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1991-09-00 - Yes - "Yesstory (Compilation)"
-(https://www.discogs.com/release/1573337-Yes-Yesstory)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
 (https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
+(https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word (Compilation)"
@@ -11647,6 +11632,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1989 - Emerson, Lake & Palmer, Yes, Genesis, Roxy Music - "Progressive Night (Live Rock Super Hits) (Compilation)"
 (https://www.discogs.com/release/14387857-Emerson-Lake-Palmer-Yes-Genesis-Roxy-Music-Progressive-Night-Live-Rock-Super-Hits)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1991-09-00 - Yes - "Yesstory (Compilation)"
+(https://www.discogs.com/release/1573337-Yes-Yesstory)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
@@ -11963,10 +11952,6 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart (Unknown)"
 (https://www.discogs.com/release/461457-Max-Graham-Vs-Yes-Owner-Of-A-Lonely-Heart)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
-(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Roundabout / Your Move (Unknown)"

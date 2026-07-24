@@ -902,22 +902,28 @@ Rejected genre(s): Rock,Non-Music
 (https://www.discogs.com/release/21471034)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Cassette, Compilation, Reissue) for "Fragile / Close To The Edge"
 🗃️ Looking at 13 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/7314494
-💿 Format: Cassette, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/7314494
+💿 Format(s): Cassette, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/12544375
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/12544375
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/8696431
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/8696431
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/12895494
-💿 Format: Cassette, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/12895494
+💿 Format(s): Cassette, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/12587986
-💿 Format: Cassette, Album, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/12587986
+💿 Format(s): Cassette, Album, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/11357976
-💿 Format: Cassette, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/11357976
+💿 Format(s): Cassette, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/15776167
-💿 Format: CD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/15776167
+💿 Format(s): CD, Compilation
 ⌛ 1982-10-00 - Yes - "Fragile / Close To The Edge (Compilation)"
 (https://www.discogs.com/release/12452786-Yes-Fragile-Close-To-The-Edge)
 ———————————————————————————————————————————————————————————————
@@ -983,76 +989,105 @@ Rejected format(s): Vinyl, LP, Transcription
 ⌛ 1984 - Gino Soccio, Yes - "Turn It Around / Leave It (Unknown)"
 (https://www.discogs.com/release/4740028-Gino-Soccio-Yes-Turn-It-Around-Leave-It)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (VHS, Stereo, NTSC) for "Yessongs"
 🗃️ Looking at 26 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/23930654
-💿 Format: Betamax, 
+🗃️ Analyzing version https://www.discogs.com/release/23930654
+💿 Format(s): Betamax
 🗃️ Analyzing version https://www.discogs.com/release/9254830
-💿 Format: VHS, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/9254830
+💿 Format(s): VHS, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/4896916
-💿 Format: Laserdisc, 12", Album, Remastered, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/4896916
+💿 Format(s): Laserdisc, 12", Album, Remastered, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/5015370
-💿 Format: Laserdisc, 12", NTSC
+🗃️ Analyzing version https://www.discogs.com/release/5015370
+💿 Format(s): Laserdisc, 12", NTSC
 🗃️ Analyzing version https://www.discogs.com/release/3186333
-💿 Format: VHS, Stereo, PAL
+🗃️ Analyzing version https://www.discogs.com/release/3186333
+💿 Format(s): VHS, Stereo, PAL
 🗃️ Analyzing version https://www.discogs.com/release/6089369
-💿 Format: VHS, PAL, SECAM
+🗃️ Analyzing version https://www.discogs.com/release/6089369
+💿 Format(s): VHS, PAL, SECAM
 🗃️ Analyzing version https://www.discogs.com/release/7013982
-💿 Format: VHS, Reissue, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/7013982
+💿 Format(s): VHS, Reissue, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/8417346
-💿 Format: Laserdisc, Reissue, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/8417346
+💿 Format(s): Laserdisc, Reissue, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/13138408
-💿 Format: DVD, DVD-Video, NTSC, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13138408
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/1361053
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/1361053
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/11526662
-💿 Format: Blu-ray-R, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11526662
+💿 Format(s): Blu-ray-R, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8722895
-💿 Format: Blu-ray, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/8722895
+💿 Format(s): Blu-ray, Stereo, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/5804012
-💿 Format: DVD, DVD-Video, NTSC, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/5804012
+💿 Format(s): DVD, DVD-Video, NTSC, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/31453961
-💿 Format: DVD, DVD-Video, NTSC, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/31453961
+💿 Format(s): DVD, DVD-Video, NTSC, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/5654481
-💿 Format: Blu-ray, Limited Edition, Multichannel, Numbered
+🗃️ Analyzing version https://www.discogs.com/release/5654481
+💿 Format(s): Blu-ray, Limited Edition, Multichannel, Numbered
 🗃️ Analyzing version https://www.discogs.com/release/23963891
-💿 Format: Blu-ray, Enhanced, Limited Edition, Mixed, Remastered, Special Edition, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/23963891
+💿 Format(s): Blu-ray, Enhanced, Limited Edition, Mixed, Remastered, Special Edition, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/8723005
-💿 Format: DVD, Multichannel, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8723005
+💿 Format(s): DVD, Multichannel, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/9916489
-💿 Format: Blu-ray, Enhanced, Limited Edition, Mixed, Reissue, Remastered, Special Edition, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/9916489
+💿 Format(s): Blu-ray, Enhanced, Limited Edition, Mixed, Reissue, Remastered, Special Edition, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/15820634
-💿 Format: Blu-ray, Album, Reissue, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/15820634
+💿 Format(s): Blu-ray, Album, Reissue, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/12684237
-💿 Format: Blu-ray, Album, Reissue, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/12684237
+💿 Format(s): Blu-ray, Album, Reissue, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/31016875
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/31016875
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/31222378
-💿 Format: VHS, Reissue, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/31222378
+💿 Format(s): VHS, Reissue, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/23820740
-💿 Format: DVD, DVD-Video, NTSC, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/23820740
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/35102015
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/35102015
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/16724367
-💿 Format: DVD, DVD-Video, NTSC, Special Edition
+🗃️ Analyzing version https://www.discogs.com/release/16724367
+💿 Format(s): DVD, DVD-Video, NTSC, Special Edition
 🗃️ Analyzing version https://www.discogs.com/release/5728472
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5728472
+💿 Format(s): Vinyl, LP, Unofficial Release
 ❌ 1984 - Yes - "Yessongs"
 (https://www.discogs.com/master/555721)
 Rejected format(s): VHS, Stereo, NTSC
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Cassette, Compilation) for "Twelve Inches On Tape (Leave It / Owner Of A Lonely Heart)"
 🗃️ Looking at 5 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/25873786
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/25873786
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/7337676
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/7337676
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/17467756
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/17467756
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/19226170
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/19226170
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/4250369
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/4250369
+💿 Format(s): Cassette, Compilation
 ❌ 1984 - Yes - "Twelve Inches On Tape (Leave It / Owner Of A Lonely Heart)"
 (https://www.discogs.com/master/519936)
 Rejected format(s): Cassette, Compilation
@@ -1064,12 +1099,13 @@ Rejected format(s): Cassette, Compilation
 (https://www.discogs.com/release/9861416)
 Rejected format(s): Vinyl, LP, Transcription, Vinyl, LP, Single Sided, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, 12", 33 ⅓ RPM, Promo) for "Hold On"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/29631502
-💿 Format: Vinyl, 12", 33 ⅓ RPM, Test Pressing
+🗃️ Analyzing version https://www.discogs.com/release/29631502
+💿 Format(s): Vinyl, 12", 33 ⅓ RPM, Test Pressing
 🗃️ Analyzing version https://www.discogs.com/release/35766202
-💿 Format: Acetate, 12", 33 ⅓ RPM, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/35766202
+💿 Format(s): Acetate, 12", 33 ⅓ RPM, Stereo
 ❌ 1985 - Yes - "Hold On"
 (https://www.discogs.com/master/3381865)
 Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo
@@ -1102,48 +1138,67 @@ Found better release date: 1985-12-10
 💿 1985-12-10 - Yes - "9012Live • The Solos"
 (https://www.discogs.com/release/1751059-Yes-9012Live-The-Solos)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (VHS, Stereo, PAL) for "9012Live"
 🗃️ Looking at 20 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/8459735
-💿 Format: VHS, PAL
+🗃️ Analyzing version https://www.discogs.com/release/8459735
+💿 Format(s): VHS, PAL
 🗃️ Analyzing version https://www.discogs.com/release/15767215
-💿 Format: VHS, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15767215
+💿 Format(s): VHS, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/35763913
-💿 Format: Betamax, 
+🗃️ Analyzing version https://www.discogs.com/release/35763913
+💿 Format(s): Betamax
 🗃️ Analyzing version https://www.discogs.com/release/9803524
-💿 Format: VHD, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9803524
+💿 Format(s): VHD, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/3862230
-💿 Format: Laserdisc, NTSC, 12"
+🗃️ Analyzing version https://www.discogs.com/release/3862230
+💿 Format(s): Laserdisc, NTSC, 12"
 🗃️ Analyzing version https://www.discogs.com/release/6334256
-💿 Format: VHS, Reissue, Stereo, PAL
+🗃️ Analyzing version https://www.discogs.com/release/6334256
+💿 Format(s): VHS, Reissue, Stereo, PAL
 🗃️ Analyzing version https://www.discogs.com/release/4773957
-💿 Format: Laserdisc, NTSC, 12"
+🗃️ Analyzing version https://www.discogs.com/release/4773957
+💿 Format(s): Laserdisc, NTSC, 12"
 🗃️ Analyzing version https://www.discogs.com/release/16072055
-💿 Format: Laserdisc, NTSC, 12"
+🗃️ Analyzing version https://www.discogs.com/release/16072055
+💿 Format(s): Laserdisc, NTSC, 12"
 🗃️ Analyzing version https://www.discogs.com/release/11298979
-💿 Format: DVD, DVD-Video, NTSC, Promo
+🗃️ Analyzing version https://www.discogs.com/release/11298979
+💿 Format(s): DVD, DVD-Video, NTSC, Promo
 🗃️ Analyzing version https://www.discogs.com/release/6743952
-💿 Format: DVD, DVD-Video
+🗃️ Analyzing version https://www.discogs.com/release/6743952
+💿 Format(s): DVD, DVD-Video
 🗃️ Analyzing version https://www.discogs.com/release/8084463
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/8084463
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/6623141
-💿 Format: DVD, DVD-Video, NTSC, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6623141
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/3362697
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/3362697
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/15196030
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/15196030
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/3614959
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/3614959
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/15630136
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/15630136
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/8627879
-💿 Format: DVD, DVD-Video, NTSC, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8627879
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/6148541
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6148541
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/25582528
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Reissue, Remastered, Repress, Stereo, Mono
+🗃️ Analyzing version https://www.discogs.com/release/25582528
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Reissue, Remastered, Repress, Stereo, Mono
 🗃️ Analyzing version https://www.discogs.com/release/11407331
-💿 Format: VHS, Album, Reissue, PAL
+🗃️ Analyzing version https://www.discogs.com/release/11407331
+💿 Format(s): VHS, Album, Reissue, PAL
 ❌ 1985 - Yes - "9012Live"
 (https://www.discogs.com/master/431488)
 Rejected format(s): VHS, Stereo, PAL
@@ -1216,38 +1271,52 @@ Rejected format(s): Vinyl, LP, Transcription, Box Set
 (https://www.discogs.com/release/25866022)
 Rejected format(s): Vinyl, LP, Transcription, Vinyl, LP, Single Sided, Transcription
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Unofficial Release, Stereo) for "Periphet"
 🗃️ Looking at 15 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5305589
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5305589
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/26976902
-💿 Format: Vinyl, LP, Unofficial Release, Album
+🗃️ Analyzing version https://www.discogs.com/release/26976902
+💿 Format(s): Vinyl, LP, Unofficial Release, Album
 🗃️ Analyzing version https://www.discogs.com/release/9343573
-💿 Format: Vinyl, LP, Unofficial Release, Album
+🗃️ Analyzing version https://www.discogs.com/release/9343573
+💿 Format(s): Vinyl, LP, Unofficial Release, Album
 🗃️ Analyzing version https://www.discogs.com/release/2777175
-💿 Format: Vinyl, LP, Unofficial Release, Album
+🗃️ Analyzing version https://www.discogs.com/release/2777175
+💿 Format(s): Vinyl, LP, Unofficial Release, Album
 🗃️ Analyzing version https://www.discogs.com/release/15735026
-💿 Format: Vinyl, LP, Unofficial Release, Album
+🗃️ Analyzing version https://www.discogs.com/release/15735026
+💿 Format(s): Vinyl, LP, Unofficial Release, Album
 🗃️ Analyzing version https://www.discogs.com/release/36976740
-💿 Format: Vinyl, LP, Unofficial Release, Album
+🗃️ Analyzing version https://www.discogs.com/release/36976740
+💿 Format(s): Vinyl, LP, Unofficial Release, Album
 🗃️ Analyzing version https://www.discogs.com/release/29230900
-💿 Format: CD, Transcription
+🗃️ Analyzing version https://www.discogs.com/release/29230900
+💿 Format(s): CD, Transcription
 🗃️ Analyzing version https://www.discogs.com/release/9735920
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9735920
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9503995
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9503995
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8107783
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8107783
+💿 Format(s): CD, Unofficial Release, DVD, DVD-Video, NTSC, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/12249122
-💿 Format: CD, Limited Edition, Numbered, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/12249122
+💿 Format(s): CD, Limited Edition, Numbered, Unofficial Release, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/17306398
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/17306398
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9214310
-💿 Format: CDr, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9214310
+💿 Format(s): CDr, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8312543
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8312543
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/4559218
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4559218
+💿 Format(s): Vinyl, LP, Unofficial Release
 ❌ 1988 - Yes - "King Biscuit Flower Hour"
 (https://www.discogs.com/master/2282473)
 Rejected format(s): Vinyl, LP, Unofficial Release, Stereo
@@ -1290,12 +1359,13 @@ Rejected format(s): Vinyl, LP, Transcription
 ⌛ 1991 - Yes - "Saving My Heart (Single)"
 (https://www.discogs.com/release/1846651-Yes-Saving-My-Heart)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Promo, Single) for "Make It Easy"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/8386276
-💿 Format: Cassette, Single
+🗃️ Analyzing version https://www.discogs.com/release/8386276
+💿 Format(s): Cassette, Single
 🗃️ Analyzing version https://www.discogs.com/release/5813965
-💿 Format: Cassette, Single
+🗃️ Analyzing version https://www.discogs.com/release/5813965
+💿 Format(s): Cassette, Single
 ❌ 1991 - Yes - "Make It Easy"
 (https://www.discogs.com/master/700800)
 Rejected format(s): CD, Promo, Single
@@ -1303,12 +1373,13 @@ Rejected format(s): CD, Promo, Single
 ⌛ 1991 - Yes - "Lift Me Up (Single)"
 (https://www.discogs.com/release/1286453-Yes-Lift-Me-Up)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Promo, Sampler) for "YesYears"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5939576
-💿 Format: Cassette, Sampler, Promo
+🗃️ Analyzing version https://www.discogs.com/release/5939576
+💿 Format(s): Cassette, Sampler, Promo
 🗃️ Analyzing version https://www.discogs.com/release/3209300
-💿 Format: CD, Compilation, Promo, Sampler
+🗃️ Analyzing version https://www.discogs.com/release/3209300
+💿 Format(s): CD, Compilation, Promo, Sampler
 ❌ 1991 - Yes - "YesYears"
 (https://www.discogs.com/master/1102579)
 Rejected format(s): CD, Compilation, Promo, Sampler
@@ -1321,56 +1392,67 @@ Found better release date: 1991-10-15
 💿 1991-10-15 - Yes - "Union"
 (https://www.discogs.com/release/1913040-Yes-Union)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Box Set, Compilation) for "Yes Years"
-🗃️ Looking at 12 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/10823977
-💿 Format: CD, Compilation, Promo
-🗃️ Analyzing version https://www.discogs.com/release/9329522
-💿 Format: CD, Compilation
 ⌛ 1991 - Yes - "Yes Years (Compilation)"
 (https://www.discogs.com/release/6517892-Yes-Yes-Years)
 ———————————————————————————————————————————————————————————————
 ⌛ 1991-09-00 - Yes - "Yesstory (Compilation)"
 (https://www.discogs.com/release/1573337-Yes-Yesstory)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (VHS, PAL) for "Greatest Video Hits"
 🗃️ Looking at 18 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15109460
-💿 Format: VHS, SECAM
+🗃️ Analyzing version https://www.discogs.com/release/15109460
+💿 Format(s): VHS, SECAM
 🗃️ Analyzing version https://www.discogs.com/release/10705527
-💿 Format: VHS, Compilation, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/10705527
+💿 Format(s): VHS, Compilation, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/3842956
-💿 Format: Laserdisc, 12", NTSC, Album
+🗃️ Analyzing version https://www.discogs.com/release/3842956
+💿 Format(s): Laserdisc, 12", NTSC, Album
 🗃️ Analyzing version https://www.discogs.com/release/2880672
-💿 Format: Laserdisc, 12", NTSC
+🗃️ Analyzing version https://www.discogs.com/release/2880672
+💿 Format(s): Laserdisc, 12", NTSC
 🗃️ Analyzing version https://www.discogs.com/release/35764816
-💿 Format: Laserdisc, 12", NTSC, Album
+🗃️ Analyzing version https://www.discogs.com/release/35764816
+💿 Format(s): Laserdisc, 12", NTSC, Album
 🗃️ Analyzing version https://www.discogs.com/release/4595081
-💿 Format: CD, VCD, Reissue, PAL
+🗃️ Analyzing version https://www.discogs.com/release/4595081
+💿 Format(s): CD, VCD, Reissue, PAL
 🗃️ Analyzing version https://www.discogs.com/release/14340183
-💿 Format: VHS, Compilation, Reissue, PAL
+🗃️ Analyzing version https://www.discogs.com/release/14340183
+💿 Format(s): VHS, Compilation, Reissue, PAL
 🗃️ Analyzing version https://www.discogs.com/release/7054340
-💿 Format: DVD, DVD-Video, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/7054340
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/9034879
-💿 Format: DVD, DVD-Video, NTSC, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9034879
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/8719442
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8719442
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/5784079
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/5784079
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/11112641
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/11112641
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/12756782
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/12756782
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/2973594
-💿 Format: DVD, DVD-Video, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/2973594
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/8341913
-💿 Format: DVD, DVD-Video, NTSC, Compilation, Copy Protected, Repress
+🗃️ Analyzing version https://www.discogs.com/release/8341913
+💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Copy Protected, Repress
 🗃️ Analyzing version https://www.discogs.com/release/7383375
-💿 Format: DVD, DVD-Video, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7383375
+💿 Format(s): DVD, DVD-Video, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/12757151
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/12757151
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/11431379
-💿 Format: DVD, DVD-Video, NTSC, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11431379
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
 ❌ 1991 - Yes - "Greatest Video Hits"
 (https://www.discogs.com/master/431489)
 Rejected format(s): VHS, PAL
@@ -1394,46 +1476,60 @@ Rejected genre(s): Rock,Non-Music
 (https://www.discogs.com/release/28021107)
 Rejected format(s): CD, Promo, Transcription
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Laserdisc, 12", Mono, NTSC) for "Live 1975 At Q.P.R."
 🗃️ Looking at 8 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/7360329
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7360329
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9971344
-💿 Format: Laserdisc, 12", Reissue, Mono, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/9971344
+💿 Format(s): Laserdisc, 12", Reissue, Mono, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/36825502
-💿 Format: DVD, DVD-Video, NTSC, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/36825502
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/17991631
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/17991631
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/11317223
-💿 Format: CD, Album, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11317223
+💿 Format(s): CD, Album, Reissue, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/31772078
-💿 Format: DVDr, DVD-Video, NTSC, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/31772078
+💿 Format(s): DVDr, DVD-Video, NTSC, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/14425544
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/14425544
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9405744
-💿 Format: VHS, Unofficial Release, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/9405744
+💿 Format(s): VHS, Unofficial Release, NTSC
 ❌ 1993 - Yes - "Live 1975 At Q.P.R."
 (https://www.discogs.com/master/1150112)
 Rejected format(s): Laserdisc, 12", Mono, NTSC
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Remastered) for "Highlights - The Very Best Of Yes"
 🗃️ Looking at 49 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/2459677
-💿 Format: CD, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/2459677
+💿 Format(s): CD, Compilation, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/5341057
-💿 Format: CD, Compilation, Club Edition, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/5341057
+💿 Format(s): CD, Compilation, Club Edition, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/22859312
-💿 Format: Cassette, Compilation, Club Edition, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/22859312
+💿 Format(s): Cassette, Compilation, Club Edition, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/8806743
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/8806743
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/10220146
-💿 Format: Cassette, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/10220146
+💿 Format(s): Cassette, Compilation, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/11760628
-💿 Format: Cassette, Compilation, Promo, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/11760628
+💿 Format(s): Cassette, Compilation, Promo, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/20178208
-💿 Format: Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/20178208
+💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/10836298
-💿 Format: CD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/10836298
+💿 Format(s): CD, Compilation
 ⌛ 1993 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
 (https://www.discogs.com/release/7122772-Yes-Highlights-The-Very-Best-Of-Yes)
 ———————————————————————————————————————————————————————————————
@@ -1455,45 +1551,50 @@ Rejected format(s): CD, Transcription
 ⌛ 1994 - Yes - "The Calling (Single)"
 (https://www.discogs.com/release/4854289-Yes-The-Calling)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC) for "Live 1975 At Q.P.R. Vol. 1"
 🗃️ Looking at 7 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/21628336
-💿 Format: Laserdisc, 12", Mono, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/21628336
+💿 Format(s): Laserdisc, 12", Mono, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/15150494
-💿 Format: CD, VCD, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15150494
+💿 Format(s): CD, VCD, Stereo, NTSC
 ⌛ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
 (https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC) for "Live 1975 At Q.P.R. Vol. 2"
 🗃️ Looking at 8 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/18188974
-💿 Format: Laserdisc, 12", Reissue, Mono, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/18188974
+💿 Format(s): Laserdisc, 12", Reissue, Mono, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/14118071
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/14118071
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/15150607
-💿 Format: CD, VCD, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15150607
+💿 Format(s): CD, VCD, Stereo, NTSC
 ⌛ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
 (https://www.discogs.com/release/7028734-Yes-Live-1975-At-QPR-Vol-2)
 ———————————————————————————————————————————————————————————————
 💿 1994-03-02 - Yes - "Talk"
 (https://www.discogs.com/release/1273971-Yes-Talk)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Single, Promo) for "Walls"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9549113
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/9549113
+💿 Format(s): CD, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/5420049
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/5420049
+💿 Format(s): CD, Single, Promo
 ❌ 1994 - Yes - "Walls"
 (https://www.discogs.com/master/656889)
 Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (VHS, PAL) for "Live In Philadelphia 1979"
 🗃️ Looking at 15 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9106188
-💿 Format: Laserdisc, NTSC, 12", Single Sided
+🗃️ Analyzing version https://www.discogs.com/release/9106188
+💿 Format(s): Laserdisc, NTSC, 12", Single Sided
 🗃️ Analyzing version https://www.discogs.com/release/3361189
-💿 Format: CD, VCD
+🗃️ Analyzing version https://www.discogs.com/release/3361189
+💿 Format(s): CD, VCD
 ⌛ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
 (https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
 ———————————————————————————————————————————————————————————————
@@ -1512,48 +1613,67 @@ Rejected format(s): CD, Single, Promo
 💿 1996-10-22 - Yes - "Keys To Ascension"
 (https://www.discogs.com/release/1025881-Yes-Keys-To-Ascension)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (VHS, PAL) for "Keys To Ascension"
 🗃️ Looking at 20 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15119238
-💿 Format: DVD, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15119238
+💿 Format(s): DVD, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/22125334
-💿 Format: VHS, Album, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/22125334
+💿 Format(s): VHS, Album, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/16116372
-💿 Format: VHS, PAL
+🗃️ Analyzing version https://www.discogs.com/release/16116372
+💿 Format(s): VHS, PAL
 🗃️ Analyzing version https://www.discogs.com/release/28971844
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/28971844
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/4896645
-💿 Format: Laserdisc, NTSC, 12"
+🗃️ Analyzing version https://www.discogs.com/release/4896645
+💿 Format(s): Laserdisc, NTSC, 12", Laserdisc, NTSC, 12", Single Sided
 🗃️ Analyzing version https://www.discogs.com/release/6375887
-💿 Format: VHS, PAL
+🗃️ Analyzing version https://www.discogs.com/release/6375887
+💿 Format(s): VHS, PAL
 🗃️ Analyzing version https://www.discogs.com/release/6788605
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/6788605
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/13032988
-💿 Format: VHS, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/13032988
+💿 Format(s): VHS, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/7194709
-💿 Format: DVD, DVD-Video, PAL, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/7194709
+💿 Format(s): DVD, DVD-Video, PAL, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/10484010
-💿 Format: DVD, DVD-Video, NTSC, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10484010
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/2973698
-💿 Format: DVD, DVD-Video, PAL, Reissue, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/2973698
+💿 Format(s): DVD, DVD-Video, PAL, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/5460388
-💿 Format: Hybrid, DVDplus, PAL, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/5460388
+💿 Format(s): Hybrid, DVDplus, PAL, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/5466524
-💿 Format: DVD, DVD-Video, Multichannel, PAL
+🗃️ Analyzing version https://www.discogs.com/release/5466524
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL
 🗃️ Analyzing version https://www.discogs.com/release/29011861
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/29011861
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/6229303
-💿 Format: DVD, DVD-Video, NTSC, Reissue, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6229303
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/29826145
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/29826145
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/22594868
-💿 Format: DVD, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/22594868
+💿 Format(s): DVD, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/13166355
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue, Repress
+🗃️ Analyzing version https://www.discogs.com/release/13166355
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Repress
 🗃️ Analyzing version https://www.discogs.com/release/6597738
-💿 Format: DVD, DVD-Video, PAL, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/6597738
+💿 Format(s): DVD, DVD-Video, PAL, Unofficial Release, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/36205228
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/36205228
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue
 ❌ 1996 - Yes - "Keys To Ascension"
 (https://www.discogs.com/master/431492)
 Rejected format(s): VHS, PAL
@@ -1603,12 +1723,13 @@ Found better release date: 1997-12-17
 💿 1997-12-17 - Yes - "Open Your Eyes"
 (https://www.discogs.com/release/1669986-Yes-Open-Your-Eyes)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Single, Promo) for "Open Your Eyes"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4981944
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/4981944
+💿 Format(s): CD, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/8339365
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/8339365
+💿 Format(s): CD, Single, Promo
 ❌ 1997 - Yes - "Open Your Eyes"
 (https://www.discogs.com/master/981764)
 Rejected format(s): CD, Single, Promo
@@ -1623,71 +1744,98 @@ Found better release date: 1997-11-03
 💿 1997-11-03 - Yes - "Keys To Ascension 2"
 (https://www.discogs.com/release/594710-Yes-Keys-To-Ascension-2)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Album, Compilation, Remastered) for "Something's Coming: The BBC Recordings 1969-1970"
 🗃️ Looking at 27 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/14798641
-💿 Format: CD, Album, Compilation, Remastered, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/14798641
+💿 Format(s): CD, Album, Compilation, Remastered, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/32586951
-💿 Format: CD, Album, Compilation, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/32586951
+💿 Format(s): CD, Album, Compilation, Remastered
 🗃️ Analyzing version https://www.discogs.com/release/3618240
-💿 Format: Vinyl, LP, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/3618240
+💿 Format(s): Vinyl, LP, Compilation, Vinyl, 7", 33 ⅓ RPM, Single Sided
 ⌛ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
 (https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Unofficial Release) for "Stellar Attraction"
 🗃️ Looking at 26 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/26691707
-💿 Format: Vinyl, LP, Album, Unofficial Release, White Label, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/26691707
+💿 Format(s): Vinyl, LP, Album, Unofficial Release, White Label, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/1035358
-💿 Format: Vinyl, White Label, Unofficial Release, LP
+🗃️ Analyzing version https://www.discogs.com/release/1035358
+💿 Format(s): Vinyl, White Label, Unofficial Release, LP
 🗃️ Analyzing version https://www.discogs.com/release/9922088
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9922088
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/2713265
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/2713265
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/4353519
-💿 Format: Vinyl, LP, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/4353519
+💿 Format(s): Vinyl, LP, Unofficial Release, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/6011656
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6011656
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/6220941
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6220941
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/5049592
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5049592
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/5057128
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5057128
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/4031148
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4031148
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/2462577
-💿 Format: Vinyl, LP, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/2462577
+💿 Format(s): Vinyl, LP, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8940128
-💿 Format: CD, Numbered, Unofficial Release, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8940128
+💿 Format(s): CD, Numbered, Unofficial Release, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/9721208
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9721208
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/756722
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/756722
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/16720569
-💿 Format: CD, Transcription
+🗃️ Analyzing version https://www.discogs.com/release/16720569
+💿 Format(s): CD, Transcription
 🗃️ Analyzing version https://www.discogs.com/release/8111398
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8111398
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/10089765
-💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10089765
+💿 Format(s): CD, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8113115
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8113115
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/6715881
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6715881
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/23920844
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/23920844
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/33419621
-💿 Format: CD, Limited Edition, Numbered, Promo, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/33419621
+💿 Format(s): CD, Limited Edition, Numbered, Promo, Remastered, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/24798143
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/24798143
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/29817805
-💿 Format: Vinyl, LP, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/29817805
+💿 Format(s): Vinyl, LP, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/29817892
-💿 Format: Vinyl, LP, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/29817892
+💿 Format(s): Vinyl, LP, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/25830109
-💿 Format: CDr, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/25830109
+💿 Format(s): CDr, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9209021
-💿 Format: CDr, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9209021
+💿 Format(s): CDr, Album, Unofficial Release
 ❌ 1998 - Yes - "King Biscuit Flower Hour"
 (https://www.discogs.com/master/491661)
 Rejected format(s): Vinyl, LP, Unofficial Release
@@ -1695,17 +1843,11 @@ Rejected format(s): Vinyl, LP, Unofficial Release
 ⌛ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue) for "Keys To Ascension (Volumes 1 And 2)"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/3590105
-💿 Format: CD, Album, Reissue, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/33202977
-💿 Format: CD, Album, Repress, Stereo
-🗓️ Imprecise date (1998) for "Keys To Ascension (Volumes 1 And 2)"
-🗃️ Looking at 2 alternate version(s)
-🗓️ No more versions for year 1998
-🗓️ No better date found
-💿 1998 - Yes - "Keys To Ascension (Volumes 1 And 2)"
+🗃️ Analyzing version https://www.discogs.com/release/3590105
+💿 Format(s): CD, Album, Reissue, Stereo, CD, Album, Reissue, Stereo, DVD, DVD-Video, NTSC, Album, All Media, Compilation
+⌛ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2) (Compilation)"
 (https://www.discogs.com/release/4862404-Yes-Keys-To-Ascension-Volumes-1-And-2)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "If Only You Knew"
@@ -1716,37 +1858,39 @@ Rejected format(s): CD, Single, Promo
 (https://www.discogs.com/release/15943796)
 Rejected format(s): CD, CD-ROM, Promo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Album, Limited Edition, Numbered) for "The Ladder"
 🗃️ Looking at 50 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/21848851
-💿 Format: CD, Album
+🗃️ Analyzing version https://www.discogs.com/release/21848851
+💿 Format(s): CD, Album
 💿 1999-10-20 - Yes - "The Ladder"
 (https://www.discogs.com/release/2125083-Yes-The-Ladder)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC) for "The Best Of MusikLaden Live"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9982346
-💿 Format: DVD, Multichannel, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9982346
+💿 Format(s): DVD, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/13262302
-💿 Format: DVD, 
+🗃️ Analyzing version https://www.discogs.com/release/13262302
+💿 Format(s): DVD
 ❌ 1999 - Yes - "The Best Of MusikLaden Live"
 (https://www.discogs.com/master/1151109)
 Rejected format(s): DVD, DVD-Video, NTSC
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Single, Promo) for "Lightning Strikes (She Ay ... Do Wa Bap)"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/37111218
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/37111218
+💿 Format(s): CD, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/9447730
-💿 Format: CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/9447730
+💿 Format(s): CD, Single, Promo
 ❌ 1999 - Yes - "Lightning Strikes (She Ay ... Do Wa Bap)"
 (https://www.discogs.com/master/1202596)
 Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Single, Promo) for "Homeworld (The Ladder)"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/37451157
-💿 Format: CDr, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/37451157
+💿 Format(s): CDr, Single, Promo
 ❌ 1999 - Yes - "Homeworld (The Ladder)"
 (https://www.discogs.com/master/4237746)
 Rejected format(s): CD, Single, Promo
@@ -1757,14 +1901,16 @@ Rejected format(s): CD, Single, Promo
 ⌛ 1999 - Yes - "The Best Of Yes 1970-1987 (Compilation)"
 (https://www.discogs.com/release/4862479-Yes-The-Best-Of-Yes-1970-1987)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Laserdisc, 12", NTSC) for "The Union Tour Live"
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/19662169
-💿 Format: VHS, Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/19662169
+💿 Format(s): VHS, Stereo, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/4981550
-💿 Format: DVD, DVD-Video, NTSC, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/4981550
+💿 Format(s): DVD, DVD-Video, NTSC, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/17061132
-💿 Format: DVD, DVD-Video, NTSC, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/17061132
+💿 Format(s): DVD, DVD-Video, NTSC, Multichannel
 ❌ 1999 - Yes - "The Union Tour Live"
 (https://www.discogs.com/master/415666)
 Rejected format(s): Laserdisc, 12", NTSC
@@ -1772,14 +1918,16 @@ Rejected format(s): Laserdisc, 12", NTSC
 ⌛ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two) (Compilation)"
 (https://www.discogs.com/release/1607856-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives-Volume-Two)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CDr, Compilation, Limited Edition, Promo) for "The Masterworks (Your Title)"
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4816882
-💿 Format: CDr, Compilation, Special Edition
+🗃️ Analyzing version https://www.discogs.com/release/4816882
+💿 Format(s): CDr, Compilation, Special Edition
 🗃️ Analyzing version https://www.discogs.com/release/20369287
-💿 Format: CDr, Compilation, Limited Edition
+🗃️ Analyzing version https://www.discogs.com/release/20369287
+💿 Format(s): CDr, Compilation, Limited Edition
 🗃️ Analyzing version https://www.discogs.com/release/15753431
-💿 Format: CDr, Compilation, Limited Edition, Promo
+🗃️ Analyzing version https://www.discogs.com/release/15753431
+💿 Format(s): CDr, Compilation, Limited Edition, Promo
 ❌ 2000 - Yes - "The Masterworks (Your Title)"
 (https://www.discogs.com/master/1174695)
 Rejected format(s): CDr, Compilation, Limited Edition, Promo
@@ -1876,10 +2024,10 @@ Found better release date: 2001-09-10
 ⌛ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
 (https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Remastered) for "In A Word: Yes (1969 -    )"
 🗃️ Looking at 6 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/3982386
-💿 Format: CD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/3982386
+💿 Format(s): CD, Compilation
 ⌛ 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
 (https://www.discogs.com/release/507282-Yes-In-A-Word-Yes-1969-)
 ———————————————————————————————————————————————————————————————
@@ -1889,40 +2037,16 @@ Invalid format(s) (CD, Compilation, Remastered) for "In A Word: Yes (1969 -    )
 ⌛ 2002 - Yes - "Extended Versions: The Encore Collection (Compilation)"
 (https://www.discogs.com/release/4631578-Yes-Extended-Versions-The-Encore-Collection)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, Multichannel, PAL) for "Symphonic Live"
 🗃️ Looking at 34 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/19982605
-💿 Format: DVD, DVD-Video, Multichannel, PAL
+🗃️ Analyzing version https://www.discogs.com/release/19982605
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL
 🗃️ Analyzing version https://www.discogs.com/release/4961391
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/4961391
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/6148612
-💿 Format: DVD, DVD-Video, Multichannel, PAL
-🗃️ Analyzing version https://www.discogs.com/release/23693687
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/9034940
-💿 Format: DVD, DVD-Video, Multichannel, PAL
-🗃️ Analyzing version https://www.discogs.com/release/9921035
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/25271194
-💿 Format: DVD, DVD-Audio, Promo, Special Edition
-🗃️ Analyzing version https://www.discogs.com/release/4648358
-💿 Format: DVD, DVD-Video, Multichannel, PAL
-🗃️ Analyzing version https://www.discogs.com/release/1175676
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/8439166
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Reissue, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/4403664
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Reissue
-🗃️ Analyzing version https://www.discogs.com/release/10321225
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/35829019
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/29801392
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/13207940
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Album
-🗃️ Analyzing version https://www.discogs.com/release/23490293
-💿 Format: CD, Album, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/6148612
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL, CD, Album
 🗓️ Imprecise date (2002) for "Symphonic Live"
 🗃️ Looking at 34 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/19982605
@@ -1952,10 +2076,10 @@ Invalid format(s) (DVD, DVD-Video, Multichannel, PAL) for "Symphonic Live"
 ⌛ 2003 - Yes - "The Yes Story (Compilation)"
 (https://www.discogs.com/release/2058596-Yes-The-Yes-Story)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, PAL, Unofficial Release) for "Inside Yes 1968-1973 (An Independent Critical Review)"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15520495
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15520495
+💿 Format(s): DVD, DVD-Video, NTSC
 ❌ 2003 - Yes - "Inside Yes 1968-1973 (An Independent Critical Review)"
 (https://www.discogs.com/master/3154695)
 Rejected format(s): DVD, DVD-Video, PAL, Unofficial Release
@@ -1963,10 +2087,10 @@ Rejected format(s): DVD, DVD-Video, PAL, Unofficial Release
 ⌛ 2003-07-08 - Yes - "Remixes (Compilation)"
 (https://www.discogs.com/release/2068513-Yes-Remixes)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, PAL, EP, Compilation) for "Special Edition E P"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/1175701
-💿 Format: DVD, NTSC, DVD-Video
+🗃️ Analyzing version https://www.discogs.com/release/1175701
+💿 Format(s): DVD, NTSC, DVD-Video
 ❌ 2003 - Yes - "Special Edition E P"
 (https://www.discogs.com/master/513141)
 Rejected format(s): DVD, DVD-Video, PAL, EP, Compilation
@@ -1977,26 +2101,34 @@ Rejected format(s): DVD, DVD-Video, PAL, EP, Compilation
 ⌛ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection (Compilation)"
 (https://www.discogs.com/release/2623615-Yes-The-Ultimate-Yes-35th-Anniversary-Collection)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC, Stereo, Multichannel) for "YesSpeak"
 🗃️ Looking at 9 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/13252872
-💿 Format: DVD, DVD-Video, NTSC, Promo, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/13252872
+💿 Format(s): DVD, DVD-Video, NTSC, Promo, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/2973546
-💿 Format: DVD, DVD-Video, PAL, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/2973546
+💿 Format(s): DVD, DVD-Video, PAL, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/12966797
-💿 Format: DVD, DVD-Video, NTSC, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/12966797
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/10291357
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10291357
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/11596394
-💿 Format: DVD, DVD-Video, NTSC, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/11596394
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/11606768
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Double Sided, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/11606768
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL, Double Sided, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/14334897
-💿 Format: DVD, DVD-Video, NTSC, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/14334897
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/6622933
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Double Sided, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/6622933
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL, Double Sided, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8810919
-💿 Format: DVD, DVD-Video, NTSC, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/8810919
+💿 Format(s): DVD, DVD-Video, NTSC, Compilation
 ❌ 2003 - Yes - "YesSpeak"
 (https://www.discogs.com/master/349953)
 Rejected format(s): DVD, DVD-Video, NTSC, Stereo, Multichannel
@@ -2014,72 +2146,68 @@ Rejected format(s): CDr, Transcription
 ⌛ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics) (Compilation)"
 (https://www.discogs.com/release/14865771-Yes-Topography-The-Yes-Anthology-Studio-Live-Solo-Classics)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC) for "Songs From Tsongas - Yes 35th Anniversary Concert"
 🗃️ Looking at 23 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4869882
-💿 Format: DVD, DVD-Video, Multichannel, PAL
+🗃️ Analyzing version https://www.discogs.com/release/4869882
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL
 🗃️ Analyzing version https://www.discogs.com/release/20625430
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/20625430
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/2517735
-💿 Format: DVD, DVD-Video, Multichannel, PAL, Copy Protected, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/2517735
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL, Copy Protected, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/16409346
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/16409346
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/9035014
-💿 Format: DVD, DVD-Video, Multichannel, PAL
+🗃️ Analyzing version https://www.discogs.com/release/9035014
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL
 🗃️ Analyzing version https://www.discogs.com/release/11596418
-💿 Format: DVD, DVD-Video, Multichannel, PAL
+🗃️ Analyzing version https://www.discogs.com/release/11596418
+💿 Format(s): DVD, DVD-Video, Multichannel, PAL
 🗃️ Analyzing version https://www.discogs.com/release/6788950
-💿 Format: Blu-ray, Reissue, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/15227688
-💿 Format: Blu-ray, 
-🗃️ Analyzing version https://www.discogs.com/release/11425138
-💿 Format: Blu-ray, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/30330161
-💿 Format: DVD, DVD-Video, Special Edition
-🗃️ Analyzing version https://www.discogs.com/release/6330402
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/8867210
-💿 Format: DVD, DVD-Video
-🗃️ Analyzing version https://www.discogs.com/release/15626096
-💿 Format: Blu-ray, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/16127385
-💿 Format: CD, Album, Stereo
-🗓️ Imprecise date (2004) for "Songs From Tsongas - Yes 35th Anniversary Concert"
-🗃️ Looking at 23 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/4869882
-🗓️ Release date: 2004
-🗓️ No more versions for year 2004
-🗓️ No better date found
-💿 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert"
+🗃️ Analyzing version https://www.discogs.com/release/6788950
+💿 Format(s): Blu-ray, Reissue, Stereo, Multichannel, CD, Stereo, All Media, Special Edition
+⌛ 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert (Unknown)"
 (https://www.discogs.com/release/5856390-Yes-Songs-From-Tsongas-Yes-35th-Anniversary-Concert)
 ———————————————————————————————————————————————————————————————
 ⌛ 2004 - Yes - "(Re)Union (Compilation)"
 (https://www.discogs.com/release/16583640-Yes-ReUnion)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, Multichannel, PAL, Stereo) for "Acoustic (Guaranteed No Hiss)"
 🗃️ Looking at 11 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4334220
-💿 Format: DVD, DVD-Video, PAL
+🗃️ Analyzing version https://www.discogs.com/release/4334220
+💿 Format(s): DVD, DVD-Video, PAL
 🗃️ Analyzing version https://www.discogs.com/release/10381587
-💿 Format: DVD, DVD-Video, PAL, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10381587
+💿 Format(s): DVD, DVD-Video, PAL, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/11588144
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/11588144
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/34971725
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/34971725
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/9804736
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/9804736
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Copy Protected, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/8786815
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/8786815
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/5290171
-💿 Format: DVD, DVD-Video, NTSC, Copy Protected
+🗃️ Analyzing version https://www.discogs.com/release/5290171
+💿 Format(s): DVD, DVD-Video, NTSC, Copy Protected
 🗃️ Analyzing version https://www.discogs.com/release/7699331
-💿 Format: DVD, DVD-Video, PAL, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/7699331
+💿 Format(s): DVD, DVD-Video, PAL, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/7460654
-💿 Format: DVD, DVD-Video, Multichannel, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/7460654
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/12946390
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/12946390
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/4968746
-💿 Format: DVD, DVD-Video, NTSC, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/4968746
+💿 Format(s): DVD, DVD-Video, NTSC, Reissue
 ❌ 2004 - Yes - "Acoustic (Guaranteed No Hiss)"
 (https://www.discogs.com/master/528052)
 Rejected format(s): DVD, DVD-Video, Multichannel, PAL, Stereo
@@ -2100,9 +2228,8 @@ Found better release date: 2005-09-21
 ⌛ 2005-10-03 - Yes - "The Solid Gold Collection (Compilation)"
 (https://www.discogs.com/release/10129092-Yes-The-Solid-Gold-Collection)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Live And Solo (The Yes Collection)"
-(https://www.discogs.com/release/1295583)
-Rejected format(s): CD, Compilation, Box Set
+⌛ 2006 - Yes - "Live And Solo (The Yes Collection) (Compilation)"
+(https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection)
 ———————————————————————————————————————————————————————————————
 ⌛ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart)
@@ -2110,26 +2237,25 @@ Rejected format(s): CD, Compilation, Box Set
 ⌛ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, Compilation, Special Edition, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album) for "Essentially"
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/5289585
-💿 Format: Box Set, Compilation, Special Edition
-❌ 2006 - Yes - "Essentially"
-(https://www.discogs.com/master/979557)
-Rejected format(s): Box Set, Compilation, Special Edition, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album
+⌛ 2006 - Yes - "Essentially (Compilation)"
+(https://www.discogs.com/release/8311441-Yes-Essentially)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video, NTSC, Deluxe Edition, Stereo) for "Their Definitive Fully Authorised Story In A 2 Disc Deluxe Set"
 🗃️ Looking at 5 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/11168371
-💿 Format: DVD, DVD-Video, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/11168371
+💿 Format(s): DVD, DVD-Video, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/11824234
-💿 Format: DVD, DVD-Video, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/11824234
+💿 Format(s): DVD, DVD-Video, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/32174514
-💿 Format: DVD, DVD-Video, PAL, Special Edition, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/32174514
+💿 Format(s): DVD, DVD-Video, PAL, Special Edition, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/8992039
-💿 Format: DVD, DVD-Video, PAL, Special Edition, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/8992039
+💿 Format(s): DVD, DVD-Video, PAL, Special Edition, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/10571457
-💿 Format: DVD, DVD-Video, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/10571457
+💿 Format(s): DVD, DVD-Video, Stereo
 ❌ 2006 - Yes - "Their Definitive Fully Authorised Story In A 2 Disc Deluxe Set"
 (https://www.discogs.com/master/1068095)
 Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo
@@ -2175,10 +2301,10 @@ Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo
 ⌛ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
 (https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Compilation, Remastered) for "The Definitive Rock Collection"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/12946994
-💿 Format: CD, Compilation, Club Edition, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/12946994
+💿 Format(s): CD, Compilation, Club Edition, Remastered
 ❌ 2007 - Yes - "The Definitive Rock Collection"
 (https://www.discogs.com/master/1471276)
 Rejected format(s): CD, Compilation, Remastered
@@ -2192,22 +2318,25 @@ Rejected format(s): CD, Compilation, Remastered
 ⌛ 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart)
 ———————————————————————————————————————————————————————————————
-❌ 2008 - Yes - "Magnification / Talk"
-(https://www.discogs.com/release/3900250)
-Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
+⌛ 2008-05-00 - Yes - "Magnification / Talk (Compilation)"
+(https://www.discogs.com/release/3900250-Yes-Magnification-Talk)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, DVD-Video) for "Yes - The New Director's Cut"
 🗃️ Looking at 5 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9950309
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/9950309
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/36879499
-💿 Format: DVD, DVD-Video
+🗃️ Analyzing version https://www.discogs.com/release/36879499
+💿 Format(s): DVD, DVD-Video
 🗃️ Analyzing version https://www.discogs.com/release/29839642
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/29839642
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/15892911
-💿 Format: DVD, DVD-Video, Multichannel, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/15892911
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/10114427
-💿 Format: DVD, DVD-Video
+🗃️ Analyzing version https://www.discogs.com/release/10114427
+💿 Format(s): DVD, DVD-Video
 ❌ 2008 - Yes - "Yes - The New Director's Cut"
 (https://www.discogs.com/master/1150438)
 Rejected format(s): DVD, DVD-Video
@@ -2227,9 +2356,8 @@ Rejected format(s): DVD, DVD-Video, NTSC
 (https://www.discogs.com/release/3435662)
 Rejected format(s): CD, Sampler, Promo, Compilation
 ———————————————————————————————————————————————————————————————
-❌ 2009 - Deep Purple, Yes & Friends* - "Rock Heroes"
-(https://www.discogs.com/release/4977721)
-Rejected format(s): CD, Compilation, Box Set
+⌛ 2009 - Deep Purple, Yes, Various - "Rock Heroes (Compilation)"
+(https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes)
 ———————————————————————————————————————————————————————————————
 ⌛ 2009 - Yes - "Best Of (Compilation)"
 (https://www.discogs.com/release/7627209-Yes-Best-Of)
@@ -2249,17 +2377,17 @@ Rejected format(s): Memory Stick, MP3
 ⌛ 2009 - Yes - "Introducing: Yes (Compilation)"
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
 ———————————————————————————————————————————————————————————————
-❌ 2010 - Yes - "Open Your Eyes / Magnification"
-(https://www.discogs.com/release/12917852)
-Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
+⌛ 2010 - Yes - "Open Your Eyes / Magnification (Compilation)"
+(https://www.discogs.com/release/12917852-Yes-Open-Your-Eyes-Magnification)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Album, Limited Edition) for "Union Live"
 🗃️ Looking at 8 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/34297828
-💿 Format: DVD, DVD-Video, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/34297828
+💿 Format(s): DVD, DVD-Video, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/3364818
-💿 Format: CD, Album
-💿 2011-05-25 - Yes - "Union Live"
+🗃️ Analyzing version https://www.discogs.com/release/3364818
+💿 Format(s): CD, Album, DVD, DVD-Video, Multichannel, NTSC, Compilation, Stereo, All Media, Deluxe Edition, Limited Edition
+⌛ 2011-05-25 - Yes - "Union Live (Compilation)"
 (https://www.discogs.com/release/3450063-Yes-Union-Live)
 ———————————————————————————————————————————————————————————————
 ❌ 2011 - Asia (2) / Yes - "Prog Rock Box"
@@ -2272,12 +2400,13 @@ Rejected format(s): Blu-ray, Blu-ray, Box Set, Compilation
 💿 2011-07-01 - Yes - "Fly From Here"
 (https://www.discogs.com/release/3005266-Yes-Fly-From-Here)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Single, Promo) for "We Can Fly"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/13533030
-💿 Format: CDr, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/13533030
+💿 Format(s): CDr, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/3807410
-💿 Format: File, MP3, Single, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/3807410
+💿 Format(s): File, MP3, Single, Stereo
 ❌ 2011 - Yes - "We Can Fly"
 (https://www.discogs.com/master/1299207)
 Rejected format(s): CD, Single, Promo
@@ -2290,14 +2419,16 @@ Found better release date: 2011-11-23
 💿 2011-11-23 - Yes - "In The Present (Live From Lyon)"
 (https://www.discogs.com/release/3462143-Yes-In-The-Present-Live-From-Lyon)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (DVD, NTSC) for "Heart Of The Sunrise/Live In Chile"
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/14409812
-💿 Format: DVD, DVD-Video, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/14409812
+💿 Format(s): DVD, DVD-Video, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/15747112
-💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/15747112
+💿 Format(s): CD, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/3362708
-💿 Format: DVD, DVD-Video, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/3362708
+💿 Format(s): DVD, DVD-Video, Unofficial Release
 ❌ 2011 - Yes - "Heart Of The Sunrise/Live In Chile"
 (https://www.discogs.com/master/1642225)
 Rejected format(s): DVD, NTSC
@@ -2305,15 +2436,15 @@ Rejected format(s): DVD, NTSC
 ⌛ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
 (https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Repress, Box Set, Compilation) for "The Triple Album Collection"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/19477654
-💿 Format: CD, Album, Misprint, Reissue, Remastered, Repress, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/19477654
+💿 Format(s): CD, Album, Misprint, Reissue, Remastered, Repress, Stereo, CD, Album, Reissue, Remastered, Repress, Stereo, CD, Album, Misprint, Reissue, Repress, Stereo, Box Set, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/10326456
-💿 Format: CD, Album, Reissue
-❌ 2012 - Yes - "The Triple Album Collection"
-(https://www.discogs.com/master/1531396)
-Rejected format(s): CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Repress, Box Set, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/10326456
+💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
+⌛ 2012 - Yes - "The Triple Album Collection (Compilation)"
+(https://www.discogs.com/release/7154997-Yes-The-Triple-Album-Collection)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Yes - "High Vibration - SACD Box"
 (https://www.discogs.com/release/4960370)
@@ -2327,20 +2458,21 @@ Rejected format(s): DVD, DVD-Video, NTSC
 (https://www.discogs.com/release/5281850)
 Rejected format(s): CD, Mini, Promo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation) for "Original Album Series"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/12640117
-💿 Format: CD, Album, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/12640117
+💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation, Repress
 ❌ 2013 - Yes - "Original Album Series"
 (https://www.discogs.com/master/1436085)
 Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered) for "The Studio Albums 1969-1987"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/11885992
-💿 Format: File, FLAC, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/11885992
+💿 Format(s): File, FLAC, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/6414219
-💿 Format: File, FLAC, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/6414219
+💿 Format(s): File, FLAC, Compilation, Reissue
 ❌ 2013 - Yes - "The Studio Albums 1969-1987"
 (https://www.discogs.com/master/770579)
 Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered
@@ -2348,12 +2480,10 @@ Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Al
 ⌛ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
 (https://www.discogs.com/release/7061870-Yes-The-Greatest-Hits)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (File, MP3, Album, Promo) for "Like It Is: Yes At The Bristol Hippodrome"
 🗃️ Looking at 11 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/6451442
-💿 Format: DVD, DVD-Video, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/6402940
-💿 Format: CD, Album
+🗃️ Analyzing version https://www.discogs.com/release/6451442
+💿 Format(s): DVD, DVD-Video, NTSC, CD, Album, All Media, Limited Edition
 🗓️ Imprecise date (2014) for "Like It Is: Yes At The Bristol Hippodrome"
 🗃️ Looking at 11 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/6451442
@@ -2362,10 +2492,10 @@ Found better release date: 2014-11-19
 💿 2014-11-19 - Yes - "Like It Is: Yes At The Bristol Hippodrome"
 (https://www.discogs.com/release/8565441-Yes-Like-It-Is-Yes-At-The-Bristol-Hippodrome)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (File, MP3, Album, Promo) for "Heaven & Earth"
 🗃️ Looking at 13 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5894293
-💿 Format: Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/5894293
+💿 Format(s): Vinyl, LP, Album
 🗓️ Imprecise date (2014) for "Heaven & Earth"
 🗃️ Looking at 13 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5894293
@@ -2374,24 +2504,13 @@ Found better release date: 2014-07-18
 💿 2014-07-18 - Yes - "Heaven & Earth"
 (https://www.discogs.com/release/8565468-Yes-Heaven-Earth)
 ———————————————————————————————————————————————————————————————
-❌ 2015 - Yes, Arc Angel (2) - "This Is Metal · Vol. 16"
-(https://www.discogs.com/release/33790800)
-Rejected format(s): CD, Album, DVD, DVD-Video, NTSC, CD, Album, All Media, Compilation, Limited Edition
+⌛ 2015 - Yes, Arc Angel - "This Is Metal · Vol. 16 (Compilation)"
+(https://www.discogs.com/release/33790800-Yes-Arc-Angel-2-This-Is-Metal-Vol-16)
 ———————————————————————————————————————————————————————————————
 💿 2015-07-00 - Yes - "Like It Is: At The Mesa Arts Center"
 (https://www.discogs.com/release/7298061-Yes-Like-It-Is-At-The-Mesa-Arts-Center)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, CD, Mispress) for "Progeny: Seven Shows From Seventy-Two"
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/15931082
-💿 Format: Box Set, 
-🗃️ Analyzing version https://www.discogs.com/release/7381298
-💿 Format: Box Set, Deluxe Edition, Limited Edition
-🗃️ Analyzing version https://www.discogs.com/release/36771757
-💿 Format: CDr, Promo
-🗃️ Analyzing version https://www.discogs.com/release/25410043
-💿 Format: Vinyl, LP, Album
-💿 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two"
+⌛ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
 (https://www.discogs.com/release/7057137-Yes-Progeny-Seven-Shows-From-Seventy-Two)
 ———————————————————————————————————————————————————————————————
 ⌛ 2015 - Yes - "Progeny: Highlights From Seventy-Two (Compilation)"
@@ -2412,19 +2531,8 @@ Found better release date: 2017-11-24
 💿 2018-06-22 - Yes - "Fly From Here - Return Trip"
 (https://www.discogs.com/release/12167434-Yes-Fly-From-Here-Return-Trip)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo) for "The Steven Wilson Remixes"
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/37648203
-💿 Format: File, FLAC, Compilation, Remastered
-🗃️ Analyzing version https://www.discogs.com/release/12231071
-💿 Format: Box Set, Compilation, Remastered
-🗃️ Analyzing version https://www.discogs.com/release/12241895
-💿 Format: File, FLAC, Compilation, Remastered
-🗃️ Analyzing version https://www.discogs.com/release/34214443
-💿 Format: Box Set, Compilation, Remastered, Test Pressing
-❌ 2018 - Yes - "The Steven Wilson Remixes"
-(https://www.discogs.com/master/1389962)
-Rejected format(s): Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo
+⌛ 2018-06-29 - Yes - "The Steven Wilson Remixes (Compilation)"
+(https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes)
 ———————————————————————————————————————————————————————————————
 ❌ 2019 - Yes - "Treasures (A Vinyl Collection)"
 (https://www.discogs.com/release/14502870)
@@ -2446,28 +2554,15 @@ Rejected format(s): Box Set, Compilation, Limited Edition, Numbered, Vinyl, LP, 
 💿 2020-10-30 - Yes - "The Royal Affair Tour: Live From Las Vegas"
 (https://www.discogs.com/release/16195379-Yes-The-Royal-Affair-Tour-Live-From-Las-Vegas)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CD, Album, Limited Edition) for "The Quest"
 🗃️ Looking at 19 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/20441071
-💿 Format: Box Set, Deluxe Edition, Limited Edition, Numbered
-🗃️ Analyzing version https://www.discogs.com/release/20434090
-💿 Format: Vinyl, LP, Album, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/20441071
+💿 Format(s): Box Set, Deluxe Edition, Limited Edition, Numbered, Vinyl, LP, Album, CD, Album, Blu-ray, Blu-ray Audio
 💿 2021-10-01 - Yes - "The Quest"
 (https://www.discogs.com/release/20432176-Yes-The-Quest)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, NTSC, CD, DVD, NTSC, CD, CD, CD, CD, DVD, NTSC, CD, CD, DVD, NTSC, CD, DVD, Multichannel, NTSC, CD) for "Union 30 Live"
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/31626763
-💿 Format: Vinyl, LP, Limited Edition, Test Pressing, White Label
-🗃️ Analyzing version https://www.discogs.com/release/23942660
-💿 Format: Box Set, Limited Edition, Numbered
-🗃️ Analyzing version https://www.discogs.com/release/20253562
-💿 Format: Box Set, Limited Edition, Numbered
-🗃️ Analyzing version https://www.discogs.com/release/21997696
-💿 Format: Vinyl, LP, Test Pressing, White Label
-❌ 2021 - Yes - "Union 30 Live"
-(https://www.discogs.com/master/2300686)
-Rejected format(s): Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, NTSC, CD, DVD, NTSC, CD, CD, CD, CD, DVD, NTSC, CD, CD, DVD, NTSC, CD, DVD, Multichannel, NTSC, CD
+⌛ 2021-07-00 - Yes - "Union 30 Live (Unknown)"
+(https://www.discogs.com/release/19863661-Yes-Union-30-Live)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
 (https://www.discogs.com/release/26834984)
@@ -2481,17 +2576,20 @@ Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo
 💿 2023 - Yes - "Union 30 Live Bonus Tracks & Tour Extras"
 (https://www.discogs.com/release/27045312-Yes-Union-30-Live-Bonus-Tracks-Tour-Extras)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
-(https://www.discogs.com/release/27056589)
-Rejected format(s): CD, Album, DVD
+🗓️ Imprecise date (2023) for "Union 30 Live:  Pensacola Civic Centre 1991"
+🗓️ No better date found
+💿 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
+(https://www.discogs.com/release/27056589-Yes-Union-30-Live-Pensacola-Civic-Centre-1991)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
-(https://www.discogs.com/release/27056730)
-Rejected format(s): CD, Album, DVD, DVD-Video, NTSC
+🗓️ Imprecise date (2023) for "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
+🗓️ No better date found
+💿 2023 - Yes - "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
+(https://www.discogs.com/release/27056730-Yes-Union-30-Live-Madison-Square-Garden-New-York-July-15th-1991)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: McNichols Sports Arena Denver 1991"
-(https://www.discogs.com/release/27056829)
-Rejected format(s): CD, Album, DVD, DVD-Video, NTSC
+🗓️ Imprecise date (2023) for "Union 30 Live: McNichols Sports Arena Denver 1991"
+🗓️ No better date found
+💿 2023 - Yes - "Union 30 Live: McNichols Sports Arena Denver 1991"
+(https://www.discogs.com/release/27056829-Yes-Union-30-Live-McNichols-Sports-Arena-Denver-1991)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Yes - Owner of a Lonely Heart (Luca Olivotto Remix)"
 (https://www.discogs.com/release/27126453)
@@ -2516,9 +2614,10 @@ Rejected format(s): CD, Limited Edition, DVD, NTSC, Limited Edition
 💿 2023 - Yes - "Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991"
 (https://www.discogs.com/release/27251502-Yes-Union-30-Live-Hanns-Martin-Schleyer-Halle-Stuttgart-May-31st-1991)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: Nassau Coliseum New York April 20th 1991"
-(https://www.discogs.com/release/27251544)
-Rejected format(s): CD, Album, DVD
+🗓️ Imprecise date (2023) for "Union 30 Live: Nassau Coliseum New York April 20th 1991"
+🗓️ No better date found
+💿 2023 - Yes - "Union 30 Live: Nassau Coliseum New York April 20th 1991"
+(https://www.discogs.com/release/27251544-Yes-Union-30-Live-Nassau-Coliseum-New-York-April-20th-1991)
 ———————————————————————————————————————————————————————————————
 ⌛ 2023-10-06 - Yes - "Yessingles (Compilation)"
 (https://www.discogs.com/release/28552702-Yes-Yessingles)
@@ -2529,45 +2628,48 @@ Rejected format(s): CD, Album, DVD
 ⌛ 2024-10-25 - Yes - "Yessingles II (Compilation)"
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Record Store Day) for "Fragile Outtakes"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/32464089
-💿 Format: Vinyl, LP, Record Store Day
+🗃️ Analyzing version https://www.discogs.com/release/32464089
+💿 Format(s): Vinyl, LP, Record Store Day
 ❌ 2024 - Yes - "Fragile Outtakes"
 (https://www.discogs.com/master/3674586)
 Rejected format(s): Vinyl, LP, Record Store Day
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Album, Record Store Day, Limited Edition) for "Yale Bowl '71"
 🗃️ Looking at 9 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/10089740
-💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/10089740
+💿 Format(s): CD, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/8145728
-💿 Format: CD, Remastered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/8145728
+💿 Format(s): CD, Remastered, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/13956882
-💿 Format: CD, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/13956882
+💿 Format(s): CD, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/24807170
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/24807170
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/26166536
-💿 Format: Vinyl, LP, Numbered, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/26166536
+💿 Format(s): Vinyl, LP, Numbered, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/30490192
-💿 Format: Vinyl, LP, Album, Record Store Day, Limited Edition
+🗃️ Analyzing version https://www.discogs.com/release/30490192
+💿 Format(s): Vinyl, LP, Album, Record Store Day, Limited Edition
 🗃️ Analyzing version https://www.discogs.com/release/4862039
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/4862039
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/5532786
-💿 Format: CD, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/5532786
+💿 Format(s): CD, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/9246246
-💿 Format: CDr, Album, Unofficial Release
+🗃️ Analyzing version https://www.discogs.com/release/9246246
+💿 Format(s): CDr, Album, Unofficial Release
 ❌ 2024 - Yes - "Yale Bowl '71"
 (https://www.discogs.com/master/1602656)
 Rejected format(s): Vinyl, LP, Album, Record Store Day, Limited Edition
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, LP, Vinyl, LP, Single Sided, Etched, All Media, Record Store Day, Limited Edition, Reissue, Stereo) for "Live At The Rainbow London, England 12/16/1972"
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/33949665
-💿 Format: Vinyl, LP, Reissue, Stereo
-❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"
-(https://www.discogs.com/master/3843522)
-Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, Etched, All Media, Record Store Day, Limited Edition, Reissue, Stereo
+⌛ 2025-04-12 - Yes - "Live At The Rainbow London, England 12/16/1972 (Unknown)"
+(https://www.discogs.com/release/33679494-Yes-Live-At-The-Rainbow-London-England-12161972)
 ———————————————————————————————————————————————————————————————
 ❌ 2026 - Yes - "Tales From Topographic Tours"
 (https://www.discogs.com/release/37103619)
@@ -2634,12 +2736,13 @@ Rejected format(s): VHS, Stereo, PAL
 (https://www.discogs.com/release/37950996)
 Rejected format(s): 8-Track Cartridge, Album
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, 7", Single, 45 RPM, Reissue) for "Your Move"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/21773434
-💿 Format: Vinyl, 7", 45 RPM, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/21773434
+💿 Format(s): Vinyl, 7", 45 RPM, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/2526389
-💿 Format: Vinyl, 7", Single, 45 RPM, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/2526389
+💿 Format(s): Vinyl, 7", Single, 45 RPM, Reissue
 ❌ unknown date - Yes - "Your Move"
 (https://www.discogs.com/master/1449763)
 Rejected format(s): Vinyl, 7", Single, 45 RPM, Reissue
@@ -2796,7 +2899,7 @@ Rejected artist(s): No BS Brass Band
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Steel Wind (2) - "Saximo"
 (https://www.discogs.com/release/17021601)
-Rejected artist(s): Steel Wind (2)
+Rejected artist(s): Steel Wind
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Various - "100 Hits 70s"
 (https://www.discogs.com/master/3541519)
@@ -2840,7 +2943,7 @@ Rejected artist(s): Superfjord, The Luck Of Eden Hall
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Aurora Borealis (15) - "В Вышине"
 (https://www.discogs.com/release/17062110)
-Rejected artist(s): Aurora Borealis (15)
+Rejected artist(s): Aurora Borealis
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Jordan Rudess - "The Unforgotten Path"
 (https://www.discogs.com/master/1474556)
@@ -2880,7 +2983,7 @@ Rejected artist(s): Violet Wanda
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Adam Holzman  / Chris Wooley (2)  / Jim Summey  / Doug Hodges  / Chris Ayres - "My High School Band"
 (https://www.discogs.com/release/32377719)
-Rejected artist(s): Adam Holzman, Chris Wooley (2), Jim Summey, Doug Hodges, Chris Ayres
+Rejected artist(s): Adam Holzman, Chris Wooley, Jim Summey, Doug Hodges, Chris Ayres
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Various - "Not The First Recordings"
 (https://www.discogs.com/release/34794488)
@@ -11511,7 +11614,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/769207)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert"
-(https://www.discogs.com/master/593100)" (skipping, already accepted)
+(https://www.discogs.com/master/593100)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "File Under: Yes"
 (https://www.discogs.com/master/1215834)
@@ -11541,6 +11644,23 @@ Rejected release role: UnofficialRelease
 ❌ unknown date - Yes - "The Affirmatives"
 (https://www.discogs.com/master/995266)
 Rejected release role: UnofficialRelease
+———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
+Found candidate with 10 unregistered track(s):
+🎵 Harlequins Of Light
+🎵 As Far As The Eye Can See
+🎵 War (Battle Wounds Of Life)
+🎵 Voice Of Illuminati
+🎵 Amnesia
+🎵 California Daze
+🎵 Tonight …Forever
+🎵 Get To You
+🎵 Diamonds And Gold
+🎵 Legend Of The Mary Celeste
+🗓️ Imprecise date (2015) for "This Is Metal · Vol. 16"
+🗓️ No better date found
+💿 2015 - Yes, Arc Angel - "This Is Metal · Vol. 16 (Compilation)"
+(https://www.discogs.com/release/33790800-Yes-Arc-Angel-2-This-Is-Metal-Vol-16)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 Found candidate with 8 unregistered track(s):
@@ -11578,6 +11698,27 @@ Found candidate with 4 unregistered track(s):
 🎵 Last Train
 💿 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
 (https://www.discogs.com/release/507282-Yes-In-A-Word-Yes-1969-)
+———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
+Found candidate with 3 unregistered track(s):
+🎵 Photo Gallery
+🎵 Memorabilia
+🎵 Happy Birthday Dear Christopher
+💿 2021-07-00 - Yes - "Union 30 Live (Unknown)"
+(https://www.discogs.com/release/19863661-Yes-Union-30-Live)
+———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
+Found candidate with 2 unregistered track(s):
+🎵 The Meeting Room / The Meeting
+🎵 Second Initial
+🗓️ Imprecise date (2004) for "Songs From Tsongas - Yes 35th Anniversary Concert"
+🗃️ Looking at 23 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/4869882
+🗓️ Release date: 2004
+🗓️ No more versions for year 2004
+🗓️ No better date found
+💿 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert (Unknown)"
+(https://www.discogs.com/release/5856390-Yes-Songs-From-Tsongas-Yes-35th-Anniversary-Concert)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 Found candidate with 1 unregistered track(s):
@@ -11646,6 +11787,10 @@ No new tracks
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2) (Compilation)"
+(https://www.discogs.com/release/4862404-Yes-Keys-To-Ascension-Volumes-1-And-2)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "The Best Of Yes 1970-1987 (Compilation)"
 (https://www.discogs.com/release/4862479-Yes-The-Best-Of-Yes-1970-1987)
 No new tracks
@@ -11710,12 +11855,20 @@ No new tracks
 (https://www.discogs.com/release/10129092-Yes-The-Solid-Gold-Collection)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Live And Solo (The Yes Collection) (Compilation)"
+(https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Essentially (Compilation)"
+(https://www.discogs.com/release/8311441-Yes-Essentially)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
@@ -11742,6 +11895,14 @@ No new tracks
 (https://www.discogs.com/release/4898412-Yes-Collection)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2008-05-00 - Yes - "Magnification / Talk (Compilation)"
+(https://www.discogs.com/release/3900250-Yes-Magnification-Talk)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2009 - Deep Purple, Yes, Various - "Rock Heroes (Compilation)"
+(https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "Best Of (Compilation)"
 (https://www.discogs.com/release/7627209-Yes-Best-Of)
 No new tracks
@@ -11750,8 +11911,20 @@ No new tracks
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2010 - Yes - "Open Your Eyes / Magnification (Compilation)"
+(https://www.discogs.com/release/12917852-Yes-Open-Your-Eyes-Magnification)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
 (https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2011-05-25 - Yes - "Union Live (Compilation)"
+(https://www.discogs.com/release/3450063-Yes-Union-Live)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2012 - Yes - "The Triple Album Collection (Compilation)"
+(https://www.discogs.com/release/7154997-Yes-The-Triple-Album-Collection)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
@@ -11760,6 +11933,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Yes - "Progeny: Highlights From Seventy-Two (Compilation)"
 (https://www.discogs.com/release/8529531-Yes-Progeny-Highlights-From-Seventy-Two)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2018-06-29 - Yes - "The Steven Wilson Remixes (Compilation)"
+(https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2023-10-06 - Yes - "Yessingles (Compilation)"
@@ -11952,6 +12129,14 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart (Unknown)"
 (https://www.discogs.com/release/461457-Max-Graham-Vs-Yes-Owner-Of-A-Lonely-Heart)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
+(https://www.discogs.com/release/7057137-Yes-Progeny-Seven-Shows-From-Seventy-Two)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2025-04-12 - Yes - "Live At The Rainbow London, England 12/16/1972 (Unknown)"
+(https://www.discogs.com/release/33679494-Yes-Live-At-The-Rainbow-London-England-12161972)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Roundabout / Your Move (Unknown)"

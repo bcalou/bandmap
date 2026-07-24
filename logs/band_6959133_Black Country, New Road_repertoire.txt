@@ -1,13 +1,10 @@
-32 track(s):
+28 track(s):
 ———————————————————————————————————————————————————————————————
  Socks
 Release(s): Forever Howlong
 ———————————————————————————————————————————————————————————————
  Two Horses
 Release(s): Forever Howlong
-———————————————————————————————————————————————————————————————
-Across The Pond Friend (Live At Bush Hall)
-Release(s): Live At Bush Hall
 ———————————————————————————————————————————————————————————————
 Athens, France
 Release(s): For The First Time
@@ -45,9 +42,6 @@ Release(s): Ants From Up There
 Happy Birthday
 Release(s): Forever Howlong
 ———————————————————————————————————————————————————————————————
-I Won’t Always Love You (Live At Bush Hall)
-Release(s): Live At Bush Hall
-———————————————————————————————————————————————————————————————
 Instrumental
 Release(s): For The First Time
 ———————————————————————————————————————————————————————————————
@@ -84,16 +78,10 @@ Release(s): Forever Howlong
 The Place Where He Inserted The Blade
 Release(s): Ants From Up There
 ———————————————————————————————————————————————————————————————
-The Wrong Trousers (Live At Bush Hall)
-Release(s): Live At Bush Hall
-———————————————————————————————————————————————————————————————
 Track X
 Release(s): For The First Time
 ———————————————————————————————————————————————————————————————
-Turbines/Pigs (Live At Bush Hall)
-Release(s): Live At Bush Hall
-———————————————————————————————————————————————————————————————
 Up Song (Live At Bush Hall)
-Variation(s): The Boy (Live At Bush Hall), Laughing Song (Live At Bush Hall), Dancers (Live At Bush Hall), Up Song (Reprise) (Live At Bush Hall)
-Release(s): Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall
+Variation(s): The Boy (Live At Bush Hall), I Won’t Always Love You (Live At Bush Hall), Across The Pond Friend (Live At Bush Hall), Laughing Song (Live At Bush Hall), The Wrong Trousers (Live At Bush Hall), Turbines/Pigs (Live At Bush Hall), Dancers (Live At Bush Hall), Up Song (Reprise) (Live At Bush Hall)
+Release(s): Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall, Live At Bush Hall
 ———————————————————————————————————————————————————————————————

@@ -131,10 +131,9 @@ Rejected format(s): CDr, Single, Stereo
 💿 2000 - echolyn - "Cowboy Poems Free"
 (https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CDr, Single) for "2-song CD Sampler 2000"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15730530
-💿 Format: CDr, Sampler
+💿 Format(s): CDr, Sampler
 ❌ 2000 - echolyn - "2-song CD Sampler 2000"
 (https://www.discogs.com/master/1784240)
 Rejected format(s): CDr, Single
@@ -146,10 +145,9 @@ Rejected format(s): CDr, Single
 (https://www.discogs.com/release/6588431)
 Rejected format(s): CDr, Album, Stereo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (CDr, Album, Limited Edition, Stereo) for "Jersey Tomato"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/25254466
-💿 Format: File, MP3, Album
+💿 Format(s): File, MP3, Album
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
 Rejected format(s): CDr, Album, Limited Edition, Stereo
@@ -318,17 +316,20 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/471034)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 6 unregistered track(s)
+Found candidate with 6 unregistered track(s):
+🎵 Bright Sides
+🎵 Ballet For A Marsh
+🎵 Lunch In The Sun
+🎵 Blue And Sand
+🎵 Edge Of Wonder (Erad-Glitch)
+🎵 Lator Man (Unlisted)
 🗓️ Imprecise date (2002) for "A Little Nonsense: Now And Then"
 🗓️ No better date found
 💿 2002 - echolyn - "A Little Nonsense: Now And Then (Compilation)"
 (https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 0 unregistered track(s)
 ❌ 1993 - echolyn - "...And Every Blossom (EP)"
 (https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom)
 No new tracks
-———————————————————————————————————————————————————————————————
-———————————————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————————————

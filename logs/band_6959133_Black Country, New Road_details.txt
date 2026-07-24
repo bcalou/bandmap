@@ -60,28 +60,27 @@
 ———————————————————————————————————————————————————————————————
 🎼 Black Country, New Road: 34 release(s) found
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, 7", Single, Limited Edition, Numbered) for "Athen's, France"
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15822578
-💿 Format: CDr, Single, Promo
+💿 Format(s): CDr, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/14399055
-💿 Format: File, FLAC, Single
+💿 Format(s): File, FLAC, Single
 🗃️ Analyzing version https://www.discogs.com/release/19991842
-💿 Format: Vinyl, 7", Single, Test Pressing, White Label
+💿 Format(s): Vinyl, 7", Single, Test Pressing, White Label
 ❌ 2019 - Black Country, New Road - "Athen's, France"
 (https://www.discogs.com/master/1636364)
 Rejected format(s): Vinyl, 7", Single, Limited Edition, Numbered
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered) for "Sunglasses"
 🗃️ Looking at 7 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/16699332
-💿 Format: Vinyl, 7", 45 RPM, Single, Test Pressing
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Test Pressing
 🗃️ Analyzing version https://www.discogs.com/release/24841430
-💿 Format: File, AIFF, Single, Stereo
+💿 Format(s): File, AIFF, Single, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/14036680
-💿 Format: Cassette, Single, Limited Edition, Numbered
+💿 Format(s): Cassette, Single, Limited Edition, Numbered
 🗃️ Analyzing version https://www.discogs.com/release/14338188
-💿 Format: Vinyl, 7", 45 RPM, Single, Repress
+🗃️ Analyzing version https://www.discogs.com/release/14338188
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Repress
 ⌛ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
 (https://www.discogs.com/release/14003267-Black-Country-New-Road-Sunglasses)
 ———————————————————————————————————————————————————————————————
@@ -89,10 +88,9 @@ Invalid format(s) (Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered) for "Su
 (https://www.discogs.com/release/19296748)
 Rejected format(s): File, WAV, Single
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (File, AIFF, Single) for "Manchester xx​/​xx​/​20 (improvised)"
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/23638478
-💿 Format: File, ALAC, Single
+💿 Format(s): File, ALAC, Single
 ❌ 2020 - Black Country, New Road - "Manchester xx​/​xx​/​20 (improvised)"
 (https://www.discogs.com/master/2825867)
 Rejected format(s): File, AIFF, Single
@@ -105,19 +103,18 @@ Rejected format(s): File, WAV, Single
 (https://www.discogs.com/release/19296817)
 Rejected format(s): File, WAV, Single
 ———————————————————————————————————————————————————————————————
-⌛ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+⌛ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
 (https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
 ———————————————————————————————————————————————————————————————
 ❌ 2021 - Black Country, New Road - "Never Again"
 (https://www.discogs.com/release/21147799)
 Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition, Stereo
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (File, WAV, Single) for "Track X (The Guest)"
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/22161631
-💿 Format: File, WAV, Single
+💿 Format(s): File, WAV, Single
 🗃️ Analyzing version https://www.discogs.com/release/18922588
-💿 Format: File, MP3, Single
+💿 Format(s): File, MP3, Single
 ❌ 2021 - Black Country, New Road - "Track X (The Guest)"
 (https://www.discogs.com/master/2189830)
 Rejected format(s): File, WAV, Single
@@ -137,12 +134,12 @@ Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
 💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
 (https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There)
 ———————————————————————————————————————————————————————————————
-Invalid format(s) (File, MP3, Album) for "Live At Bush Hall"
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/26940023
-💿 Format: Vinyl, LP, Album, Limited Edition
+💿 Format(s): Vinyl, LP, Album, Limited Edition
 🗃️ Analyzing version https://www.discogs.com/release/26890124
-💿 Format: Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/26890124
+💿 Format(s): Vinyl, LP, Album
 💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
 (https://www.discogs.com/release/26523116-Black-Country-New-Road-Live-At-Bush-Hall)
 ———————————————————————————————————————————————————————————————
@@ -229,11 +226,12 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/2163559)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
 ❌ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
 (https://www.discogs.com/release/14003267-Black-Country-New-Road-Sunglasses)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2021 - Stargaze (4), Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+❌ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
 (https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal)
 No new tracks
 ———————————————————————————————————————————————————————————————

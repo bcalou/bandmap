@@ -1,5 +1,6 @@
 import { DISCOGS_RELEASE_URL, GENRES } from "../env";
 import { DCRelease, DCVersions, RejectReason } from "../types";
+import { removeNumberInParenthesis } from "../utils";
 import { Api } from "./Api";
 import { Band } from "./Band";
 import { Credits } from "./Credits";
@@ -70,7 +71,9 @@ export class Release {
   }
 
   get formattedArtists() {
-    return this.artists.map((artist) => artist.name).join(", ");
+    return this.artists
+      .map((artist) => removeNumberInParenthesis(artist.name))
+      .join(", ");
   }
 
   get extraArtists() {
@@ -115,6 +118,11 @@ export class Release {
 
   get tracklist() {
     return this.release.tracklist;
+  }
+
+  // Get the main band associated to this release
+  public getMainBand() {
+    return this.mainBand;
   }
 
   // Return release object if it's considered acceptable

@@ -27,11 +27,10 @@ export class BandMap {
     this.expectedIdList = expectedIdList;
     this.api = new Api();
     this.logger = new Logger();
-    this.init();
   }
 
   // Main sequence of events
-  private async init() {
+  public async init() {
     const band = await this.api.getArtist(this.bandId);
     this.logger.setLogFile(`band_${band.id}_${band.name}_details.txt`);
     this.band = new Band(band);

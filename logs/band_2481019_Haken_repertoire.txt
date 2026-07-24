@@ -1,8 +1,7 @@
-68 track(s):
+62 track(s):
 ———————————————————————————————————————————————————————————————
 1985
-Variation(s): 1985 (Live In London 2024)
-Release(s): Affinity, L-1VE, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 A Cell Divides
 Release(s): Vector
@@ -10,9 +9,6 @@ Release(s): Vector
 Affinity.exe
 Variation(s): Affinity.exe / Initiate
 Release(s): Affinity, L-1VE
-———————————————————————————————————————————————————————————————
-Aquamedley
-Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 Aquarium
 Release(s): Aquarius
@@ -50,9 +46,8 @@ Cockroach King
 Variation(s): Cockroach King (Live In London 2024)
 Release(s): The Mountain, L-1VE, Liveforms: An Evening With Haken (Live In London 2024)
 ———————————————————————————————————————————————————————————————
-Crystallised (Live In London 2024)
-Variation(s): Crystallised 
-Release(s): Liveforms: An Evening With Haken (Live In London 2024), Restoration 
+Crystallised 
+Release(s): Restoration 
 ———————————————————————————————————————————————————————————————
 Darkest Light
 Release(s): Restoration 
@@ -113,19 +108,8 @@ Variation(s): Lovebite (Live In London 2024)
 Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
 ———————————————————————————————————————————————————————————————
 Messiah Complex i: Ivory Tower
-Release(s): Virus
-———————————————————————————————————————————————————————————————
-Messiah Complex ii: A Glutton For Punishment
-Release(s): Virus
-———————————————————————————————————————————————————————————————
-Messiah Complex iii: Marigold
-Release(s): Virus
-———————————————————————————————————————————————————————————————
-Messiah Complex iv: The Sect
-Release(s): Virus
-———————————————————————————————————————————————————————————————
-Messiah Complex v: Ectobius Rex
-Release(s): Virus
+Variation(s): Messiah Complex ii: A Glutton For Punishment, Messiah Complex iii: Marigold, Messiah Complex iv: The Sect, Messiah Complex v: Ectobius Rex
+Release(s): Virus, Virus, Virus, Virus, Virus
 ———————————————————————————————————————————————————————————————
 Nightingale
 Variation(s): Nightingale (Live In London 2024)
@@ -173,10 +157,8 @@ Release(s): Visions
 Somebody
 Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
-Strainwreck (Live In London 2024)
-Release(s): Liveforms: An Evening With Haken (Live In London 2024)
-———————————————————————————————————————————————————————————————
 Streams
+Sub tracks: Streams, Veins, Digression
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Sun
@@ -200,7 +182,8 @@ The Good Doctor
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 The Last Lullaby (Live In London 2024)
-Release(s): Liveforms: An Evening With Haken (Live In London 2024)
+Variation(s): Crystallised (Live In London 2024), 1985 (Live In London 2024), Strainwreck (Live In London 2024)
+Release(s): Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024)
 ———————————————————————————————————————————————————————————————
 The Mind's Eye
 Release(s): Visions

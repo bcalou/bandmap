@@ -1,5 +1,5 @@
 import { DISCOGS_RELEASE_URL, FORMATS, OPTION_FORMATS_PRIORITY } from "../env";
-import { DCVersion, RejectReason } from "../types";
+import { DCFormat, DCVersion, RejectReason } from "../types";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
 
@@ -23,14 +23,7 @@ export class Formats {
   }
 
   get formats() {
-    return this.release.releaseFormats.reduce(
-      (allFormats: string[], format) => [
-        ...allFormats,
-        format.name,
-        ...(format.descriptions ?? []),
-      ],
-      []
-    );
+    return this.release.releaseFormats;
   }
 
   public getMainFormat() {
@@ -42,55 +35,85 @@ export class Formats {
     return this.isValidFormatList(this.formats) ||
       (this.release.masterId && (await this.hasVersionWithValidFormat()))
       ? null
-      : `Rejected format(s): ${this.printFormats(this.formats)}`;
+      : `Rejected format(s): ${this.printFormats(
+          this.flattenFormats(this.formats)
+        )}`;
+  }
+
+  // Transform a list of structured formats into an flat array of strings
+  private flattenFormats(formats: DCFormat[]): string[] {
+    return formats.reduce(
+      (allFormats: string[], format) => [
+        ...allFormats,
+        format.name,
+        ...(format.descriptions ?? []),
+      ],
+      []
+    );
   }
 
   // Transform a format list to a printable string
-  private printFormats(formats?: string[]) {
-    return (formats ?? this.formats).join(", ") ?? "not specified";
+  private printFormats(formats: string[]) {
+    return formats.join(", ") ?? "not specified";
   }
 
   // Is this list of formats potentially valid for the discography?
-  private isValidFormatList(formats: string[]): boolean {
-    this.mainFormat =
-      FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        formats.includes(format)
-      ) ?? "Unknown";
+  private isValidFormatList(formats: DCFormat[]): boolean {
+    this.updateMainFormat(formats);
 
-    return !formats.find((format) => FORMATS.reject.includes(format));
+    let valid = false;
+
+    for (const format of formats) {
+      const formatList = [format.name, ...(format.descriptions ?? [])];
+
+      // Eliminatory format must never be found
+      if (formatList.find((format) => FORMATS.eliminatory.includes(format)))
+        return false;
+
+      // Valid format (= not rejected) must be found once
+      if (!formatList.find((format) => FORMATS.reject.includes(format)))
+        valid = true;
+    }
+
+    return valid;
   }
 
-  // Does one of the version has a valid format list?
-  private async hasVersionWithValidFormat(): Promise<boolean> {
-    if (!this.release.masterId) return false;
+  // Set the main format for the release based on the given list of formats
+  private updateMainFormat(formats: DCFormat[]) {
+    const flattenedFormats = this.flattenFormats(formats);
+    this.mainFormat =
+      FORMATS.mainSortedByConsiderationOrder.find((format) =>
+        flattenedFormats.includes(format)
+      ) ?? "Unknown";
+  }
 
-    this.logger.logWarning(
-      `Invalid format(s) (${this.printFormats()}) for "${this.release.title}"`
-    );
+  // Look for valid format list in other versions of the release
+  private async hasVersionWithValidFormat(page = 1): Promise<boolean> {
+    const versions = await this.release.getVersions(page);
 
-    for (const version of (await this.release.getVersions()).versions) {
-      const isValidVersion = this.analyzeVersionFormat(version);
-
-      if (isValidVersion === null) continue;
-
-      return isValidVersion;
+    for (const version of versions.versions) {
+      if (await this.versionHasValidFormat(version)) {
+        return true;
+      }
     }
+
+    if (versions.pagination.pages > page)
+      return await this.hasVersionWithValidFormat(page + 1);
 
     return false;
   }
 
   // Is the format list valid for this version?
-  // Return true if valid, false if eliminatory, else null
-  private analyzeVersionFormat(version: DCVersion): boolean | null {
-    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
+  private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
+    const versionRelease = await this.release.getVersion(version.id);
 
-    const formats = [...version.major_formats, ...version.format.split(", ")];
-    this.logger.log(`💿 Format: ${this.printFormats(formats)}`);
+    if (!versionRelease) return false;
 
-    if (this.isValidFormatList(formats)) {
-      return true;
-    }
+    const releaseFormats = new Formats(versionRelease).formats;
+    this.logger.log(
+      `💿 Format(s): ${this.printFormats(this.flattenFormats(releaseFormats))}`
+    );
 
-    return null;
+    return this.isValidFormatList(releaseFormats);
   }
 }

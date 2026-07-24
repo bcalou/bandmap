@@ -97,7 +97,6 @@ export const FORMATS = {
     "Tefifon",
     "Test Pressing",
     "Tour Recording",
-    "Transcription",
     "U-matic",
     "Ultra HD Blu-ray",
     "UMD",
@@ -109,6 +108,7 @@ export const FORMATS = {
     "Wire Recording",
     "Zip Disk",
   ],
+  eliminatory: ["Transcription"],
 };
 
 export const GENRES = {

@@ -1,4 +1,4 @@
-2382 rejected release(s):
+2379 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -2980,6 +2980,10 @@
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2) (Compilation)"
+(https://www.discogs.com/release/4862404-Yes-Keys-To-Ascension-Volumes-1-And-2)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
 (https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
 (No new tracks)
@@ -5236,14 +5240,6 @@
 (https://www.discogs.com/release/461457-Max-Graham-Vs-Yes-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Live And Solo (The Yes Collection)"
-(https://www.discogs.com/release/1295583)
-(Rejected format(s): CD, Compilation, Box Set)
-———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Essentially"
-(https://www.discogs.com/master/979557)
-(Rejected format(s): Box Set, Compilation, Special Edition, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album)
-———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Their Definitive Fully Authorised Story In A 2 Disc Deluxe Set"
 (https://www.discogs.com/master/1068095)
 (Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo)
@@ -5536,12 +5532,20 @@
 (https://www.discogs.com/master/2287429)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Live And Solo (The Yes Collection) (Compilation)"
+(https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Essentially (Compilation)"
+(https://www.discogs.com/release/8311441-Yes-Essentially)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes - "The Definitive Rock Collection"
@@ -5554,7 +5558,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Steel Wind (2) - "Saximo"
 (https://www.discogs.com/release/17021601)
-(Rejected artist(s): Steel Wind (2))
+(Rejected artist(s): Steel Wind)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Various - "100 Hits 70s"
 (https://www.discogs.com/master/3541519)
@@ -5864,10 +5868,6 @@
 (https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2008 - Yes - "Magnification / Talk"
-(https://www.discogs.com/release/3900250)
-(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Yes - The New Director's Cut"
 (https://www.discogs.com/master/1150438)
 (Rejected format(s): DVD, DVD-Video)
@@ -6152,6 +6152,10 @@
 (https://www.discogs.com/release/4898412-Yes-Collection)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2008-05-00 - Yes - "Magnification / Talk (Compilation)"
+(https://www.discogs.com/release/3900250-Yes-Magnification-Talk)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "The Lost Broadcasts"
 (https://www.discogs.com/release/3362648)
 (Rejected format(s): DVD, DVD-Video, NTSC)
@@ -6163,10 +6167,6 @@
 ❌ 2009 - Yes - "Special Sampler"
 (https://www.discogs.com/release/3435662)
 (Rejected format(s): CD, Sampler, Promo, Compilation)
-———————————————————————————————————————————————————————————————
-❌ 2009 - Deep Purple, Yes & Friends* - "Rock Heroes"
-(https://www.discogs.com/release/4977721)
-(Rejected format(s): CD, Compilation, Box Set)
 ———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "In The Big Dream"
 (https://www.discogs.com/release/11596453)
@@ -6384,6 +6384,10 @@
 (https://www.discogs.com/master/2287402)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2009 - Deep Purple, Yes, Various - "Rock Heroes (Compilation)"
+(https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "Best Of (Compilation)"
 (https://www.discogs.com/release/7627209-Yes-Best-Of)
 (No new tracks)
@@ -6391,10 +6395,6 @@
 ❌ 2009 - Yes - "Introducing: Yes (Compilation)"
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2010 - Yes - "Open Your Eyes / Magnification"
-(https://www.discogs.com/release/12917852)
-(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 2010 - The Austrasian Goat - "The Body Covers"
 (https://www.discogs.com/release/2634388)
@@ -6596,6 +6596,10 @@
 (https://www.discogs.com/release/4677260-Yes-Astral-Traveller-The-BBC-Sessions)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2010 - Yes - "Open Your Eyes / Magnification (Compilation)"
+(https://www.discogs.com/release/12917852-Yes-Open-Your-Eyes-Magnification)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2011 - Asia (2) / Yes - "Prog Rock Box"
 (https://www.discogs.com/release/14090719)
 (Rejected format(s): Blu-ray, Blu-ray, Box Set, Compilation)
@@ -6792,9 +6796,9 @@
 (https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2012 - Yes - "The Triple Album Collection"
-(https://www.discogs.com/master/1531396)
-(Rejected format(s): CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Repress, Box Set, Compilation)
+❌ 2011-05-25 - Yes - "Union Live (Compilation)"
+(https://www.discogs.com/release/3450063-Yes-Union-Live)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Fantomatik Orchestra* - "Back In Brass"
 (https://www.discogs.com/release/10287674)
@@ -6978,6 +6982,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
 (https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2012 - Yes - "The Triple Album Collection (Compilation)"
+(https://www.discogs.com/release/7154997-Yes-The-Triple-Album-Collection)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Yes - "High Vibration - SACD Box"
@@ -7272,17 +7280,13 @@
 (https://www.discogs.com/release/7061870-Yes-The-Greatest-Hits)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2015 - Yes, Arc Angel (2) - "This Is Metal · Vol. 16"
-(https://www.discogs.com/release/33790800)
-(Rejected format(s): CD, Album, DVD, DVD-Video, NTSC, CD, Album, All Media, Compilation, Limited Edition)
-———————————————————————————————————————————————————————————————
 ❌ 2015 - Superfjord / The Luck Of Eden Hall - "Sideshows"
 (https://www.discogs.com/release/7529072)
 (Rejected artist(s): Superfjord, The Luck Of Eden Hall)
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Aurora Borealis (15) - "В Вышине"
 (https://www.discogs.com/release/17062110)
-(Rejected artist(s): Aurora Borealis (15))
+(Rejected artist(s): Aurora Borealis)
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Jordan Rudess - "The Unforgotten Path"
 (https://www.discogs.com/master/1474556)
@@ -7410,6 +7414,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Yes - "Progeny: Highlights From Seventy-Two (Compilation)"
 (https://www.discogs.com/release/8529531-Yes-Progeny-Highlights-From-Seventy-Two)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
+(https://www.discogs.com/release/7057137-Yes-Progeny-Seven-Shows-From-Seventy-Two)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - Yes - "Roundabout"
@@ -7676,10 +7684,6 @@
 (https://www.discogs.com/master/1602894)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2018 - Yes - "The Steven Wilson Remixes"
-(https://www.discogs.com/master/1389962)
-(Rejected format(s): Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo)
-———————————————————————————————————————————————————————————————
 ❌ 2018 - Pusha-T* - "Daytona"
 (https://www.discogs.com/master/1400459)
 (Rejected artist(s): Pusha T)
@@ -7799,6 +7803,10 @@
 ❌ 2018 - Yes - "Definitive Oakland 1988"
 (https://www.discogs.com/master/2037142)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2018-06-29 - Yes - "The Steven Wilson Remixes (Compilation)"
+(https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2019 - Yes - "Treasures (A Vinyl Collection)"
 (https://www.discogs.com/release/14502870)
@@ -8032,10 +8040,6 @@
 (https://www.discogs.com/master/2286148)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2021 - Yes - "Union 30 Live"
-(https://www.discogs.com/master/2300686)
-(Rejected format(s): Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, NTSC, CD, DVD, NTSC, CD, CD, CD, CD, DVD, NTSC, CD, CD, DVD, NTSC, CD, DVD, Multichannel, NTSC, CD)
-———————————————————————————————————————————————————————————————
 ❌ 2021 - Various - "80s (The Ultimate Collection)"
 (https://www.discogs.com/release/17972809)
 (Rejected release role: TrackAppearance)
@@ -8212,18 +8216,6 @@
 (https://www.discogs.com/release/26834984)
 (Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
-(https://www.discogs.com/release/27056589)
-(Rejected format(s): CD, Album, DVD)
-———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
-(https://www.discogs.com/release/27056730)
-(Rejected format(s): CD, Album, DVD, DVD-Video, NTSC)
-———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: McNichols Sports Arena Denver 1991"
-(https://www.discogs.com/release/27056829)
-(Rejected format(s): CD, Album, DVD, DVD-Video, NTSC)
-———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Yes - Owner of a Lonely Heart (Luca Olivotto Remix)"
 (https://www.discogs.com/release/27126453)
 (Rejected format(s): File, FLAC)
@@ -8231,10 +8223,6 @@
 ❌ 2023 - Yes - "Union 30 Live - Centrum Worcester April 17th 1991"
 (https://www.discogs.com/release/27160815)
 (Rejected format(s): CD, Limited Edition, DVD, NTSC, Limited Edition)
-———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Union 30 Live: Nassau Coliseum New York April 20th 1991"
-(https://www.discogs.com/release/27251544)
-(Rejected format(s): CD, Album, DVD)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Murder By Death - "...As We Wish"
 (https://www.discogs.com/master/3747687)
@@ -8302,7 +8290,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Adam Holzman  / Chris Wooley (2)  / Jim Summey  / Doug Hodges  / Chris Ayres - "My High School Band"
 (https://www.discogs.com/release/32377719)
-(Rejected artist(s): Adam Holzman, Chris Wooley (2), Jim Summey, Doug Hodges, Chris Ayres)
+(Rejected artist(s): Adam Holzman, Chris Wooley, Jim Summey, Doug Hodges, Chris Ayres)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Various - "Die 80er Live"
 (https://www.discogs.com/release/30261488)
@@ -8412,10 +8400,6 @@
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"
-(https://www.discogs.com/master/3843522)
-(Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, Etched, All Media, Record Store Day, Limited Edition, Reissue, Stereo)
-———————————————————————————————————————————————————————————————
 ❌ 2025 - Various - "Not The First Recordings"
 (https://www.discogs.com/release/34794488)
 (Rejected artist(s): Various)
@@ -8463,6 +8447,10 @@
 ❌ 2025 - Yes - "Early TV Broadcasts"
 (https://www.discogs.com/release/37408533)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2025-04-12 - Yes - "Live At The Rainbow London, England 12/16/1972 (Unknown)"
+(https://www.discogs.com/release/33679494-Yes-Live-At-The-Rainbow-London-England-12161972)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2026 - Yes - "Tales From Topographic Tours"
 (https://www.discogs.com/release/37103619)

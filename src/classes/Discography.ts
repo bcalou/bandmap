@@ -105,7 +105,7 @@ export class Discography {
     this.logger.logInfo("Looking for candidates with unregistered tracks");
     this.countUnregisteredTracksInCandidatesReleases();
 
-    const unregisteredTracks = this.candidates[0].unregisteredTracks ?? [];
+    const unregisteredTracks = this.candidates[0]?.unregisteredTracks ?? [];
     if (unregisteredTracks.length > 0) {
       await this.selectCandidate(this.candidates[0], true);
       await this.selectCandidatesWithMostUnregisteredTracks();

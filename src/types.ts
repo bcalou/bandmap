@@ -101,6 +101,12 @@ export const DCTrack = z.object({
   },
 });
 
+export type DCFormat = z.infer<typeof DCFormat>;
+export const DCFormat = z.object({
+  name: z.string(),
+  descriptions: z.array(z.string()).or(z.null()),
+});
+
 export type DCRelease = z.infer<typeof DCRelease>;
 export const DCRelease = z.object({
   id: z.number(),
@@ -111,12 +117,7 @@ export const DCRelease = z.object({
   artists: z.array(z.object({ id: z.number(), name: z.string() })),
   genres: z.array(z.string()).optional(),
   country: z.string().or(z.null()),
-  formats: z.array(
-    z.object({
-      name: z.string(),
-      descriptions: z.array(z.string()).or(z.null()),
-    })
-  ),
+  formats: z.array(DCFormat),
   master_id: z.number().optional(),
   released: z.string().optional(),
   extraartists: z.array(DCExtraArtist).optional(),

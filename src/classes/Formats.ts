@@ -105,6 +105,24 @@ export class Formats {
 
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
+    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
+
+    const formats = [...version.major_formats, ...version.format.split(", ")];
+
+    // We can invalidate eliminatory formats based on version format alone
+    if (FORMATS.eliminatory.find((format) => formats.includes(format))) {
+      this.logger.log(`💿 Format(s): ${this.printFormats(formats)}`);
+      return false;
+    }
+
+    // Else we need more details to validate, as more formats can be included
+    return this.versionDetailsHasValidFormat(version);
+  }
+
+  // Get the version details and test if the format list is valid
+  private async versionDetailsHasValidFormat(
+    version: DCVersion
+  ): Promise<boolean> {
     const versionRelease = await this.release.getVersion(version.id);
 
     if (!versionRelease) return false;

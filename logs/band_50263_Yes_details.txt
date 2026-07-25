@@ -729,7 +729,28 @@ Found better release date: 1973-05-00
 💿 1973-05-00 - Yes - "Yessongs"
 (https://www.discogs.com/release/8304347-Yes-Yessongs)
 ———————————————————————————————————————————————————————————————
-⌛ 1973 - Yes - "2 Originals Of Yes (Compilation)"
+🗓️ Imprecise date (1973) for "2 Originals Of Yes"
+🗃️ Looking at 9 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/16183805
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/26343584
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/3126401
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/4433487
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/29768101
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/16087179
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/7858089
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/22075441
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/7571368
+🗓️ Release date: 1973
+🗓️ No better date found
+💿 1973 - Yes - "2 Originals Of Yes (Compilation)"
 (https://www.discogs.com/release/2010342-Yes-2-Originals-Of-Yes)
 ———————————————————————————————————————————————————————————————
 ⌛ 1974 - Yes - "America (Single)"
@@ -1716,7 +1737,7 @@ Found better release date: 1997-11-03
 🗃️ Analyzing version https://www.discogs.com/release/3618240
 🗃️ Analyzing version https://www.discogs.com/release/3618240
 💿 Format(s): Vinyl, LP, Compilation, Vinyl, 7", 33 ⅓ RPM, Single Sided
-⌛ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
+💿 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
 (https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 26 alternate version(s)
@@ -1981,27 +2002,7 @@ Found better release date: 2001-09-10
 🗃️ Analyzing version https://www.discogs.com/release/6148612
 🗃️ Analyzing version https://www.discogs.com/release/6148612
 💿 Format(s): DVD, DVD-Video, Multichannel, PAL, CD, Album
-🗓️ Imprecise date (2002) for "Symphonic Live"
-🗃️ Looking at 34 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/19982605
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/4961391
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/6148612
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/23693687
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/9034940
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/9921035
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/25271194
-🗓️ Release date: 2002
-🗃️ Analyzing version https://www.discogs.com/release/4648358
-🗓️ Release date: 2002
-🗓️ No more versions for year 2002
-🗓️ No better date found
-💿 2002 - Yes - "Symphonic Live"
+⌛ 2002 - Yes - "Symphonic Live"
 (https://www.discogs.com/release/2973428-Yes-Symphonic-Live)
 ———————————————————————————————————————————————————————————————
 ⌛ 2003 - Yes - "Roundabout - The Best Of Yes Live (Compilation)"
@@ -2189,7 +2190,9 @@ Found better release date: 2005-09-21
 (https://www.discogs.com/master/1068095)
 Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo
 ———————————————————————————————————————————————————————————————
-⌛ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
+🗓️ Imprecise date (2007) for "Roundabout & Other Hits"
+🗓️ No better date found
+💿 2007 - Yes - "Roundabout & Other Hits (Compilation)"
 (https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (2007) for "Live At Montreux 2003"
@@ -2558,7 +2561,7 @@ Rejected format(s): CD, Album, Tour Recording
 (https://www.discogs.com/release/27251544)
 Rejected format(s): CD, Album, Tour Recording, DVD
 ———————————————————————————————————————————————————————————————
-⌛ 2023-10-06 - Yes - "Yessingles (Compilation)"
+💿 2023-10-06 - Yes - "Yessingles (Compilation)"
 (https://www.discogs.com/release/28552702-Yes-Yessingles)
 ———————————————————————————————————————————————————————————————
 💿 2023-05-19 - Yes - "Mirror To The Sky"
@@ -9830,7 +9833,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/431488)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2006 - Yes - "Beyond And Before (The BBC Recordings 1969-1970)"
-(https://www.discogs.com/master/236968)" (skipping, already candidate)
+(https://www.discogs.com/master/236968)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Solid Time Of Change"
 (https://www.discogs.com/master/2287429)
@@ -11570,7 +11573,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/300714)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - Yes - "Symphonic Live"
-(https://www.discogs.com/master/349934)" (skipping, already accepted)
+(https://www.discogs.com/master/349934)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes - "Tales From Topographic Oceans"
 (https://www.discogs.com/master/2287459)
@@ -11581,8 +11584,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 8 unregistered track(s):
-🎵 Something's Coming
+Found candidate with 7 unregistered track(s):
 🎵 Vevey, Part One
 🎵 Montreux's Theme
 🎵 Vevey, Part Two
@@ -11609,8 +11611,7 @@ Found better release date: 1991-09-25
 (https://www.discogs.com/release/6517892-Yes-Yes-Years)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 4 unregistered track(s):
-🎵 Dear Father
+Found candidate with 3 unregistered track(s):
 🎵 Richard
 🎵 Tango
 🎵 Last Train
@@ -11637,30 +11638,32 @@ Found candidate with 1 unregistered track(s):
 (https://www.discogs.com/release/2068513-Yes-Remixes)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
-(https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
-No new tracks
+Found candidate with 1 unregistered track(s):
+🎵 Overture
+🗓️ Imprecise date (2002) for "Symphonic Live"
+🗃️ Looking at 34 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/19982605
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/4961391
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/6148612
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/23693687
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/9034940
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/9921035
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/25271194
+🗓️ Release date: 2002
+🗃️ Analyzing version https://www.discogs.com/release/4648358
+🗓️ Release date: 2002
+🗓️ No more versions for year 2002
+🗓️ No better date found
+💿 2002 - Yes - "Symphonic Live"
+(https://www.discogs.com/release/2973428-Yes-Symphonic-Live)
 ———————————————————————————————————————————————————————————————
-❌ 1999 - Yes - "Astral Traveller (Compilation)"
-(https://www.discogs.com/release/2096077-Yes-Astral-Traveller)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2010 - Yes - "Astral Traveller (The BBC Sessions) (Compilation)"
-(https://www.discogs.com/release/4677260-Yes-Astral-Traveller-The-BBC-Sessions)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1975 - Yes - "Yesterdays (Compilation)"
-(https://www.discogs.com/release/936904-Yes-Yesterdays)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
-(https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
-(https://www.discogs.com/release/32112012-Yes-Yessingles-II)
-No new tracks
-———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
 ❌ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word (Compilation)"
 (https://www.discogs.com/release/33059766-Derek-And-The-Dominos-Yes-Layla-Time-And-A-Word)
 No new tracks
@@ -11669,8 +11672,8 @@ No new tracks
 (https://www.discogs.com/release/9906839-Yes-Time-And-A-Word-The-Yes-Album)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1973 - Yes - "2 Originals Of Yes (Compilation)"
-(https://www.discogs.com/release/2010342-Yes-2-Originals-Of-Yes)
+❌ 1975 - Yes - "Yesterdays (Compilation)"
+(https://www.discogs.com/release/936904-Yes-Yesterdays)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Yes - "Classic Yes (Compilation)"
@@ -11699,6 +11702,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2) (Compilation)"
 (https://www.discogs.com/release/4862404-Yes-Keys-To-Ascension-Volumes-1-And-2)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1999 - Yes - "Astral Traveller (Compilation)"
+(https://www.discogs.com/release/2096077-Yes-Astral-Traveller)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "The Best Of Yes 1970-1987 (Compilation)"
@@ -11781,10 +11788,6 @@ No new tracks
 (https://www.discogs.com/release/8311441-Yes-Essentially)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
-(https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
 (https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
 No new tracks
@@ -11821,12 +11824,20 @@ No new tracks
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
 No new tracks
 ———————————————————————————————————————————————————————————————
+❌ 2010 - Yes - "Astral Traveller (The BBC Sessions) (Compilation)"
+(https://www.discogs.com/release/4677260-Yes-Astral-Traveller-The-BBC-Sessions)
+No new tracks
+———————————————————————————————————————————————————————————————
 ❌ 2010 - Yes - "Open Your Eyes / Magnification (Compilation)"
 (https://www.discogs.com/release/12917852-Yes-Open-Your-Eyes-Magnification)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
 (https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
+(https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Yes - "The Triple Album Collection (Compilation)"
@@ -11845,8 +11856,8 @@ No new tracks
 (https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2023-10-06 - Yes - "Yessingles (Compilation)"
-(https://www.discogs.com/release/28552702-Yes-Yessingles)
+❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
+(https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
@@ -11865,20 +11876,12 @@ No new tracks
 (https://www.discogs.com/release/7498424-Yes-No-Opportunity-Necessary)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1971 - Yes - "Something Is Coming / Dear Father (Single)"
-(https://www.discogs.com/release/2326453-Yes-Something-Is-Coming-Dear-Father)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
-(https://www.discogs.com/release/3125455-Yes-Sweet-Dreams)
+❌ 1978 - Yes - "Don't Kill The Whale (Single)"
+(https://www.discogs.com/release/2298883-Yes-Dont-Kill-The-Whale)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1969-07-04 - Yes - "Sweetness (Single)"
 (https://www.discogs.com/release/3125460-Yes-Sweetness)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1978 - Yes - "Don't Kill The Whale (Single)"
-(https://www.discogs.com/release/2298883-Yes-Dont-Kill-The-Whale)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1969-10-00 - Yes - "Looking Around (Single)"
@@ -11887,6 +11890,14 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1970-03-27 - Yes - "Time And A Word  (Single)"
 (https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
+(https://www.discogs.com/release/3125455-Yes-Sweet-Dreams)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1971 - Yes - "Something Is Coming / Dear Father (Single)"
+(https://www.discogs.com/release/2326453-Yes-Something-Is-Coming-Dear-Father)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Yes - "Yours Is No Disgrace  (Single)"

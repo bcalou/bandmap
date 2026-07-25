@@ -1,4 +1,4 @@
-106 track(s):
+107 track(s):
 ———————————————————————————————————————————————————————————————
 A Soapbox Opera
 Variation(s): A Soap Box Opera
@@ -8,7 +8,7 @@ A Sting In The Tail
 Release(s): Slow Motion
 ———————————————————————————————————————————————————————————————
 Ain't Nobody But Me
-Release(s): Crisis? What Crisis?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crisis? What Crisis?, Paris, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 An Awful Thing To Waste
 Release(s): Free As A Bird
@@ -21,7 +21,7 @@ Release(s): Some Things Never Change, It Was The Best Of Times
 ———————————————————————————————————————————————————————————————
 Another Man's Woman
 Variation(s): Another Man's Woman (Live)
-Release(s): Crisis? What Crisis?, Is Everybody Listening?, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crisis? What Crisis?, Is Everybody Listening?, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Aries
 Release(s): Indelibly Stamped
@@ -42,13 +42,13 @@ Better Days
 Release(s): Brother Where You Bound
 ———————————————————————————————————————————————————————————————
 Bloody Well Right
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Bonnie
 Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Breakfast In America
-Release(s): Breakfast In America, Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Breakfast In America, Paris, Live '88, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Broken Hearted
 Release(s): Slow Motion
@@ -78,7 +78,7 @@ Crazy
 Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Crime Of The Century
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live '88, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Dead Man's Blues
 Release(s): Slow Motion
@@ -90,16 +90,16 @@ Don’t You Lie To Me
 Release(s): Live '88
 ———————————————————————————————————————————————————————————————
 Downstream
-Release(s): Even In The Quietest Moments..., Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Even In The Quietest Moments..., Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Dreamer
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Easy Does It
 Release(s): Crisis? What Crisis?
 ———————————————————————————————————————————————————————————————
 Even In The Quietest Moments
-Release(s): Even In The Quietest Moments..., Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Even In The Quietest Moments..., Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Ever Open Door
 Release(s): Brother Where You Bound
@@ -121,13 +121,13 @@ Release(s): Indelibly Stamped
 ———————————————————————————————————————————————————————————————
 From Now On
 Variation(s): From Now On (Credits)
-Release(s): Even In The Quietest Moments..., Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Even In The Quietest Moments..., Paris, Live '88, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79, Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Get Your Act Together
 Release(s): Some Things Never Change
 ———————————————————————————————————————————————————————————————
 Give A Little Bit
-Release(s): Even In The Quietest Moments..., Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Even In The Quietest Moments..., Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Give Me A Chance
 Release(s): Some Things Never Change
@@ -139,7 +139,7 @@ Gone Hollywood
 Release(s): Breakfast In America, Retrospectacle (The Supertramp Anthology)
 ———————————————————————————————————————————————————————————————
 Goodbye Stranger
-Release(s): Breakfast In America, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Breakfast In America, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Help Me Down That Road
 Release(s): Some Things Never Change
@@ -184,7 +184,7 @@ Know Who You Are
 Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Lady
-Release(s): Crisis? What Crisis?, Is Everybody Listening?, Retrospectacle (The Supertramp Anthology)
+Release(s): Crisis? What Crisis?, Is Everybody Listening?, Retrospectacle (The Supertramp Anthology), Lady
 ———————————————————————————————————————————————————————————————
 Land Ho
 Release(s): Retrospectacle (The Supertramp Anthology)
@@ -241,10 +241,10 @@ Rosie Had Everything Planned
 Release(s): Indelibly Stamped
 ———————————————————————————————————————————————————————————————
 Rudy
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Is Everybody Listening?, Paris, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 School
-Release(s): Crime Of The Century, Is Everybody Listening?, Paris, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crime Of The Century, Is Everybody Listening?, Paris, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Shadow Song
 Release(s): Supertramp
@@ -271,13 +271,13 @@ Surely
 Release(s): Supertramp, Supertramp
 ———————————————————————————————————————————————————————————————
 Take The Long Way Home
-Release(s): Breakfast In America, Paris, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Breakfast In America, Paris, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Tenth Avenue Breakdown
 Release(s): Slow Motion
 ———————————————————————————————————————————————————————————————
 The Logical Song
-Release(s): Breakfast In America, Paris, Live '88, It Was The Best Of Times, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Breakfast In America, Paris, Live '88, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 The Meaning
 Release(s): Crisis? What Crisis?
@@ -295,7 +295,7 @@ Try Again
 Release(s): Supertramp
 ———————————————————————————————————————————————————————————————
 Two Of Us
-Release(s): Crisis? What Crisis?, Paris, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Release(s): Crisis? What Crisis?, Paris, Retrospectacle (The Supertramp Anthology), Live In Paris '79
 ———————————————————————————————————————————————————————————————
 Waiting So Long
 Release(s): "...Famous Last Words..."
@@ -313,8 +313,11 @@ You Never Can Tell With Friends
 Release(s): Free As A Bird
 ———————————————————————————————————————————————————————————————
 You Started Laughing
-Variation(s): You Started Laughing (When I Held You In My Arms}, You Started Laughing (Live)
-Release(s): Paris, Live '88, Live In Paris '79, Retrospectacle (The Supertramp Anthology)
+Variation(s): You Started Laughing (Live), You Started Laughing (When I Held You In My Arms}
+Release(s): Paris, Live '88, Retrospectacle (The Supertramp Anthology), Live In Paris '79
+———————————————————————————————————————————————————————————————
+You Started Laughing When I Held You In My Arms
+Release(s): Lady
 ———————————————————————————————————————————————————————————————
 You Win, I Lose
 Release(s): Some Things Never Change, It Was The Best Of Times, Retrospectacle (The Supertramp Anthology)

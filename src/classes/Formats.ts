@@ -1,4 +1,4 @@
-import { DISCOGS_RELEASE_URL, FORMATS, OPTION_FORMATS_PRIORITY } from "../env";
+import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { DCFormat, DCVersion, RejectReason } from "../types";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -30,13 +30,21 @@ export class Formats {
     return this.mainFormat;
   }
 
+  // Does the release contains exactly one format "Album"?
+  public isAlbum() {
+    return (
+      this.flattenFormats(this.formats).filter((format) => format === "Album")
+        .length === 1
+    );
+  }
+
   // Reject if the release have an invalid format
   public async heuristicRejectFormat(): Promise<RejectReason | null> {
     return this.isValidFormatList(this.formats) ||
       (this.release.masterId && (await this.hasVersionWithValidFormat()))
       ? null
       : `Rejected format(s): ${this.printFormats(
-          this.flattenFormats(this.formats)
+          this.flattenFormats(this.formats),
         )}`;
   }
 
@@ -48,7 +56,7 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      []
+      [],
     );
   }
 
@@ -83,7 +91,7 @@ export class Formats {
     const flattenedFormats = this.flattenFormats(formats);
     this.mainFormat =
       FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        flattenedFormats.includes(format)
+        flattenedFormats.includes(format),
       ) ?? "Unknown";
   }
 
@@ -121,7 +129,7 @@ export class Formats {
 
   // Get the version details and test if the format list is valid
   private async versionDetailsHasValidFormat(
-    version: DCVersion
+    version: DCVersion,
   ): Promise<boolean> {
     const versionRelease = await this.release.getVersion(version.id);
 
@@ -129,7 +137,7 @@ export class Formats {
 
     const releaseFormats = new Formats(versionRelease).formats;
     this.logger.log(
-      `💿 Format(s): ${this.printFormats(this.flattenFormats(releaseFormats))}`
+      `💿 Format(s): ${this.printFormats(this.flattenFormats(releaseFormats))}`,
     );
 
     return this.isValidFormatList(releaseFormats);

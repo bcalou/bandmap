@@ -81,10 +81,7 @@ export class ArtistRelease {
 
     if (typeof release === "string") {
       this.mainBand.discography.addRejected(this, release);
-    } else if (
-      release.getMainFormat() === "Album" &&
-      !release.title.includes("Union 30 Live")
-    ) {
+    } else if (release.isAlbum()) {
       await this.mainBand.discography.addAccepted(release);
     } else {
       this.mainBand.discography.addCandidate(release);

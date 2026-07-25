@@ -665,13 +665,18 @@ Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 5 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/13634517
+🗃️ Analyzing version https://www.discogs.com/release/13634517
 💿 Format(s): Cassette, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/8957234
 🗃️ Analyzing version https://www.discogs.com/release/8957234
 💿 Format(s): Cassette, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/25133152
+🗃️ Analyzing version https://www.discogs.com/release/25133152
 💿 Format(s): Cassette, Compilation, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/15338978
+🗃️ Analyzing version https://www.discogs.com/release/15338978
 💿 Format(s): Cassette, Compilation, Reissue
+🗃️ Analyzing version https://www.discogs.com/release/2190128
 🗃️ Analyzing version https://www.discogs.com/release/2190128
 💿 Format(s): Cassette, Compilation, Reissue
 ❌ 1981 - Supertramp - "Crisis? What Crisis? / Even In The Quietest Moments..."
@@ -777,7 +782,9 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5018152
+🗃️ Analyzing version https://www.discogs.com/release/5018152
 💿 Format(s): Laserdisc, 8", NTSC
+🗃️ Analyzing version https://www.discogs.com/release/8770824
 🗃️ Analyzing version https://www.discogs.com/release/8770824
 💿 Format(s): VHS, PAL
 ❌ 1985 - Supertramp - "Brother Where You Bound "
@@ -844,6 +851,7 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/13164511
+🗃️ Analyzing version https://www.discogs.com/release/13164511
 💿 Format(s): Cassette, Compilation
 ❌ 1986 - Supertramp - "Crime Of The Century / Breakfast In America"
 (https://www.discogs.com/master/1545187)
@@ -889,6 +897,7 @@ Rejected format(s): Vinyl, 12", 45 RPM, Maxi-Single, Promo
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/2332053
+🗃️ Analyzing version https://www.discogs.com/release/2332053
 💿 Format(s): CD, Single, Promo, Stereo
 ❌ 1988 - Supertramp - "I'm Your Hoochie Cooche Man"
 (https://www.discogs.com/master/703388)
@@ -914,35 +923,49 @@ Found better release date: 1988-11-21
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 16 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/10392140
+🗃️ Analyzing version https://www.discogs.com/release/10392140
 💿 Format(s): Laserdisc, 12", Stereo, NTSC
+🗃️ Analyzing version https://www.discogs.com/release/13562634
 🗃️ Analyzing version https://www.discogs.com/release/13562634
 💿 Format(s): VHS, Stereo, PAL
 🗃️ Analyzing version https://www.discogs.com/release/2735732
+🗃️ Analyzing version https://www.discogs.com/release/2735732
 💿 Format(s): VHS, PAL
 🗃️ Analyzing version https://www.discogs.com/release/1871952
+🗃️ Analyzing version https://www.discogs.com/release/1871952
 💿 Format(s): DVD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/2592344
 🗃️ Analyzing version https://www.discogs.com/release/2592344
 💿 Format(s): DVD, DVD-Video, Compilation, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/5750072
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/16191467
+🗃️ Analyzing version https://www.discogs.com/release/16191467
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/2735709
 🗃️ Analyzing version https://www.discogs.com/release/2735709
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
 🗃️ Analyzing version https://www.discogs.com/release/16880802
+🗃️ Analyzing version https://www.discogs.com/release/16880802
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
+🗃️ Analyzing version https://www.discogs.com/release/14190436
 🗃️ Analyzing version https://www.discogs.com/release/14190436
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/1369126
+🗃️ Analyzing version https://www.discogs.com/release/1369126
 💿 Format(s): DVD, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/10550217
 🗃️ Analyzing version https://www.discogs.com/release/10550217
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/11117257
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Limited Edition, Reissue
 🗃️ Analyzing version https://www.discogs.com/release/27712047
+🗃️ Analyzing version https://www.discogs.com/release/27712047
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
 🗃️ Analyzing version https://www.discogs.com/release/11390020
+🗃️ Analyzing version https://www.discogs.com/release/11390020
 💿 Format(s): VHS, Reissue, PAL
+🗃️ Analyzing version https://www.discogs.com/release/27518013
 🗃️ Analyzing version https://www.discogs.com/release/27518013
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Repress
 ❌ 1990 - Supertramp - "The Story So Far..."
@@ -988,6 +1011,7 @@ Rejected format(s): CD, Promo, Sampler
 Rejected format(s): CD, Advance, Maxi-Single, Promo
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/1784855
 🗃️ Analyzing version https://www.discogs.com/release/1784855
 💿 Format(s): CD, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/13653763
@@ -1128,7 +1152,9 @@ Rejected format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 2 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/11407384
+🗃️ Analyzing version https://www.discogs.com/release/11407384
 💿 Format(s): CD, Single, Promo
+🗃️ Analyzing version https://www.discogs.com/release/1899649
 🗃️ Analyzing version https://www.discogs.com/release/1899649
 💿 Format(s): CD, Single, Promo
 ❌ 2002 - Supertramp - "Slow Motion"
@@ -1152,18 +1178,15 @@ Rejected format(s): CD, Compilation, Promo, Sampler
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 3 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15691670
-💿 Format(s): CD, Album, Reissue
-🗃️ Analyzing version https://www.discogs.com/release/5372064
-💿 Format(s): CD, Album, Reissue
-🗃️ Analyzing version https://www.discogs.com/release/9484314
-💿 Format(s): CD, Album, Reissue, Remastered
-❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis"
-(https://www.discogs.com/master/700527)
-Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation
+🗃️ Analyzing version https://www.discogs.com/release/15691670
+💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
+⌛ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5264228
-💿 Format(s): CD, Album, Reissue, Remastered
+🗃️ Analyzing version https://www.discogs.com/release/5264228
+💿 Format(s): CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, Box Set, Compilation
 ❌ 2009 - Supertramp - "Crime Of The Century / Even In The Quietest Moments / Breakfast In America"
 (https://www.discogs.com/master/3257836)
 Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation, Remastered, Stereo
@@ -1222,43 +1245,36 @@ Rejected format(s): Memory Stick, MP3, Tour Recording
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 26 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/36898257
+🗃️ Analyzing version https://www.discogs.com/release/36898257
 💿 Format(s): DVD, DVD-Video
+🗃️ Analyzing version https://www.discogs.com/release/4571007
 🗃️ Analyzing version https://www.discogs.com/release/4571007
 💿 Format(s): Blu-ray, Stereo, Multichannel
 🗃️ Analyzing version https://www.discogs.com/release/3817130
+🗃️ Analyzing version https://www.discogs.com/release/3817130
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/4718221
 🗃️ Analyzing version https://www.discogs.com/release/4718221
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/15472279
+🗃️ Analyzing version https://www.discogs.com/release/15472279
 💿 Format(s): Blu-ray, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/16191489
 🗃️ Analyzing version https://www.discogs.com/release/16191489
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/12620391
+🗃️ Analyzing version https://www.discogs.com/release/12620391
 💿 Format(s): Blu-ray, Stereo, Multichannel
+🗃️ Analyzing version https://www.discogs.com/release/10093526
 🗃️ Analyzing version https://www.discogs.com/release/10093526
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/11728720
+🗃️ Analyzing version https://www.discogs.com/release/11728720
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/8156236
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/8864213
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/21518017
-💿 Format(s): Blu-ray, Reissue, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/27174339
-💿 Format(s): Vinyl, LP, Album, Unofficial Release, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/27258921
-💿 Format(s): Vinyl, LP, Album, Limited Edition, Numbered, Unofficial Release
-🗃️ Analyzing version https://www.discogs.com/release/27258744
-💿 Format(s): Vinyl, LP, Album, Limited Edition, Numbered, Unofficial Release
-🗃️ Analyzing version https://www.discogs.com/release/35053349
-💿 Format(s): DVD, DVD-Video, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/35053292
-💿 Format(s): Blu-ray, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/33271602
-🗃️ Analyzing version https://www.discogs.com/release/33271602
-💿 Format(s): Vinyl, LP, Album
-💿 2012-08-00 - Supertramp - "Live In Paris '79"
+🗃️ Analyzing version https://www.discogs.com/release/8156236
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo, CD, Album, Stereo, All Media
+⌛ 2012-08-00 - Supertramp - "Live In Paris '79"
 (https://www.discogs.com/release/3837154-Supertramp-Live-In-Paris-79)
 ———————————————————————————————————————————————————————————————
 ❌ 2022 - Supertramp - "Goodbye Stranger (Random House Project's Undisputed Truth Remake)"
@@ -3904,7 +3920,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2023 - Supertramp - "Live In Paris '79"
-(https://www.discogs.com/master/466938)" (skipping, already accepted)
+(https://www.discogs.com/master/466938)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Supertramp - "...Famous Last Songs..."
 (https://www.discogs.com/release/31558087)
@@ -4171,6 +4187,22 @@ Found candidate with 2 unregistered track(s):
 (https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
+Found candidate with 1 unregistered track(s):
+🎵 You Started Laughing When I Held You In My Arms
+🗓️ Imprecise date (1976) for "Lady"
+🗃️ Looking at 17 alternate version(s)
+🗓️ No more versions for year 1976
+🗓️ No better date found
+💿 1976 - Supertramp - "Lady (Single)"
+(https://www.discogs.com/release/2469812-Supertramp-Lady)
+———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
+Found candidate with 1 unregistered track(s):
+🎵 French Touch (Intro)
+💿 2012-08-00 - Supertramp - "Live In Paris '79"
+(https://www.discogs.com/release/3837154-Supertramp-Live-In-Paris-79)
+———————————————————————————————————————————————————————————————
+Looking for candidates with unregistered tracks
 ❌ 1978 - Supertramp - "4 Sucessos (Compilation)"
 (https://www.discogs.com/release/4282303-Supertramp-4-Sucessos)
 No new tracks
@@ -4201,6 +4233,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Supertramp - "Star Profile (Compilation)"
 (https://www.discogs.com/release/16048043-Supertramp-Star-Profile)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Better Days (Maxi-Single)"
@@ -4237,10 +4273,6 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1976 - Supertramp - "Lady (Single)"
-(https://www.discogs.com/release/2469812-Supertramp-Lady)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp - "Dreamer (Single)"

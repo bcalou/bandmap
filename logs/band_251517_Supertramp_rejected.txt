@@ -1,4 +1,4 @@
-828 rejected release(s):
+827 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
 (https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
@@ -110,10 +110,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1976 - Supertramp - "Lady (Single)"
-(https://www.discogs.com/release/2469812-Supertramp-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"
@@ -2248,10 +2244,6 @@
 (https://www.discogs.com/master/1994944)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis"
-(https://www.discogs.com/master/700527)
-(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation)
-———————————————————————————————————————————————————————————————
 ❌ 2009 - Supertramp - "Crime Of The Century / Even In The Quietest Moments / Breakfast In America"
 (https://www.discogs.com/master/3257836)
 (Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation, Remastered, Stereo)
@@ -2331,6 +2323,10 @@
 ❌ 2009 - Supertramp - "Sister Moonshine"
 (https://www.discogs.com/release/13818702)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2010 - Supertramp - "The 70/10 Tour Live [10/10/2010 Merksem]"
 (https://www.discogs.com/release/12209640)

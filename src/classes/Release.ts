@@ -156,7 +156,7 @@ export class Release {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
     let version = this.versions.find(
-      (_version) => _version.release.id === versionId
+      (_version) => _version.release.id === versionId,
     );
 
     return version ?? this.fetchVersion(versionId);
@@ -172,6 +172,11 @@ export class Release {
     return this.formats.getMainFormat();
   }
 
+  // Does the release formats contain "Album" ?
+  public isAlbum() {
+    return this.formats.isAlbum();
+  }
+
   // Extract the precise date for this release
   public async extractPreciseDate() {
     await this.releaseDate.extractPreciseDate();
@@ -181,7 +186,7 @@ export class Release {
   private async fetchVersion(versionId: number): Promise<Release> {
     const version = new Release(
       await this.api.getRelease(versionId),
-      this.mainBand
+      this.mainBand,
     );
     this.versions.push(version);
     return version;
@@ -194,7 +199,7 @@ export class Release {
 
     const versions = await this.api.getVersions(this.masterId, page);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
 
     if (versions.pagination.items) {

@@ -1,4 +1,4 @@
-2389 rejected release(s):
+2385 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -60,12 +60,12 @@
 (https://www.discogs.com/release/33059766-Derek-And-The-Dominos-Yes-Layla-Time-And-A-Word)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
-(https://www.discogs.com/release/3125455-Yes-Sweet-Dreams)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1970-03-27 - Yes - "Time And A Word  (Single)"
 (https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
+(https://www.discogs.com/release/3125455-Yes-Sweet-Dreams)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Yes - "I've Seen All Good People: Your Move"
@@ -207,10 +207,6 @@
 ❌ 1973 - Yes - "Indeed"
 (https://www.discogs.com/master/980914)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1973 - Yes - "2 Originals Of Yes (Compilation)"
-(https://www.discogs.com/release/2010342-Yes-2-Originals-Of-Yes)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Yes - "And You And I Live Part 1 Et 2 (Single)"
 (https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2)
@@ -2663,10 +2659,6 @@
 ❌ 1997 - Yes - "Down At The Edge"
 (https://www.discogs.com/master/2285368)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
-(https://www.discogs.com/release/1235659-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "New State Of Mind (Single)"
 (https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
@@ -5852,10 +5844,6 @@
 (https://www.discogs.com/master/2283157)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
-(https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
 (https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
 (No new tracks)
@@ -8311,10 +8299,6 @@
 ❌ 2023 - Yes - "Providence 1976"
 (https://www.discogs.com/release/28550992)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2023-10-06 - Yes - "Yessingles (Compilation)"
-(https://www.discogs.com/release/28552702-Yes-Yessingles)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "Fragile Outtakes"
 (https://www.discogs.com/master/3674586)

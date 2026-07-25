@@ -1,4 +1,4 @@
-56 release(s):
+46 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1969-07-00 - Yes - "Yes"
 (https://www.discogs.com/release/9201144-Yes-Yes)
@@ -90,6 +90,9 @@
 💿 2007 - Yes - "Live At Montreux 2003"
 (https://www.discogs.com/release/1109506-Yes-Live-At-Montreux-2003)
 ———————————————————————————————————————————————————————————————
+💿 2011-05-25 - Yes - "Union Live"
+(https://www.discogs.com/release/3450063-Yes-Union-Live)
+———————————————————————————————————————————————————————————————
 💿 2011-07-01 - Yes - "Fly From Here"
 (https://www.discogs.com/release/3005266-Yes-Fly-From-Here)
 ———————————————————————————————————————————————————————————————
@@ -101,9 +104,6 @@
 ———————————————————————————————————————————————————————————————
 💿 2014-11-19 - Yes - "Like It Is: Yes At The Bristol Hippodrome"
 (https://www.discogs.com/release/8565441-Yes-Like-It-Is-Yes-At-The-Bristol-Hippodrome)
-———————————————————————————————————————————————————————————————
-💿 2015 - Yes, Arc Angel - "This Is Metal · Vol. 16 (Compilation)"
-(https://www.discogs.com/release/33790800-Yes-Arc-Angel-2-This-Is-Metal-Vol-16)
 ———————————————————————————————————————————————————————————————
 💿 2015-07-00 - Yes - "Like It Is: At The Mesa Arts Center"
 (https://www.discogs.com/release/7298061-Yes-Like-It-Is-At-The-Mesa-Arts-Center)
@@ -126,38 +126,8 @@
 💿 2020-10-30 - Yes - "The Royal Affair Tour: Live From Las Vegas"
 (https://www.discogs.com/release/16195379-Yes-The-Royal-Affair-Tour-Live-From-Las-Vegas)
 ———————————————————————————————————————————————————————————————
-💿 2021-07-00 - Yes - "Union 30 Live (Unknown)"
-(https://www.discogs.com/release/19863661-Yes-Union-30-Live)
-———————————————————————————————————————————————————————————————
 💿 2021-10-01 - Yes - "The Quest"
 (https://www.discogs.com/release/20432176-Yes-The-Quest)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live Bonus Tracks & Tour Extras"
-(https://www.discogs.com/release/27045312-Yes-Union-30-Live-Bonus-Tracks-Tour-Extras)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
-(https://www.discogs.com/release/27056589-Yes-Union-30-Live-Pensacola-Civic-Centre-1991)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
-(https://www.discogs.com/release/27056730-Yes-Union-30-Live-Madison-Square-Garden-New-York-July-15th-1991)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: McNichols Sports Arena Denver 1991"
-(https://www.discogs.com/release/27056829-Yes-Union-30-Live-McNichols-Sports-Arena-Denver-1991)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992"
-(https://www.discogs.com/release/27251319-Yes-Union-30-Live-Bunka-Taiikukan-Yokohoma-March-4th-1992)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991"
-(https://www.discogs.com/release/27251454-Yes-Union-30-Live-Alpine-Valley-Music-Theatre-Wisconsin-July-26th-1991)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991"
-(https://www.discogs.com/release/27251502-Yes-Union-30-Live-Hanns-Martin-Schleyer-Halle-Stuttgart-May-31st-1991)
-———————————————————————————————————————————————————————————————
-💿 2023 - Yes - "Union 30 Live: Nassau Coliseum New York April 20th 1991"
-(https://www.discogs.com/release/27251544-Yes-Union-30-Live-Nassau-Coliseum-New-York-April-20th-1991)
-———————————————————————————————————————————————————————————————
-💿 2023-05-12 - Yes - "Union 30 Live: Wembley Arena London June 29th 1991"
-(https://www.discogs.com/release/26901044-Yes-Union-30-Live-Wembley-Arena-London-June-29th-1991)
 ———————————————————————————————————————————————————————————————
 💿 2023-05-19 - Yes - "Mirror To The Sky"
 (https://www.discogs.com/release/27124821-Yes-Mirror-To-The-Sky)

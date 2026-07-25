@@ -1,9 +1,6 @@
 import { DateQuality } from "./classes/ReleaseDate";
 
-export const OPTION_CACHE_BUSTER: string[] = [
-  "release_1235659",
-  "versions_236968_1",
-];
+export const OPTION_CACHE_BUSTER: string[] = ["release_27056589"];
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
 export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;
@@ -68,7 +65,6 @@ export const FORMATS = {
     "HitClips",
     "Laserdisc",
     "Lathe Cut",
-    "Limited Edition",
     "Memory Stick",
     "Microcassette",
     "Mighty Tiny",
@@ -96,11 +92,9 @@ export const FORMATS = {
     "TeD",
     "Tefifon",
     "Test Pressing",
-    "Tour Recording",
     "U-matic",
     "Ultra HD Blu-ray",
     "UMD",
-    "Unofficial Release",
     "VHD",
     "VHS",
     "Video 2000",
@@ -108,7 +102,12 @@ export const FORMATS = {
     "Wire Recording",
     "Zip Disk",
   ],
-  eliminatory: ["Transcription"],
+  eliminatory: [
+    "Transcription",
+    "Limited Edition",
+    "Unofficial Release",
+    "Tour Recording",
+  ],
 };
 
 export const GENRES = {

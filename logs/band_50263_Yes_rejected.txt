@@ -1,4 +1,4 @@
-2379 rejected release(s):
+2389 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -6796,10 +6796,6 @@
 (https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2011-05-25 - Yes - "Union Live (Compilation)"
-(https://www.discogs.com/release/3450063-Yes-Union-Live)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2012 - Fantomatik Orchestra* - "Back In Brass"
 (https://www.discogs.com/release/10287674)
 (Rejected artist(s): The Fantomatik Orchestra)
@@ -7279,6 +7275,10 @@
 ❌ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
 (https://www.discogs.com/release/7061870-Yes-The-Greatest-Hits)
 (No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2015 - Yes, Arc Angel (2) - "This Is Metal · Vol. 16"
+(https://www.discogs.com/release/33790800)
+(Rejected format(s): CD, Album, DVD, DVD-Video, NTSC, CD, Album, All Media, Compilation, Limited Edition)
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - Superfjord / The Luck Of Eden Hall - "Sideshows"
 (https://www.discogs.com/release/7529072)
@@ -8040,6 +8040,10 @@
 (https://www.discogs.com/master/2286148)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2021 - Yes - "Union 30 Live"
+(https://www.discogs.com/master/2300686)
+(Rejected format(s): Box Set, Limited Edition, Numbered, CD, DVD, NTSC, CD, DVD, NTSC, CD, DVD, NTSC, CD, CD, CD, CD, DVD, NTSC, CD, CD, DVD, NTSC, CD, DVD, Multichannel, NTSC, CD)
+———————————————————————————————————————————————————————————————
 ❌ 2021 - Various - "80s (The Ultimate Collection)"
 (https://www.discogs.com/release/17972809)
 (Rejected release role: TrackAppearance)
@@ -8216,13 +8220,49 @@
 (https://www.discogs.com/release/26834984)
 (Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo)
 ———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Wembley Arena London June 29th 1991"
+(https://www.discogs.com/release/26901044)
+(Rejected format(s): CD, Album, Tour Recording)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live Bonus Tracks & Tour Extras"
+(https://www.discogs.com/release/27045312)
+(Rejected format(s): CD, Album, Tour Recording)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live:  Pensacola Civic Centre 1991"
+(https://www.discogs.com/release/27056589)
+(Rejected format(s): CD, Album, Tour Recording, DVD)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Madison Square Garden, New York, July 15th 1991"
+(https://www.discogs.com/release/27056730)
+(Rejected format(s): CD, Album, Tour Recording, DVD, DVD-Video, NTSC)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: McNichols Sports Arena Denver 1991"
+(https://www.discogs.com/release/27056829)
+(Rejected format(s): CD, Album, Tour Recording, DVD, DVD-Video, NTSC)
+———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Yes - Owner of a Lonely Heart (Luca Olivotto Remix)"
 (https://www.discogs.com/release/27126453)
 (Rejected format(s): File, FLAC)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Union 30 Live - Centrum Worcester April 17th 1991"
 (https://www.discogs.com/release/27160815)
-(Rejected format(s): CD, Limited Edition, DVD, NTSC, Limited Edition)
+(Rejected format(s): CD, Limited Edition, Tour Recording, DVD, NTSC, Limited Edition)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Bunka Taiikukan Yokohoma March 4th 1992"
+(https://www.discogs.com/release/27251319)
+(Rejected format(s): CD, Album, Tour Recording)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Alpine Valley Music Theatre Wisconsin July 26th 1991"
+(https://www.discogs.com/release/27251454)
+(Rejected format(s): CD, Album, Tour Recording)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Hanns Martin Schleyer-Halle Stuttgart May 31st 1991"
+(https://www.discogs.com/release/27251502)
+(Rejected format(s): CD, Album, Tour Recording)
+———————————————————————————————————————————————————————————————
+❌ 2023 - Yes - "Union 30 Live: Nassau Coliseum New York April 20th 1991"
+(https://www.discogs.com/release/27251544)
+(Rejected format(s): CD, Album, Tour Recording, DVD)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Murder By Death - "...As We Wish"
 (https://www.discogs.com/master/3747687)
@@ -8400,6 +8440,10 @@
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"
+(https://www.discogs.com/master/3843522)
+(Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, Etched, All Media, Record Store Day, Limited Edition, Reissue, Stereo)
+———————————————————————————————————————————————————————————————
 ❌ 2025 - Various - "Not The First Recordings"
 (https://www.discogs.com/release/34794488)
 (Rejected artist(s): Various)
@@ -8447,10 +8491,6 @@
 ❌ 2025 - Yes - "Early TV Broadcasts"
 (https://www.discogs.com/release/37408533)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2025-04-12 - Yes - "Live At The Rainbow London, England 12/16/1972 (Unknown)"
-(https://www.discogs.com/release/33679494-Yes-Live-At-The-Rainbow-London-England-12161972)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2026 - Yes - "Tales From Topographic Tours"
 (https://www.discogs.com/release/37103619)

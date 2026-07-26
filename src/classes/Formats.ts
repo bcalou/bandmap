@@ -81,7 +81,9 @@ export class Formats {
 
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
-    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${version.id}`);
+    this.logger.log(
+      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`
+    );
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
 
@@ -116,6 +118,15 @@ export class Formats {
 
   // Is this list of formats potentially valid for the discography?
   private isValidFormatList(formats: DCFormat[]): boolean {
+    // TODO raccourcir fonction
+    if (
+      this.flattenFormats(formats).filter((format) => format === "Album")
+        .length > 1
+    ) {
+      return false;
+    }
+
+    // TODO suppri?
     this.updateMainFormat(formats);
 
     let valid = false;

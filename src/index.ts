@@ -5,9 +5,9 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();
 }
 
-// new BandMap(50263).init();
+new BandMap(50263).init();
 
-testArtist(refs.SUPERTRAMP);
+// testArtist(refs.SUPERTRAMP);
 
 // const artistsBase = [
 //   refs.BLACK_COUNTRY_NEW_ROAD,

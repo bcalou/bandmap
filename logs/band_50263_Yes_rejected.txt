@@ -1,4 +1,4 @@
-2385 rejected release(s):
+2386 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -60,12 +60,12 @@
 (https://www.discogs.com/release/33059766-Derek-And-The-Dominos-Yes-Layla-Time-And-A-Word)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1970-03-27 - Yes - "Time And A Word  (Single)"
-(https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
 (https://www.discogs.com/release/3125455-Yes-Sweet-Dreams)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1970-03-27 - Yes - "Time And A Word  (Single)"
+(https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Yes - "I've Seen All Good People: Your Move"
@@ -516,8 +516,8 @@
 (https://www.discogs.com/release/34136398)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1982-10-00 - Yes - "Fragile / Close To The Edge (Compilation)"
-(https://www.discogs.com/release/12452786-Yes-Fragile-Close-To-The-Edge)
+❌ 1982-10-00 - Yes - "Close To The Edge / Fragile (Compilation)"
+(https://www.discogs.com/release/15776167-Yes-Close-To-The-Edge-Fragile)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Yes - "Drama / Going For The One"
@@ -1920,8 +1920,8 @@
 (https://www.discogs.com/master/808430)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Highlights - The Very Best Of Yes (Compilation)"
-(https://www.discogs.com/release/7122772-Yes-Highlights-The-Very-Best-Of-Yes)
+❌ 1993 - Yes - "Highlights: The Very Best Of Yes (Compilation)"
+(https://www.discogs.com/release/10836298-Yes-Highlights-The-Very-Best-Of-Yes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
@@ -2393,7 +2393,7 @@
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
-(https://www.discogs.com/release/5110061-Yes-Live-In-Philadelphia-1979)
+(https://www.discogs.com/release/3361189-Yes-Live-In-Philadelphia-1979)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "Highlights: The Very Best Of Yes"
@@ -2660,6 +2660,10 @@
 (https://www.discogs.com/master/2285368)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
+(https://www.discogs.com/release/3618240-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "New State Of Mind (Single)"
 (https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
 (No new tracks)
@@ -2667,6 +2671,10 @@
 ❌ 1998 - Yes - "King Biscuit Flower Hour"
 (https://www.discogs.com/master/491661)
 (Rejected format(s): Vinyl, LP, Unofficial Release)
+———————————————————————————————————————————————————————————————
+❌ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2)"
+(https://www.discogs.com/master/607666)
+(Rejected format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Various - "KOL 12 Inch Dance Versions [Yellow]"
 (https://www.discogs.com/release/1774431)
@@ -2972,12 +2980,8 @@
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1998 - Yes - "Keys To Ascension (Volumes 1 And 2) (Compilation)"
-(https://www.discogs.com/release/4862404-Yes-Keys-To-Ascension-Volumes-1-And-2)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
-(https://www.discogs.com/release/16939743-Yes-Live-1975-At-QPR-Vol-1)
+(https://www.discogs.com/release/15150494-Yes-Live-1975-At-QPR-Vol-1)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "If Only You Knew"
@@ -3845,7 +3849,7 @@
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
-(https://www.discogs.com/release/7028734-Yes-Live-1975-At-QPR-Vol-2)
+(https://www.discogs.com/release/15150607-Yes-Live-1975-At-QPR-Vol-2)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Spock's Beard - "Snow"
@@ -5232,6 +5236,10 @@
 (https://www.discogs.com/release/461457-Max-Graham-Vs-Yes-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Essentially"
+(https://www.discogs.com/master/979557)
+(Rejected format(s): Box Set, Compilation, Special Edition, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album)
+———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes - "Their Definitive Fully Authorised Story In A 2 Disc Deluxe Set"
 (https://www.discogs.com/master/1068095)
 (Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo)
@@ -5534,10 +5542,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Essentially (Compilation)"
-(https://www.discogs.com/release/8311441-Yes-Essentially)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes - "The Definitive Rock Collection"
@@ -5856,6 +5860,10 @@
 (https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2008 - Yes - "Magnification / Talk"
+(https://www.discogs.com/release/3900250)
+(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
+———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Yes - The New Director's Cut"
 (https://www.discogs.com/master/1150438)
 (Rejected format(s): DVD, DVD-Video)
@@ -6140,10 +6148,6 @@
 (https://www.discogs.com/release/4898412-Yes-Collection)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2008-05-00 - Yes - "Magnification / Talk (Compilation)"
-(https://www.discogs.com/release/3900250-Yes-Magnification-Talk)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2009 - Yes - "The Lost Broadcasts"
 (https://www.discogs.com/release/3362648)
 (Rejected format(s): DVD, DVD-Video, NTSC)
@@ -6384,6 +6388,10 @@
 (https://www.discogs.com/release/5887486-Yes-Introducing-Yes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2010 - Yes - "Open Your Eyes / Magnification"
+(https://www.discogs.com/release/12917852)
+(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
+———————————————————————————————————————————————————————————————
 ❌ 2010 - The Austrasian Goat - "The Body Covers"
 (https://www.discogs.com/release/2634388)
 (Rejected artist(s): The Austrasian Goat)
@@ -6584,10 +6592,6 @@
 (https://www.discogs.com/release/4677260-Yes-Astral-Traveller-The-BBC-Sessions)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2010 - Yes - "Open Your Eyes / Magnification (Compilation)"
-(https://www.discogs.com/release/12917852-Yes-Open-Your-Eyes-Magnification)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2011 - Asia (2) / Yes - "Prog Rock Box"
 (https://www.discogs.com/release/14090719)
 (Rejected format(s): Blu-ray, Blu-ray, Box Set, Compilation)
@@ -6784,6 +6788,10 @@
 (https://www.discogs.com/release/3383624-Yes-Wonderous-Stories-The-Best-Of-Yes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 2012 - Yes - "The Triple Album Collection"
+(https://www.discogs.com/master/1531396)
+(Rejected format(s): CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Remastered, Repress, CD, Album, Reissue, Repress, Box Set, Compilation)
+———————————————————————————————————————————————————————————————
 ❌ 2012 - Fantomatik Orchestra* - "Back In Brass"
 (https://www.discogs.com/release/10287674)
 (Rejected artist(s): The Fantomatik Orchestra)
@@ -6966,10 +6974,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
 (https://www.discogs.com/release/11826066-Various-Featuring-Yes-Members-Friends-Yes-Family-Tree)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2012 - Yes - "The Triple Album Collection (Compilation)"
-(https://www.discogs.com/release/7154997-Yes-The-Triple-Album-Collection)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Yes - "High Vibration - SACD Box"
@@ -7672,6 +7676,10 @@
 (https://www.discogs.com/master/1602894)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2018 - Yes - "The Steven Wilson Remixes"
+(https://www.discogs.com/master/1389962)
+(Rejected format(s): Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo)
+———————————————————————————————————————————————————————————————
 ❌ 2018 - Pusha-T* - "Daytona"
 (https://www.discogs.com/master/1400459)
 (Rejected artist(s): Pusha T)
@@ -7791,10 +7799,6 @@
 ❌ 2018 - Yes - "Definitive Oakland 1988"
 (https://www.discogs.com/master/2037142)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2018-06-29 - Yes - "The Steven Wilson Remixes (Compilation)"
-(https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2019 - Yes - "Treasures (A Vinyl Collection)"
 (https://www.discogs.com/release/14502870)

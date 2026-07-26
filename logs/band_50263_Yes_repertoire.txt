@@ -1,7 +1,11 @@
-233 track(s):
+237 track(s):
 ———————————————————————————————————————————————————————————————
 (silence)
 Release(s): Open Your Eyes
+———————————————————————————————————————————————————————————————
+A Living Island
+Sub tracks: Brave The Storm, Wake Up, We Will Remember
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 A Living Island
 Sub tracks: Brave The Storm, Wake Up, We Will Remember
@@ -33,7 +37,7 @@ Release(s): Keys To Ascension, The Word Is Live, The Royal Affair Tour: Live Fro
 And You And I
 Variation(s): Apocalypse (Detroit 1976), Apocalypse
 Sub tracks: (i) Cord Of Life, (ii) Eclipse, (iii) The Preacher The Teacher, (iv) The Apocalypse
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Yes & Friends, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years
 ———————————————————————————————————————————————————————————————
 Angkor Wat
 Release(s): Union
@@ -54,7 +58,7 @@ Release(s): Aurora
 ———————————————————————————————————————————————————————————————
 Awaken
 Variation(s): Awaken 
-Release(s): Going For The One, Keys To Ascension, House Of Yes (Live From House Of Blues), The Word Is Live, Live At Montreux 2003, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, 50 Live, Live At Glastonbury Festival 2003, Yes Years, Remixes
+Release(s): Going For The One, Keys To Ascension, House Of Yes (Live From House Of Blues), The Word Is Live, Live At Montreux 2003, Yes & Friends, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, 50 Live, Live At Glastonbury Festival 2003, Yes Years, Remixes
 ———————————————————————————————————————————————————————————————
 Be The One
 Sub tracks: The One, Humankind, Skates
@@ -109,7 +113,7 @@ Release(s): Time And A Word, 2 Originals Of Yes
 Close To The Edge
 Variation(s): Close To The Edge - I. The Solid Time Of Change; II. Total Mass Retain; III. I Get Up I Get Down; IV. Seasons Of Man
 Sub tracks: (i) The Solid Time Of Change, (ii) Total Mass Retain, (iii) I Get Up I Get Down, (iv) Seasons Of Man
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Symphonic Live, Symphonic Live, Like It Is: At The Mesa Arts Center, 50 Live, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Symphonic Live, Symphonic Live, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Countermovement
 Sub tracks: Taro, Anytime Soon, Blink Of An Eye, Freedom's Edge
@@ -121,8 +125,14 @@ Release(s): Mirror To The Sky
 Damaged World
 Release(s): The Quest
 ———————————————————————————————————————————————————————————————
+Damaged World
+Release(s): The Quest
+———————————————————————————————————————————————————————————————
 Dangerous (Look In The Light Of What You're Searching For)
 Release(s): Union
+———————————————————————————————————————————————————————————————
+Dare To Know
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Dare To Know
 Release(s): The Quest
@@ -157,7 +167,7 @@ Evensong
 Release(s): Union
 ———————————————————————————————————————————————————————————————
 Every Little Thing
-Release(s): Yes, 2 Originals Of Yes, Roundabout & Other Hits, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Yes, 2 Originals Of Yes, Songs From Tsongas - Yes 35th Anniversary Concert, Roundabout & Other Hits, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Everydays
 Variation(s): Everydays (Gothenburg 1971)
@@ -167,7 +177,8 @@ Excerpt From 'Georgia's Song' And 'Mood For A Day'
 Release(s): 50 Live
 ———————————————————————————————————————————————————————————————
 Excerpts From The Six Wives Of Henry VIII
-Release(s): Yessongs
+Variation(s): Excerpts From "The Six Wives Of Henry VIII"
+Release(s): Yessongs, Progeny: Highlights From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)
 ———————————————————————————————————————————————————————————————
 Face To Face
 Release(s): The Ladder, House Of Yes (Live From House Of Blues)
@@ -201,6 +212,9 @@ Release(s): From A Page
 Future Memories
 Release(s): The Quest
 ———————————————————————————————————————————————————————————————
+Future Memories
+Release(s): The Quest
+———————————————————————————————————————————————————————————————
 Future Times
 Variation(s): Future Times / Rejoice (Oakland 1978)
 Release(s): Tormato, The Word Is Live
@@ -213,14 +227,14 @@ Release(s): The Word Is Live
 ———————————————————————————————————————————————————————————————
 Going For The One
 Variation(s): Going for the One
-Release(s): Going For The One, Yesshows, Keys To Ascension 2, Roundabout & Other Hits, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, The Royal Affair Tour: Live From Las Vegas, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Going For The One, Yesshows, Highlights: The Very Best Of Yes, Keys To Ascension 2, Songs From Tsongas - Yes 35th Anniversary Concert, Roundabout & Other Hits, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, The Royal Affair Tour: Live From Las Vegas, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Harold Land
 Release(s): Yes, 2 Originals Of Yes
 ———————————————————————————————————————————————————————————————
 Heart Of The Sunrise
 Variation(s): Heart Of The Sunrise 
-Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
+Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Hearts
 Release(s): 90125
@@ -235,7 +249,8 @@ Holy Lamb (Song For Harmonic Convergence)
 Release(s): Big Generator, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Homeworld (The Ladder)
-Release(s): The Ladder, House Of Yes (Live From House Of Blues), In A Word: Yes (1969 -    )
+Variation(s): The Ladder
+Release(s): The Ladder, House Of Yes (Live From House Of Blues), Yes & Friends, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Hour Of Need
 Release(s): Fly From Here, Fly From Here - Return Trip
@@ -256,9 +271,9 @@ I'm Running
 Release(s): Big Generator
 ———————————————————————————————————————————————————————————————
 I've Seen All Good People
-Variation(s): Your Move, Your Move / I've Seen All Good People, I've Seen All Good People (London 1971), I’ve Seen All Good People, I've Seen All Good People (Your Move / All Good People), I've Seen All Good People - A. Your Move; B. All Good People
+Variation(s): Your Move, I've Seen All Good People	, Your Move / I've Seen All Good People, I've Seen All Good People (London 1971), I’ve Seen All Good People, I've Seen All Good People (Your Move / All Good People), I've Seen All Good People - A. Your Move; B. All Good People
 Sub tracks: Your Move, All Good People
-Release(s): The Yes Album, Yessongs, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Yessingles, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, Yessongs, Highlights: The Very Best Of Yes, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Yes & Friends, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yessingles, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 If Only You Knew
 Release(s): The Ladder
@@ -292,14 +307,15 @@ Release(s): The Word Is Live
 Jambustin'
 Release(s): Aurora
 ———————————————————————————————————————————————————————————————
-Jane Seymour
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
-———————————————————————————————————————————————————————————————
 Last Train
 Release(s): In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Leave It
-Release(s): 90125, In A Word: Yes (1969 -    )
+Release(s): 90125, Highlights: The Very Best Of Yes, In A Word: Yes (1969 -    )
+———————————————————————————————————————————————————————————————
+Leave Well Alone
+Sub tracks: Across The Border, Not For Nothing, Wheels
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Leave Well Alone
 Sub tracks: Across The Border, Not For Nothing, Wheels
@@ -322,7 +338,7 @@ Release(s): Mirror To The Sky
 ———————————————————————————————————————————————————————————————
 Long Distance Runaround
 Variation(s): Long Distance Runaround (acoustic)
-Release(s): Fragile, Yessongs, Symphonic Live, Symphonic Live, Roundabout & Other Hits, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Fragile, Yessongs, Highlights: The Very Best Of Yes, Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Roundabout & Other Hits, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Looking Around
 Release(s): Yes, 2 Originals Of Yes
@@ -362,8 +378,11 @@ Masquerade
 Release(s): Union
 ———————————————————————————————————————————————————————————————
 Mind Drive
-Variation(s): Mind Drive, Parts 1 & 2, Mind Drive, Part 3, Mind Drive, Part 1, Mind Drive, Part 2, Mind Drive, Parts 1 and 2
-Release(s): Keys To Ascension 2, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, In A Word: Yes (1969 -    )
+Variation(s): Mind Drive, Parts 1 and 2, Mind Drive, Part 3
+Release(s): Keys To Ascension 2, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, In A Word: Yes (1969 -    )
+———————————————————————————————————————————————————————————————
+Minus The Man
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Minus The Man
 Release(s): The Quest
@@ -381,8 +400,11 @@ Montreux's Theme
 Release(s): Yes Years
 ———————————————————————————————————————————————————————————————
 Mood For A Day
-Variation(s): Clap / Mood For A Day, Clap
-Release(s): Fragile, Yessongs, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Like It Is: At The Mesa Arts Center, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
+Variation(s): Clap / Mood For A Day, Clap, Mood For A Day/Clap
+Release(s): Fragile, Yessongs, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
+———————————————————————————————————————————————————————————————
+Music To My Ears
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Music To My Ears
 Release(s): The Quest
@@ -390,11 +412,8 @@ Release(s): The Quest
 My Eyes (excerpt from "Foot Prints")
 Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
 ———————————————————————————————————————————————————————————————
-My Eyes (excerpt from "Foot Prints")
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
-———————————————————————————————————————————————————————————————
-My Eyes (excerpt from "Foot Prints")
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
+Mystery Tour
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Mystery Tour
 Release(s): The Quest
@@ -432,7 +451,7 @@ Release(s): Open Your Eyes, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Opening (Excerpt From "Firebird Suite")
 Variation(s): Intro / Firebird Suite
-Release(s): Yessongs, Union Live, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert
+Release(s): Yessongs, Songs From Tsongas - Yes 35th Anniversary Concert, Union Live
 ———————————————————————————————————————————————————————————————
 Orchestral Intro
 Release(s): Symphonic Live
@@ -452,8 +471,8 @@ Overture
 Release(s): Symphonic Live
 ———————————————————————————————————————————————————————————————
 Owner Of A Lonely Heart
-Variation(s): Make It Easy / Owner Of A Lonely Heart, Owner of A Lonely Heart (acoustic), Owner of A Lonely Heart, Make It Easy
-Release(s): 90125, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Union Live, In The Present (Live From Lyon), Yessingles, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, Yes Years, In A Word: Yes (1969 -    )
+Variation(s): Owner of A Lonely Heart, Make It Easy / Owner Of A Lonely Heart, Make It Easy
+Release(s): 90125, Highlights: The Very Best Of Yes, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Yes & Friends, Union Live, In The Present (Live From Lyon), Yessingles, Yes Years, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Parallels
 Release(s): Going For The One, Yesshows, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, 50 Live
@@ -472,7 +491,7 @@ Release(s): Tormato, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Rhythm Of Love
 Variation(s): Rhythm of Love
-Release(s): Big Generator, The Word Is Live, Union Live, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Big Generator, Highlights: The Very Best Of Yes, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Union Live, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Richard
 Release(s): In A Word: Yes (1969 -    )
@@ -482,14 +501,11 @@ Release(s): Live At Montreux 2003
 ———————————————————————————————————————————————————————————————
 Ritual - Nous Sommes Du Soleil
 Variation(s): Ritual (Part 1), Ritual (Part 2), Ritual, Ritual (Nous Sommes du Soleil)
-Release(s): Tales From Topographic Oceans, Yesshows, Yesshows, House Of Yes (Live From House Of Blues), Symphonic Live, Topographic Drama (Live Across America), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, Remixes
-———————————————————————————————————————————————————————————————
-Roger Dean Interview
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
+Release(s): Tales From Topographic Oceans, Yesshows, Yesshows, House Of Yes (Live From House Of Blues), Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, Topographic Drama (Live Across America), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Remixes
 ———————————————————————————————————————————————————————————————
 Roundabout
-Variation(s): Roundabout (Chicago 1979), Roundabout , Roundabout (acoustic)
-Release(s): Fragile, Yessongs, Keys To Ascension, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Yessingles, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Variation(s): Roundabout (acoustic), Roundabout (Chicago 1979), Roundabout 
+Release(s): Fragile, Yessongs, Highlights: The Very Best Of Yes, Keys To Ascension, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Live At Montreux 2003, Yes & Friends, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yessingles, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Run Through The Light
 Release(s): Drama, Topographic Drama (Live Across America)
@@ -501,12 +517,6 @@ Saving My Heart
 Variation(s): Saving My Heart For You
 Release(s): Union, Union Live
 ———————————————————————————————————————————————————————————————
-Second Initial
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
-———————————————————————————————————————————————————————————————
-Second Initial (acoustic)
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
-———————————————————————————————————————————————————————————————
 Second Initial (acoustic)
 Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
 ———————————————————————————————————————————————————————————————
@@ -517,16 +527,16 @@ Shoot High Aim Low
 Variation(s): Shoot High, Aim Low
 Release(s): Big Generator, The Word Is Live, Yes Years
 ———————————————————————————————————————————————————————————————
-Show Me
-Variation(s): Show Me (acoustic)
-Release(s): Live At Montreux 2003, Live At Glastonbury Festival 2003, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert
+Show Me (acoustic)
+Variation(s): Show Me
+Release(s): Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, Live At Glastonbury Festival 2003
 ———————————————————————————————————————————————————————————————
 Si
 Release(s): 9012Live • The Solos
 ———————————————————————————————————————————————————————————————
 Siberian Khatru
-Variation(s): Siberian Khatru (Detroit 1976)
-Release(s): Close To The Edge, Yessongs, Keys To Ascension, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    ), Remixes
+Variation(s): Siberian Khatru (Detroit 1976), Opening (Excerpt From Firebird Suite) / Siberian Khatru, Opening (Excerpts From Firebird Suite)
+Release(s): Close To The Edge, Yessongs, Keys To Ascension, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Sign Language
 Variation(s): New Language
@@ -534,6 +544,9 @@ Release(s): Keys To Ascension 2, The Ladder
 ———————————————————————————————————————————————————————————————
 Silent Talking
 Release(s): Union
+———————————————————————————————————————————————————————————————
+Sister Sleeping Soul
+Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Sister Sleeping Soul
 Release(s): The Quest
@@ -562,7 +575,7 @@ Release(s): Relayer, The Word Is Live, Yessingles, Live At Roosevelt Stadium, Je
 ———————————————————————————————————————————————————————————————
 South Side Of The Sky
 Variation(s): South Side of the Sky
-Release(s): Fragile, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, In A Word: Yes (1969 -    )
+Release(s): Fragile, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Live At Glastonbury Festival 2003, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Spirit Of Survival
 Release(s): Magnification
@@ -570,7 +583,7 @@ Release(s): Magnification
 Starship Trooper
 Variation(s): Starship Trooper: Life Seeker, Starship Trooper - A. Life Seeker; B. Disillusion; C. Wurm
 Sub tracks: Life Seeker, Disillusion, Würm
-Release(s): The Yes Album, Yessongs, Keys To Ascension, Symphonic Live, Symphonic Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Topographic Drama (Live Across America), 50 Live, The Royal Affair Tour: Live From Las Vegas, Yessingles, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    ), Remixes
+Release(s): The Yes Album, Yessongs, Highlights: The Very Best Of Yes, Keys To Ascension, Symphonic Live, Symphonic Live, Songs From Tsongas - Yes 35th Anniversary Concert, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Topographic Drama (Live Across America), 50 Live, The Royal Affair Tour: Live From Las Vegas, Yessingles, Yes Years, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 State Of Play
 Release(s): Talk
@@ -582,11 +595,11 @@ Subway Walls
 Release(s): Heaven & Earth
 ———————————————————————————————————————————————————————————————
 Survival
-Release(s): Yes, 2 Originals Of Yes, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Yes, 2 Originals Of Yes, Highlights: The Very Best Of Yes, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Sweet Dreams
 Variation(s): Sweet Dreams (London 1975)
-Release(s): Time And A Word, 2 Originals Of Yes, The Word Is Live, 50 Live, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Time And A Word, 2 Originals Of Yes, Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, 50 Live, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Sweetness
 Release(s): Yes, 2 Originals Of Yes, In A Word: Yes (1969 -    )
@@ -622,7 +635,7 @@ Release(s): The Yes Album, Live At Montreux 2003
 ———————————————————————————————————————————————————————————————
 The Fish (Schindleria Praematurus)
 Variation(s): The Fish
-Release(s): Fragile, Yessongs, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years
+Release(s): Fragile, Yessongs, Live At Montreux 2003, Like It Is: At The Mesa Arts Center, Yes Years
 ———————————————————————————————————————————————————————————————
 The Game
 Release(s): Heaven & Earth
@@ -638,11 +651,12 @@ The Ice Bridge
 Sub tracks: Eyes East, Race Against Time, Interaction
 Release(s): The Quest
 ———————————————————————————————————————————————————————————————
+The Ice Bridge
+Sub tracks: Eyes East, Race Against Time, Interaction
+Release(s): The Quest
+———————————————————————————————————————————————————————————————
 The Man You Always Wanted Me To Be
 Release(s): Fly From Here, Fly From Here - Return Trip
-———————————————————————————————————————————————————————————————
-The Meeting (acoustic)
-Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
 ———————————————————————————————————————————————————————————————
 The Meeting (acoustic)
 Release(s): Songs From Tsongas - Yes 35th Anniversary Concert
@@ -675,6 +689,9 @@ Release(s): Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976
 The Western Edge
 Release(s): The Quest
 ———————————————————————————————————————————————————————————————
+The Western Edge
+Release(s): The Quest
+———————————————————————————————————————————————————————————————
 Then
 Variation(s): Then (BBC 1970)
 Release(s): Time And A Word, 2 Originals Of Yes, The Word Is Live, Yes Years, In A Word: Yes (1969 -    )
@@ -683,12 +700,12 @@ Tiger Rag
 Release(s): Live At Glastonbury Festival 2003
 ———————————————————————————————————————————————————————————————
 Time And A Word
-Variation(s): Tîme And A Word
-Release(s): Time And A Word, 2 Originals Of Yes, Yesshows, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Roundabout & Other Hits, Yes Years, In A Word: Yes (1969 -    )
+Variation(s): Tîme And A Word, Time And A Word	
+Release(s): Time And A Word, 2 Originals Of Yes, Yesshows, Highlights: The Very Best Of Yes, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Roundabout & Other Hits, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Time Is Time
 Variation(s): Time is Time (acoustic)
-Release(s): Magnification, Live At Glastonbury Festival 2003, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert
+Release(s): Magnification, Songs From Tsongas - Yes 35th Anniversary Concert, Live At Glastonbury Festival 2003
 ———————————————————————————————————————————————————————————————
 To Ascend
 Release(s): Heaven & Earth
@@ -704,7 +721,7 @@ Release(s): From A Page
 ———————————————————————————————————————————————————————————————
 Turn Of The Century
 Variation(s): Turn of the Century
-Release(s): Going For The One, Keys To Ascension 2, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, In A Word: Yes (1969 -    )
+Release(s): Going For The One, Keys To Ascension 2, Songs From Tsongas - Yes 35th Anniversary Concert, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Turnaround Situation
 Release(s): Aurora
@@ -755,7 +772,7 @@ Release(s): Open Your Eyes
 ———————————————————————————————————————————————————————————————
 Wonderous Stories
 Variation(s): Wonderous Stories (acoustic)
-Release(s): Going For The One, Yesshows, Roundabout & Other Hits, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Yessingles, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Going For The One, Yesshows, Highlights: The Very Best Of Yes, Songs From Tsongas - Yes 35th Anniversary Concert, Roundabout & Other Hits, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Yessingles, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Words On A Page
 Release(s): From A Page
@@ -765,5 +782,5 @@ Release(s): Yes, 2 Originals Of Yes
 ———————————————————————————————————————————————————————————————
 Yours Is No Disgrace
 Variation(s): Yours Is No Disgrace (London 1971)
-Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), The Word Is Live, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, 50 Live, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Songs From Tsongas - Yes 35th Anniversary Concert, Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), Songs From Tsongas - Yes 35th Anniversary Concert, The Word Is Live, Yes & Friends, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————

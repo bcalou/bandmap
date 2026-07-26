@@ -23,6 +23,7 @@ export const FORMATS = {
     "Album", // Album is last because if it's anything else (like Compilation),
     // then it's not really an album
   ],
+  accept: ["CD", "Vinyl"],
   reject: [
     "4-Track Cartridge",
     "8-Track Cartridge",
@@ -95,9 +96,16 @@ export const FORMATS = {
     "Zip Disk",
   ],
   eliminatory: [
+    "Club Edition",
+    "Enhanced",
     "Transcription",
     "Limited Edition",
     "Unofficial Release",
+    "Promo",
+    "Reissue",
+    "Remastered",
+    "Repress",
+    "Test Pressing",
     "Tour Recording",
   ],
 };

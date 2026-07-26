@@ -17,6 +17,11 @@ export const API_CONSUMER_KEY = "KjrpvorlXakACBzWYgvl";
 export const API_CONSUMER_SECRET = "CggkIagphcuYfzlkoqElKiVtyyNsYZMR";
 export const API_CACHE_FILE = "../../discogs_cache.db";
 
+export type GetVersionsOptions = {
+  page?: number;
+  format?: string;
+};
+
 type CacheEntry = {
   key: string;
   value: string;
@@ -86,13 +91,18 @@ export class Api {
     );
   }
 
-  public async getVersions(id: number, page = 1): Promise<DCVersions> {
+  public async getVersions(
+    id: number,
+    options?: GetVersionsOptions
+  ): Promise<DCVersions> {
+    const page = options?.page ?? 1;
+
     return this.getCached<DCVersions>(
-      `versions_${id}_${page}`,
+      `versions_${id}_${page}${options?.format ? `_${options?.format}` : ""}`,
       () =>
         this.discogs.getMasterVersions(id, {
-          page,
           per_page: PER_PAGE,
+          ...(options ?? {}),
         }),
       DCVersions
     );

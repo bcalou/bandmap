@@ -78,8 +78,9 @@
 ———————————————————————————————————————————————————————————————
 🎼 Moon Safari: 34 release(s) found
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (2005) for "A Doorway To Summer"
-🗃️ Looking at 7 alternate version(s)
+🗃️ Looking at 8 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/3346044
 🗓️ Release date: 2005-01-01
 Found better release date: 2005-01-01
@@ -89,46 +90,57 @@ Found better release date: 2005-01-01
 💿 2005-01-01 - Moon Safari - "A Doorway To Summer"
 (https://www.discogs.com/release/8543634-Moon-Safari-A-Doorway-To-Summer)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album, Stereo
 🗓️ Imprecise date (2008-01-01) for "Blomljud"
-🗃️ Looking at 7 alternate version(s)
+🗃️ Looking at 8 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/21709531
 🗓️ Release date: 2008-01-03
 Found better release date: 2008-01-03
 💿 2008-01-03 - Moon Safari - "Blomljud"
 (https://www.discogs.com/release/3346064-Moon-Safari-Blomljud)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
 ❌ 2009 - Øresund Space Collective, Darkwater (5), Moon Safari, John Randén & Synkopaterna - "Various - Slottsskogen Goes Progressive 2008"
 (https://www.discogs.com/release/7418394)
 Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 💿 2010-11-11 - Moon Safari - "Lover's End"
 (https://www.discogs.com/release/3346056-Moon-Safari-Lovers-End)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, EP, Compilation
 ⌛ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (Compilation)"
 (https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 💿 2012-02-08 - Moon Safari - "The Gettysburg Address"
 (https://www.discogs.com/release/3398502-Moon-Safari-The-Gettysburg-Address)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, EP, Stereo
 ⌛ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
 (https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 💿 2013-08-21 - Moon Safari - "Himlabacken • Vol 1"
 (https://www.discogs.com/release/5212812-Moon-Safari-Himlabacken-Vol-1)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 💿 2014-10-00 - Moon Safari - "Live In Mexico"
 (https://www.discogs.com/release/23243657-Moon-Safari-Live-In-Mexico)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation
 ⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
 ———————————————————————————————————————————————————————————————
-❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
-(https://www.discogs.com/release/15123057)
-Rejected format(s): CD, Compilation, Reissue, Stereo
+💿 Format(s): CD, Compilation, Reissue, Stereo
+⌛ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
+(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 (https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation
 ⌛ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
 (https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special)
 ———————————————————————————————————————————————————————————————
@@ -219,6 +231,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
+(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"

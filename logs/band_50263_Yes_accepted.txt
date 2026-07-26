@@ -1,4 +1,4 @@
-49 release(s):
+53 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1969-07-00 - Yes - "Yes"
 (https://www.discogs.com/release/9201144-Yes-Yes)
@@ -15,7 +15,7 @@
 💿 1972-09-00 - Yes - "Close To The Edge"
 (https://www.discogs.com/release/431005-Yes-Close-To-The-Edge)
 ———————————————————————————————————————————————————————————————
-💿 1973 - Yes - "2 Originals Of Yes (Compilation)"
+💿 1973 - Yes - "2 Originals Of Yes"
 (https://www.discogs.com/release/2010342-Yes-2-Originals-Of-Yes)
 ———————————————————————————————————————————————————————————————
 💿 1973-05-00 - Yes - "Yessongs"
@@ -54,6 +54,9 @@
 💿 1991-10-15 - Yes - "Union"
 (https://www.discogs.com/release/1913040-Yes-Union)
 ———————————————————————————————————————————————————————————————
+💿 1993-09-00 - Yes - "Highlights: The Very Best Of Yes"
+(https://www.discogs.com/release/11034518-Yes-Highlights-The-Very-Best-Of-Yes)
+———————————————————————————————————————————————————————————————
 💿 1994-03-02 - Yes - "Talk"
 (https://www.discogs.com/release/1273971-Yes-Talk)
 ———————————————————————————————————————————————————————————————
@@ -84,17 +87,20 @@
 💿 2003-07-08 - Yes - "Remixes (Compilation)"
 (https://www.discogs.com/release/2068513-Yes-Remixes)
 ———————————————————————————————————————————————————————————————
-💿 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert (Unknown)"
-(https://www.discogs.com/release/6788950-Yes-Songs-From-Tsongas-Yes-35th-Anniversary-Concert)
+💿 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert"
+(https://www.discogs.com/release/16127385-Yes-Songs-From-Tsongas-Yes-35th-Anniversary-Concert)
 ———————————————————————————————————————————————————————————————
 💿 2005-09-21 - Yes - "The Word Is Live"
 (https://www.discogs.com/release/1363983-Yes-The-Word-Is-Live)
 ———————————————————————————————————————————————————————————————
-💿 2007 - Yes - "Roundabout & Other Hits (Compilation)"
+💿 2007 - Yes - "Roundabout & Other Hits"
 (https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
 ———————————————————————————————————————————————————————————————
 💿 2007 - Yes - "Live At Montreux 2003"
 (https://www.discogs.com/release/1109506-Yes-Live-At-Montreux-2003)
+———————————————————————————————————————————————————————————————
+💿 2007 - Yes, Friends Of Yes - "Yes & Friends"
+(https://www.discogs.com/release/4287039-Yes-Friends-Yes-Friends)
 ———————————————————————————————————————————————————————————————
 💿 2011-05-25 - Yes - "Union Live"
 (https://www.discogs.com/release/6341488-Yes-Union-Live)
@@ -105,11 +111,14 @@
 💿 2011-11-23 - Yes - "In The Present (Live From Lyon)"
 (https://www.discogs.com/release/3462143-Yes-In-The-Present-Live-From-Lyon)
 ———————————————————————————————————————————————————————————————
-💿 2014-07-18 - Yes - "Heaven & Earth"
+💿 2014-07-16 - Yes - "Heaven & Earth"
 (https://www.discogs.com/release/5894293-Yes-Heaven-Earth)
 ———————————————————————————————————————————————————————————————
 💿 2014-11-19 - Yes - "Like It Is: Yes At The Bristol Hippodrome"
 (https://www.discogs.com/release/6402940-Yes-Like-It-Is-Yes-At-The-Bristol-Hippodrome)
+———————————————————————————————————————————————————————————————
+💿 2015-06-10 - Yes - "Progeny: Highlights From Seventy-Two"
+(https://www.discogs.com/release/7070077-Yes-Progeny-Highlights-From-Seventy-Two)
 ———————————————————————————————————————————————————————————————
 💿 2015-07-00 - Yes - "Like It Is: At The Mesa Arts Center"
 (https://www.discogs.com/release/7298061-Yes-Like-It-Is-At-The-Mesa-Arts-Center)
@@ -133,12 +142,15 @@
 (https://www.discogs.com/release/16195379-Yes-The-Royal-Affair-Tour-Live-From-Las-Vegas)
 ———————————————————————————————————————————————————————————————
 💿 2021-10-01 - Yes - "The Quest"
-(https://www.discogs.com/release/20918377-Yes-The-Quest)
+(https://www.discogs.com/release/20434090-Yes-The-Quest)
+———————————————————————————————————————————————————————————————
+💿 2023-04-22 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
+(https://www.discogs.com/release/26834984-Yes-Live-At-Knoxville-Civic-Auditorium-Knoxville-Tennessee-November-15-1972)
 ———————————————————————————————————————————————————————————————
 💿 2023-05-19 - Yes - "Mirror To The Sky"
 (https://www.discogs.com/release/27124821-Yes-Mirror-To-The-Sky)
 ———————————————————————————————————————————————————————————————
-💿 2023-10-06 - Yes - "Yessingles (Compilation)"
+💿 2023-10-06 - Yes - "Yessingles"
 (https://www.discogs.com/release/28552702-Yes-Yessingles)
 ———————————————————————————————————————————————————————————————
 💿 2026-06-12 - Yes - "Aurora"

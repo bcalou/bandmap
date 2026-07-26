@@ -270,15 +270,20 @@
 ———————————————————————————————————————————————————————————————
 🎼 Supertramp: 875 release(s) found
 ———————————————————————————————————————————————————————————————
-🗓️ Imprecise date (1970) for "Supertramp"
-🗃️ Looking at 139 alternate version(s)
+💿 Format(s): Vinyl, LP, Album, Repress, Stereo
+🗃️ Looking at 140 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/9211841
 🗃️ Analyzing version https://www.discogs.com/release/9211841
-🗓️ Release date: 1970
+💿 Format(s): Vinyl, LP, Album
+🗓️ Imprecise date (1970) for "Supertramp"
+🗃️ Looking at 140 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5800608
 🗓️ Release date: 1970
 🗃️ Analyzing version https://www.discogs.com/release/4647924
 🗓️ Release date: 1970
 🗃️ Analyzing version https://www.discogs.com/release/15760363
+🗓️ Release date: 1970
+🗃️ Analyzing version https://www.discogs.com/release/2862074
 🗓️ Release date: 1970
 🗃️ Analyzing version https://www.discogs.com/release/18263884
 🗓️ Release date: 1970
@@ -289,52 +294,65 @@
 🗓️ No more versions for year 1970
 🗓️ No better date found
 💿 1970 - Supertramp - "Supertramp"
-(https://www.discogs.com/release/2862074-Supertramp-Supertramp)
+(https://www.discogs.com/release/9211841-Supertramp-Supertramp)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Stereo
 ⌛ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned (Unknown)"
 (https://www.discogs.com/release/5707677-Supertramp-Your-Poppa-Dont-Mind-Rosie-Had-Everything-Planned)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Promo
 ❌ 1971 - Supertramp - "Forever / Your Poppa Don't Mind"
 (https://www.discogs.com/release/5835172)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album
 💿 1971-06-25 - Supertramp - "Indelibly Stamped"
 (https://www.discogs.com/release/1414075-Supertramp-Indelibly-Stamped)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1974 - Supertramp - "Land Ho / Summer Romance (Single)"
 (https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1974-03-01 - Supertramp - "Land Ho  (Single)"
 (https://www.discogs.com/release/3402272-Supertramp-Land-Ho-)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1977 - Supertramp - "Dreamer (Single)"
 (https://www.discogs.com/release/3347037-Supertramp-Dreamer)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 💿 1974-09-00 - Supertramp - "Crime Of The Century"
 (https://www.discogs.com/release/31408358-Supertramp-Crime-Of-The-Century)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1974-11-01 - Supertramp - "Dreamer (Single)"
 (https://www.discogs.com/release/721754-Supertramp-Dreamer)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/30727721
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo, Mono, Promo
+🗃️ Looking at 5 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/30727721
 🗃️ Analyzing version https://www.discogs.com/release/30727721
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1974 - Supertramp - "Bloody Well Right (Single)"
 (https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1975 - Supertramp - "Sister Moonshine  (Single)"
 (https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation, Transcription
 ❌ 1975 - Supertramp / Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day"
 (https://www.discogs.com/release/32732025)
 Rejected format(s): Vinyl, LP, Compilation, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 🗓️ Imprecise date (1975) for "Crisis? What Crisis?"
-🗃️ Looking at 279 alternate version(s)
+🗃️ Looking at 280 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/18181171
 🗓️ Release date: 1975
 🗃️ Analyzing version https://www.discogs.com/release/25615342
@@ -347,16 +365,19 @@ Found better release date: 1975-11-10
 💿 1975-11-10 - Supertramp - "Crisis? What Crisis?"
 (https://www.discogs.com/release/1414002-Supertramp-Crisis-What-Crisis)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", Single, 45 RPM
 ⌛ 1976 - Supertramp - "Lady (Single)"
 (https://www.discogs.com/release/2469812-Supertramp-Lady)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (2001) for "Is Everybody Listening?"
-🗃️ Looking at 12 alternate version(s)
+🗃️ Looking at 13 alternate version(s)
 🗓️ No more versions for year 2001
 🗓️ No better date found
 💿 2001 - Supertramp - "Is Everybody Listening?"
 (https://www.discogs.com/release/791136-Supertramp-Is-Everybody-Listening)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription, Stereo
 ❌ 1976 - Supertramp / Chris Hillman - "Rock Around The World #115"
 (https://www.discogs.com/release/34222591)
 Rejected format(s): Vinyl, LP, Transcription, Stereo
@@ -365,39 +386,50 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 (https://www.discogs.com/release/9133636)
 Rejected genre(s): Rock,Non-Music,Pop
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 💿 1977-04-00 - Supertramp - "Even In The Quietest Moments..."
 (https://www.discogs.com/release/4727625-Supertramp-Even-In-The-Quietest-Moments)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1978 - Supertramp - "Babaji (Single)"
 (https://www.discogs.com/release/1422180-Supertramp-Babaji)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1977 - Supertramp - "Give A Little Bit (Single)"
 (https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Compilation, Stereo
 ⌛ 1978 - Supertramp - "4 Sucessos (Compilation)"
 (https://www.discogs.com/release/4282303-Supertramp-4-Sucessos)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1978 - Supertramp - "In Concert-163"
 (https://www.discogs.com/release/7729745)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ❌ 1979 - Supertramp - "Escandalosamente Bueno"
 (https://www.discogs.com/release/5263828)
 Rejected format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Compilation
 ⌛ 1979 - Supertramp - "The Logical Song / Breakfast In America (Compilation)"
 (https://www.discogs.com/release/5368146-Supertramp-The-Logical-Song-Breakfast-In-America)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation, Limited Edition, Promo, Special Edition, Stereo
 ❌ 1979 - Supertramp - "Greatest Hits"
 (https://www.discogs.com/release/6490637)
 Rejected format(s): Vinyl, LP, Compilation, Limited Edition, Promo, Special Edition, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
 ⌛ 1979 - Anita Ward, Supertramp - "Ring My Bell / The Logical Song (Unknown)"
 (https://www.discogs.com/release/7598284-Anita-Ward-Supertramp-Ring-My-Bell-The-Logical-Song)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
 ⌛ 1979 - Supertramp, Chicago - "Goodbye Stranger / Must Have Been Crazy (Unknown)"
 (https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Must-Have-Been-Crazy)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation, Promo, Sampler, Stereo
 ❌ 1979 - Supertramp - "Super Mileage"
 (https://www.discogs.com/release/9801634)
 Rejected format(s): Vinyl, LP, Compilation, Promo, Sampler, Stereo
@@ -406,6 +438,7 @@ Rejected format(s): Vinyl, LP, Compilation, Promo, Sampler, Stereo
 (https://www.discogs.com/release/9896082)
 Rejected genre(s): Jazz,Rock,Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation, Promo, Stereo
 ❌ 1979 - Supertramp - "Supertramp En España"
 (https://www.discogs.com/release/10033824)
 Rejected format(s): Vinyl, LP, Compilation, Promo, Stereo
@@ -414,14 +447,17 @@ Rejected format(s): Vinyl, LP, Compilation, Promo, Stereo
 (https://www.discogs.com/release/10943284)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7"
 ⌛ 1979 - Supertramp, Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll (Unknown)"
 (https://www.discogs.com/release/15409597-Supertramp-Atlantic-Starr-Even-In-The-Quietest-Moments-Lets-Rock-N-Roll)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Styrene
 ⌛ 1979 - Supertramp - "Breakfast In America (Single)"
 (https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album
 🗓️ Imprecise date (1979) for "Breakfast In America"
-🗃️ Looking at 456 alternate version(s)
+🗃️ Looking at 457 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/9786162
 🗓️ Release date: 1979
 🗃️ Analyzing version https://www.discogs.com/release/13437673
@@ -430,28 +466,35 @@ Found better release date: 1979-03-29
 💿 1979-03-29 - Supertramp - "Breakfast In America"
 (https://www.discogs.com/release/617486-Supertramp-Breakfast-In-America)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 10 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/16739280
+💿 Format(s): Vinyl, 7", 45 RPM, Reissue
+🗃️ Looking at 11 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/16739280
 🗃️ Analyzing version https://www.discogs.com/release/16739280
 💿 Format(s): Vinyl, 7", Single
 ⌛ 1979 - Supertramp - "The Logical Song (Single)"
 (https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", Single, 45 RPM
 ⌛ 1979 - Supertramp - "Goodbye Stranger (Single)"
 (https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1979 - Supertramp - "Breakfast In America (Single)"
 (https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1979 - Supertramp - "The Logical Song (Single)"
 (https://www.discogs.com/release/444840-Supertramp-The-Logical-Song)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Styrene, Stereo
 ⌛ 1979-10-00 - Supertramp - "Take The Long Way Home (Single)"
 (https://www.discogs.com/release/13133010-Supertramp-Take-The-Long-Way-Home)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
 ⌛ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia (Unknown)"
 (https://www.discogs.com/release/2673783-Supertramp-Francis-Cabrel-Dreamer-Questa-Specie-Di-Poesia)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1980 - Supertramp - "The Supertramp Special"
 (https://www.discogs.com/release/5885525)
 Rejected format(s): Vinyl, LP, Transcription
@@ -460,16 +503,20 @@ Rejected format(s): Vinyl, LP, Transcription
 (https://www.discogs.com/release/8829869)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Compilation
 ⌛ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home (Compilation)"
 (https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1980 - Supertramp - "BBC Rock Hour #142"
 (https://www.discogs.com/release/15653939)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1980 - Supertramp - "Lord Is It Mine (Single)"
 (https://www.discogs.com/release/13677228-Supertramp-Lord-Is-It-Mine)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1980 - Supertramp - "Dreamer (Single)"
 (https://www.discogs.com/release/6027501-Supertramp-Dreamer)
 ———————————————————————————————————————————————————————————————
@@ -477,15 +524,17 @@ Rejected format(s): Vinyl, LP, Transcription
 (https://www.discogs.com/master/1282224)
 Alternate language release
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/8643213
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Promo
+🗃️ Looking at 5 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8643213
 🗃️ Analyzing version https://www.discogs.com/release/8643213
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1980 - Supertramp - "Take The Long Way Home [Live Version] (Single)"
 (https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album
 🗓️ Imprecise date (1980) for "Paris"
-🗃️ Looking at 167 alternate version(s)
+🗃️ Looking at 168 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/17381401
 🗓️ Release date: 1980
 🗃️ Analyzing version https://www.discogs.com/release/12675136
@@ -663,22 +712,20 @@ Rejected genre(s): Rock,Non-Music
 (https://www.discogs.com/release/30679411)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 5 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/13634517
+💿 Format(s): Cassette, Compilation
+🗃️ Looking at 6 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/13634517
 🗃️ Analyzing version https://www.discogs.com/release/13634517
 💿 Format(s): Cassette, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/8957234
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8957234
 🗃️ Analyzing version https://www.discogs.com/release/8957234
 💿 Format(s): Cassette, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/25133152
-🗃️ Analyzing version https://www.discogs.com/release/25133152
-💿 Format(s): Cassette, Compilation, Reissue
-🗃️ Analyzing version https://www.discogs.com/release/15338978
-🗃️ Analyzing version https://www.discogs.com/release/15338978
-💿 Format(s): Cassette, Compilation, Reissue
-🗃️ Analyzing version https://www.discogs.com/release/2190128
-🗃️ Analyzing version https://www.discogs.com/release/2190128
-💿 Format(s): Cassette, Compilation, Reissue
+🗃️ Analyzing main formats of version https://www.discogs.com/release/25133152
+💿 Format(s): Cassette, Compilation, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/15338978
+💿 Format(s): Cassette, Compilation, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/2190128
+💿 Format(s): Cassette, Compilation, Reissue}
 ❌ 1981 - Supertramp - "Crisis? What Crisis? / Even In The Quietest Moments..."
 (https://www.discogs.com/master/1048523)
 Rejected format(s): Cassette, Compilation
@@ -687,21 +734,26 @@ Rejected format(s): Cassette, Compilation
 (https://www.discogs.com/release/5655381)
 Rejected genre(s): Rock,Non-Music,Pop
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12", 33 ⅓ RPM, Promo
 ❌ 1982 - Supertramp / Michael Jackson - "My Kind Of Lady / Beat It"
 (https://www.discogs.com/release/6755653)
 Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
 ⌛ 1982 - KC & The Sunshine Band, Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again (Unknown)"
 (https://www.discogs.com/release/6782259-KC-The-Sunshine-Band-Supertramp-You-Said-Youd-Gimme-Some-More-Its-Raining-Again)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1982 - Supertramp - "B.B.C. Rock Hour #343"
 (https://www.discogs.com/release/21741367)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Promo, Transcription
 ❌ 1982 - Supertramp - "SuperGroups Presents A Night On The Road"
 (https://www.discogs.com/release/26016373)
 Rejected format(s): Vinyl, LP, Promo, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription, Stereo
 ❌ 1982 - Supertramp / Andy Summers & Robert Fripp - "Famous Last Words / I Advance Masked"
 (https://www.discogs.com/release/36877810)
 Rejected format(s): Vinyl, LP, Transcription, Stereo
@@ -710,65 +762,82 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 (https://www.discogs.com/master/4267716)
 Alternate language release
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 💿 1982-10-00 - Supertramp - ""...Famous Last Words...""
 (https://www.discogs.com/release/3058365-Supertramp-Famous-Last-Words)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1982 - Supertramp - "My Kind Of Lady (Single)"
 (https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1982 - Supertramp - "It's Raining Again (Single)"
 (https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 9 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/9156161
+💿 Format(s): Vinyl, 7", 45 RPM, Reissue
+🗃️ Looking at 10 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/9156161
 🗃️ Analyzing version https://www.discogs.com/release/9156161
 💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ unknown date - Supertramp - "Give A Little Bit / Dreamer  (Single)"
 (https://www.discogs.com/release/9156161-Supertramp-Give-A-Little-Bit-Dreamer-)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7"
 ⌛ 1982 - Supertramp - "Crazy (Unknown)"
 (https://www.discogs.com/release/999816-Supertramp-Crazy)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Promo, Compilation
 ❌ 1983 - Supertramp - "Supersampler"
 (https://www.discogs.com/release/2080727)
 Rejected format(s): Vinyl, LP, Promo, Compilation
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
 ⌛ 1983 - Ivano Fossati, Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady (Unknown)"
 (https://www.discogs.com/release/3632856-Ivano-Fossati-Supertramp-La-Musica-Che-Gira-Intorno-My-Kind-Of-Lady)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription, Stereo
 ❌ 1983 - Supertramp - "In Concert-309"
 (https://www.discogs.com/release/10969885)
 Rejected format(s): Vinyl, LP, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Vinyl, LP, Single Sided, All Media, Transcription
 ❌ 1983 - Supertramp - "Self Portrait"
 (https://www.discogs.com/release/13661416)
 Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, All Media, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single
 ⌛ 1983 - Supertramp - "Don't Leave Me Now (Single)"
 (https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM
 ⌛ 1983 - Supertramp - "School (Unknown)"
 (https://www.discogs.com/release/2210323-Supertramp-School)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 4 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/1399661
+💿 Format(s): Vinyl, LP, Compilation, Limited Edition
+🗃️ Looking at 5 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1399661
 💿 Format(s): Cassette, Compilation, Limited Edition}
-🗃️ Analyzing version https://www.discogs.com/release/6739506
+🗃️ Analyzing main formats of version https://www.discogs.com/release/6739506
 💿 Format(s): Vinyl, LP, Compilation, Club Edition, Limited Edition}
-🗃️ Analyzing version https://www.discogs.com/release/11369608
-🗃️ Analyzing version https://www.discogs.com/release/11369608
-💿 Format(s): Vinyl, LP, Compilation, Club Edition, Stereo
-⌛ 1984 - Supertramp - "Die Songs Einer Supergruppe (Compilation)"
-(https://www.discogs.com/release/11369608-Supertramp-Die-Songs-Einer-Supergruppe)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11369608
+💿 Format(s): Vinyl, LP, Compilation, Club Edition, Stereo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1480521
+💿 Format(s): Vinyl, LP, Limited Edition, Compilation}
+❌ 1984 - Supertramp - "Die Songs Einer Supergruppe"
+(https://www.discogs.com/master/119642)
+Rejected format(s): Vinyl, LP, Compilation, Limited Edition
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ❌ 1985 - Supertramp / Bryan Ferry - "Cannonball / Slave To Love"
 (https://www.discogs.com/release/4208787)
 Rejected format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription, Stereo, Vinyl, LP, Single Sided, Transcription
 ❌ 1985 - Howard Jones / Supertramp - "The King Biscuit Flower Hour"
 (https://www.discogs.com/release/8772089)
 Rejected format(s): Vinyl, LP, Transcription, Stereo, Vinyl, LP, Single Sided, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1985 - Supertramp - "The Best Of The B.B.C. Rock Hour # 602"
 (https://www.discogs.com/release/14211560)
 Rejected format(s): Vinyl, LP, Transcription
@@ -777,32 +846,37 @@ Rejected format(s): Vinyl, LP, Transcription
 (https://www.discogs.com/release/29945065)
 Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12", 45 RPM, Maxi-Single
 ⌛ 1985 - Supertramp - "Better Days (Maxi-Single)"
 (https://www.discogs.com/release/2774976-Supertramp-Better-Days)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/5018152
+💿 Format(s): VHS, NTSC
+🗃️ Looking at 3 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5018152
 🗃️ Analyzing version https://www.discogs.com/release/5018152
 💿 Format(s): Laserdisc, 8", NTSC
-🗃️ Analyzing version https://www.discogs.com/release/8770824
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8770824
 🗃️ Analyzing version https://www.discogs.com/release/8770824
 💿 Format(s): VHS, PAL
 ❌ 1985 - Supertramp - "Brother Where You Bound "
 (https://www.discogs.com/master/1190630)
 Rejected format(s): VHS, NTSC
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/14097475
+💿 Format(s): Vinyl, LP, Transcription
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/14097475
 💿 Format(s): Vinyl, LP, Promo, Transcription}
 ❌ 1985 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/master/2369530)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM
 ⌛ 1985-07-19 - Supertramp - "Still In Love / No Inbetween (Unknown)"
 (https://www.discogs.com/release/3648249-Supertramp-Still-In-Love-No-Inbetween)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Album, Stereo
 🗓️ Imprecise date (1985) for "Brother Where You Bound"
-🗃️ Looking at 121 alternate version(s)
+🗃️ Looking at 122 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4035837
 🗓️ Release date: 1985
 🗃️ Analyzing version https://www.discogs.com/release/3707461
@@ -827,6 +901,7 @@ Found better release date: 1985-06-00
 💿 1985-06-00 - Supertramp - "Brother Where You Bound"
 (https://www.discogs.com/release/736899-Supertramp-Brother-Where-You-Bound)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12"
 ⌛ 1985 - Supertramp - "Cannonball (Unknown)"
 (https://www.discogs.com/release/4106612-Supertramp-Cannonball)
 ———————————————————————————————————————————————————————————————
@@ -834,77 +909,92 @@ Found better release date: 1985-06-00
 (https://www.discogs.com/release/4593654)
 Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 10", Limited Edition, Promo
 ❌ 1986 - Supertramp - "4 Tracks From "The Autobiography Of Supertramp""
 (https://www.discogs.com/release/4659773)
 Rejected format(s): Vinyl, 10", Limited Edition, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription, Vinyl, LP, Single Sided, Transcription
 ❌ 1986 - Supertramp - "Pioneers In Music Show #32"
 (https://www.discogs.com/release/13781620)
 Rejected format(s): Vinyl, LP, Transcription, Vinyl, LP, Single Sided, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Transcription
 ❌ 1986 - King Crimson / Supertramp / 10cc - "Pioneers In Music"
 (https://www.discogs.com/release/25866352)
 Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation
 ⌛ 1986 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
 (https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/13164511
+💿 Format(s): Cassette, Compilation
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/13164511
 🗃️ Analyzing version https://www.discogs.com/release/13164511
 💿 Format(s): Cassette, Compilation
 ❌ 1986 - Supertramp - "Crime Of The Century / Breakfast In America"
 (https://www.discogs.com/master/1545187)
 Rejected format(s): Cassette, Compilation
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12", 33 ⅓ RPM, Single, Promo
 ❌ 1987 - Supertramp - "Supertramp Medley"
 (https://www.discogs.com/release/4836908)
 Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Single, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (1987) for "Free As A Bird"
-🗃️ Looking at 102 alternate version(s)
+🗃️ Looking at 103 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/36607207
 🗓️ Release date: 1987-11-06
 Found better release date: 1987-11-06
 💿 1987-11-06 - Supertramp - "Free As A Bird"
 (https://www.discogs.com/release/1373129-Supertramp-Free-As-A-Bird)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1987 - Supertramp - "Free As A Bird (Single)"
 (https://www.discogs.com/release/1065115-Supertramp-Free-As-A-Bird)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12"
 ⌛ 1987 - Supertramp - "I'm Beggin' You (Unknown)"
 (https://www.discogs.com/release/882745-Supertramp-Im-Beggin-You)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation, Limited Edition
 ❌ 1988 - Supertramp - "Compact Hits"
 (https://www.discogs.com/release/4044912)
 Rejected format(s): CD, Compilation, Limited Edition
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Promo
 ❌ 1988 - Supertramp - "Breakfast In America (Live)"
 (https://www.discogs.com/release/5835953)
 Rejected format(s): Vinyl, 7", 45 RPM, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ❌ 1988 - Supertramp / Barry White - "I'm Beggin' You / Sho' You Right"
 (https://www.discogs.com/release/6312642)
 Rejected format(s): Vinyl, 7", 45 RPM, Promo, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Cassette, Compilation, Promo, Sampler, Box Set
 ❌ 1988 - The Police / 38 Special (2) / Supertramp - "Summer Mid-Line Music Sampler"
 (https://www.discogs.com/release/13122873)
 Rejected format(s): Cassette, Compilation, Promo, Sampler, Box Set
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12", 45 RPM, Maxi-Single, Promo
 ❌ 1988 - INXS / The Communards / Los Lobos / Bananarama / Double / Supertramp - "Various"
 (https://www.discogs.com/release/21128443)
 Rejected format(s): Vinyl, 12", 45 RPM, Maxi-Single, Promo
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/2332053
-🗃️ Analyzing version https://www.discogs.com/release/2332053
-💿 Format(s): CD, Single, Promo, Stereo
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Promo
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/2332053
+💿 Format(s): CD, Single, Promo, Stereo}
 ❌ 1988 - Supertramp - "I'm Your Hoochie Cooche Man"
 (https://www.discogs.com/master/703388)
 Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (1988) for "Live '88"
-🗃️ Looking at 47 alternate version(s)
+🗃️ Looking at 48 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/3887161
 🗓️ Release date: 1988
 🗃️ Analyzing version https://www.discogs.com/release/20848663
@@ -915,119 +1005,137 @@ Found better release date: 1988-11-21
 💿 1988-11-21 - Supertramp - "Live '88"
 (https://www.discogs.com/release/13339667-Supertramp-Live-88)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1988 - Supertramp - "It's Alright (Single)"
 (https://www.discogs.com/release/7228938-Supertramp-Its-Alright)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, LP, Compilation, Stereo
 ⌛ 1990 - Supertramp - "The Very Best Of Supertramp (Compilation)"
 (https://www.discogs.com/release/2558598-Supertramp-The-Very-Best-Of-Supertramp)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 16 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/10392140
+💿 Format(s): VHS, Stereo, PAL
+🗃️ Looking at 17 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/10392140
 🗃️ Analyzing version https://www.discogs.com/release/10392140
 💿 Format(s): Laserdisc, 12", Stereo, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/13562634
+🗃️ Analyzing main formats of version https://www.discogs.com/release/13562634
 🗃️ Analyzing version https://www.discogs.com/release/13562634
 💿 Format(s): VHS, Stereo, PAL
-🗃️ Analyzing version https://www.discogs.com/release/2735732
+🗃️ Analyzing main formats of version https://www.discogs.com/release/2735732
 🗃️ Analyzing version https://www.discogs.com/release/2735732
 💿 Format(s): VHS, PAL
-🗃️ Analyzing version https://www.discogs.com/release/1871952
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1871952
 🗃️ Analyzing version https://www.discogs.com/release/1871952
 💿 Format(s): DVD, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/2592344
+🗃️ Analyzing main formats of version https://www.discogs.com/release/2592344
 🗃️ Analyzing version https://www.discogs.com/release/2592344
 💿 Format(s): DVD, DVD-Video, Compilation, NTSC
-🗃️ Analyzing version https://www.discogs.com/release/5750072
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5750072
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/16191467
+🗃️ Analyzing main formats of version https://www.discogs.com/release/16191467
 🗃️ Analyzing version https://www.discogs.com/release/16191467
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/2735709
+🗃️ Analyzing main formats of version https://www.discogs.com/release/2735709
 🗃️ Analyzing version https://www.discogs.com/release/2735709
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
-🗃️ Analyzing version https://www.discogs.com/release/16880802
+🗃️ Analyzing main formats of version https://www.discogs.com/release/16880802
 🗃️ Analyzing version https://www.discogs.com/release/16880802
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
-🗃️ Analyzing version https://www.discogs.com/release/14190436
+🗃️ Analyzing main formats of version https://www.discogs.com/release/14190436
 🗃️ Analyzing version https://www.discogs.com/release/14190436
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/1369126
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1369126
 🗃️ Analyzing version https://www.discogs.com/release/1369126
 💿 Format(s): DVD, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/10550217
+🗃️ Analyzing main formats of version https://www.discogs.com/release/10550217
 🗃️ Analyzing version https://www.discogs.com/release/10550217
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
-🗃️ Analyzing version https://www.discogs.com/release/11117257
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11117257
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Limited Edition, Reissue}
-🗃️ Analyzing version https://www.discogs.com/release/27712047
+🗃️ Analyzing main formats of version https://www.discogs.com/release/27712047
 🗃️ Analyzing version https://www.discogs.com/release/27712047
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
-🗃️ Analyzing version https://www.discogs.com/release/11390020
-🗃️ Analyzing version https://www.discogs.com/release/11390020
-💿 Format(s): VHS, Reissue, PAL
-🗃️ Analyzing version https://www.discogs.com/release/27518013
-🗃️ Analyzing version https://www.discogs.com/release/27518013
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Repress
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11390020
+💿 Format(s): VHS, Reissue, PAL}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/27518013
+💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Repress}
 ❌ 1990 - Supertramp - "The Story So Far..."
 (https://www.discogs.com/master/258351)
 Rejected format(s): VHS, Stereo, PAL
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Transcription
 ❌ 1991 - Supertramp - "BBC Classic Tracks 91-43"
 (https://www.discogs.com/release/7675733)
 Rejected format(s): CD, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Transcription
 ❌ 1992 - Supertramp - "BBC Classic Tracks 92-17"
 (https://www.discogs.com/release/7675800)
 Rejected format(s): CD, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Transcription
 ❌ 1992 - Supertramp - "BBC Classic Tracks Show #93-01"
 (https://www.discogs.com/release/8255941)
 Rejected format(s): CD, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation
+🗃️ Looking at 1 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/23668679
+🗃️ Analyzing version https://www.discogs.com/release/23668679
+💿 Format(s): Cassette, Album, Compilation
 ⌛ 1992 - Supertramp - "The Very Best Of Supertramp 2 (Compilation)"
 (https://www.discogs.com/release/782129-Supertramp-The-Very-Best-Of-Supertramp-2)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Promo, Transcription
 ❌ 1994 - Supertramp - "In The Studio - 'Breakfast In America'"
 (https://www.discogs.com/release/24189089)
 Rejected format(s): CD, Promo, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Transcription
 ❌ 1995 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/release/16952181)
 Rejected format(s): CD, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single, Promo
 ❌ 1997 - Supertramp - "Live To Love You"
 (https://www.discogs.com/release/5018800)
 Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Promo, Sampler
 ❌ 1997 - Supertramp - "Lady / A Soapbox Opera"
 (https://www.discogs.com/release/6719517)
 Rejected format(s): CD, Promo, Sampler
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Jukebox
 ⌛ 1997 - Paul McCartney, Supertramp - "Young Boy / You Win, I Lose (Unknown)"
 (https://www.discogs.com/release/8254595-Paul-McCartney-Supertramp-Young-Boy-You-Win-I-Lose)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Advance, Maxi-Single, Promo
 ❌ 1997 - Supertramp - "Some Things Never Change"
 (https://www.discogs.com/release/36378082)
 Rejected format(s): CD, Advance, Maxi-Single, Promo
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/1784855
-🗃️ Analyzing version https://www.discogs.com/release/1784855
 💿 Format(s): CD, Single, Promo
-🗃️ Analyzing version https://www.discogs.com/release/13653763
+🗃️ Looking at 3 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1784855
+💿 Format(s): CD, Single, Promo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/13653763
 🗃️ Analyzing version https://www.discogs.com/release/13653763
 💿 Format(s): CD, Maxi-Single
 ⌛ 1997 - Supertramp - "Sooner Or Later (Maxi-Single)"
 (https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single
 ⌛ 1997 - Supertramp - "You Win, I Lose (Single)"
 (https://www.discogs.com/release/2417257-Supertramp-You-Win-I-Lose)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Maxi-Single
 ⌛ 1997 - Supertramp - "Listen To Me Please (Maxi-Single)"
 (https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, HDCD, Album
 🗓️ Imprecise date (1997) for "Some Things Never Change"
-🗃️ Looking at 37 alternate version(s)
+🗃️ Looking at 38 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/10795996
 🗓️ Release date: 1997
 🗃️ Analyzing version https://www.discogs.com/release/2398073
@@ -1054,10 +1162,12 @@ Found better release date: 1997-04-28
 💿 1997-04-28 - Supertramp - "Some Things Never Change"
 (https://www.discogs.com/release/1138644-Supertramp-Some-Things-Never-Change)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CDr, Transcription
 ❌ 1998 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/release/36958794)
 Rejected format(s): CDr, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single, Promo, Stereo
 ❌ 1999 - Supertramp - "The Logical Song (Live)"
 (https://www.discogs.com/release/2062363)
 Rejected format(s): CD, Single, Promo, Stereo
@@ -1066,6 +1176,7 @@ Rejected format(s): CD, Single, Promo, Stereo
 (https://www.discogs.com/release/8255372)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single, Promo
 ❌ 1999 - Supertramp - "It Was The Best Of Times"
 (https://www.discogs.com/release/12959574)
 Rejected format(s): CD, Single, Promo
@@ -1074,8 +1185,9 @@ Rejected format(s): CD, Single, Promo
 (https://www.discogs.com/release/16535733)
 Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (1999) for "It Was The Best Of Times"
-🗃️ Looking at 16 alternate version(s)
+🗃️ Looking at 17 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/4110466
 🗓️ Release date: 1999
 🗃️ Analyzing version https://www.discogs.com/release/3594107
@@ -1084,9 +1196,11 @@ Found better release date: 1999-04-12
 💿 1999-04-12 - Supertramp - "It Was The Best Of Times"
 (https://www.discogs.com/release/903197-Supertramp-It-Was-The-Best-Of-Times)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation
 ⌛ 2000 - Supertramp - "Star Profile (Compilation)"
 (https://www.discogs.com/release/16048043-Supertramp-Star-Profile)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single, Promo
 ❌ 2002 - Supertramp - "Over You"
 (https://www.discogs.com/release/4935638)
 Rejected format(s): CD, Single, Promo
@@ -1095,20 +1209,24 @@ Rejected format(s): CD, Single, Promo
 (https://www.discogs.com/release/5015554)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Single, Promo
 ❌ 2002 - Supertramp - "Little By Little"
 (https://www.discogs.com/release/5018720)
 Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CDr, Transcription
 ❌ 2002 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/release/20554180)
 Rejected format(s): CDr, Transcription
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue
 ❌ 2002 - Supertramp - "Slow Motion + It Was The Best Of Times"
 (https://www.discogs.com/release/35056511)
 Rejected format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album
 🗓️ Imprecise date (2002) for "Slow Motion"
-🗃️ Looking at 27 alternate version(s)
+🗃️ Looking at 28 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/24288122
 🗓️ Release date: 2002
 🗃️ Analyzing version https://www.discogs.com/release/18957988
@@ -1150,13 +1268,12 @@ Rejected format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue
 💿 2002 - Supertramp - "Slow Motion"
 (https://www.discogs.com/release/1492418-Supertramp-Slow-Motion)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/11407384
-🗃️ Analyzing version https://www.discogs.com/release/11407384
 💿 Format(s): CD, Single, Promo
-🗃️ Analyzing version https://www.discogs.com/release/1899649
-🗃️ Analyzing version https://www.discogs.com/release/1899649
-💿 Format(s): CD, Single, Promo
+🗃️ Looking at 3 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11407384
+💿 Format(s): CD, Single, Promo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/1899649
+💿 Format(s): CD, Single, Promo}
 ❌ 2002 - Supertramp - "Slow Motion"
 (https://www.discogs.com/master/298924)
 Rejected format(s): CD, Single, Promo
@@ -1169,118 +1286,132 @@ Rejected genre(s): Rock,Non-Music,Pop
 (https://www.discogs.com/release/14199507)
 Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation, Promo, Sampler
 ❌ 2005 - Supertramp - "Retrospectacle The Supertramp Anthology - Radio Promo Sampler"
 (https://www.discogs.com/release/4919640)
 Rejected format(s): CD, Compilation, Promo, Sampler
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Compilation
 ⌛ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology) (Compilation)"
 (https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology)
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 3 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/15691670
-🗃️ Analyzing version https://www.discogs.com/release/15691670
-💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
-⌛ 2009 - Supertramp - "Crime Of The Century + Crisis? What Crisis (Compilation)"
-(https://www.discogs.com/release/15691670-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
+💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation
+🗃️ Looking at 4 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/15691670
+💿 Format(s): CD, Album, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5372064
+💿 Format(s): CD, Album, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/9484314
+💿 Format(s): CD, Album, Reissue, Remastered}
+🗃️ Looking at 4 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/15691670
+💿 Format(s): CD, Album, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5372064
+💿 Format(s): CD, Album, Reissue}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/9484314
+💿 Format(s): CD, Album, Reissue, Remastered}
+❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis"
+(https://www.discogs.com/master/700527)
+Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/5264228
-🗃️ Analyzing version https://www.discogs.com/release/5264228
-💿 Format(s): CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, Box Set, Compilation
+💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation, Remastered, Stereo
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5264228
+💿 Format(s): CD, Album, Reissue, Remastered}
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/5264228
+💿 Format(s): CD, Album, Reissue, Remastered}
 ❌ 2009 - Supertramp - "Crime Of The Century / Even In The Quietest Moments / Breakfast In America"
 (https://www.discogs.com/master/3257836)
 Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation, Remastered, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "The 70/10 Tour Live [10/10/2010 Merksem]"
 (https://www.discogs.com/release/12209640)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album, Tour Recording, Stereo
 ❌ 2010 - Supertramp - "The 70/10 Tour Live (04-10-2010 Arnhem)"
 (https://www.discogs.com/release/12851484)
 Rejected format(s): CD, Album, Tour Recording, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "The 70/10 Tour Live (06-10-2010 London)"
 (https://www.discogs.com/release/13359066)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album, Tour Recording
 ❌ 2010 - Supertramp - "70-10 Tour Live : 28/10/2010 Paris"
 (https://www.discogs.com/release/13496100)
 Rejected format(s): CD, Album, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "70-10 Tour Live (04/09/2010 Mönchengladbach)"
 (https://www.discogs.com/release/15292190)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "Supertramp  70/10 Tour Live (15-09-2010 Madrid)"
 (https://www.discogs.com/release/15937466)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): File, MP3, Album, Tour Recording
 ❌ 2010 - Supertramp - "70-10 Tour Live : 07/09/2010 Verona"
 (https://www.discogs.com/release/19232884)
 Rejected format(s): File, MP3, Album, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording, Stereo
 ❌ 2010 - Supertramp - "70-10 Tour Live (Hamburg 26-09-2010)"
 (https://www.discogs.com/release/20600092)
 Rejected format(s): CD, Tour Recording, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording, Stereo
 ❌ 2010 - Supertramp - "70-10 Tour Live (Paris 18-10-2010)"
 (https://www.discogs.com/release/21894160)
 Rejected format(s): CD, Tour Recording, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "70-10 Tour Live (Barcelona, 18/09/2010)"
 (https://www.discogs.com/release/22843745)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Tour Recording
 ❌ 2010 - Supertramp - "70-10 Tour Live (25-10-2010 Zürich)"
 (https://www.discogs.com/release/26803820)
 Rejected format(s): CD, Tour Recording
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Memory Stick, MP3, Album, Limited Edition, Tour Recording, Stereo
 ❌ 2010 - Supertramp - "70-10 Tour Live - Erfurt - 24.09.2010"
 (https://www.discogs.com/release/32629074)
 Rejected format(s): Memory Stick, MP3, Album, Limited Edition, Tour Recording, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Memory Stick, MP3, Tour Recording
 ❌ 2010 - Supertramp - "The 70/10 Tour Live (14-09-2010 Porto)"
 (https://www.discogs.com/release/35052521)
 Rejected format(s): Memory Stick, MP3, Tour Recording
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 26 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/36898257
-🗃️ Analyzing version https://www.discogs.com/release/36898257
-💿 Format(s): DVD, DVD-Video
-🗃️ Analyzing version https://www.discogs.com/release/4571007
-🗃️ Analyzing version https://www.discogs.com/release/4571007
 💿 Format(s): Blu-ray, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/3817130
-🗃️ Analyzing version https://www.discogs.com/release/3817130
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/4718221
-🗃️ Analyzing version https://www.discogs.com/release/4718221
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/15472279
-🗃️ Analyzing version https://www.discogs.com/release/15472279
-💿 Format(s): Blu-ray, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/16191489
-🗃️ Analyzing version https://www.discogs.com/release/16191489
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/12620391
-🗃️ Analyzing version https://www.discogs.com/release/12620391
-💿 Format(s): Blu-ray, Stereo, Multichannel
-🗃️ Analyzing version https://www.discogs.com/release/10093526
-🗃️ Analyzing version https://www.discogs.com/release/10093526
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/11728720
-🗃️ Analyzing version https://www.discogs.com/release/11728720
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo
-🗃️ Analyzing version https://www.discogs.com/release/8156236
-🗃️ Analyzing version https://www.discogs.com/release/8156236
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo, CD, Album, Stereo, All Media
+🗃️ Looking at 8 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8156236
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/27174339
+💿 Format(s): Vinyl, LP, Album, Unofficial Release, Stereo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/27258921
+💿 Format(s): Vinyl, LP, Album, Limited Edition, Numbered, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/27258744
+💿 Format(s): Vinyl, LP, Album, Limited Edition, Numbered, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/33271602
+🗃️ Analyzing version https://www.discogs.com/release/33271602
+💿 Format(s): Vinyl, LP, Album
 💿 2012-08-00 - Supertramp - "Live In Paris '79"
-(https://www.discogs.com/release/8156236-Supertramp-Live-In-Paris-79)
+(https://www.discogs.com/release/33271602-Supertramp-Live-In-Paris-79)
 ———————————————————————————————————————————————————————————————
+💿 Format(s): File, MP3
 ❌ 2022 - Supertramp - "Goodbye Stranger (Random House Project's Undisputed Truth Remake)"
 (https://www.discogs.com/release/27610332)
 Rejected format(s): File, MP3
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 12", 45 RPM, Promo
 ❌ unknown date - Supertramp - "Dreamer / Breakfast In America / The Logical Song - (Live)"
 (https://www.discogs.com/release/3002338)
 Rejected format(s): Vinyl, 12", 45 RPM, Promo
@@ -1289,61 +1420,77 @@ Rejected format(s): Vinyl, 12", 45 RPM, Promo
 (https://www.discogs.com/release/13154658)
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CD, Album, Reissue, Stereo, Box Set, Compilation, Special Edition
 ❌ unknown date - Supertramp - "The Compact Disc Collection"
 (https://www.discogs.com/release/14461392)
 Rejected format(s): CD, Album, Reissue, Stereo, Box Set, Compilation, Special Edition
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Limited Edition, Numbered, Promo
 ❌ unknown date - Supertramp - "It's Raining Again... With Supertramp"
 (https://www.discogs.com/release/15379910)
 Rejected format(s): Vinyl, 7", 45 RPM, Limited Edition, Numbered, Promo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): CDr, Compilation, Promo, Sampler
 ❌ unknown date - Supertramp / Guns N' Roses - "Sampler"
 (https://www.discogs.com/release/16243549)
 Rejected format(s): CDr, Compilation, Promo, Sampler
 ———————————————————————————————————————————————————————————————
+💿 Format(s): Vinyl, 7", 45 RPM, Reissue, Stereo
 ❌ unknown date - Supertramp - "Take The Long Way Home / It's Raining Again"
 (https://www.discogs.com/release/24629768)
 Rejected format(s): Vinyl, 7", 45 RPM, Reissue, Stereo
 ———————————————————————————————————————————————————————————————
+💿 Format(s): DVD, DVD-Video, PAL
 ❌ unknown date - Supertramp - "Total Rock Review"
 (https://www.discogs.com/release/27385089)
 Rejected format(s): DVD, DVD-Video, PAL
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 14 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/11829673
-💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/11150869
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/3259128
-💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/24430211
+💿 Format(s): CD, Album, Unofficial Release
+🗃️ Looking at 5 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/24430211
 💿 Format(s): CD, Album, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/11263829
-💿 Format(s): DVD, NTSC, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/26498012
-💿 Format(s): DVD, DVD-Video, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/8351640
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8351640
 💿 Format(s): CDr, Album, Reissue, Remastered, Unofficial Release, Stereo}
-🗃️ Analyzing version https://www.discogs.com/release/6944288
-💿 Format(s): CD, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/14496452
-💿 Format(s): Vinyl, LP, Unofficial Release, Stereo}
-🗃️ Analyzing version https://www.discogs.com/release/26861756
+🗃️ Analyzing main formats of version https://www.discogs.com/release/26861756
 💿 Format(s): CD, Album, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/10879303
-💿 Format(s): CD, Misprint, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/11581479
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8883542
+💿 Format(s): CD, Album, Unofficial Release}
+🗃️ Looking at 15 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11829673
 💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/8883542
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11150869
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/3259128
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/24430211
 💿 Format(s): CD, Album, Unofficial Release}
-🗃️ Analyzing version https://www.discogs.com/release/16766742
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11263829
+💿 Format(s): DVD, NTSC, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/26498012
+💿 Format(s): DVD, DVD-Video, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8351640
+💿 Format(s): CDr, Album, Reissue, Remastered, Unofficial Release, Stereo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/6944288
+💿 Format(s): CD, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/14496452
+💿 Format(s): Vinyl, LP, Unofficial Release, Stereo}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/26861756
+💿 Format(s): CD, Album, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/10879303
+💿 Format(s): CD, Misprint, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/11581479
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/8883542
+💿 Format(s): CD, Album, Unofficial Release}
+🗃️ Analyzing main formats of version https://www.discogs.com/release/16766742
 💿 Format(s): DVDr, DVD-Video, PAL, Transcription, Stereo}
 ❌ unknown date - Supertramp - "Rockpop In Concert"
 (https://www.discogs.com/master/828689)
 Rejected format(s): CD, Album, Unofficial Release
 ———————————————————————————————————————————————————————————————
-🗃️ Looking at 1 alternate version(s)
-🗃️ Analyzing version https://www.discogs.com/release/3646578
+💿 Format(s): Vinyl, 7", 45 RPM, Reissue, Stereo
+🗃️ Looking at 2 alternate version(s)
+🗃️ Analyzing main formats of version https://www.discogs.com/release/3646578
 🗃️ Analyzing version https://www.discogs.com/release/3646578
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Styrene, Stereo
 ⌛ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
@@ -4199,10 +4346,6 @@ No new tracks
 (https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Supertramp - "Die Songs Einer Supergruppe (Compilation)"
-(https://www.discogs.com/release/11369608-Supertramp-Die-Songs-Einer-Supergruppe)
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
 (https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp)
 No new tracks
@@ -4217,10 +4360,6 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Supertramp - "Star Profile (Compilation)"
 (https://www.discogs.com/release/16048043-Supertramp-Star-Profile)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2009 - Supertramp - "Crime Of The Century + Crisis? What Crisis (Compilation)"
-(https://www.discogs.com/release/15691670-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Better Days (Maxi-Single)"

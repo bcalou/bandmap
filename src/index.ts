@@ -5,7 +5,11 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();
 }
 
-new BandMap(50263).init();
+// YES
+// new BandMap(50263).init();
+
+// PF
+new BandMap(45467).init();
 
 // testArtist(refs.SUPERTRAMP);
 

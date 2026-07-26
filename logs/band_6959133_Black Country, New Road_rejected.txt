@@ -1,9 +1,5 @@
 30 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ 2019 - Black Country, New Road - "Athen's, France"
-(https://www.discogs.com/master/1636364)
-(Rejected format(s): Vinyl, 7", Single, Limited Edition, Numbered)
-———————————————————————————————————————————————————————————————
 ❌ 2019 - Various - "Speedy Wunderground Year 4"
 (https://www.discogs.com/release/14506051)
 (Rejected release role: TrackAppearance)
@@ -12,8 +8,12 @@
 (https://www.discogs.com/master/1669264)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2019-03-08 - Black Country, New Road - "Athen's, France (Single)"
+(https://www.discogs.com/release/19991842-Black-Country-New-Road-Athens-France)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2019-09-06 - Black Country, New Road - "Sunglasses (Single)"
-(https://www.discogs.com/release/14338188-Black-Country-New-Road-Sunglasses)
+(https://www.discogs.com/release/16699332-Black-Country-New-Road-Sunglasses)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2020 - Black Country, New Road - "Science Fair"

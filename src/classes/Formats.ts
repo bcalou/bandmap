@@ -1,7 +1,14 @@
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
 import { DCFormat, DCVersion, RejectReason } from "../types";
+import { GetVersionsOptions } from "./Api";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
+
+export enum AlbumType {
+  NonAlbum = 0,
+  Album = 1,
+  Multiple = 2,
+}
 
 /**
  * A collection of functions used to check the formats of a release and its
@@ -26,29 +33,8 @@ export class Formats {
     return this.release.releaseFormats;
   }
 
-  public getMainFormat() {
-    return this.mainFormat;
-  }
-
-  // Does the release contains exactly one format "Album"?
-  public isAlbum() {
-    return (
-      this.flattenFormats(this.formats).filter((format) => format === "Album")
-        .length === 1
-    );
-  }
-
-  // Reject if the release have an invalid format
-  public async heuristicRejectFormat(): Promise<RejectReason | null> {
-    return this.isValidFormatList(this.formats) ||
-      (this.release.masterId && (await this.hasVersionWithValidFormat()))
-      ? null
-      : `Rejected format(s): ${this.printFormats(this.formats)}`;
-  }
-
-  // Transform a list of structured formats into an flat array of strings
-  private flattenFormats(formats: DCFormat[]): string[] {
-    return formats.reduce(
+  get flattenedFormats() {
+    return this.formats.reduce(
       (allFormats: string[], format) => [
         ...allFormats,
         format.name,
@@ -58,14 +44,38 @@ export class Formats {
     );
   }
 
-  // Transform a format list to a printable string
-  private printFormats(formats: DCFormat[]) {
-    return this.flattenFormats(formats).join(", ") ?? "not specified";
+  // Get the format considered to be the main one for this release
+  public getMainFormat() {
+    return (
+      FORMATS.mainSortedByConsiderationOrder.find((format) =>
+        this.flattenedFormats.includes(format)
+      ) ?? "Unknown"
+    );
+  }
+
+  // Reject if the release have an invalid format
+  public async heuristicFindBestFormatOrReject(): Promise<RejectReason | null> {
+    this.logger.log(`💿 Format(s): ${this.printFormats()}`);
+
+    // If this is an album with a valid format list, it's ok
+    if (this.getMainFormat() === "Album" && this.isValidFormatList())
+      return null;
+
+    // Else try to find an album version with a correct format list
+    if (await this.hasValidVersion({ format: "Album" })) return null;
+
+    // Else try to find any version with a correct format list
+    return this.isValidFormatList() || (await this.hasValidVersion())
+      ? null
+      : `Rejected format(s): ${this.printFormats()}`;
   }
 
   // Look for valid format list in other versions of the release
-  private async hasVersionWithValidFormat(page = 1): Promise<boolean> {
-    const versions = await this.release.getVersions(page);
+  private async hasValidVersion(
+    options?: GetVersionsOptions
+  ): Promise<boolean> {
+    const page = options?.page ?? 1;
+    const versions = await this.release.getVersions(options);
 
     for (const version of versions.versions) {
       if (await this.versionHasValidFormat(version)) {
@@ -74,7 +84,7 @@ export class Formats {
     }
 
     if (versions.pagination.pages > page)
-      return await this.hasVersionWithValidFormat(page + 1);
+      return await this.hasValidVersion({ ...options, page: page + 1 });
 
     return false;
   }
@@ -105,10 +115,9 @@ export class Formats {
 
     if (!release) return false;
 
-    const releaseFormats = new Formats(release).formats;
-    this.logger.log(`💿 Format(s): ${this.printFormats(releaseFormats)}`);
+    this.logger.log(`💿 Format(s): ${release.formats.printFormats()}`);
 
-    if (this.isValidFormatList(releaseFormats)) {
+    if (release.formats.isValidFormatList()) {
       this.release.updateRelease(release);
       return true;
     }
@@ -117,41 +126,30 @@ export class Formats {
   }
 
   // Is this list of formats potentially valid for the discography?
-  private isValidFormatList(formats: DCFormat[]): boolean {
-    // TODO raccourcir fonction
-    if (
-      this.flattenFormats(formats).filter((format) => format === "Album")
-        .length > 1
-    ) {
-      return false;
-    }
+  private isValidFormatList(): boolean {
+    // First, eliminate multiple album types (eg compilation of former releases)
+    // if (this.getAlbumType() === AlbumType.Multiple) return false;
 
-    // TODO suppri?
-    this.updateMainFormat(formats);
-
+    // Else, check the format lists one by one
     let valid = false;
 
-    for (const format of formats) {
+    for (const format of this.formats) {
       const formatList = [format.name, ...(format.descriptions ?? [])];
 
       // Eliminatory format must never be found
       if (formatList.find((format) => FORMATS.eliminatory.includes(format)))
         return false;
 
-      // Valid format (= not rejected) must be found once
-      if (!formatList.find((format) => FORMATS.reject.includes(format)))
+      // Valid format must be found once
+      if (formatList.find((format) => FORMATS.accept.includes(format)))
         valid = true;
     }
 
     return valid;
   }
 
-  // Set the main format for the release based on the given list of formats
-  private updateMainFormat(formats: DCFormat[]) {
-    const flattenedFormats = this.flattenFormats(formats);
-    this.mainFormat =
-      FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        flattenedFormats.includes(format)
-      ) ?? "Unknown";
+  // Transform a format list to a printable string
+  private printFormats() {
+    return this.flattenedFormats.join(", ") ?? "not specified";
   }
 }

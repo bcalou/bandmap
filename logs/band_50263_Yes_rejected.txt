@@ -1,4 +1,4 @@
-2386 rejected release(s):
+2382 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -1919,10 +1919,6 @@
 ❌ 1993 - Yes - "U.S.A. 1991"
 (https://www.discogs.com/master/808430)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Highlights: The Very Best Of Yes (Compilation)"
-(https://www.discogs.com/release/10836298-Yes-Highlights-The-Very-Best-Of-Yes)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
 (https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge)
@@ -5856,10 +5852,6 @@
 (https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
-(https://www.discogs.com/release/2073350-Yes-Friends-Owner-Of-A-Lonely-Heart)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Magnification / Talk"
 (https://www.discogs.com/release/3900250)
 (Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
@@ -7404,10 +7396,6 @@
 (https://www.discogs.com/master/2285380)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2015 - Yes - "Progeny: Highlights From Seventy-Two (Compilation)"
-(https://www.discogs.com/release/8529531-Yes-Progeny-Highlights-From-Seventy-Two)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
 (https://www.discogs.com/release/7057137-Yes-Progeny-Seven-Shows-From-Seventy-Two)
 (No new tracks)
@@ -8208,10 +8196,6 @@
 (https://www.discogs.com/release/36293671)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2023 - Yes - "Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)"
-(https://www.discogs.com/release/26834984)
-(Rejected format(s): Vinyl, LP, Album, Record Store Day, Stereo)
-———————————————————————————————————————————————————————————————
 ❌ 2023 - Yes - "Union 30 Live: Wembley Arena London June 29th 1991"
 (https://www.discogs.com/release/26901044)
 (Rejected format(s): CD, Album, Tour Recording)
@@ -8303,10 +8287,6 @@
 ❌ 2023 - Yes - "Providence 1976"
 (https://www.discogs.com/release/28550992)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2024 - Yes - "Fragile Outtakes"
-(https://www.discogs.com/master/3674586)
-(Rejected format(s): Vinyl, LP, Record Store Day)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "Yale Bowl '71"
 (https://www.discogs.com/master/1602656)
@@ -8426,6 +8406,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
 (https://www.discogs.com/release/32112012-Yes-Yessingles-II)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2024-11-29 - Yes - "Fragile Outtakes (Unknown)"
+(https://www.discogs.com/release/32425302-Yes-Fragile-Outtakes)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - Yes - "Live At The Rainbow London, England 12/16/1972"

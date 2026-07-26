@@ -1,7 +1,7 @@
 import { DISCOGS_RELEASE_URL, GENRES } from "../env";
 import { DCRelease, DCVersions, RejectReason } from "../types";
 import { removeNumberInParenthesis } from "../utils";
-import { Api } from "./Api";
+import { Api, GetVersionsOptions } from "./Api";
 import { Band } from "./Band";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
@@ -16,19 +16,13 @@ export class Release {
   private mainBand: Band;
 
   // The formats associated to this release
-  private formats: Formats;
+  public formats: Formats;
 
   // The credits associated to this release
   private credits: Credits;
 
   // The release date utility object
   private releaseDate: ReleaseDate;
-
-  // Versions of the same releases
-  private versions: Release[] = [];
-
-  // List of versions pages
-  private versionsList: DCVersions[] = [];
 
   // The api object
   private api: Api;
@@ -130,36 +124,29 @@ export class Release {
     return (
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicRejectFormat()) ??
+      (await this.formats.heuristicFindBestFormatOrReject()) ??
       this
     );
   }
 
-  // Return the version list (possibly cached)
-  public async getVersions(page = 1): Promise<DCVersions> {
-    if (!this.versionsList[page - 1])
-      this.versionsList[page - 1] = await this.fetchVersions(page);
+  // Return the version list
+  public async getVersions(options?: GetVersionsOptions): Promise<DCVersions> {
+    const versions = await this.fetchVersions(options);
 
-    const count = this.versionsList[page - 1].pagination.items;
-
-    if (count === 0) return this.versionsList[page - 1];
-
-    if (page === 1) {
-      this.logger.log(`🗃️ Looking at ${count} alternate version(s)`);
+    if ((options?.page ?? 1) === 1 && versions?.pagination.items >= 1) {
+      this.logger.log(
+        `🗃️ Looking at ${versions.pagination.items} alternate version(s)`
+      );
     }
 
-    return this.versionsList[page - 1];
+    return versions;
   }
 
   // Fetch the version or return the one already fetched
   public async getVersion(versionId: number): Promise<Release | null> {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
 
-    let version = this.versions.find(
-      (_version) => _version.release.id === versionId
-    );
-
-    return version ?? this.fetchVersion(versionId);
+    return new Release(await this.api.getRelease(versionId), this.mainBand);
   }
 
   // Shortcut to the credit extract method for this release
@@ -172,11 +159,6 @@ export class Release {
     return this.formats.getMainFormat();
   }
 
-  // Does the release formats contain "Album" ?
-  public isAlbum() {
-    return this.formats.isAlbum();
-  }
-
   // Extract the precise date for this release
   public async extractPreciseDate() {
     await this.releaseDate.extractPreciseDate();
@@ -187,29 +169,17 @@ export class Release {
     this.release = newRelease.release;
   }
 
-  // Fetch a version and add it to the cached versions
-  private async fetchVersion(versionId: number): Promise<Release> {
-    const version = new Release(
-      await this.api.getRelease(versionId),
-      this.mainBand
-    );
-    this.versions.push(version);
-    return version;
-  }
-
   // Fetch the versions list and remove the version matching the current release
-  private async fetchVersions(page = 1): Promise<DCVersions> {
+  private async fetchVersions(
+    options?: GetVersionsOptions
+  ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
-    const versions = await this.api.getVersions(this.masterId, page);
+    const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
       (version) => version.id !== this.id
     );
-
-    if (versions.pagination.items) {
-      versions.pagination.items--;
-    }
 
     return versions;
   }

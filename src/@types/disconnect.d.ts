@@ -23,6 +23,7 @@ declare module "disconnect" {
     page?: number;
     per_page?: number;
     country?: string;
+    format?: string;
     sort?: string;
     sort_order?: "asc" | "desc";
   }

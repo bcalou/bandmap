@@ -4,12 +4,7 @@ import {
   OPTION_TITLE_SIMILARITY_THRESHOLD,
 } from "../env";
 import { DCTrack } from "../types";
-import {
-  getStringParts,
-  normalize,
-  removeDetails,
-  stringsAreSimilar,
-} from "../utils";
+import { getStringParts, normalize, stringsAreSimilar } from "../utils";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -47,17 +42,15 @@ export class Repertoire {
 
   // Add the tracks from the given release to the repertoire
   public addReleaseTracks(release: Release) {
-    this.getReleaseTracks(release).forEach((releaseTrack) => {
-      let track = this.tracks.find((_track) =>
-        this.areSimilarTrackNames(_track.title, releaseTrack.title)
-      );
-
-      if (track) {
-        this.addTrackVariation(releaseTrack, release, track);
-      } else {
-        this.addNewTrack(releaseTrack, release);
-      }
-    });
+    this.getReleaseTracks(release)
+      .map((track) => this.getNewTrackCandidate(track, release))
+      .forEach((track) => {
+        if (track.existing) {
+          this.addTrackVariation({ ...track, existing: track.existing });
+        } else {
+          this.addNewTrack(track);
+        }
+      });
   }
 
   // Nicely log the list of the tracks from the repertoire
@@ -72,22 +65,22 @@ export class Repertoire {
       });
   }
 
-  // Count how many tracks are not registered in this release
+  // Get tracks that are not registered in this release
   public getUnregisteredTracks(release: Release): DCTrack[] {
-    return this.getReleaseTracks(release).filter((track) =>
-      this.trackIsUnregistered(track)
+    return this.getReleaseTracks(release).filter(
+      (track) => !this.getExistingTrack(track)
     );
   }
 
   // Try to find the given track inside the repertoire
-  private trackIsUnregistered(track: DCTrack) {
-    return this.tracks.every(
+  private getExistingTrack(track: DCTrack) {
+    return this.tracks.find(
       (_track) =>
-        !this.areSimilarTrackNames(track.title, _track.title) &&
-        !_track.subTracks.find((subtrack) =>
+        this.areSimilarTrackNames(track.title, _track.title) ||
+        _track.subTracks.find((subtrack) =>
           this.areSimilarTrackNames(track.title, subtrack)
-        ) &&
-        !_track.variations.find((variation) =>
+        ) ||
+        _track.variations.find((variation) =>
           this.areSimilarTrackNames(track.title, variation)
         )
     );
@@ -138,19 +131,6 @@ export class Repertoire {
     );
   }
 
-  // Get the actual title of the track (or main track if subtrack)
-  private getTrackTitle(track: DCTrack, release: Release) {
-    if (track.title.charAt(-1).match(/[a-z]/i)) {
-      for (let i = release.tracklist.indexOf(track); i >= 0; i--) {
-        if (track.type_ === "heading") {
-          return track.title;
-        }
-      }
-    }
-
-    return track.title;
-  }
-
   // Are the two track title similar enough to consider that they're the same?
   private areSimilarTrackNames(track1: string, track2: string) {
     const track1Parts = getStringParts(track1);
@@ -163,37 +143,57 @@ export class Repertoire {
     );
   }
 
-  // Are the two track title similar when removing the content in parenthesis?
-  private areSimilarTrackNamesWithoutDetails(
-    track1: string,
-    track2: string
-  ): boolean {
-    return (
-      stringSimilarity.compareTwoStrings(
-        normalize(removeDetails(track1)),
-        normalize(removeDetails(track2))
-      ) > OPTION_TITLE_SIMILARITY_THRESHOLD
-    );
+  // Get a new track candidate object based on a track
+  private getNewTrackCandidate(track: DCTrack, release: Release) {
+    return {
+      track,
+      release,
+      existing: this.getExistingTrack(track),
+    };
   }
 
   // Add a track variation to the repertoire
-  private addTrackVariation(track: DCTrack, release: Release, addTo: Track) {
+  private addTrackVariation(trackVariation: {
+    track: DCTrack;
+    release: Release;
+    existing: Track;
+  }) {
     if (
-      track.title !== addTo.title &&
-      !addTo.variations.find((variation) => variation === track.title)
+      trackVariation.track.title !== trackVariation.existing.title &&
+      !trackVariation.existing.variations.find(
+        (variation) => variation === trackVariation.track.title
+      )
     ) {
-      addTo.variations.push(track.title);
+      trackVariation.existing.variations.push(trackVariation.track.title);
     }
-    addTo.releases.push(release);
+    trackVariation.existing.releases.push(trackVariation.release);
+
+    this.addSubTracks(trackVariation.existing, trackVariation.track);
   }
 
   // Add a new track to the repertoire
-  private addNewTrack(track: DCTrack, release: Release) {
-    this.tracks.push({
-      title: track.title,
+  private addNewTrack(newTrack: { track: DCTrack; release: Release }) {
+    const track: Track = {
+      title: newTrack.track.title,
       variations: [],
-      subTracks: track.sub_tracks?.map((subTrack) => subTrack.title) ?? [],
-      releases: [release],
-    });
+      subTracks: [],
+      releases: [newTrack.release],
+    };
+
+    this.addSubTracks(track, newTrack.track);
+
+    this.tracks.push(track);
+  }
+
+  // Add subtracks if not already present
+  private addSubTracks(targetTrack: Track, trackContainingSubtracks: DCTrack) {
+    if (
+      !targetTrack.subTracks.length &&
+      !!trackContainingSubtracks.sub_tracks
+    ) {
+      targetTrack.subTracks = trackContainingSubtracks.sub_tracks.map(
+        (subTrack) => subTrack.title
+      );
+    }
   }
 }

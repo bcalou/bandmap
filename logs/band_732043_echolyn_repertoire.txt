@@ -1,4 +1,4 @@
-106 track(s):
+109 track(s):
 ———————————————————————————————————————————————————————————————
 (Speaking In) Lampblack
 Release(s): echolyn
@@ -22,8 +22,8 @@ A Habit Worth Forming
 Release(s): As The World
 ———————————————————————————————————————————————————————————————
 A Little Nonsense
-Variation(s): A Little Nonsense(live), A Little Nonsense (Live)
-Release(s): Suffocating The Bloom, When The Sweet Turns Sour, A Little Nonsense: Now And Then
+Variation(s): A Little Nonsense(live), A Little Nonsense (Live), As The World (Live)
+Release(s): Suffocating The Bloom, When The Sweet Turns Sour, A Little Nonsense: Now And Then, A Little Nonsense: Now And Then
 ———————————————————————————————————————————————————————————————
 A Short Essay
 Release(s): As The World
@@ -44,8 +44,8 @@ Arc Of Descent (Dancing In A Motel Just West Of Lincoln)
 Release(s): The End Is Beautiful
 ———————————————————————————————————————————————————————————————
 As The World
-Variation(s): As The World(live), As The World (Live), As The World 2000
-Release(s): As The World, When The Sweet Turns Sour, A Little Nonsense: Now And Then, A Little Nonsense: Now And Then
+Variation(s): As The World(live), As The World 2000
+Release(s): As The World, When The Sweet Turns Sour, A Little Nonsense: Now And Then
 ———————————————————————————————————————————————————————————————
 Audio Verité
 Release(s): As The World
@@ -220,8 +220,16 @@ Picture Perfect
 Release(s): Suffocating The Bloom
 ———————————————————————————————————————————————————————————————
 Poem #1
-Variation(s): Poem #2, Poem #3, Poem #4
-Release(s): Cowboy Poems Free, Cowboy Poems Free, Cowboy Poems Free, Cowboy Poems Free
+Release(s): Cowboy Poems Free
+———————————————————————————————————————————————————————————————
+Poem #2
+Release(s): Cowboy Poems Free
+———————————————————————————————————————————————————————————————
+Poem #3
+Release(s): Cowboy Poems Free
+———————————————————————————————————————————————————————————————
+Poem #4
+Release(s): Cowboy Poems Free
 ———————————————————————————————————————————————————————————————
 Prose
 Release(s): As The World

@@ -1,11 +1,11 @@
-827 rejected release(s):
+828 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
-(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
+❌ unknown date - Supertramp - "Give A Little Bit / Dreamer  (Single)"
+(https://www.discogs.com/release/9156161-Supertramp-Give-A-Little-Bit-Dreamer-)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
-(https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
+(https://www.discogs.com/release/3646578-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - Various - "Heads In"
@@ -49,7 +49,7 @@
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Supertramp - "Bloody Well Right (Single)"
-(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
+(https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-11-01 - Supertramp - "Dreamer (Single)"
@@ -110,6 +110,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1976 - Supertramp - "Lady (Single)"
+(https://www.discogs.com/release/2469812-Supertramp-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"
@@ -368,8 +372,8 @@
 (https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song / Goodbye Stranger (Single)"
-(https://www.discogs.com/release/12138792-Supertramp-The-Logical-Song-Goodbye-Stranger)
+❌ 1979 - Supertramp - "The Logical Song (Single)"
+(https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Goodbye Stranger (Single)"
@@ -472,8 +476,8 @@
 (https://www.discogs.com/release/6027501-Supertramp-Dreamer)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Take The Long Way Home (Single)"
-(https://www.discogs.com/release/1716252-Supertramp-Take-The-Long-Way-Home)
+❌ 1980 - Supertramp - "Take The Long Way Home [Live Version] (Single)"
+(https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia (Unknown)"
@@ -745,7 +749,7 @@
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Supertramp - "Die Songs Einer Supergruppe (Compilation)"
-(https://www.discogs.com/release/3047430-Supertramp-Die-Songs-Einer-Supergruppe)
+(https://www.discogs.com/release/11369608-Supertramp-Die-Songs-Einer-Supergruppe)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp / Bryan Ferry - "Cannonball / Slave To Love"
@@ -1561,7 +1565,7 @@
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Sooner Or Later (Maxi-Single)"
-(https://www.discogs.com/release/4476884-Supertramp-Sooner-Or-Later)
+(https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Listen To Me Please (Maxi-Single)"
@@ -2324,8 +2328,8 @@
 (https://www.discogs.com/release/13818702)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
-(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
+❌ 2009 - Supertramp - "Crime Of The Century + Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/15691670-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2010 - Supertramp - "The 70/10 Tour Live [10/10/2010 Merksem]"

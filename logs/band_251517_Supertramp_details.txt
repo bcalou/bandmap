@@ -321,7 +321,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/30727721
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
 ⌛ 1974 - Supertramp - "Bloody Well Right (Single)"
-(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
+(https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right)
 ———————————————————————————————————————————————————————————————
 ⌛ 1975 - Supertramp - "Sister Moonshine  (Single)"
 (https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-)
@@ -434,8 +434,8 @@ Found better release date: 1979-03-29
 🗃️ Analyzing version https://www.discogs.com/release/16739280
 🗃️ Analyzing version https://www.discogs.com/release/16739280
 💿 Format(s): Vinyl, 7", Single
-⌛ 1979 - Supertramp - "The Logical Song / Goodbye Stranger (Single)"
-(https://www.discogs.com/release/12138792-Supertramp-The-Logical-Song-Goodbye-Stranger)
+⌛ 1979 - Supertramp - "The Logical Song (Single)"
+(https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song)
 ———————————————————————————————————————————————————————————————
 ⌛ 1979 - Supertramp - "Goodbye Stranger (Single)"
 (https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger)
@@ -481,8 +481,8 @@ Alternate language release
 🗃️ Analyzing version https://www.discogs.com/release/8643213
 🗃️ Analyzing version https://www.discogs.com/release/8643213
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-⌛ 1980 - Supertramp - "Take The Long Way Home (Single)"
-(https://www.discogs.com/release/1716252-Supertramp-Take-The-Long-Way-Home)
+⌛ 1980 - Supertramp - "Take The Long Way Home [Live Version] (Single)"
+(https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version)
 ———————————————————————————————————————————————————————————————
 🗓️ Imprecise date (1980) for "Paris"
 🗃️ Looking at 167 alternate version(s)
@@ -723,8 +723,8 @@ Alternate language release
 🗃️ Analyzing version https://www.discogs.com/release/9156161
 🗃️ Analyzing version https://www.discogs.com/release/9156161
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
-(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
+⌛ unknown date - Supertramp - "Give A Little Bit / Dreamer  (Single)"
+(https://www.discogs.com/release/9156161-Supertramp-Give-A-Little-Bit-Dreamer-)
 ———————————————————————————————————————————————————————————————
 ⌛ 1982 - Supertramp - "Crazy (Unknown)"
 (https://www.discogs.com/release/999816-Supertramp-Crazy)
@@ -752,14 +752,14 @@ Rejected format(s): Vinyl, LP, Vinyl, LP, Single Sided, All Media, Transcription
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 4 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/1399661
-💿 Format(s): Cassette, Compilation, Limited Edition
+💿 Format(s): Cassette, Compilation, Limited Edition}
 🗃️ Analyzing version https://www.discogs.com/release/6739506
-💿 Format(s): Vinyl, LP, Compilation, Club Edition, Limited Edition
+💿 Format(s): Vinyl, LP, Compilation, Club Edition, Limited Edition}
 🗃️ Analyzing version https://www.discogs.com/release/11369608
 🗃️ Analyzing version https://www.discogs.com/release/11369608
 💿 Format(s): Vinyl, LP, Compilation, Club Edition, Stereo
 ⌛ 1984 - Supertramp - "Die Songs Einer Supergruppe (Compilation)"
-(https://www.discogs.com/release/3047430-Supertramp-Die-Songs-Einer-Supergruppe)
+(https://www.discogs.com/release/11369608-Supertramp-Die-Songs-Einer-Supergruppe)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp / Bryan Ferry - "Cannonball / Slave To Love"
 (https://www.discogs.com/release/4208787)
@@ -793,7 +793,7 @@ Rejected format(s): VHS, NTSC
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/14097475
-💿 Format(s): Vinyl, LP, Promo, Transcription
+💿 Format(s): Vinyl, LP, Promo, Transcription}
 ❌ 1985 - Supertramp - "Superstar Concert Series"
 (https://www.discogs.com/master/2369530)
 Rejected format(s): Vinyl, LP, Transcription
@@ -938,7 +938,7 @@ Found better release date: 1988-11-21
 🗃️ Analyzing version https://www.discogs.com/release/2592344
 💿 Format(s): DVD, DVD-Video, Compilation, NTSC
 🗃️ Analyzing version https://www.discogs.com/release/5750072
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release
+💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/16191467
 🗃️ Analyzing version https://www.discogs.com/release/16191467
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
@@ -958,7 +958,7 @@ Found better release date: 1988-11-21
 🗃️ Analyzing version https://www.discogs.com/release/10550217
 💿 Format(s): DVD, DVD-Video, NTSC, Compilation
 🗃️ Analyzing version https://www.discogs.com/release/11117257
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Limited Edition, Reissue
+💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Limited Edition, Reissue}
 🗃️ Analyzing version https://www.discogs.com/release/27712047
 🗃️ Analyzing version https://www.discogs.com/release/27712047
 💿 Format(s): DVD, DVD-Video, Compilation, PAL
@@ -1018,7 +1018,7 @@ Rejected format(s): CD, Advance, Maxi-Single, Promo
 🗃️ Analyzing version https://www.discogs.com/release/13653763
 💿 Format(s): CD, Maxi-Single
 ⌛ 1997 - Supertramp - "Sooner Or Later (Maxi-Single)"
-(https://www.discogs.com/release/4476884-Supertramp-Sooner-Or-Later)
+(https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later)
 ———————————————————————————————————————————————————————————————
 ⌛ 1997 - Supertramp - "You Win, I Lose (Single)"
 (https://www.discogs.com/release/2417257-Supertramp-You-Win-I-Lose)
@@ -1180,8 +1180,8 @@ Rejected format(s): CD, Compilation, Promo, Sampler
 🗃️ Analyzing version https://www.discogs.com/release/15691670
 🗃️ Analyzing version https://www.discogs.com/release/15691670
 💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation
-⌛ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
-(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
+⌛ 2009 - Supertramp - "Crime Of The Century + Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/15691670-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/5264228
@@ -1274,8 +1274,8 @@ Rejected format(s): Memory Stick, MP3, Tour Recording
 🗃️ Analyzing version https://www.discogs.com/release/8156236
 🗃️ Analyzing version https://www.discogs.com/release/8156236
 💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Reissue, Stereo, CD, Album, Stereo, All Media
-⌛ 2012-08-00 - Supertramp - "Live In Paris '79"
-(https://www.discogs.com/release/3837154-Supertramp-Live-In-Paris-79)
+💿 2012-08-00 - Supertramp - "Live In Paris '79"
+(https://www.discogs.com/release/8156236-Supertramp-Live-In-Paris-79)
 ———————————————————————————————————————————————————————————————
 ❌ 2022 - Supertramp - "Goodbye Stranger (Random House Project's Undisputed Truth Remake)"
 (https://www.discogs.com/release/27610332)
@@ -1311,33 +1311,33 @@ Rejected format(s): DVD, DVD-Video, PAL
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 14 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/11829673
-💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/11150869
-💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Unofficial Release
+💿 Format(s): DVD, DVD-Video, Multichannel, NTSC, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/3259128
-💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/24430211
-💿 Format(s): CD, Album, Unofficial Release
+💿 Format(s): CD, Album, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/11263829
-💿 Format(s): DVD, NTSC, Unofficial Release
+💿 Format(s): DVD, NTSC, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/26498012
-💿 Format(s): DVD, DVD-Video, Unofficial Release
+💿 Format(s): DVD, DVD-Video, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/8351640
-💿 Format(s): CDr, Album, Reissue, Remastered, Unofficial Release, Stereo
+💿 Format(s): CDr, Album, Reissue, Remastered, Unofficial Release, Stereo}
 🗃️ Analyzing version https://www.discogs.com/release/6944288
-💿 Format(s): CD, Unofficial Release
+💿 Format(s): CD, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/14496452
-💿 Format(s): Vinyl, LP, Unofficial Release, Stereo
+💿 Format(s): Vinyl, LP, Unofficial Release, Stereo}
 🗃️ Analyzing version https://www.discogs.com/release/26861756
-💿 Format(s): CD, Album, Unofficial Release
+💿 Format(s): CD, Album, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/10879303
-💿 Format(s): CD, Misprint, Unofficial Release
+💿 Format(s): CD, Misprint, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/11581479
-💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release
+💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/8883542
-💿 Format(s): CD, Album, Unofficial Release
+💿 Format(s): CD, Album, Unofficial Release}
 🗃️ Analyzing version https://www.discogs.com/release/16766742
-💿 Format(s): DVDr, DVD-Video, PAL, Transcription, Stereo
+💿 Format(s): DVDr, DVD-Video, PAL, Transcription, Stereo}
 ❌ unknown date - Supertramp - "Rockpop In Concert"
 (https://www.discogs.com/master/828689)
 Rejected format(s): CD, Album, Unofficial Release
@@ -1347,7 +1347,7 @@ Rejected format(s): CD, Album, Unofficial Release
 🗃️ Analyzing version https://www.discogs.com/release/3646578
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Styrene, Stereo
 ⌛ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
-(https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
+(https://www.discogs.com/release/3646578-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Various - "Foreplay FPS#2: A&M's Pre-Release Sampler"
 (https://www.discogs.com/release/7501664)
@@ -3920,7 +3920,7 @@ Rejected release role: UnofficialRelease
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2023 - Supertramp - "Live In Paris '79"
-(https://www.discogs.com/master/466938)" (skipping, already candidate)
+(https://www.discogs.com/master/466938)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Supertramp - "...Famous Last Songs..."
 (https://www.discogs.com/release/31558087)
@@ -4187,22 +4187,6 @@ Found candidate with 2 unregistered track(s):
 (https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 You Started Laughing When I Held You In My Arms
-🗓️ Imprecise date (1976) for "Lady"
-🗃️ Looking at 17 alternate version(s)
-🗓️ No more versions for year 1976
-🗓️ No better date found
-💿 1976 - Supertramp - "Lady (Single)"
-(https://www.discogs.com/release/2469812-Supertramp-Lady)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 French Touch (Intro)
-💿 2012-08-00 - Supertramp - "Live In Paris '79"
-(https://www.discogs.com/release/3837154-Supertramp-Live-In-Paris-79)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
 ❌ 1978 - Supertramp - "4 Sucessos (Compilation)"
 (https://www.discogs.com/release/4282303-Supertramp-4-Sucessos)
 No new tracks
@@ -4216,7 +4200,7 @@ No new tracks
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Supertramp - "Die Songs Einer Supergruppe (Compilation)"
-(https://www.discogs.com/release/3047430-Supertramp-Die-Songs-Einer-Supergruppe)
+(https://www.discogs.com/release/11369608-Supertramp-Die-Songs-Einer-Supergruppe)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "The Autobiography Of Supertramp (Compilation)"
@@ -4235,8 +4219,8 @@ No new tracks
 (https://www.discogs.com/release/16048043-Supertramp-Star-Profile)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2009 - Supertramp - "Crime Of The Century / Crisis? What Crisis (Compilation)"
-(https://www.discogs.com/release/5811393-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
+❌ 2009 - Supertramp - "Crime Of The Century + Crisis? What Crisis (Compilation)"
+(https://www.discogs.com/release/15691670-Supertramp-Crime-Of-The-Century-Crisis-What-Crisis)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Supertramp - "Better Days (Maxi-Single)"
@@ -4244,7 +4228,7 @@ No new tracks
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Sooner Or Later (Maxi-Single)"
-(https://www.discogs.com/release/4476884-Supertramp-Sooner-Or-Later)
+(https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Listen To Me Please (Maxi-Single)"
@@ -4260,7 +4244,7 @@ No new tracks
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Supertramp - "Bloody Well Right (Single)"
-(https://www.discogs.com/release/5464224-Supertramp-Bloody-Well-Right)
+(https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1974-11-01 - Supertramp - "Dreamer (Single)"
@@ -4273,6 +4257,10 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1976 - Supertramp - "Lady (Single)"
+(https://www.discogs.com/release/2469812-Supertramp-Lady)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp - "Dreamer (Single)"
@@ -4291,8 +4279,8 @@ No new tracks
 (https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song / Goodbye Stranger (Single)"
-(https://www.discogs.com/release/12138792-Supertramp-The-Logical-Song-Goodbye-Stranger)
+❌ 1979 - Supertramp - "The Logical Song (Single)"
+(https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Goodbye Stranger (Single)"
@@ -4319,8 +4307,8 @@ No new tracks
 (https://www.discogs.com/release/6027501-Supertramp-Dreamer)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Take The Long Way Home (Single)"
-(https://www.discogs.com/release/1716252-Supertramp-Take-The-Long-Way-Home)
+❌ 1980 - Supertramp - "Take The Long Way Home [Live Version] (Single)"
+(https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "My Kind Of Lady (Single)"
@@ -4347,12 +4335,12 @@ No new tracks
 (https://www.discogs.com/release/2417257-Supertramp-You-Win-I-Lose)
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Supertramp - "Dreamer / Give A Little Bit  (Single)"
-(https://www.discogs.com/release/3707616-Supertramp-Dreamer-Give-A-Little-Bit-)
+❌ unknown date - Supertramp - "Give A Little Bit / Dreamer  (Single)"
+(https://www.discogs.com/release/9156161-Supertramp-Give-A-Little-Bit-Dreamer-)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
-(https://www.discogs.com/release/24629633-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
+(https://www.discogs.com/release/3646578-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned (Unknown)"

@@ -4,14 +4,6 @@ export const OPTION_CACHE_BUSTER: string[] = ["release_27056589"];
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
 export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;
-export const OPTION_FORMATS_PRIORITY = [
-  "Compilation",
-  "EP",
-  "Maxi-Single",
-  "Single",
-  "Unknown",
-  "Album",
-];
 
 export const DISCOGS_RELEASE_URL = "https://www.discogs.com/release/";
 export const DISCOGS_MASTER_URL = "https://www.discogs.com/master/";

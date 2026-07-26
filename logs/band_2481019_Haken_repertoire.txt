@@ -1,37 +1,53 @@
-62 track(s):
+83 track(s):
 ———————————————————————————————————————————————————————————————
 1985
-Release(s): Affinity, L-1VE
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+1985
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 A Cell Divides
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Affinity.exe
-Variation(s): Affinity.exe / Initiate
-Release(s): Affinity, L-1VE
+A Cell Divides
+Release(s): Vector
+———————————————————————————————————————————————————————————————
+Affinity.exe/Initiate
+Variation(s): affinity.exe
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+Affinity.exe/Initiate
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 Aquarium
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 As Death Embraces
-Release(s): The Mountain, L-1VE
+Release(s): The Mountain, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 Atlas Stone
-Release(s): The Mountain, L-1VE
+Release(s): The Mountain, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 Because It's There
 Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
 Beneath The White Rainbow
-Variation(s): Beneath The White Rainbow (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
+———————————————————————————————————————————————————————————————
+Bound By Gravity
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Bound By Gravity
 Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Canary Yellow
-Variation(s): Canary Yellow (Live In London 2024)
-Release(s): Virus, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Virus
+———————————————————————————————————————————————————————————————
+Canary Yellow
+Release(s): Virus
+———————————————————————————————————————————————————————————————
+Carousel
+Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Carousel
 Release(s): Virus
@@ -42,53 +58,65 @@ Release(s): Aquarius
 Clear
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Cockroach King
-Variation(s): Cockroach King (Live In London 2024)
-Release(s): The Mountain, L-1VE, Liveforms: An Evening With Haken (Live In London 2024)
+Clear
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Crystallised 
-Release(s): Restoration 
+Cockroach King
+Release(s): The Mountain, L-1VE, L-1VE
+———————————————————————————————————————————————————————————————
+Crystallised
+Release(s): L-1VE, Restoration, Restoration
 ———————————————————————————————————————————————————————————————
 Darkest Light
-Release(s): Restoration 
+Release(s): Restoration
+———————————————————————————————————————————————————————————————
+Darkest Light
+Release(s): Restoration
 ———————————————————————————————————————————————————————————————
 Deathless
 Release(s): Visions
 ———————————————————————————————————————————————————————————————
 Drowning In The Flood
-Variation(s): Drowning In The Flood (Live In London 2024)
-Release(s): Aquarius, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Earthlings
-Release(s): Restoration 
+Release(s): Restoration
+———————————————————————————————————————————————————————————————
+Earthlings
+Release(s): Restoration
 ———————————————————————————————————————————————————————————————
 Earthrise
-Variation(s): Earthrise (Live In London 2024)
-Release(s): Affinity, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+Earthrise (Music Video)
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 Elephants Never Forget
-Variation(s): Elephants Never Forget (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Eternal Rain
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Eyes Of Ebony
-Variation(s): Eyes Of Ebony (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Falling Back To Earth
-Release(s): The Mountain
+Sub tracks: Part 1: Rise, Part 2: Fall
+Release(s): The Mountain, L-1VE
+———————————————————————————————————————————————————————————————
+Host
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Host
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 In Memorian
 Variation(s): In Memoriam
-Release(s): The Mountain, L-1VE
+Release(s): The Mountain, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
-Initiate
-Release(s): Affinity
+Initiate (Music Video)
+Variation(s): Initiate
+Release(s): L-1VE, Affinity, Affinity
 ———————————————————————————————————————————————————————————————
 Insomnia
 Release(s): Visions
@@ -96,31 +124,35 @@ Release(s): Visions
 Invasion
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
-Island In The Clouds
-Variation(s): Islands In The Clouds (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Invasion
+Release(s): Virus
 ———————————————————————————————————————————————————————————————
-Lapse
-Release(s): Affinity
+Island In The Clouds
+Release(s): Fauna, Liveforms: Fauna Live In London
+———————————————————————————————————————————————————————————————
+Lapse (Music Video)
+Variation(s): Lapse
+Release(s): L-1VE, Affinity, Affinity
 ———————————————————————————————————————————————————————————————
 Lovebite
-Variation(s): Lovebite (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
-Messiah Complex i: Ivory Tower
-Variation(s): Messiah Complex ii: A Glutton For Punishment, Messiah Complex iii: Marigold, Messiah Complex iv: The Sect, Messiah Complex v: Ectobius Rex
-Release(s): Virus, Virus, Virus, Virus, Virus
+Messiah Complex
+Sub tracks: Ivory Tower, A Glutton For Punishment, Marigold, The Sect, Ectobius Rex
+Release(s): Virus
+———————————————————————————————————————————————————————————————
+Messiah Complex
+Sub tracks: Ivory Tower, A Glutton For Punishment, Marigold, The Sect, Ectobius Rex
+Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Nightingale
-Variation(s): Nightingale (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Nil By Mouth
-Variation(s): Nil By Mouth (Live In London 2024)
-Release(s): Vector, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Nobody 
-Release(s): The Mountain
+Nil By Mouth
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Nocturnal Conspiracy
 Release(s): Visions
@@ -128,8 +160,11 @@ Release(s): Visions
 Only Stars
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
+Only Stars
+Release(s): Virus
+———————————————————————————————————————————————————————————————
 Pareidolia
-Release(s): The Mountain
+Release(s): The Mountain, L-1VE
 ———————————————————————————————————————————————————————————————
 Portals
 Release(s): Visions
@@ -140,16 +175,23 @@ Release(s): Visions
 Prosthetic
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
+Prosthetic
+Release(s): Virus
+———————————————————————————————————————————————————————————————
 Puzzle Box
-Variation(s): Puzzle Box (Live In London 2024)
-Release(s): Vector, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Vector
+———————————————————————————————————————————————————————————————
+Puzzle Box
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Red Giant
-Release(s): Affinity, L-1VE
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+Red Giant
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 Sempiternal Beings
-Variation(s): Sempiternal Beings (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Shapeshifter
 Release(s): Visions
@@ -165,46 +207,53 @@ Sun
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Taurus
-Variation(s): Taurus (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 The Alphabet Of Me
-Variation(s): The Alphabet Of Me (Live In London 2024)
-Release(s): Fauna, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 The Architect
-Release(s): Affinity, L-1VE
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+The Architect
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 The Endless Knot
-Release(s): Affinity, L-1VE
+Release(s): L-1VE, Affinity, Affinity
+———————————————————————————————————————————————————————————————
+The Endless Knot
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 The Good Doctor
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-The Last Lullaby (Live In London 2024)
-Variation(s): Crystallised (Live In London 2024), 1985 (Live In London 2024), Strainwreck (Live In London 2024)
-Release(s): Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024), Liveforms: An Evening With Haken (Live In London 2024)
+The Good Doctor
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
-The Mind's Eye
+The Last Lullaby
+Release(s): Liveforms: Fauna Live In London
+———————————————————————————————————————————————————————————————
+The Mind’s Eye
 Release(s): Visions
 ———————————————————————————————————————————————————————————————
 The Path
-Release(s): The Mountain
-———————————————————————————————————————————————————————————————
-The Path Unbeaten 
 Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
 The Point Of No Return
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 The Strain
-Variation(s): The Strain (Live In London 2024)
-Release(s): Virus, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Virus
+———————————————————————————————————————————————————————————————
+The Strain
+Release(s): Virus
+———————————————————————————————————————————————————————————————
+Veil
+Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Veil
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Visions
-Variation(s): Visions (Live In London 2024)
-Release(s): Visions, L-1VE, Liveforms: An Evening With Haken (Live In London 2024)
+Release(s): Visions, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————

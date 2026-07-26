@@ -133,6 +133,7 @@ Rejected format(s): CDr, Single, Stereo
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
 🗃️ Analyzing version https://www.discogs.com/release/15730530
+🗃️ Analyzing version https://www.discogs.com/release/15730530
 💿 Format(s): CDr, Sampler
 ❌ 2000 - echolyn - "2-song CD Sampler 2000"
 (https://www.discogs.com/master/1784240)
@@ -146,6 +147,7 @@ Rejected format(s): CDr, Single
 Rejected format(s): CDr, Album, Stereo
 ———————————————————————————————————————————————————————————————
 🗃️ Looking at 1 alternate version(s)
+🗃️ Analyzing version https://www.discogs.com/release/25254466
 🗃️ Analyzing version https://www.discogs.com/release/25254466
 💿 Format(s): File, MP3, Album
 ❌ 2002 - echolyn - "Jersey Tomato"

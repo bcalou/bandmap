@@ -1,1 +1,3 @@
-✓ IDs list matches expectation: 17151706,21933142,26523116,33596541
+❌ IDs list doesn't match the expected result
+Expected: 17151706,21933142,26523116,33596541
+Got:      17151706,21933142,26890124,33596541

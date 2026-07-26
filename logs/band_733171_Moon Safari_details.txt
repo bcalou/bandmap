@@ -80,19 +80,18 @@
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (2005) for "A Doorway To Summer"
-🗃️ Looking at 8 alternate version(s)
+🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/3346044
 🗓️ Release date: 2005-01-01
 Found better release date: 2005-01-01
 🗃️ Analyzing version https://www.discogs.com/release/13306655
 🗓️ Release date: 2005
-🗓️ No more versions for year 2005
 💿 2005-01-01 - Moon Safari - "A Doorway To Summer"
 (https://www.discogs.com/release/8543634-Moon-Safari-A-Doorway-To-Summer)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album, Stereo
 🗓️ Imprecise date (2008-01-01) for "Blomljud"
-🗃️ Looking at 8 alternate version(s)
+🗃️ Looking at alternate version(s) from 2008
 🗃️ Analyzing version https://www.discogs.com/release/21709531
 🗓️ Release date: 2008-01-03
 Found better release date: 2008-01-03
@@ -133,8 +132,9 @@ Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Compilation, Reissue, Stereo
-⌛ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
-(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
+❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
+(https://www.discogs.com/release/15123057)
+Rejected format(s): CD, Compilation, Reissue, Stereo
 ———————————————————————————————————————————————————————————————
 💿 Format(s): Vinyl, LP, Album, Stereo
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
@@ -231,10 +231,6 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
 (https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013)
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2016 - Adam Holzman, Moon Safari - "Two In One (Spork / Live In Mexico) (Compilation)"
-(https://www.discogs.com/release/15123057-Adam-Holzman-Moon-Safari-Two-In-One-Spork-Live-In-Mexico)
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"

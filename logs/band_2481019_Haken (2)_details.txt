@@ -92,26 +92,13 @@
 Rejected format(s): CDr
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CDr
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14998669
-🗃️ Analyzing version https://www.discogs.com/release/14998669
-💿 Format(s): File, MP3, Album, Reissue
-🗃️ Analyzing main formats of version https://www.discogs.com/release/16560504
-🗃️ Analyzing version https://www.discogs.com/release/16560504
-💿 Format(s): File, FLAC, Album, Reissue
-🗃️ Looking at 5 alternate version(s)
+🗃️ Looking at 3 alternate version(s) from 2008
 🗃️ Analyzing main formats of version https://www.discogs.com/release/21080776
 🗃️ Analyzing version https://www.discogs.com/release/21080776
 💿 Format(s): CDr
 🗃️ Analyzing main formats of version https://www.discogs.com/release/33565128
 🗃️ Analyzing version https://www.discogs.com/release/33565128
 💿 Format(s): CDr
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14998669
-🗃️ Analyzing version https://www.discogs.com/release/14998669
-💿 Format(s): File, MP3, Album, Reissue
-🗃️ Analyzing main formats of version https://www.discogs.com/release/16560504
-🗃️ Analyzing version https://www.discogs.com/release/16560504
-💿 Format(s): File, FLAC, Album, Reissue
 ❌ 2008 - Haken (2) - "Enter The 5th Dimension"
 (https://www.discogs.com/master/1706323)
 Rejected format(s): CDr
@@ -121,7 +108,7 @@ Rejected format(s): CDr
 (https://www.discogs.com/release/3429761-Haken-2-Aquarius)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 21 alternate version(s)
+🗃️ Looking at 5 alternate version(s) from 2011
 🗃️ Analyzing main formats of version https://www.discogs.com/release/5164041
 🗃️ Analyzing version https://www.discogs.com/release/5164041
 💿 Format(s): CD, Album
@@ -129,7 +116,7 @@ Rejected format(s): CDr
 (https://www.discogs.com/release/5164041-Haken-2-Visions)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 23 alternate version(s)
+🗃️ Looking at 12 alternate version(s) from 2013
 🗃️ Analyzing main formats of version https://www.discogs.com/release/5396142
 🗃️ Analyzing version https://www.discogs.com/release/5396142
 💿 Format(s): CD, Album
@@ -137,7 +124,7 @@ Rejected format(s): CDr
 (https://www.discogs.com/release/5396142-Haken-2-The-Mountain)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, EP
-🗃️ Looking at 6 alternate version(s)
+🗃️ Looking at 4 alternate version(s) from 2014
 🗃️ Analyzing main formats of version https://www.discogs.com/release/6264964
 🗃️ Analyzing version https://www.discogs.com/release/6264964
 💿 Format(s): Vinyl, 12", 33 ⅓ RPM, EP, CD, EP, All Media, Limited Edition, Numbered
@@ -148,7 +135,7 @@ Rejected format(s): CDr
 (https://www.discogs.com/release/6242292-Haken-2-Restoration)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2016
 🗃️ Analyzing main formats of version https://www.discogs.com/release/10857307
 🗃️ Analyzing version https://www.discogs.com/release/10857307
 💿 Format(s): File, FLAC, Single
@@ -157,7 +144,7 @@ Rejected format(s): CDr
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2016
 🗃️ Analyzing main formats of version https://www.discogs.com/release/10857319
 🗃️ Analyzing version https://www.discogs.com/release/10857319
 💿 Format(s): File, FLAC, Single
@@ -166,7 +153,7 @@ Rejected format(s): File, MP3, Single
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 19 alternate version(s)
+🗃️ Looking at 11 alternate version(s) from 2016
 🗃️ Analyzing main formats of version https://www.discogs.com/release/8497688
 🗃️ Analyzing version https://www.discogs.com/release/8497688
 💿 Format(s): Vinyl, LP, Album, CD, Album, All Media, Limited Edition
@@ -175,19 +162,19 @@ Rejected format(s): File, MP3, Single
 🗃️ Analyzing main formats of version https://www.discogs.com/release/8453071
 🗃️ Analyzing version https://www.discogs.com/release/8453071
 💿 Format(s): Vinyl, LP, Album, CD, Album
-⌛ 2016-04-29 - Haken - "Affinity"
+💿 2016-04-29 - Haken - "Affinity"
 (https://www.discogs.com/release/8453071-Haken-2-Affinity)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 15 alternate version(s)
+🗃️ Looking at 14 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12702035
 🗃️ Analyzing version https://www.discogs.com/release/12702035
 💿 Format(s): CD, Album, CD, Album, All Media
-⌛ 2018-10-26 - Haken - "Vector"
+💿 2018-10-26 - Haken - "Vector"
 (https://www.discogs.com/release/12702035-Haken-2-Vector)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/13392244
 🗃️ Analyzing version https://www.discogs.com/release/13392244
 💿 Format(s): File, FLAC, Single
@@ -196,7 +183,7 @@ Rejected format(s): File, MP3, Single
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/13392262
 🗃️ Analyzing version https://www.discogs.com/release/13392262
 💿 Format(s): File, FLAC, Single
@@ -205,7 +192,7 @@ Rejected format(s): File, MP3, Single
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/13392268
 🗃️ Analyzing version https://www.discogs.com/release/13392268
 💿 Format(s): File, FLAC, Single
@@ -214,7 +201,7 @@ Rejected format(s): File, MP3, Single
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12157175
 🗃️ Analyzing version https://www.discogs.com/release/12157175
 💿 Format(s): CD, Album, DVD, DVD-Video, Multichannel
@@ -222,7 +209,7 @@ Rejected format(s): File, MP3, Single
 (https://www.discogs.com/release/12157175-Haken-2-L-1VE)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, WAV, EP
-🗃️ Looking at 5 alternate version(s)
+🗃️ Looking at 5 alternate version(s) from 2018
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12921065
 🗃️ Analyzing version https://www.discogs.com/release/12921065
 💿 Format(s): Vinyl, LP, EP, CD, EP, All Media, Limited Edition
@@ -250,35 +237,30 @@ Rejected format(s): File, MP3, Single
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 18 alternate version(s)
+🗃️ Looking at 17 alternate version(s) from 2020
 🗃️ Analyzing main formats of version https://www.discogs.com/release/15680080
 🗃️ Analyzing version https://www.discogs.com/release/15680080
 💿 Format(s): CD, Album, CD, Album, All Media, Deluxe Edition
-⌛ 2020-07-24 - Haken - "Virus"
+💿 2020-07-24 - Haken - "Virus"
 (https://www.discogs.com/release/15680080-Haken-2-Virus)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing main formats of version https://www.discogs.com/release/31173214
-🗃️ Analyzing version https://www.discogs.com/release/31173214
-💿 Format(s): File, FLAC, Single
+🗃️ Looking at 1 alternate version(s) from 2020
 ❌ 2020 - Haken (2) - "Canary Yellow"
 (https://www.discogs.com/master/3538078)
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, MP3, Single
-🗃️ Looking at 3 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2020
 🗃️ Analyzing main formats of version https://www.discogs.com/release/16300981
 🗃️ Analyzing version https://www.discogs.com/release/16300981
 💿 Format(s): File, FLAC, Single
-🗃️ Analyzing main formats of version https://www.discogs.com/release/37009980
-💿 Format(s): Vinyl, 7", 45 RPM, Single Sided, Unofficial Release}
 ❌ 2020 - Haken (2) - "The Architect - Jazzfinity"
 (https://www.discogs.com/master/1879641)
 Rejected format(s): File, MP3, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2022
 🗃️ Analyzing main formats of version https://www.discogs.com/release/23006144
 🗃️ Analyzing version https://www.discogs.com/release/23006144
 💿 Format(s): File, MP3, Single
@@ -292,7 +274,7 @@ Rejected format(s): File, AAC, Single
 Rejected format(s): File, AAC, Single
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 17 alternate version(s)
+🗃️ Looking at 17 alternate version(s) from 2023
 🗃️ Analyzing main formats of version https://www.discogs.com/release/32742147
 💿 Format(s): CD, Album, Promo, Stereo}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/26311025
@@ -307,7 +289,7 @@ Rejected format(s): File, AAC, Single
 (https://www.discogs.com/release/26813168-Haken-2-Fauna)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): File, AAC, Album
-🗃️ Looking at 6 alternate version(s)
+🗃️ Looking at 6 alternate version(s) from 2025
 🗃️ Analyzing main formats of version https://www.discogs.com/release/33971067
 💿 Format(s): Vinyl, LP, Album, Limited Edition, Stereo}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/33940008
@@ -448,10 +430,10 @@ Rejected release role: TrackAppearance
 (https://www.discogs.com/master/600019)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "2016 - Haken (2) - "Affinity"
-(https://www.discogs.com/master/993735)" (skipping, already candidate)
+(https://www.discogs.com/master/993735)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "2020 - Haken (2) - "Virus"
-(https://www.discogs.com/master/1776143)" (skipping, already candidate)
+(https://www.discogs.com/master/1776143)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ❌ 2023 - Haken (2) - "The Alphabet Of Me"
 (https://www.discogs.com/release/27837942)
@@ -464,44 +446,6 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/1879641)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
-Found candidate with 14 unregistered track(s):
-🎵 Clear
-🎵 The Good Doctor
-🎵 Puzzle Box
-🎵 Veil
-🎵 Nil By Mouth
-🎵 Host
-🎵 A Cell Divides
-🎵 Clear
-🎵 The Good Doctor
-🎵 Puzzle Box
-🎵 Veil
-🎵 Nil By Mouth
-🎵 Host
-🎵 A Cell Divides
-💿 2018-10-26 - Haken - "Vector"
-(https://www.discogs.com/release/12702035-Haken-2-Vector)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 14 unregistered track(s):
-🎵 Prosthetic
-🎵 Invasion
-🎵 Carousel
-🎵 The Strain
-🎵 Canary Yellow
-🎵 Messiah Complex
-🎵 Only Stars
-🎵 Prosthetic
-🎵 Invasion
-🎵 Carousel
-🎵 The Strain
-🎵 Canary Yellow
-🎵 Messiah Complex
-🎵 Only Stars
-💿 2020-07-24 - Haken - "Virus"
-(https://www.discogs.com/release/15680080-Haken-2-Virus)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
 Found candidate with 4 unregistered track(s):
 🎵 Darkest Light
 🎵 Earthlings
@@ -509,12 +453,5 @@ Found candidate with 4 unregistered track(s):
 🎵 Earthlings
 💿 2014-11-11 - Haken - "Restoration (EP)"
 (https://www.discogs.com/release/6242292-Haken-2-Restoration)
-———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 2 unregistered track(s):
-🎵 Bound By Gravity
-🎵 Bound By Gravity
-💿 2016-04-29 - Haken - "Affinity"
-(https://www.discogs.com/release/8453071-Haken-2-Affinity)
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks

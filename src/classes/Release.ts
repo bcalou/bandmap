@@ -131,12 +131,13 @@ export class Release {
 
   // Return the version list
   public async getVersions(options?: GetVersionsOptions): Promise<DCVersions> {
-    const versions = await this.fetchVersions(options);
+    const versions = await this.fetchVersions({
+      ...options,
+      released: this.release.year.toString(),
+    });
 
     if ((options?.page ?? 1) === 1 && versions?.pagination.items >= 1) {
-      this.logger.log(
-        `🗃️ Looking at ${versions.pagination.items} alternate version(s)`
-      );
+      this.logger.log(`🗃️ Looking at alternate version(s) from ${this.year}`);
     }
 
     return versions;
@@ -171,14 +172,14 @@ export class Release {
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
 
     return versions;

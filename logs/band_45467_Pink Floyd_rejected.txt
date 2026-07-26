@@ -1,8 +1,4 @@
-3482 rejected release(s):
-———————————————————————————————————————————————————————————————
-❌ unknown date - Pink Floyd - "Wish You Were Here (Single)"
-(https://www.discogs.com/release/17194138-Pink-Floyd-Wish-You-Were-Here)
-(No new tracks)
+3483 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Pink Floyd, Al Bano Carrisi - "Money / La Canzone Di Maria (Unknown)"
 (https://www.discogs.com/release/28385452-Pink-Floyd-Al-Bano-Money-La-Canzone-Di-Maria)
@@ -421,7 +417,7 @@
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-01-18 - Pink Floyd - "A Nice Pair (Compilation)"
-(https://www.discogs.com/release/3499010-Pink-Floyd-A-Nice-Pair)
+(https://www.discogs.com/release/18062053-Pink-Floyd-A-Nice-Pair)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974-02-04 - Pink Floyd - "Us And Them (Single)"
@@ -732,6 +728,10 @@
 (https://www.discogs.com/master/44264)
 (Alternate language release)
 ———————————————————————————————————————————————————————————————
+❌ 1980 - Pink Floyd - "The Pink Floyd Collection"
+(https://www.discogs.com/master/714734)
+(Rejected format(s): Box Set, Compilation, Limited Edition, Vinyl, LP, Compilation, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album)
+———————————————————————————————————————————————————————————————
 ❌ 1980 - Eko 81 - "Nove Emisije"
 (https://www.discogs.com/release/15701581)
 (Rejected artist(s): Eko 81)
@@ -908,10 +908,6 @@
 (https://www.discogs.com/master/222326)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Pink Floyd - "The Pink Floyd Collection (Compilation)"
-(https://www.discogs.com/release/5895410-Pink-Floyd-The-Pink-Floyd-Collection)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1980 - Pink Floyd - "The Other Side Of The Wall (Compilation)"
 (https://www.discogs.com/release/5028314-Pink-Floyd-The-Other-Side-Of-The-Wall)
 (No new tracks)
@@ -1027,6 +1023,10 @@
 ❌ 1982 - Pink Floyd - "The Wall"
 (https://www.discogs.com/release/35597263)
 (Rejected format(s): Vinyl, LP, Transcription, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1982 - Pink Floyd - "The Wall"
+(https://www.discogs.com/master/564525)
+(Rejected format(s): VHS, PAL)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Pink Floyd - "Royalty Of Rock"
 (https://www.discogs.com/master/3599732)
@@ -3415,6 +3415,10 @@
 ❌ 1995 - Pink Floyd - "Shine On You Crazy Diamond (Live)"
 (https://www.discogs.com/release/19927543)
 (Rejected format(s): CDr, Advance)
+———————————————————————————————————————————————————————————————
+❌ 1995 - Pink Floyd - "Wish You Were Here (Live)"
+(https://www.discogs.com/master/492591)
+(Rejected format(s): CD, Maxi-Single, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Lob - "Peppermints From Saturn"
 (https://www.discogs.com/release/900526)

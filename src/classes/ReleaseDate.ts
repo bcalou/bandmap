@@ -44,7 +44,7 @@ export class ReleaseDate {
 
     if (!this.isSufficientDateQuality(initialDateQuality)) {
       this.logger.logWarning(
-        `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`
+        `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`,
       );
 
       await this.findBetterDate();
@@ -58,10 +58,11 @@ export class ReleaseDate {
   // Find a better date for the release
   private async findBetterDate(): Promise<void> {
     for (const version of (await this.release.getVersions()).versions) {
-      if (this.year && version.released !== this.year) {
-        this.logger.logWarning(`🗓️ No more versions for year ${this.year}`);
-        break;
-      }
+      // TODO remove?
+      // if (this.year && version.released !== this.year) {
+      //   this.logger.logWarning(`🗓️ No more versions for year ${this.year}`);
+      //   break;
+      // }
 
       const dateQuality = await this.extractVersionDate(version);
 
@@ -79,7 +80,7 @@ export class ReleaseDate {
   // Use the given version date if it's of better quality than what we have
   // Return the quality of the date found, or null if the date is not better
   private async extractVersionDate(
-    version: DCVersion
+    version: DCVersion,
   ): Promise<DateQuality | null> {
     const versionRelease = await this.release.getVersion(version.id);
 

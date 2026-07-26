@@ -1,13 +1,5 @@
 828 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Supertramp - "Give A Little Bit / Dreamer  (Single)"
-(https://www.discogs.com/release/9156161-Supertramp-Give-A-Little-Bit-Dreamer-)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady (Single)"
-(https://www.discogs.com/release/3646578-Supertramp-Its-Raining-Again-My-Kind-Of-Lady)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1970 - Various - "Heads In"
 (https://www.discogs.com/master/750216)
 (Rejected release role: TrackAppearance)
@@ -110,10 +102,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp - "Ain't Nobody But Me (Single)"
 (https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1976 - Supertramp - "Lady (Single)"
-(https://www.discogs.com/release/2469812-Supertramp-Lady)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"
@@ -563,6 +551,10 @@
 ❌ 1982 - Supertramp - "Llueve Otra Vez = It's Raining Again / Loco = Crazy"
 (https://www.discogs.com/master/4267716)
 (Alternate language release)
+———————————————————————————————————————————————————————————————
+❌ 1982 - Supertramp - "Dreamer / Give A Little Bit "
+(https://www.discogs.com/master/1107440)
+(Rejected format(s): Vinyl, 7", 45 RPM, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Various - "The Continuous History Of Rock And Roll Show No. 30 "Art Rock""
 (https://www.discogs.com/release/3541888)
@@ -2492,6 +2484,10 @@
 (https://www.discogs.com/master/3889180)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2011 - Supertramp - "Live In Paris '79"
+(https://www.discogs.com/master/466938)
+(Rejected format(s): Blu-ray, Stereo, Multichannel)
+———————————————————————————————————————————————————————————————
 ❌ 2011 - Unknown Artist - "Le Meilleur Des Tubes En Karaoké -  Années 80 Variétés Internationales"
 (https://www.discogs.com/release/27319656)
 (Rejected artist(s): Unknown Artist)
@@ -2939,6 +2935,10 @@
 ❌ unknown date - Supertramp - "Rockpop In Concert"
 (https://www.discogs.com/master/828689)
 (Rejected format(s): CD, Album, Unofficial Release)
+———————————————————————————————————————————————————————————————
+❌ unknown date - Supertramp - "It's Raining Again / My Kind Of Lady"
+(https://www.discogs.com/master/2799059)
+(Rejected format(s): Vinyl, 7", 45 RPM, Reissue, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Koninklijke Gentse Politieharmonie - "100 Jaar"
 (https://www.discogs.com/release/10286332)

@@ -87,7 +87,7 @@
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1991) for "echolyn"
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 1991
 🗃️ Analyzing version https://www.discogs.com/release/3651443
 🗓️ Release date: 1991
 🗓️ No better date found
@@ -109,15 +109,22 @@ Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1995) for "As The World"
-🗃️ Looking at 10 alternate version(s)
-🗓️ No more versions for year 1995
+🗃️ Looking at 5 alternate version(s) from 1995
+🗃️ Analyzing version https://www.discogs.com/release/7859275
+🗓️ Release date: 1995
+🗃️ Analyzing version https://www.discogs.com/release/20713378
+🗓️ Release date: 1995
+🗃️ Analyzing version https://www.discogs.com/release/3399439
+🗓️ Release date: 1995
+🗃️ Analyzing version https://www.discogs.com/release/5360424
+🗓️ Release date: 1995
 🗓️ No better date found
 💿 1995 - echolyn - "As The World"
 (https://www.discogs.com/release/872981-echolyn-As-The-World)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1996) for "When The Sweet Turns Sour"
-🗃️ Looking at 4 alternate version(s)
+🗃️ Looking at 3 alternate version(s) from 1996
 🗃️ Analyzing version https://www.discogs.com/release/4337055
 🗓️ Release date: 1996
 🗃️ Analyzing version https://www.discogs.com/release/14533301
@@ -133,14 +140,13 @@ Rejected format(s): CDr, Single, Stereo
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (2000) for "Cowboy Poems Free"
-🗃️ Looking at 4 alternate version(s)
-🗓️ No more versions for year 2000
+🗃️ Looking at 1 alternate version(s) from 2000
 🗓️ No better date found
 💿 2000 - echolyn - "Cowboy Poems Free"
 (https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free)
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CDr, Single
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2000
 🗃️ Analyzing main formats of version https://www.discogs.com/release/15730530
 🗃️ Analyzing version https://www.discogs.com/release/15730530
 💿 Format(s): CDr, Sampler
@@ -158,14 +164,8 @@ Rejected format(s): CDr, Single
 Rejected format(s): CDr, Album, Stereo
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CDr, Album, Limited Edition, Stereo
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing main formats of version https://www.discogs.com/release/25254466
-🗃️ Analyzing version https://www.discogs.com/release/25254466
-💿 Format(s): File, MP3, Album
-🗃️ Looking at 2 alternate version(s)
-🗃️ Analyzing main formats of version https://www.discogs.com/release/25254466
-🗃️ Analyzing version https://www.discogs.com/release/25254466
-💿 Format(s): File, MP3, Album
+🗃️ Looking at 1 alternate version(s) from 2003
+🗃️ Looking at 1 alternate version(s) from 2003
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
 Rejected format(s): CDr, Album, Limited Edition, Stereo
@@ -186,7 +186,7 @@ Rejected format(s): CDr, Sampler
 ———————————————————————————————————————————————————————————————
 💿 Format(s): CD, Album
 🗓️ Imprecise date (2005) for "The End Is Beautiful"
-🗃️ Looking at 2 alternate version(s)
+🗃️ Looking at 2 alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/7077688
 🗓️ Release date: 2005
 🗓️ No better date found

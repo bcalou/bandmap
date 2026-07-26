@@ -1,5 +1,4 @@
 import { BandMap } from "./classes/BandMap";
-import { refs } from "./refs";
 
 function testArtist(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();

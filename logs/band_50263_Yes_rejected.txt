@@ -1,4 +1,4 @@
-2382 rejected release(s):
+2388 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
 (https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart)
@@ -207,6 +207,10 @@
 ❌ 1973 - Yes - "Indeed"
 (https://www.discogs.com/master/980914)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 1973 - Yes - "2 Originals Of Yes (Compilation)"
+(https://www.discogs.com/release/26343584-Yes-2-Originals-Of-Yes)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Yes - "And You And I Live Part 1 Et 2 (Single)"
 (https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2)
@@ -500,6 +504,10 @@
 (https://www.discogs.com/release/21471034)
 (Rejected format(s): Vinyl, LP, Transcription)
 ———————————————————————————————————————————————————————————————
+❌ 1982 - Yes - "Fragile / Close To The Edge"
+(https://www.discogs.com/master/916500)
+(Rejected format(s): Cassette, Compilation, Reissue)
+———————————————————————————————————————————————————————————————
 ❌ 1982 - Various - "The Continuous History Of Rock And Roll Show No. 30 "Art Rock""
 (https://www.discogs.com/release/3541888)
 (Rejected release role: TrackAppearance)
@@ -515,10 +523,6 @@
 ❌ 1982 - Various - "Warner Pioneer Western Music (PS) Comprehensive Listening Album January 1982"
 (https://www.discogs.com/release/34136398)
 (Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 1982-10-00 - Yes - "Close To The Edge / Fragile (Compilation)"
-(https://www.discogs.com/release/15776167-Yes-Close-To-The-Edge-Fragile)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Yes - "Drama / Going For The One"
 (https://www.discogs.com/release/6011525)
@@ -1920,6 +1924,10 @@
 (https://www.discogs.com/master/808430)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1993 - Yes - "Highlights: The Very Best Of Yes (Compilation)"
+(https://www.discogs.com/release/10836298-Yes-Highlights-The-Very-Best-Of-Yes)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
 (https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge)
 (No new tracks)
@@ -1935,6 +1943,14 @@
 ❌ 1994 - Yes - "Yesstory Memorial Day Special"
 (https://www.discogs.com/release/16175249)
 (Rejected format(s): CD, Transcription)
+———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "Live 1975 At Q.P.R. Vol. 1"
+(https://www.discogs.com/master/513142)
+(Rejected format(s): DVD, DVD-Video, NTSC)
+———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "Live 1975 At Q.P.R. Vol. 2"
+(https://www.discogs.com/master/513144)
+(Rejected format(s): DVD, DVD-Video, NTSC)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - Yes - "Walls"
 (https://www.discogs.com/master/656889)
@@ -2400,6 +2416,10 @@
 (https://www.discogs.com/master/981764)
 (Rejected format(s): CD, Single, Promo)
 ———————————————————————————————————————————————————————————————
+❌ 1997 - Yes - "Something's Coming: The BBC Recordings 1969-1970"
+(https://www.discogs.com/master/236968)
+(Rejected format(s): CD, Album, Compilation, Remastered)
+———————————————————————————————————————————————————————————————
 ❌ 1997 - Various - "Good, Oldfashioned 80's 12 Inch Single Collection 2"
 (https://www.discogs.com/master/1582360)
 (Rejected artist(s): Various)
@@ -2655,10 +2675,6 @@
 ❌ 1997 - Yes - "Down At The Edge"
 (https://www.discogs.com/master/2285368)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970 (Compilation)"
-(https://www.discogs.com/release/3618240-Yes-Somethings-Coming-The-BBC-Recordings-1969-1970)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Yes - "New State Of Mind (Single)"
 (https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind)
@@ -2974,10 +2990,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
 (https://www.discogs.com/release/1916942-Yes-Friends-And-Relatives-Yes-Friends-And-Relatives)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1998 - Yes - "Live 1975 At Q.P.R. Vol. 1 (Unknown)"
-(https://www.discogs.com/release/15150494-Yes-Live-1975-At-QPR-Vol-1)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Yes - "If Only You Knew"
@@ -3844,10 +3856,6 @@
 (https://www.discogs.com/release/1567202-Yes-Keystudio)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2001 - Yes - "Live 1975 At Q.P.R. Vol. 2 (Unknown)"
-(https://www.discogs.com/release/15150607-Yes-Live-1975-At-QPR-Vol-2)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2002 - Spock's Beard - "Snow"
 (https://www.discogs.com/master/101496)
 (Rejected artist(s): Spock's Beard)
@@ -4363,6 +4371,10 @@
 ❌ 2004 - Yes - "Up Close"
 (https://www.discogs.com/release/13224298)
 (Rejected format(s): CDr, Transcription)
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes - "Songs From Tsongas - Yes 35th Anniversary Concert"
+(https://www.discogs.com/master/593100)
+(Rejected format(s): DVD, DVD-Video, NTSC)
 ———————————————————————————————————————————————————————————————
 ❌ 2004 - Yes - "Acoustic (Guaranteed No Hiss)"
 (https://www.discogs.com/master/528052)
@@ -5844,12 +5856,20 @@
 (https://www.discogs.com/master/2283157)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
+(https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits)
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
 (https://www.discogs.com/release/4443806-Yes-And-Friends-Hits-More-From-The-Yes-Family)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
 (https://www.discogs.com/release/7739553-Yes-Friends-Yes-Friends-Owner-Of-A-Lonely-Heart)
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Compilation)"
+(https://www.discogs.com/release/4287039-Yes-Friends-Yes-Friends)
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Yes - "Magnification / Talk"
@@ -8287,6 +8307,10 @@
 ❌ 2023 - Yes - "Providence 1976"
 (https://www.discogs.com/release/28550992)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2023-10-06 - Yes - "Yessingles (Compilation)"
+(https://www.discogs.com/release/29411764-Yes-Yessingles)
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2024 - Yes - "Yale Bowl '71"
 (https://www.discogs.com/master/1602656)

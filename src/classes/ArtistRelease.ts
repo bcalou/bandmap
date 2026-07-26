@@ -90,6 +90,8 @@ export class ArtistRelease {
 
   // Return the matching release object if it's considered acceptable
   private async getCandidateRelease(): Promise<Release | RejectReason> {
+    this.logger.log(`Analyzing release ${this.url}`);
+
     return (
       this.heuristicRejectRole() ??
       this.heuristicRejectAlternateLanguage() ??
@@ -116,7 +118,7 @@ export class ArtistRelease {
 
     if (inclusionState) {
       this.logger.logWarning(
-        `↷ "${this.label}" (skipping, already ${inclusionState})`
+        `↷ "${this.label}" (skipping, already ${inclusionState})`,
       );
       this.logger.logSeparator();
 

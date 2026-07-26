@@ -1,10 +1,10 @@
-83 track(s):
+85 track(s):
 ———————————————————————————————————————————————————————————————
 1985
-Release(s): L-1VE, Affinity, Affinity
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 1985
-Release(s): L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 A Cell Divides
 Release(s): Vector
@@ -12,12 +12,12 @@ Release(s): Vector
 A Cell Divides
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Affinity.exe/Initiate
-Variation(s): affinity.exe
-Release(s): L-1VE, Affinity, Affinity
+affinity.exe
+Variation(s): Affinity.exe/Initiate
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
-Affinity.exe/Initiate
-Release(s): L-1VE
+affinity.exe
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Aquarium
 Release(s): Aquarius
@@ -86,10 +86,11 @@ Earthlings
 Release(s): Restoration
 ———————————————————————————————————————————————————————————————
 Earthrise
-Release(s): L-1VE, Affinity, Affinity
+Variation(s): Earthrise (Music Video)
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
-Earthrise (Music Video)
-Release(s): L-1VE
+Earthrise
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Elephants Never Forget
 Release(s): Fauna, Liveforms: Fauna Live In London
@@ -114,9 +115,12 @@ In Memorian
 Variation(s): In Memoriam
 Release(s): The Mountain, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
-Initiate (Music Video)
-Variation(s): Initiate
-Release(s): L-1VE, Affinity, Affinity
+Initiate
+Variation(s): Initiate (Music Video)
+Release(s): Affinity, L-1VE
+———————————————————————————————————————————————————————————————
+Initiate
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Insomnia
 Release(s): Visions
@@ -130,9 +134,12 @@ Release(s): Virus
 Island In The Clouds
 Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
-Lapse (Music Video)
-Variation(s): Lapse
-Release(s): L-1VE, Affinity, Affinity
+Lapse
+Variation(s): Lapse (Music Video)
+Release(s): Affinity, L-1VE
+———————————————————————————————————————————————————————————————
+Lapse
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Lovebite
 Release(s): Fauna, Liveforms: Fauna Live In London
@@ -185,10 +192,10 @@ Puzzle Box
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Red Giant
-Release(s): L-1VE, Affinity, Affinity
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 Red Giant
-Release(s): L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Sempiternal Beings
 Release(s): Fauna, Liveforms: Fauna Live In London
@@ -213,16 +220,16 @@ The Alphabet Of Me
 Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 The Architect
-Release(s): L-1VE, Affinity, Affinity
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 The Architect
-Release(s): L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 The Endless Knot
-Release(s): L-1VE, Affinity, Affinity
+Release(s): Affinity, L-1VE, L-1VE
 ———————————————————————————————————————————————————————————————
 The Endless Knot
-Release(s): L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 The Good Doctor
 Release(s): Vector

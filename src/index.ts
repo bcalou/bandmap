@@ -1,5 +1,4 @@
 import { BandMap } from "./classes/BandMap";
-import { refs } from "./refs";
 
 function testArtist(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();
@@ -9,9 +8,15 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
 // new BandMap(50263).init();
 
 // PF
-new BandMap(45467).init();
+// new BandMap(45467).init();
 
-// testArtist(refs.MOON_SAFARI);
+// TRANSATLANTIC
+// new BandMap(303573).init();
+
+// ELO
+new BandMap(112154).init();
+
+// testArtist(refs.SUPERTRAMP);
 
 // const artistsBase = [
 //   refs.BLACK_COUNTRY_NEW_ROAD,

@@ -1,31 +1,27 @@
-3754 rejected release(s):
+3775 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "Roll Over Beethoven / Telephone Line (Single)"
-(https://www.discogs.com/release/4131266-Electric-Light-Orchestra-Roll-Over-Beethoven-Telephone-Line)
+❌ unknown date - Electric Light Orchestra - "Roll Over Beethoven / Telephone Line" (Single)
+https://www.discogs.com/release/4131266-Electric-Light-Orchestra-Roll-Over-Beethoven-Telephone-Line
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "Hold On Tight / Mr. Blue Sky (Single)"
-(https://www.discogs.com/release/7500161-ELO-Hold-On-Tight-Mr-Blue-Sky)
+❌ unknown date - Electric Light Orchestra - "Hot Hits Of Electric Light Orchestra" (Compilation)
+https://www.discogs.com/release/8686218-Electric-Light-Orchestra-Hot-Hits-Of-Electric-Light-Orchestra
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "Hot Hits Of Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/8686218-Electric-Light-Orchestra-Hot-Hits-Of-Electric-Light-Orchestra)
+❌ unknown date - Electric Light Orchestra - "20 Super Sucessos Internacional" (Compilation)
+https://www.discogs.com/release/14042462-Electric-Light-Orchestra-20-Super-Sucessos-Internacional
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "20 Super Sucessos Internacional (Compilation)"
-(https://www.discogs.com/release/14042462-Electric-Light-Orchestra-20-Super-Sucessos-Internacional)
+❌ unknown date - Electric Light Orchestra - "The Great Artist Best Hit's" (Compilation)
+https://www.discogs.com/release/29976883-Electric-Light-Orchestra-The-Great-Artist-Best-Hits
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "The Great Artist Best Hit's (Compilation)"
-(https://www.discogs.com/release/29976883-Electric-Light-Orchestra-The-Great-Artist-Best-Hits)
+❌ unknown date - Electric Light Orchestra - "The Very Best Of Electric Light Orchestra: The Chartsingles Collection" (Compilation)
+https://www.discogs.com/master/789090
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "The Very Best Of Electric Light Orchestra: The Chartsingles Collection (Compilation)"
-(https://www.discogs.com/release/1967236-Electric-Light-Orchestra-The-Very-Best-Of-Electric-Light-Orchestra-The-Chartsingles-Collection)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ unknown date - Electric Light Orchestra - "Time/On The Third Day (Compilation)"
-(https://www.discogs.com/release/24742571-Electric-Light-Orchestra-TimeOn-The-Third-Day)
+❌ unknown date - Electric Light Orchestra - "Hold On Tight / Mr. Blue Sky" (Single)
+https://www.discogs.com/master/3303418
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Various - "L'Impronta Della Progressive Music"
@@ -52,21 +48,13 @@
 (https://www.discogs.com/master/1247171)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1972-06-00 - Electric Light Orchestra - "10538 Overture (Single)"
-(https://www.discogs.com/release/4076834-The-Electric-Light-Orchestra-10538-Overture)
+❌ 1972-06-00 - Electric Light Orchestra - "10538 Overture" (Single)
+https://www.discogs.com/master/222323
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1973 - The Electric Light Orchestra* / Jeremy J. Scott - "Showdown / Maggie"
-(https://www.discogs.com/release/4647604)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - The Electric Light Orchestra* / Wolf* - "Stereo Pop Special-43"
 (https://www.discogs.com/release/8299813)
 (Rejected format(s): Vinyl, LP, Transcription)
-———————————————————————————————————————————————————————————————
-❌ 1973 - Electric Light Orchestra / Johnny Pearson And His Orchestra* - "Roll Over Beethoven / Today I Met My Love"
-(https://www.discogs.com/release/10935294)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Various - "Schlager Des Jahres 11 International"
 (https://www.discogs.com/release/5244196)
@@ -156,20 +144,32 @@
 (https://www.discogs.com/master/1404889)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1973 - Electric Light Orchestra - "Roll Over Beethoven (Single)"
-(https://www.discogs.com/release/37681893-Electric-Light-Orchestra-Roll-Over-Beethoven)
+❌ 1973 - Electric Light Orchestra, Jeremy J. Scott - "Showdown / Maggie" (Unknown)
+https://www.discogs.com/release/4647604-The-Electric-Light-Orchestra-Jeremy-J-Scott-Showdown-Maggie
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1973-01-12 - Electric Light Orchestra - "Roll Over Beethoven (Single)"
-(https://www.discogs.com/release/472007-The-Electric-Light-Orchestra-Roll-Over-Beethoven)
+❌ 1973 - Les Humphries Singers, Electric Light Orchestra - "La Discoteca De Isidoro" (EP)
+https://www.discogs.com/release/10740556-Les-Humphries-Singers-The-Electric-Light-Orchestra-La-Discoteca-De-Isidoro
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1973-10-00 - Electric Light Orchestra - "Showdown (Single)"
-(https://www.discogs.com/release/966320-The-Electric-Light-Orchestra-Showdown)
+❌ 1973 - Electric Light Orchestra, Johnny Pearson & His Orchestra - "Roll Over Beethoven / Today I Met My Love" (Unknown)
+https://www.discogs.com/release/10935294-Electric-Light-Orchestra-Johnny-Pearson-And-His-Orchestra-Roll-Over-Beethoven-Today-I-Met-My-Love
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1973 - Electric Light Orchestra - "Showdown (Compilation)"
-(https://www.discogs.com/release/14547725-Electric-Light-Orchestra-Showdown)
+❌ 1973 - Electric Light Orchestra - "Roll Over Beethoven" (Single)
+https://www.discogs.com/release/37681893-Electric-Light-Orchestra-Roll-Over-Beethoven
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1973 - Electric Light Orchestra - "Showdown" (Compilation)
+https://www.discogs.com/master/71374
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1973-01-12 - Electric Light Orchestra - "Roll Over Beethoven" (Single)
+https://www.discogs.com/master/225362
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1973-10-00 - Electric Light Orchestra - "Showdown" (Single)
+https://www.discogs.com/master/71386
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - The Electric Light Orchestra* / Ralph McTell - "Stereo Pop Special-63"
@@ -179,6 +179,10 @@
 ❌ 1974 - Various - "Masters Of Rock"
 (https://www.discogs.com/release/7492343)
 (Rejected artist(s): Various)
+———————————————————————————————————————————————————————————————
+❌ 1974 - Various - "Top Hits International"
+(https://www.discogs.com/release/4126610)
+(Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Various - "Super Rock & Beat Festival"
 (https://www.discogs.com/release/6022964)
@@ -220,24 +224,24 @@
 (https://www.discogs.com/master/1065308)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Electric Light Orchestra - "Daybreaker (Single)"
-(https://www.discogs.com/release/9505797-Electric-Light-Orchestra-Daybreaker)
+❌ 1974 - Electric Light Orchestra - "Daybreaker" (Single)
+https://www.discogs.com/master/1948225
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Electric Light Orchestra - "Can't Get It Out Of My Head  (Single)"
-(https://www.discogs.com/release/10328570-Electric-Light-Orchestra-Cant-Get-It-Out-Of-My-Head-)
+❌ 1974 - Electric Light Orchestra - "Boy Blue" (Single)
+https://www.discogs.com/master/1051776
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Electric Light Orchestra - "Boy Blue (Single)"
-(https://www.discogs.com/release/8979281-Electric-Light-Orchestra-Boy-Blue)
+❌ 1974 - Electric Light Orchestra - "Daytripper" (Single)
+https://www.discogs.com/master/771622
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Electric Light Orchestra - "Daytripper (Single)"
-(https://www.discogs.com/release/990476-Electric-Light-Orchestra-Daytripper)
+❌ 1974-02-00 - Electric Light Orchestra - "Ma-Ma-Ma Belle" (Unknown)
+https://www.discogs.com/master/71387
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1974 - Electric Light Orchestra - "Ma-Ma-Ma Belle (Single)"
-(https://www.discogs.com/release/10584593-Electric-Light-Orchestra-Ma-Ma-Ma-Belle)
+❌ 1974-11-00 - Electric Light Orchestra - "Can't Get It Out Of My Head " (Single)
+https://www.discogs.com/master/222324
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Various - "Get Off II"
@@ -300,16 +304,16 @@
 (https://www.discogs.com/release/36977175)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1975 - Electric Light Orchestra - "Poor Boy (The Greenwood) (Single)"
-(https://www.discogs.com/release/2962855-Electric-Light-Orchestra-Poor-Boy-The-Greenwood)
+❌ 1975 - Electric Light Orchestra - "Poor Boy (The Greenwood)" (Single)
+https://www.discogs.com/release/2962855-Electric-Light-Orchestra-Poor-Boy-The-Greenwood
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1975 - Electric Light Orchestra - "Waterfall / Strange Magic (Single)"
-(https://www.discogs.com/release/5275606-Electric-Light-Orchestra-Waterfall-Strange-Magic)
+❌ 1975 - Electric Light Orchestra - "Waterfall / Strange Magic" (Single)
+https://www.discogs.com/release/5275606-Electric-Light-Orchestra-Waterfall-Strange-Magic
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1975-11-00 - Electric Light Orchestra - "Evil Woman (Single)"
-(https://www.discogs.com/release/1144611-Electric-Light-Orchestra-Evil-Woman)
+❌ 1975-11-00 - Electric Light Orchestra - "Evil Woman" (Single)
+https://www.discogs.com/master/109977
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Electric Light Orchestra / Paki (4) - "Evil Woman / Bianca Maria"
@@ -318,7 +322,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - The Electric Light Orchestra* / Three Dog Night - "What's It All About?"
 (https://www.discogs.com/release/13000777)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription, Stereo)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Electric Light Orchestra - "Innerview"
 (https://www.discogs.com/release/31669976)
@@ -328,9 +332,9 @@
 (https://www.discogs.com/master/1670179)
 (Rejected format(s): Vinyl, LP, Transcription)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Evil Woman / Strange Magic"
-(https://www.discogs.com/master/1498781)
-(Rejected format(s): Vinyl, 7", 45 RPM)
+❌ 1976 - Electric Light Orchestra - "Evil Woman / Livin' Thing"
+(https://www.discogs.com/master/1498785)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1976 - Various - "Solid Gold Dynamite (20 Original Hits)"
 (https://www.discogs.com/release/472570)
@@ -440,69 +444,73 @@
 (https://www.discogs.com/release/27221010)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Telephone Line / Poorboy (The Greenwood) (Single)"
-(https://www.discogs.com/release/19572106-Electric-Light-Orchestra-Telephone-Line-Poorboy-The-Greenwood)
+❌ 1976 - Electric Light Orchestra - "Telephone Line / Poorboy (The Greenwood)" (Single)
+https://www.discogs.com/master/119648
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Livin' Thing / Ma-Ma-Ma Belle (Single)"
-(https://www.discogs.com/release/2103602-Electric-Light-Orchestra-Livin-Thing-Ma-Ma-Ma-Belle)
+❌ 1976 - Electric Light Orchestra - "Livin' Thing / Ma-Ma-Ma Belle" (Single)
+https://www.discogs.com/master/3529586
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Showdown / Daybreaker (Single)"
-(https://www.discogs.com/release/3745746-Electric-Light-Orchestra-Showdown-Daybreaker)
+❌ 1976 - Electric Light Orchestra - "Encore ELO - The Best Of The Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/3824772
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Rockaria! (Single)"
-(https://www.discogs.com/release/2569061-Electric-Light-Orchestra-Rockaria)
+❌ 1976 - Electric Light Orchestra - "A New World Record" (EP)
+https://www.discogs.com/master/861342
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Do Ya (Single)"
-(https://www.discogs.com/release/5955121-Electric-Light-Orchestra-Do-Ya)
+❌ 1976 - Electric Light Orchestra - "Rockaria!" (Single)
+https://www.discogs.com/master/280020
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Evil Woman / Livin' Thing (Single)"
-(https://www.discogs.com/release/6774543-Electric-Light-Orchestra-Evil-Woman-Livin-Thing)
+❌ 1976 - Electric Light Orchestra - "Do Ya" (Single)
+https://www.discogs.com/master/398830
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Livin Thing / Strange Magic (Single)"
-(https://www.discogs.com/release/14788720-Electric-Light-Orchestra-Livin-Thing-Strange-Magic)
+❌ 1976 - Electric Light Orchestra - "Evil Woman / Strange Magic" (Unknown)
+https://www.discogs.com/master/1498781
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976-02-00 - Electric Light Orchestra - "Strange Magic (Single)"
-(https://www.discogs.com/release/11090274-E-L-O-Strange-Magic)
+❌ 1976 - Electric Light Orchestra - "Livin Thing / Strange Magic" (Single)
+https://www.discogs.com/master/1683418
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976-03-00 - Electric Light Orchestra - "Nightrider (Single)"
-(https://www.discogs.com/release/3654711-Electric-Light-Orchestra-Nightrider)
+❌ 1976-02-00 - Electric Light Orchestra - "Strange Magic" (Single)
+https://www.discogs.com/master/125609
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976-11-00 - Electric Light Orchestra - "Livin' Thing (Single)"
-(https://www.discogs.com/release/1545312-Electric-Light-Orchestra-Livin-Thing)
+❌ 1976-03-00 - Electric Light Orchestra - "Nightrider" (Single)
+https://www.discogs.com/release/3654711-Electric-Light-Orchestra-Nightrider
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Encore ELO - The Best Of The Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/6535271-Electric-Light-Orchestra-Encore-ELO-The-Best-Of-The-Electric-Light-Orchestra)
+❌ 1976-06-00 - Electric Light Orchestra - "Olé ELO" (Compilation)
+https://www.discogs.com/master/71369
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1976 - Electric Light Orchestra - "Olé ELO (Compilation)"
-(https://www.discogs.com/release/3723479-Electric-Light-Orchestra-Olé-ELO)
+❌ 1976-07-00 - Electric Light Orchestra - "Showdown / Daybreaker" (Unknown)
+https://www.discogs.com/master/805884
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1976-11-00 - Electric Light Orchestra - "Livin' Thing" (Single)
+https://www.discogs.com/master/71393
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Electric Light Orchestra / Styx / Blood, Sweat & Tears* / Van Der Graaf Generator - "Nightbird & Company: Cosmic Connections"
 (https://www.discogs.com/release/6104493)
-(Rejected format(s): Vinyl, LP, Transcription, Stereo)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - The Who / The Electric Light Orchestra* - "What's It All About?"
 (https://www.discogs.com/release/15505156)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription, Stereo)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Electric Light Orchestra - "The Robert W. Morgan Special Of The Week, Series II"
 (https://www.discogs.com/release/22495352)
-(Rejected format(s): Vinyl, LP, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
-❌ 1977 - Jeff Lynne / Electric Light Orchestra - "Doin' That Crazy Thing"
-(https://www.discogs.com/master/1225676)
-(Rejected format(s): Vinyl, 7", 45 RPM)
+❌ 1977 - Electric Light Orchestra - "Sweet Talkin' Woman"
+(https://www.discogs.com/release/37887264)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Various - "Sucessos De Todo O Mundo"
 (https://www.discogs.com/release/1380858)
@@ -608,6 +616,10 @@
 (https://www.discogs.com/release/37631307)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1977 - Various - "Sucessos De Todo O Mundo"
+(https://www.discogs.com/release/37899558)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 1977 - Various - "Super 20 International"
 (https://www.discogs.com/master/620601)
 (Rejected release role: TrackAppearance)
@@ -664,29 +676,37 @@
 (https://www.discogs.com/master/1592112)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1977 - Electric Light Orchestra - "Showdown / Roll Over Beethoven (Single)"
-(https://www.discogs.com/release/1168165-Electric-Light-Orchestra-Showdown-Roll-Over-Beethoven)
+❌ 1977 - Electric Light Orchestra - "Olé ELO" (Compilation)
+https://www.discogs.com/release/36849763-Electric-Light-Orchestra-Olé-ELO
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977 - Electric Light Orchestra - "Mr. Blue Sky (Single)"
-(https://www.discogs.com/release/6762351-Electric-Light-Orchestra-Mr-Blue-Sky)
+❌ 1977 - Jeff Lynne, Electric Light Orchestra - "Doin' That Crazy Thing" (Unknown)
+https://www.discogs.com/master/1225676
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977-10-14 - Electric Light Orchestra - "Turn To Stone (Single)"
-(https://www.discogs.com/release/472000-Electric-Light-Orchestra-Turn-To-Stone)
+❌ 1977 - Electric Light Orchestra - "Milestones - E.L.O. 1 / E.L.O. 2" (Compilation)
+https://www.discogs.com/master/605277
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977 - Electric Light Orchestra - "Olé ELO (Compilation)"
-(https://www.discogs.com/release/36849763-Electric-Light-Orchestra-Olé-ELO)
+❌ 1977 - Electric Light Orchestra - "Mr. Blue Sky" (Single)
+https://www.discogs.com/master/71398
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1977-04-00 - Electric Light Orchestra - "The Light Shines On (Compilation)"
-(https://www.discogs.com/release/387839-Electric-Light-Orchestra-The-Light-Shines-On)
+❌ 1977-03-00 - Electric Light Orchestra - "Showdown / Roll Over Beethoven" (Single)
+https://www.discogs.com/master/119649
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Telephone Line / Livin' Thing "
+❌ 1977-04-00 - Electric Light Orchestra - "The Light Shines On" (Compilation)
+https://www.discogs.com/master/109978
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1977-10-14 - Electric Light Orchestra - "Turn To Stone" (Single)
+https://www.discogs.com/master/71395
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1978 - Electric Light Orchestra - "Telephone Line"
 (https://www.discogs.com/release/4448123)
-(Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo)
+(Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - Electric Light Orchestra - "Ole ELO"
 (https://www.discogs.com/release/4541471)
@@ -694,15 +714,19 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - The Coasters / E.L.O.* - "What's It All About?"
 (https://www.discogs.com/release/12143758)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - Electric Light Orchestra, Bev Bevan - "Inner View"
 (https://www.discogs.com/release/24538844)
 (Rejected genre(s): Non-Music)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - ELO* - "Three Light Years"
-(https://www.discogs.com/master/500384)
-(Rejected format(s): Vinyl, LP, Stereo, Box Set, Compilation, Special Edition)
+❌ 1978 - Electric Light Orchestra - "Can't Get It Out Of My Head"
+(https://www.discogs.com/master/1473534)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo)
+———————————————————————————————————————————————————————————————
+❌ 1978 - Electric Light Orchestra - "Live At Wembley"
+(https://www.discogs.com/master/263889)
+(Rejected format(s): VHS, PAL)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - Various - "American Top 40 (Program No. 782-4 For Week Ending April 22, 1978)"
 (https://www.discogs.com/release/4722636)
@@ -788,41 +812,41 @@
 (https://www.discogs.com/master/915243)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1978-12-01 - Electric Light Orchestra - "The ELO EP (EP)"
-(https://www.discogs.com/release/472009-ELO-The-ELO-EP)
+❌ 1978 - Electric Light Orchestra - "Mr. Blue Sky / Wild West Hero" (Single)
+https://www.discogs.com/release/14452017-Electric-Light-Orchestra-Mr-Blue-Sky-Wild-West-Hero
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Sweet Talkin' Woman (Single)"
-(https://www.discogs.com/release/1764281-Electric-Light-Orchestra-Sweet-Talkin-Woman)
+❌ 1978 - Electric Light Orchestra - "Can't Get It Out Of My Head / Strange Magic" (Single)
+https://www.discogs.com/master/1297086
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Mr. Blue Sky / Wild West Hero (Single)"
-(https://www.discogs.com/release/14452017-Electric-Light-Orchestra-Mr-Blue-Sky-Wild-West-Hero)
+❌ 1978-05-26 - Electric Light Orchestra - "Wild West Hero" (Single)
+https://www.discogs.com/master/119655
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Can't Get It Out Of My Head / Strange Magic (Single)"
-(https://www.discogs.com/release/8538554-Electric-Light-Orchestra-Cant-Get-It-Out-Of-My-Head-Strange-Magic)
+❌ 1978-09-22 - Electric Light Orchestra - "Sweet Talkin' Woman" (Single)
+https://www.discogs.com/master/71442
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Se Acabó / La Ballena (Single)"
-(https://www.discogs.com/release/12647850-Electric-Light-Orchestra-Se-Acabó-La-Ballena)
+❌ 1978-10-00 - Electric Light Orchestra - "Se Acabó / La Ballena" (Single)
+https://www.discogs.com/master/572333
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978-05-26 - Electric Light Orchestra - "Wild West Hero (Single)"
-(https://www.discogs.com/release/475279-ELO-Wild-West-Hero)
+❌ 1978-12-00 - Electric Light Orchestra - "Three Light Years" (Compilation)
+https://www.discogs.com/master/500384
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Electric Light Orchestra - "Live At Wembley (Compilation)"
-(https://www.discogs.com/release/4386416-Electric-Light-Orchestra-Live-At-Wembley)
+❌ 1978-12-01 - Electric Light Orchestra - "The ELO EP" (EP)
+https://www.discogs.com/master/527409
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra / Barry De Vorzon - "Don't Bring Me Down / Theme From "Warriors""
-(https://www.discogs.com/release/4449622)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - エレクトリック・ライト・オーケストラ* = Electric Light Orchestra - "テレフォン・ライン = Telephone Line / イーヴィル・ウーマン = Evil Woman"
 (https://www.discogs.com/master/899682)
 (Alternate language release)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Electric Light Orchestra - "Don't Bring Me Down / Shine A Little Love"
+(https://www.discogs.com/master/1218297)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "Disco CBS (Le Palace A Selectionné)"
 (https://www.discogs.com/release/1495406)
@@ -834,10 +858,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "Rocktagon"
 (https://www.discogs.com/release/2526953)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Various - "Don't Walk Boogie On"
-(https://www.discogs.com/release/4189474)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "CBS Neuheiten & Chartbreakers Mai '79"
@@ -900,10 +920,6 @@
 (https://www.discogs.com/release/30767124)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Various - "Hit Sounds Vol. 4"
-(https://www.discogs.com/release/33847344)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "All American Top 100 Vol. 14 - July 1979"
 (https://www.discogs.com/release/35721220)
 (Rejected release role: TrackAppearance)
@@ -938,6 +954,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "The Rock Album"
 (https://www.discogs.com/master/373002)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Various - "Don't Walk Boogie On"
+(https://www.discogs.com/master/4294953)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "20 Rock Legends"
@@ -996,61 +1016,61 @@
 (https://www.discogs.com/release/36381763)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "ELO's Greatest Hits (EP)"
-(https://www.discogs.com/release/11026917-Electric-Light-Orchestra-ELOs-Greatest-Hits)
+❌ 1979 - Electric Light Orchestra, Barry De Vorzon - "Don't Bring Me Down / Theme From "Warriors"" (Unknown)
+https://www.discogs.com/release/4449622-Electric-Light-Orchestra-Barry-De-Vorzon-Dont-Bring-Me-Down-Theme-From-Warriors
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "Need Her Love (Single)"
-(https://www.discogs.com/release/10695070-Electric-Light-Orchestra-Need-Her-Love)
+❌ 1979 - Electric Light Orchestra - "Need Her Love" (Single)
+https://www.discogs.com/release/10695070-Electric-Light-Orchestra-Need-Her-Love
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "Don't Bring Me Down (Single)"
-(https://www.discogs.com/release/384767-The-Electric-Light-Orchestra-Dont-Bring-Me-Down)
+❌ 1979 - Electric Light Orchestra - "Shine A Little Love / Confusion / Last Train To London / Don't Bring Me Down" (EP)
+https://www.discogs.com/release/10864207-Electric-Light-Orchestra-Shine-A-Little-Love-Confusion-Last-Train-To-London-Dont-Bring-Me-Down
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "Don't Bring Me Down / Shine A Little Love (Single)"
-(https://www.discogs.com/release/4330447-Electric-Light-Orchestra-Dont-Bring-Me-Down-Shine-A-Little-Love)
+❌ 1979 - Electric Light Orchestra - "The Light Shines On Vol 2" (Compilation)
+https://www.discogs.com/master/264342
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "Midnight Blue (Single)"
-(https://www.discogs.com/release/10108562-Electric-Light-Orchestra-Midnight-Blue)
+❌ 1979 - Electric Light Orchestra - "ELO's Greatest Hits" (EP)
+https://www.discogs.com/master/1284973
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-05-11 - Electric Light Orchestra - "Shine A Little Love (Single)"
-(https://www.discogs.com/release/1181511-Electric-Light-Orchestra-Shine-A-Little-Love)
+❌ 1979 - Electric Light Orchestra - "Os Melhores Momentos Da" (Compilation)
+https://www.discogs.com/master/1691251
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-07-13 - Electric Light Orchestra - "The Diary Of Horace Wimp (Single)"
-(https://www.discogs.com/release/472005-The-Electric-Light-Orchestra-The-Diary-Of-Horace-Wimp)
+❌ 1979 - Electric Light Orchestra - "Midnight Blue" (Single)
+https://www.discogs.com/master/1226595
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-10-00 - Electric Light Orchestra - "Confusion (Single)"
-(https://www.discogs.com/release/472001-Electric-Light-Orchestra-Confusion)
+❌ 1979-05-11 - Electric Light Orchestra - "Shine A Little Love" (Single)
+https://www.discogs.com/master/71414
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-11-00 - Electric Light Orchestra - "Last Train To London (Single)"
-(https://www.discogs.com/release/2482247-Electric-Light-Orchestra-Last-Train-To-London)
+❌ 1979-07-13 - Electric Light Orchestra - "The Diary Of Horace Wimp" (Single)
+https://www.discogs.com/master/109979
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-11-09 - Electric Light Orchestra - "Confusion / Last Train To London (Single)"
-(https://www.discogs.com/release/1229906-The-Electric-Light-Orchestra-Confusion-Last-Train-To-London)
+❌ 1979-08-00 - Electric Light Orchestra - "Don't Bring Me Down" (Single)
+https://www.discogs.com/master/71371
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "The Light Shines On Vol 2 (Compilation)"
-(https://www.discogs.com/release/2298502-Electric-Light-Orchestra-The-Light-Shines-On-Vol-2)
+❌ 1979-10-00 - Electric Light Orchestra - "Confusion" (Single)
+https://www.discogs.com/master/327281
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Electric Light Orchestra - "Os Melhores Momentos Da (Compilation)"
-(https://www.discogs.com/release/9664127-Electric-Light-Orchestra-Os-Melhores-Momentos-Da)
+❌ 1979-11-00 - Electric Light Orchestra - "Last Train To London" (Single)
+https://www.discogs.com/master/637262
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1979-11-00 - Electric Light Orchestra - "ELO's Greatest Hits (Compilation)"
-(https://www.discogs.com/release/387842-ELO-ELOs-Greatest-Hits)
+❌ 1979-11-00 - Electric Light Orchestra - "ELO's Greatest Hits" (Compilation)
+https://www.discogs.com/master/71365
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Electric Light Orchestra / Olivia Newton John* And Electric Light Orchestra - "I'm Alive / Xanadu"
-(https://www.discogs.com/release/4761309)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
+❌ 1979-11-09 - Electric Light Orchestra - "Confusion / Last Train To London" (Single)
+https://www.discogs.com/master/71639
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Adrian Gurvitz / Electric Light Orchestra - "Seventeen / I'm Alive (Special Disco Sampler)"
 (https://www.discogs.com/release/10948798)
@@ -1058,11 +1078,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Electric Light Orchestra - "The Robert W. Morgan Special Of The Week"
 (https://www.discogs.com/release/15144875)
-(Rejected format(s): Vinyl, LP, Transcription)
-———————————————————————————————————————————————————————————————
-❌ 1980 - E.L.O.* - "Four Light Years"
-(https://www.discogs.com/release/37429665)
-(Rejected format(s): Vinyl, LP, Special Edition)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Electric Light Orchestra - "A Box Of Their Best"
 (https://www.discogs.com/master/1321201)
@@ -1072,9 +1088,9 @@
 (https://www.discogs.com/master/2126122)
 (Alternate language release)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - ELO* - "Four Light Years"
-(https://www.discogs.com/master/614302)
-(Rejected format(s): Vinyl, LP, Compilation, Stereo, Box Set, Special Edition)
+❌ 1980 - Electric Light Orchestra - "Turn To Stone / Sweet Talkin' Woman"
+(https://www.discogs.com/master/1593726)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Various - "Hits Of The 70's - Volume 1"
 (https://www.discogs.com/release/1676853)
@@ -1288,45 +1304,53 @@
 (https://www.discogs.com/master/222326)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Electric Light Orchestra - "Can't Get It Out Of My Head (Single)"
-(https://www.discogs.com/release/10715623-Electric-Light-Orchestra-Cant-Get-It-Out-Of-My-Head)
+❌ 1980 - Electric Light Orchestra, Olivia Newton-John, Electric Light Orchestra - "I'm Alive / Xanadu" (Unknown)
+https://www.discogs.com/release/4761309-Electric-Light-Orchestra-Olivia-Newton-John-And-Electric-Light-Orchestra-Im-Alive-Xanadu
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Electric Light Orchestra - "Estoy Vivo / Por Todo El Mundo (Single)"
-(https://www.discogs.com/release/14940522-Electric-Light-Orchestra-Estoy-Vivo-Por-Todo-El-Mundo)
+❌ 1980 - Electric Light Orchestra - "Estoy Vivo / Por Todo El Mundo" (Single)
+https://www.discogs.com/release/14940522-Electric-Light-Orchestra-Estoy-Vivo-Por-Todo-El-Mundo
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Electric Light Orchestra - "Midnight Blue (Single)"
-(https://www.discogs.com/release/37281321-Electric-Light-Orchestra-Midnight-Blue)
+❌ 1980 - Electric Light Orchestra - "Midnight Blue" (Single)
+https://www.discogs.com/release/37281321-Electric-Light-Orchestra-Midnight-Blue
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Electric Light Orchestra - "Turn To Stone / Sweet Talkin' Woman (Single)"
-(https://www.discogs.com/release/4330444-Electric-Light-Orchestra-Turn-To-Stone-Sweet-Talkin-Woman)
+❌ 1980 - Electric Light Orchestra - "Four Light Years" (Unknown)
+https://www.discogs.com/release/37429665-ELO-Four-Light-Years
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Olivia Newton-John, Electric Light Orchestra - "Xanadu (Single)"
-(https://www.discogs.com/release/395475-Olivia-Newton-John-Electric-Light-Orchestra-Xanadu)
+❌ 1980 - Electric Light Orchestra - "ELO'S Greatest Hits Vol. 2" (Compilation)
+https://www.discogs.com/master/3877042
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980-08-01 - Electric Light Orchestra - "All Over The World (Single)"
-(https://www.discogs.com/release/1753190-Electric-Light-Orchestra-All-Over-The-World)
+❌ 1980 - Olivia Newton-John, Electric Light Orchestra - "Xanadu" (EP)
+https://www.discogs.com/master/603387
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980-11-07 - Electric Light Orchestra - "Don't Walk Away (Single)"
-(https://www.discogs.com/release/1538779-Electric-Light-Orchestra-Dont-Walk-Away)
+❌ 1980 - Electric Light Orchestra - "Four Light Years" (Compilation)
+https://www.discogs.com/master/614302
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra / Marcella Bella - "Hold On Tight / Mi Mancherai"
-(https://www.discogs.com/release/6216848)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox)
+❌ 1980-06-20 - Olivia Newton-John, Electric Light Orchestra - "Xanadu" (Single)
+https://www.discogs.com/master/71372
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980-08-01 - Electric Light Orchestra - "All Over The World" (Single)
+https://www.discogs.com/master/327286
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980-11-07 - Electric Light Orchestra - "Don't Walk Away" (Single)
+https://www.discogs.com/master/297441
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Doc Severinsen / E.L.O.* - "What's It All About?"
 (https://www.discogs.com/release/8380334)
-(Rejected format(s): Vinyl, 7", 45 RPM, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Electric Light Orchestra - "Innerview"
 (https://www.discogs.com/release/11169626)
-(Rejected format(s): Vinyl, LP, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - ELO* - "Hold On Tight / Pre-Release Montage"
 (https://www.discogs.com/master/1433640)
@@ -1335,6 +1359,10 @@
 ❌ 1981 - Electric Light Orchestra - "BBC Rock Hour #234"
 (https://www.discogs.com/master/1670175)
 (Rejected format(s): Vinyl, LP, Transcription)
+———————————————————————————————————————————————————————————————
+❌ 1981 - Electric Light Orchestra - "Hold On Tight / Twilight"
+(https://www.discogs.com/master/1244605)
+(Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Various - "Top Hits"
 (https://www.discogs.com/release/2403441)
@@ -1496,44 +1524,48 @@
 (https://www.discogs.com/release/15039789)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Crepusculo (EP)"
-(https://www.discogs.com/release/11478724-Electric-Light-Orchestra-Crepusculo)
+❌ 1981 - Electric Light Orchestra - "21st Century Man / Twilight" (Single)
+https://www.discogs.com/release/1925300-Electric-Light-Orchestra-21st-Century-Man-Twilight
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "21st Century Man / Twilight (Single)"
-(https://www.discogs.com/release/1925300-Electric-Light-Orchestra-21st-Century-Man-Twilight)
+❌ 1981 - Electric Light Orchestra, Marcella Bella - "Hold On Tight / Mi Mancherai" (Unknown)
+https://www.discogs.com/release/6216848-Electric-Light-Orchestra-Marcella-Bella-Hold-On-Tight-Mi-Mancherai
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Hold On Tight / Last Train To London (Single)"
-(https://www.discogs.com/release/10860684-Electric-Light-Orchestra-Hold-On-Tight-Last-Train-To-London)
+❌ 1981 - Nikka Costa, Barry White, Quincy Jones, Electric Light Orchestra - "4 Super Romanticas Internacionais" (EP)
+https://www.discogs.com/release/10743954-Nikka-Costa-Barry-White-Quincy-Jones-Electric-Light-Orchestra-4-Super-Romanticas-Internacionais
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "The Way Life's Meant To Be (Single)"
-(https://www.discogs.com/release/848433-Electric-Light-Orchestra-The-Way-Lifes-Meant-To-Be)
+❌ 1981 - Electric Light Orchestra - "Hold On Tight / Last Train To London" (Single)
+https://www.discogs.com/release/10860684-Electric-Light-Orchestra-Hold-On-Tight-Last-Train-To-London
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Here Is The News (Single)"
-(https://www.discogs.com/release/10720798-Electric-Light-Orchestra-Here-Is-The-News)
+❌ 1981 - Electric Light Orchestra - "Crepusculo" (EP)
+https://www.discogs.com/release/11478724-Electric-Light-Orchestra-Crepusculo
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Rain Is Falling (Single)"
-(https://www.discogs.com/release/6902062-ELO-Rain-Is-Falling)
+❌ 1981 - Electric Light Orchestra - "The Way Life's Meant To Be" (Single)
+https://www.discogs.com/master/119654
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Hold On Tight / Twilight (Single)"
-(https://www.discogs.com/release/11207090-Electric-Light-Orchestra-Hold-On-Tight-Twilight)
+❌ 1981 - Electric Light Orchestra - "The Best Of ELO" (Compilation)
+https://www.discogs.com/master/805797
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981-12-00 - Electric Light Orchestra - "Ticket To The Moon / Here Is The News (Single)"
-(https://www.discogs.com/release/1545467-ELO-Ticket-To-The-Moon-Here-Is-The-News)
+❌ 1981 - Electric Light Orchestra - "Here Is The News" (Single)
+https://www.discogs.com/master/1225677
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "The Best Of ELO (Compilation)"
-(https://www.discogs.com/release/2937996-Electric-Light-Orchestra-The-Best-Of-ELO)
+❌ 1981 - Electric Light Orchestra - "Collection" (Compilation)
+https://www.discogs.com/master/533640
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Electric Light Orchestra - "Collection (Compilation)"
-(https://www.discogs.com/release/3770676-Electric-Light-Orchestra-Collection)
+❌ 1981 - Electric Light Orchestra - "Rain Is Falling" (Single)
+https://www.discogs.com/master/759107
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1981-12-00 - Electric Light Orchestra - "Ticket To The Moon / Here Is The News" (Single)
+https://www.discogs.com/master/264312
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Electric Light Orchestra - "Eldorado / Electric Light Orchestra II"
@@ -1652,21 +1684,13 @@
 (https://www.discogs.com/master/228531)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - Electric Light Orchestra - "Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/2917339-Electric-Light-Orchestra-Electric-Light-Orchestra)
+❌ 1982 - Electric Light Orchestra - "Electric Light Orchestra" (Compilation)
+https://www.discogs.com/release/2917339-Electric-Light-Orchestra-Electric-Light-Orchestra
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1983 - Quarterflash / Electric Light Orchestra - "Take Me To Heart / Rock And Roll Is King"
-(https://www.discogs.com/release/3448466)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - ELO* / Quiet Riot - "Rock 'N Roll Is King / Cum On Feel The Noize"
 (https://www.discogs.com/release/4600723)
 (Rejected format(s): Vinyl, 33 ⅓ RPM, Promo, 12")
-———————————————————————————————————————————————————————————————
-❌ 1983 - Chaz Jankel* / E.L.O.* - "Without You / Secret Messages"
-(https://www.discogs.com/release/8734139)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Electric Light Orchestra - "Super Best"
 (https://www.discogs.com/release/9639885)
@@ -1675,6 +1699,10 @@
 ❌ 1983 - Blue Zoo / Electric Light Orchestra - "Forgive And Forget / Secret Messages"
 (https://www.discogs.com/release/17234248)
 (Rejected format(s): Vinyl, 12", 33 ⅓ RPM, Promo, Sampler)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Electric Light Orchestra - "Eldorado / A New World Record"
+(https://www.discogs.com/master/1036745)
+(Rejected format(s): Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, All Media, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Olivia Newton-John - "Heart Attack"
 (https://www.discogs.com/master/667085)
@@ -1776,7 +1804,7 @@
 (https://www.discogs.com/release/18621199)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Various - "A Unique Compilation Of Original Hits & Original Artists From The 1970's And Early 1980's"
+❌ 1983 - Various - "Manns Music - A Unique Compilation Of Original Hits & Original Artists From The 1970's And Early 1980's"
 (https://www.discogs.com/release/20616121)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -1856,16 +1884,24 @@
 (https://www.discogs.com/release/36224332)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Bonnie Tyler, Men At Work, The Police, Electric Light Orchestra - "Four Big Hits Vol. 2 (EP)"
-(https://www.discogs.com/release/9255858-Bonnie-Tyler-Men-At-Work-The-Police-ELO-Four-Big-Hits-Vol-2)
+❌ 1983 - Quarterflash, Electric Light Orchestra - "Take Me To Heart / Rock And Roll Is King" (Unknown)
+https://www.discogs.com/release/3448466-Quarterflash-Electric-Light-Orchestra-Take-Me-To-Heart-Rock-And-Roll-Is-King
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Electric Light Orchestra - "Stranger (Single)"
-(https://www.discogs.com/release/1977201-ELO-Stranger)
+❌ 1983 - Chas Jankel, Electric Light Orchestra - "Without You / Secret Messages" (Unknown)
+https://www.discogs.com/release/8734139-Chaz-Jankel-ELO-Without-You-Secret-Messages
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1983-10-00 - Electric Light Orchestra - "Four Little Diamonds (Single)"
-(https://www.discogs.com/release/1527764-ELO-Four-Little-Diamonds)
+❌ 1983 - Bonnie Tyler, Men At Work, The Police, Electric Light Orchestra - "Four Big Hits Vol. 2" (EP)
+https://www.discogs.com/release/9255858-Bonnie-Tyler-Men-At-Work-The-Police-ELO-Four-Big-Hits-Vol-2
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983-10-00 - Electric Light Orchestra - "Stranger" (Single)
+https://www.discogs.com/master/566013
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983-10-00 - Electric Light Orchestra - "Four Little Diamonds" (Single)
+https://www.discogs.com/master/119647
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Olivia Newton-John - "Olivia's Greatest Hits Vol. 2"
@@ -1988,20 +2024,20 @@
 (https://www.discogs.com/release/16299080)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Electric Light Orchestra - "ELO (EP)"
-(https://www.discogs.com/release/2326876-Electric-Light-Orchestra-ELO)
+❌ 1984 - Electric Light Orchestra - "It's Rock 'N Roll By E.L.O." (Compilation)
+https://www.discogs.com/release/2516732-Electric-Light-Orchestra-Its-Rock-N-Roll-By-ELO
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Electric Light Orchestra - "10538 Overture / Roll Over Beethoven  (Single)"
-(https://www.discogs.com/release/4283395-The-Electric-Light-Orchestra-10538-Overture-Roll-Over-Beethoven-)
+❌ 1984 - Electric Light Orchestra - "18 Greatest Hits" (Compilation)
+https://www.discogs.com/master/2435125
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Electric Light Orchestra - "It's Rock 'N Roll By E.L.O. (Compilation)"
-(https://www.discogs.com/release/2516732-Electric-Light-Orchestra-Its-Rock-N-Roll-By-ELO)
+❌ 1984 - Electric Light Orchestra - "10538 Overture / Roll Over Beethoven " (Single)
+https://www.discogs.com/master/1012896
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Electric Light Orchestra - "18 Greatest Hits (Compilation)"
-(https://www.discogs.com/release/6156523-Electric-Light-Orchestra-18-Greatest-Hits)
+❌ 1984 - Electric Light Orchestra - "ELO" (EP)
+https://www.discogs.com/master/2752433
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1985 - Various - "May 85 Mixes"
@@ -2040,29 +2076,17 @@
 (https://www.discogs.com/master/2809547)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1985 - Electric Light Orchestra - "From The Sun To The World (Compilation)"
-(https://www.discogs.com/release/1537095-Electric-Light-Orchestra-From-The-Sun-To-The-World)
+❌ 1985 - Blondie, Electric Light Orchestra, ABBA, David Essex - "The History Of Rock (Volume Thirty Three)" (Compilation)
+https://www.discogs.com/master/1237122
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1985 - Blondie, Electric Light Orchestra, ABBA, David Essex - "The History Of Rock (Volume Thirty Three) (Compilation)"
-(https://www.discogs.com/release/1673074-Blondie-ELO-ABBA-David-Essex-The-History-Of-Rock-Volume-Thirty-Three)
+❌ 1985 - Electric Light Orchestra - "A Perfect World Of Music" (Compilation)
+https://www.discogs.com/master/97912
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1985 - Electric Light Orchestra - "A Perfect World Of Music (Compilation)"
-(https://www.discogs.com/release/1328989-Electric-Light-Orchestra-A-Perfect-World-Of-Music)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1986 - James Brown / Electric Light Orchestra - "Living In America / Calling America"
-(https://www.discogs.com/release/2742329)
-(Rejected format(s): Vinyl, 7", 45 RPM, Jukebox)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Electric Light Orchestra - "Fantasy World Of E.L.O."
 (https://www.discogs.com/release/9215358)
 (Rejected format(s): Vinyl, LP, Compilation, Promo)
-———————————————————————————————————————————————————————————————
-❌ 1986 - Electric Light Orchestra - "Sorrow About To Fall"
-(https://www.discogs.com/release/11098783)
-(Rejected format(s): Vinyl, 7")
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Various - "Mr Music No 10 - 1986"
 (https://www.discogs.com/release/3563281)
@@ -2080,7 +2104,7 @@
 (https://www.discogs.com/release/8328272)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1986 - Various - " Only For Dee Jays "
+❌ 1986 - Various - "Untitled"
 (https://www.discogs.com/release/9218077)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -2220,16 +2244,24 @@
 (https://www.discogs.com/release/29456920)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1986 - Electric Light Orchestra - "Calling America (Disco Version)  (Single)"
-(https://www.discogs.com/release/18012403-Electric-Light-Orchestra-Calling-America-Disco-Version-)
+❌ 1986 - James Brown, Electric Light Orchestra - "Living In America / Calling America" (Unknown)
+https://www.discogs.com/release/2742329-James-Brown-Electric-Light-Orchestra-Living-In-America-Calling-America
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1986-07-00 - Electric Light Orchestra - "Getting To The Point (Single)"
-(https://www.discogs.com/release/4233173-Electric-Light-Orchestra-Getting-To-The-Point)
+❌ 1986 - Electric Light Orchestra - "Sorrow About To Fall" (Unknown)
+https://www.discogs.com/release/11098783-Electric-Light-Orchestra-Sorrow-About-To-Fall
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1986-04-00 - Electric Light Orchestra - "First Movement (Compilation)"
-(https://www.discogs.com/release/3770686-Electric-Light-Orchestra-First-Movement)
+❌ 1986 - Electric Light Orchestra - "Balance Of Power" (Single)
+https://www.discogs.com/master/2084332
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1986-04-00 - Electric Light Orchestra - "First Movement" (Compilation)
+https://www.discogs.com/master/389370
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1986-07-00 - Electric Light Orchestra - "Getting To The Point" (Single)
+https://www.discogs.com/master/515662
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - Various - "January 87 - Mixes 2"
@@ -2284,8 +2316,8 @@
 (https://www.discogs.com/master/457770)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1987 - Electric Light Orchestra - "All Over The World (Compilation)"
-(https://www.discogs.com/release/2210015-ELO-All-Over-The-World)
+❌ 1987 - Electric Light Orchestra - "All Over The World" (Compilation)
+https://www.discogs.com/master/263888
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1988 - John Lennon - "The Lost Lennon Tapes - Dr. Winston O'Boogie On The Air: Part II"
@@ -2336,6 +2368,10 @@
 (https://www.discogs.com/release/5108317)
 (Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation)
 ———————————————————————————————————————————————————————————————
+❌ 1989 - Electric Light Orchestra - "Discovery + Time"
+(https://www.discogs.com/master/630104)
+(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
+———————————————————————————————————————————————————————————————
 ❌ 1989 - Roy Wood Featuring ELO* / Wizzard (2) / The Move - "You Can Dance The Rock 'n' Roll (The Roy Wood Years '71 - '73)"
 (https://www.discogs.com/master/830887)
 (Rejected artist(s): Roy Wood)
@@ -2376,12 +2412,16 @@
 (https://www.discogs.com/release/21270661)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1989 - Jeff Lynne, Electric Light Orchestra, The Idle Race, The Move - "A Message From The Country - The Jeff Lynne Years 1968 - 1973 (Compilation)"
-(https://www.discogs.com/release/1468733-Jeff-Lynne-Featuring-ELO-The-Idle-Race-The-Move-A-Message-From-The-Country-The-Jeff-Lynne-Years-1968)
+❌ 1989 - Roy Wood, The Move, Electric Light Orchestra, Wizzard - "The Definite Album…" (Compilation)
+https://www.discogs.com/master/750085
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1989 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/1541843-Electric-Light-Orchestra-The-Very-Best-Of-The-Electric-Light-Orchestra)
+❌ 1989 - Jeff Lynne, The Idle Race, The Move, Electric Light Orchestra - "A Message From The Country - The Jeff Lynne Years 1968 - 1973" (Compilation)
+https://www.discogs.com/master/539436
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1989-11-00 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/119653
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - Electric Light Orchestra - "Destination Unknown"
@@ -2412,9 +2452,9 @@
 (https://www.discogs.com/release/26366339)
 (Rejected format(s): Cassette, Compilation, Stereo)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Electric Light Orchestra - "Afterglow"
-(https://www.discogs.com/master/700226)
-(Rejected format(s): CD, Compilation, Remastered, Box Set)
+❌ 1990 - Electric Light Orchestra - "Monstruos Del Rock / Electric Light Orchestra"
+(https://www.discogs.com/master/1584142)
+(Rejected format(s): Cassette, Compilation, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1990 - Various - "The '70s"
 (https://www.discogs.com/release/792928)
@@ -2528,20 +2568,24 @@
 (https://www.discogs.com/master/1584141)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/34482778-The-Electric-Light-Orchestra-The-Very-Best-Of-The-Electric-Light-Orchestra)
+❌ 1990 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra" (Compilation)
+https://www.discogs.com/release/34482778-The-Electric-Light-Orchestra-The-Very-Best-Of-The-Electric-Light-Orchestra
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Electric Light Orchestra - "Seventies - Electric Light Orchestra's Greatest Hits (Compilation)"
-(https://www.discogs.com/release/5460356-Electric-Light-Orchestra-Seventies-Electric-Light-Orchestras-Greatest-Hits)
+❌ 1990 - Electric Light Orchestra - "The Very Best Of ELO" (Compilation)
+https://www.discogs.com/master/321839
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/1851786-The-Electric-Light-Orchestra-The-Very-Best-Of-The-Electric-Light-Orchestra)
+❌ 1990 - Electric Light Orchestra - "Seventies - Electric Light Orchestra's Greatest Hits" (Compilation)
+https://www.discogs.com/master/1142148
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1990 - Electric Light Orchestra - "ELO Classics (Compilation)"
-(https://www.discogs.com/release/15980892-Electric-Light-Orchestra-ELO-Classics)
+❌ 1990 - Electric Light Orchestra - "ELO Classics" (Compilation)
+https://www.discogs.com/master/542495
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1990-06-11 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/187888
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Men At Work / Electric Light Orchestra / The Outfield - "Shot Of Hits Vol. IV"
@@ -2554,7 +2598,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Electric Light Orchestra - "BBC Classic Tracks"
 (https://www.discogs.com/master/1314607)
-(Rejected format(s): CD, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Various - "Sounds Of The Seventies - Rock 'N' Soul Seventies"
 (https://www.discogs.com/release/679882)
@@ -2712,13 +2756,17 @@
 (https://www.discogs.com/release/6167777)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1991 - Electric Light Orchestra - "Rockaria (Compilation)"
-(https://www.discogs.com/release/6963935-Electric-Light-Orchestra-Rockaria)
+❌ 1991 - Electric Light Orchestra - "Best Of The Best" (Compilation)
+https://www.discogs.com/release/32927589-Electric-Light-Orchestra-Best-Of-The-Best
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1991 - Electric Light Orchestra - "Rockaria" (Compilation)
+https://www.discogs.com/master/1844368
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1992 - Queen / Electric Light Orchestra - "In Concert"
 (https://www.discogs.com/release/10594962)
-(Rejected format(s): CD, Promo, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1992 - Electric Light Orchestra - "Electric Light Orchestra 123 CD Box Set / Eldorado / A New World Record / Out Of The Blue"
 (https://www.discogs.com/release/11393728)
@@ -3052,32 +3100,32 @@
 (https://www.discogs.com/release/22257970)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Midnight Blue / Last Train To London (Compilation)"
-(https://www.discogs.com/release/30511780-Electric-Light-Orchestra-Midnight-Blue-Last-Train-To-London)
+❌ 1992 - Electric Light Orchestra - "Midnight Blue / Last Train To London" (Compilation)
+https://www.discogs.com/release/30511780-Electric-Light-Orchestra-Midnight-Blue-Last-Train-To-London
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Collection Gold (Compilation)"
-(https://www.discogs.com/release/8246134-Electric-Light-Orchestra-Collection-Gold)
+❌ 1992 - Electric Light Orchestra - "Collection Gold" (Compilation)
+https://www.discogs.com/master/2418742
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Greatest Hits (Compilation)"
-(https://www.discogs.com/release/15034041-Electric-Light-Orchestra-Greatest-Hits)
+❌ 1992 - Electric Light Orchestra - "Greatest Hits" (Compilation)
+https://www.discogs.com/master/1738874
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Definitive Collection (Compilation)"
-(https://www.discogs.com/release/795603-ELO-Definitive-Collection)
+❌ 1992 - Electric Light Orchestra - "Definitive Collection" (Compilation)
+https://www.discogs.com/master/321841
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "ELO's Greatest Hits Vol. Two (Compilation)"
-(https://www.discogs.com/release/23308865-ELO-ELOs-Greatest-Hits-Vol-Two)
+❌ 1992 - Electric Light Orchestra - "ELO's Greatest Hits Vol. Two" (Compilation)
+https://www.discogs.com/master/603386
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Livin' Thing - Best (Compilation)"
-(https://www.discogs.com/release/3084426-Electric-Light-Orchestra-Livin-Thing-Best)
+❌ 1992 - Electric Light Orchestra - "Livin' Thing - Best" (Compilation)
+https://www.discogs.com/master/675674
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1992 - Electric Light Orchestra - "Burning Bright (Compilation)"
-(https://www.discogs.com/release/378390-Electric-Light-Orchestra-Burning-Bright)
+❌ 1992 - Electric Light Orchestra - "Burning Bright" (Compilation)
+https://www.discogs.com/master/720736
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1993 - Yukio Yung - "A Brainless Deconstruction Of The Popular Song"
@@ -3228,6 +3276,10 @@
 (https://www.discogs.com/master/3153960)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1993 - Various - "The Greatest Hits Of The 70's, Volume 6"
+(https://www.discogs.com/master/2977891)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 1993 - Various - "The Lion Rocks Again"
 (https://www.discogs.com/master/4276443)
 (Rejected release role: TrackAppearance)
@@ -3348,12 +3400,12 @@
 (https://www.discogs.com/release/36412525)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1993 - Electric Light Orchestra - "The Very Best Of ELO (Compilation)"
-(https://www.discogs.com/release/6491689-Electric-Light-Orchestra-The-Very-Best-Of-ELO)
+❌ 1993 - Electric Light Orchestra - "The Very Best Of ELO" (Compilation)
+https://www.discogs.com/master/780765
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1993 - Electric Light Orchestra - "The Very Best Of (Compilation)"
-(https://www.discogs.com/release/1229274-Electric-Light-Orchestra-The-Very-Best-Of)
+❌ 1993 - Electric Light Orchestra - "The Very Best Of" (Compilation)
+https://www.discogs.com/master/1158669
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1994 - Electric Light Orchestra - "Electric Light Orchestra 123 CD Box Set Vol. 2 / Time / Secret Messages / Discovery"
@@ -3724,13 +3776,21 @@
 (https://www.discogs.com/master/957186)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1994 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/960229-Electric-Light-Orchestra-The-Very-Best-Of-The-Electric-Light-Orchestra)
+❌ 1994 - Electric Light Orchestra - "The Very Best Of The Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/393627
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1994 - Electric Light Orchestra - "The Best Of" (Compilation)
+https://www.discogs.com/master/3986359
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Electric Light Orchestra / The Kinks - "Superstar Concert Series - Electric Light Orchestra (BBC ‘76)/The Kinks (BBC ‘78)"
 (https://www.discogs.com/release/25544050)
 (Rejected format(s): CD, Transcription, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1995 - Electric Light Orchestra - "Discovery & A New World Record"
+(https://www.discogs.com/master/2584973)
+(Rejected format(s): CD, Compilation, Reissue, Stereo)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Electric Light Orchestra - "Face The Music / A New World Record / Discovery"
 (https://www.discogs.com/master/1297545)
@@ -4136,21 +4196,25 @@
 (https://www.discogs.com/master/1360528)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1995 - Electric Light Orchestra - "Discovery & A New World Record (Compilation)"
-(https://www.discogs.com/release/22781984-Electric-Light-Orchestra-Discovery-A-New-World-Record)
+❌ 1995 - Electric Light Orchestra - "Electric Light Orchestra" (Compilation)
+https://www.discogs.com/release/2511294-Electric-Light-Orchestra-Electric-Light-Orchestra
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1995 - Electric Light Orchestra - "Strange Magic: The Best Of Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/22928339-Electric-Light-Orchestra-Strange-Magic-The-Best-Of-Electric-Light-Orchestra)
+❌ 1995-04-11 - Electric Light Orchestra - "Strange Magic: The Best Of Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/119651
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - Electric Light Orchestra - "Classic Albums-A New World Record "
 (https://www.discogs.com/release/25100437)
-(Rejected format(s): CD, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - ELO* - "Out Of The Blue / Discovery / Time"
 (https://www.discogs.com/master/1123631)
 (Rejected format(s): CD, Album, Reissue, Box Set, Compilation)
+———————————————————————————————————————————————————————————————
+❌ 1996 - Electric Light Orchestra - "ELO Classics Six Pack"
+(https://www.discogs.com/master/2633597)
+(Rejected format(s): Cassette, EP)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - Yeti Girls - "Loud Enough ?"
 (https://www.discogs.com/release/10429504)
@@ -4588,10 +4652,6 @@
 (https://www.discogs.com/master/1275993)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1996 - Various - "The Greatest Hits Of The 70's, Volume 6"
-(https://www.discogs.com/master/2977891)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
 ❌ 1996 - Various - "Llena Tu Cabeza De Rock Vol. 7"
 (https://www.discogs.com/master/3498156)
 (Rejected release role: TrackAppearance)
@@ -4712,21 +4772,17 @@
 (https://www.discogs.com/master/4137832)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1996 - Electric Light Orchestra - "ELO Classics Six Pack (EP)"
-(https://www.discogs.com/release/23230007-Electric-Light-Orchestra-ELO-Classics-Six-Pack)
+❌ 1996 - Electric Light Orchestra - "Roll Over Beethoven" (Compilation)
+https://www.discogs.com/master/1378338
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1996 - Electric Light Orchestra - "Roll Over Beethoven (Compilation)"
-(https://www.discogs.com/release/3662874-ELO-Roll-Over-Beethoven)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1996 - Electric Light Orchestra - "The Gold Collection (Compilation)"
-(https://www.discogs.com/release/781095-Electric-Light-Orchestra-The-Gold-Collection)
+❌ 1996 - Electric Light Orchestra - "The Gold Collection" (Compilation)
+https://www.discogs.com/master/119656
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - E.L.O.* - "Off The Record Classic"
 (https://www.discogs.com/release/10702074)
-(Rejected format(s): CD, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Various - "De Pre Historie 1979 Volume 2"
 (https://www.discogs.com/release/726553)
@@ -5152,17 +5208,25 @@
 (https://www.discogs.com/master/1297954)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1997-10-27 - Electric Light Orchestra - "Light Years: The Very Best Of Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/1849772-Electric-Light-Orchestra-Light-Years-The-Very-Best-Of-Electric-Light-Orchestra)
+❌ 1997-10-27 - Electric Light Orchestra - "Light Years: The Very Best Of Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/154650
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - Electric Light Orchestra - "Eldorado / Face The Music / A New World Record"
 (https://www.discogs.com/release/9199141)
 (Rejected format(s): CD, Album, Reissue, Box Set, Compilation)
 ———————————————————————————————————————————————————————————————
+❌ 1998 - Electric Light Orchestra - ""Out Of The Blue" Tour Live At Wembley / Discovery"
+(https://www.discogs.com/master/1550600)
+(Rejected format(s): DVD, DVD-Video, PAL, Compilation, Stereo)
+———————————————————————————————————————————————————————————————
+❌ 1998 - Electric Light Orchestra - "Live At Wembley '78"
+(https://www.discogs.com/master/1563522)
+(Rejected format(s): CD, Album, Reissue)
+———————————————————————————————————————————————————————————————
 ❌ 1998 - Electric Light Orchestra - "Superstar Concert Series"
 (https://www.discogs.com/master/1670181)
-(Rejected format(s): CDr, Transcription)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 1998 - L'Os Clodos - "Small Circus"
 (https://www.discogs.com/release/18203896)
@@ -5496,6 +5560,10 @@
 (https://www.discogs.com/release/37450578)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1998 - Various - "The Best Of Twist Shape Disc™ / Rock'N Roll (22 Rock'N Roll Hits)"
+(https://www.discogs.com/release/37976070)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 1998 - Various - "Dodatek Nadzwyczajny Do Listy Przebojów Programu III"
 (https://www.discogs.com/master/1032437)
 (Rejected release role: TrackAppearance)
@@ -5632,29 +5700,21 @@
 (https://www.discogs.com/master/1030043)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1998 - Electric Light Orchestra - "Giganty Rocka (Compilation)"
-(https://www.discogs.com/release/26264258-Electric-Light-Orchestra-Giganty-Rocka)
+❌ 1998 - Electric Light Orchestra - "Giganty Rocka" (Compilation)
+https://www.discogs.com/release/26264258-Electric-Light-Orchestra-Giganty-Rocka
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1998 - Electric Light Orchestra - "Burningbright Six Great Hits (Compilation)"
-(https://www.discogs.com/release/27232707-Electric-Light-Orchestra-Burningbright-Six-Great-Hits)
+❌ 1998 - Electric Light Orchestra - "Burningbright Six Great Hits" (Compilation)
+https://www.discogs.com/release/27232707-Electric-Light-Orchestra-Burningbright-Six-Great-Hits
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1998 - Electric Light Orchestra - "The Best (Compilation)"
-(https://www.discogs.com/release/12985175-Electric-Light-Orchestra-The-Best)
+❌ 1998 - Electric Light Orchestra - "The Best" (Compilation)
+https://www.discogs.com/master/1584152
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1998 - Electric Light Orchestra - "E.L.O. (Compilation)"
-(https://www.discogs.com/release/8816157-Electric-Light-Orchestra-ELO)
+❌ 1998 - Electric Light Orchestra - "E.L.O." (Compilation)
+https://www.discogs.com/master/1515443
 (No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1999 - Electric Light Orchestra - "The BBC Sessions"
-(https://www.discogs.com/master/602449)
-(Rejected format(s): CD)
-———————————————————————————————————————————————————————————————
-❌ 1999 - Olivia Newton-John with Electric Light Orchestra - "Xanadu"
-(https://www.discogs.com/master/2791013)
-(Rejected format(s): CD, VCD)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Various - "The Return Of The Read Menace"
 (https://www.discogs.com/master/834491)
@@ -5816,7 +5876,7 @@
 (https://www.discogs.com/release/8214951)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1999 - Various - "Kneipen Hits - 70��s Glam Rock"
+❌ 1999 - Various - "Kneipen Hits - 70´s Glam Rock"
 (https://www.discogs.com/release/9311835)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -6010,6 +6070,10 @@
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Various - "Hits Of The 70's"
 (https://www.discogs.com/release/14287152)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ 1999 - Various - "Euro Dance 10 Years Greatest Hits Vol.1"
+(https://www.discogs.com/release/14850988)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1999 - Various - "Disco Total - 45 Exitos de una epoca"
@@ -6324,6 +6388,14 @@
 (https://www.discogs.com/master/1149337)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1999 - Electric Light Orchestra - "The BBC Sessions" (Unknown)
+https://www.discogs.com/master/602449
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1999 - Electric Light Orchestra - "Friends And Relatives" (Compilation)
+https://www.discogs.com/master/644730
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2000 - Electric Light Orchestra - "The Complete ELO Live Collection"
 (https://www.discogs.com/release/11394049)
 (Rejected format(s): CD, Album, CD, Album, Box Set, Compilation, Limited Edition)
@@ -6335,10 +6407,6 @@
 ❌ 2000 - Electric Light Orchestra - "Electric Light Orchestra X2 Out Of The Blue / Discovery"
 (https://www.discogs.com/master/2874433)
 (Rejected format(s): Box Set, Compilation, CD, Album, Reissue, CD, Album, Reissue)
-———————————————————————————————————————————————————————————————
-❌ 2000 - Electric Light Orchestra - "Flashback"
-(https://www.discogs.com/master/218671)
-(Rejected format(s): CD, Compilation, Remastered, Box Set)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - Olivia Newton-John - "Greatest Hits"
 (https://www.discogs.com/release/3012653)
@@ -6688,6 +6756,10 @@
 (https://www.discogs.com/release/36038341)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2000 - Various - "75 Superhits Of Pop Vol. 1"
+(https://www.discogs.com/release/37833000)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Best Of Rock Vol. 2"
 (https://www.discogs.com/master/3446957)
 (Rejected release role: TrackAppearance)
@@ -6792,8 +6864,8 @@
 (https://www.discogs.com/master/3405604)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2000 - Electric Light Orchestra - "Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/9368834-Electric-Light-Orchestra-Electric-Light-Orchestra)
+❌ 2000 - Electric Light Orchestra - "Electric Light Orchestra" (Compilation)
+https://www.discogs.com/release/9368834-Electric-Light-Orchestra-Electric-Light-Orchestra
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Electric Light Orchestra - "Jeff Lynne - Interview Disc"
@@ -6806,11 +6878,7 @@
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Electric Light Orchestra - "Up Close"
 (https://www.discogs.com/release/16615989)
-(Rejected format(s): CDr, Transcription)
-———————————————————————————————————————————————————————————————
-❌ 2001 - Electric Light Orchestra - "Zoom Tour Live"
-(https://www.discogs.com/master/248390)
-(Rejected format(s): DVD, DVD-Video, Multichannel, PAL)
+(Rejected genre(s): Rock,Non-Music)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - The Boys' Star Library - "Trees....trees...trees"
 (https://www.discogs.com/release/11297252)
@@ -7252,16 +7320,20 @@
 (https://www.discogs.com/release/37657821)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2001 - Electric Light Orchestra - "Moment In Paradise (Single)"
-(https://www.discogs.com/release/4989351-Electric-Light-Orchestra-Moment-In-Paradise)
+❌ 2001 - Electric Light Orchestra - "Classics" (Compilation)
+https://www.discogs.com/release/19904962-Electric-Light-Orchestra-Classics
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2001 - Electric Light Orchestra - "Classics (Compilation)"
-(https://www.discogs.com/release/19904962-Electric-Light-Orchestra-Classics)
+❌ 2001 - Electric Light Orchestra - "The Ultimate Collection" (Compilation)
+https://www.discogs.com/master/395332
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2001 - Electric Light Orchestra - "The Ultimate Collection (Compilation)"
-(https://www.discogs.com/release/1846325-Electric-Light-Orchestra-The-Ultimate-Collection)
+❌ 2001 - Electric Light Orchestra - "Alright" (Single)
+https://www.discogs.com/master/444581
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2001 - Electric Light Orchestra - "Moment In Paradise" (Single)
+https://www.discogs.com/master/620034
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - Moga The ¥5, Naht - "A Strange Stroke Of Fate"
@@ -8064,12 +8136,12 @@
 (https://www.discogs.com/master/2733119)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2003 - Electric Light Orchestra - "The Collection (Compilation)"
-(https://www.discogs.com/release/14559442-Electric-Light-Orchestra-The-Collection)
+❌ 2003 - Electric Light Orchestra - "The Collection" (Compilation)
+https://www.discogs.com/release/14559442-Electric-Light-Orchestra-The-Collection
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2003-04-01 - Electric Light Orchestra - "The Essential Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/1876696-Electric-Light-Orchestra-The-Essential-Electric-Light-Orchestra)
+❌ 2003-04-01 - Electric Light Orchestra - "The Essential Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/503606
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2004 - Sean Rowley (2) - "Guilty Pleasures"
@@ -8560,10 +8632,6 @@
 (https://www.discogs.com/master/994335)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2004 - Electric Light Orchestra - "Early Years (Compilation)"
-(https://www.discogs.com/release/2429627-Electric-Light-Orchestra-Early-Years)
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2005 - Olivia Newton-John - "Gold"
 (https://www.discogs.com/master/795066)
 (Rejected artist(s): Olivia Newton-John)
@@ -8972,17 +9040,13 @@
 (https://www.discogs.com/release/18933664)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2005-04-00 - Electric Light Orchestra - "All Over The World - The Very Best Of Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/836434-Electric-Light-Orchestra-All-Over-The-World-The-Very-Best-Of-Electric-Light-Orchestra)
+❌ 2005-04-00 - Electric Light Orchestra - "All Over The World - The Very Best Of Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/119646
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Electric Light Orchestra - "Re-Issues Sampler"
 (https://www.discogs.com/release/15132049)
 (Rejected format(s): CDr, Compilation, Promo, Sampler)
-———————————————————————————————————————————————————————————————
-❌ 2006 - Electric Light Orchestra - "The Harvest Years 1970-1973"
-(https://www.discogs.com/master/714580)
-(Rejected format(s): CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Compilation, Remastered, Box Set, Compilation)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Electric Light Orchestra - "Surrender"
 (https://www.discogs.com/master/862040)
@@ -9272,6 +9336,10 @@
 (https://www.discogs.com/release/36901590)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2006 - Various - "Reelin' In The Years"
+(https://www.discogs.com/release/37903485)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 2006 - Various - "Sensational 70s"
 (https://www.discogs.com/master/2848786)
 (Rejected release role: TrackAppearance)
@@ -9352,17 +9420,29 @@
 (https://www.discogs.com/release/19778041)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2006 - Electric Light Orchestra - "The Collection (Compilation)"
-(https://www.discogs.com/release/6194299-Electric-Light-Orchestra-The-Collection)
+❌ 2006 - Electric Light Orchestra - "The Collection" (Compilation)
+https://www.discogs.com/master/1125600
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 2006-07-31 - Electric Light Orchestra - "The Harvest Years 1970-1973" (Compilation)
+https://www.discogs.com/master/714580
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Electric Light Orchestra - "Eldorado / Secret Messages"
 (https://www.discogs.com/release/5961894)
 (Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, Box Set, Compilation)
 ———————————————————————————————————————————————————————————————
+❌ 2007 - Electric Light Orchestra - "Face The Music / A New World Record"
+(https://www.discogs.com/release/14623966)
+(Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, All Media, Compilation)
+———————————————————————————————————————————————————————————————
 ❌ 2007 - Electric Light Orchestra - "Eldorado / Time / Secret Messages"
 (https://www.discogs.com/release/24942058)
 (Rejected format(s): CD, Album, Reissue, Box Set, Compilation)
+———————————————————————————————————————————————————————————————
+❌ 2007 - ELO* - "Burning Bright / ELO Classics"
+(https://www.discogs.com/master/3453788)
+(Rejected format(s): CD, Compilation, Reissue, CD, Compilation, Reissue)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Electric Light Orchestra - "Latitude 88 North"
 (https://www.discogs.com/master/922864)
@@ -9799,10 +9879,6 @@
 ❌ 2007 - DJ AVS* - "Mixcd04"
 (https://www.discogs.com/release/27146823)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2007 - Electric Light Orchestra - "Burning Bright / ELO Classics (Compilation)"
-(https://www.discogs.com/release/5990417-ELO-Burning-Bright-ELO-Classics)
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Olivia Newton-John - "The Singles Collection / The Christmas Collection"
 (https://www.discogs.com/release/3025465)
@@ -10328,7 +10404,7 @@
 (https://www.discogs.com/release/8440662)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2009 - Various - "Ö3 Zeitreise 1980"
+❌ 2009 - Various - "��3 Zeitreise 1980"
 (https://www.discogs.com/release/8647961)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -10968,6 +11044,10 @@
 (https://www.discogs.com/release/8346484)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2011 - Electric Light Orchestra - "Eldorado / Face The Music"
+(https://www.discogs.com/master/1213279)
+(Rejected format(s): CD, Compilation, Unofficial Release)
+———————————————————————————————————————————————————————————————
 ❌ 2011 - Electric Light Orchestra - "The Classic Albums Collection"
 (https://www.discogs.com/master/2338219)
 (Rejected format(s): CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, Box Set, Compilation)
@@ -11288,12 +11368,12 @@
 (https://www.discogs.com/master/1297934)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2011 - Electric Light Orchestra - "Grandes Exitos Electric Light Orchestra en vivo (Compilation)"
-(https://www.discogs.com/release/14589411-Electric-Light-Orchestra-Grandes-Exitos-Electric-Light-Orchestra-en-vivo)
+❌ 2011 - Electric Light Orchestra - "Grandes Exitos Electric Light Orchestra en vivo" (Compilation)
+https://www.discogs.com/release/14589411-Electric-Light-Orchestra-Grandes-Exitos-Electric-Light-Orchestra-en-vivo
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2011 - Electric Light Orchestra - "The Essential Electric Light Orchestra (Compilation)"
-(https://www.discogs.com/release/3353191-Electric-Light-Orchestra-The-Essential-Electric-Light-Orchestra)
+❌ 2011-10-24 - Electric Light Orchestra - "The Essential Electric Light Orchestra" (Compilation)
+https://www.discogs.com/master/827571
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Jeff Lynne, ELO* - "5 Track Radio Sampler"
@@ -12652,7 +12732,7 @@
 (https://www.discogs.com/release/14369185)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2019 - Various - "De Pré Historie - De Jaren '80 (De Ultieme 10 CD Collectie)"
+❌ 2019 - Various - "De Pr�� Historie - De Jaren '80 (De Ultieme 10 CD Collectie)"
 (https://www.discogs.com/release/14386848)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
@@ -13032,6 +13112,10 @@
 (https://www.discogs.com/release/37526673)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2021 - Various - "Cruella (Original  Motion Picture Soundtrack)"
+(https://www.discogs.com/release/37898454)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 2021 - Various - "Buried Treasure 70s"
 (https://www.discogs.com/master/3385561)
 (Rejected release role: TrackAppearance)
@@ -13352,6 +13436,10 @@
 (https://www.discogs.com/release/34076659)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2024 - Various - "Solid Gold Songs"
+(https://www.discogs.com/release/37898769)
+(Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
 ❌ 2024 - Sean Rowley (2) - "Guilty Pleasures (Best Before 1979)"
 (https://www.discogs.com/master/3412513)
 (Rejected release role: TrackAppearance)
@@ -13456,6 +13544,10 @@
 (https://www.discogs.com/release/16892325)
 (Rejected format(s): Vinyl, 7", Promo, Limited Edition, 45 RPM)
 ———————————————————————————————————————————————————————————————
+❌ unknown date - Electric Light Orchestra - "Time/On The Third Day"
+(https://www.discogs.com/master/2813882)
+(Rejected format(s): Vinyl, LP, Compilation, Reissue, Stereo)
+———————————————————————————————————————————————————————————————
 ❌ unknown date - John Lennon - "Guest DJ - Beatle John Lennon WNEW New York City - September 11, 1974"
 (https://www.discogs.com/release/13476689)
 (Rejected artist(s): John Lennon)
@@ -13514,10 +13606,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Various - "Rewind Fourteen"
 (https://www.discogs.com/release/4031562)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ unknown date - Various - "Top Hits International"
-(https://www.discogs.com/release/4126610)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Various - "DMC Best Of Diva Mixes Volume 5"
@@ -13786,10 +13874,6 @@
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Various - "Best Of Energy Mixes Vol.1"
 (https://www.discogs.com/release/14770238)
-(Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ unknown date - Various - "Euro Dance 10 Years Greatest Hits Vol.1"
-(https://www.discogs.com/release/14850988)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Various - "Rock'n Concert"

@@ -1,8 +1,4 @@
-import { string } from "zod";
-import {
-  IGNORE_TITLE_ENDINGS,
-  OPTION_TITLE_SIMILARITY_THRESHOLD,
-} from "../env";
+import { IGNORE_TITLE_ENDINGS } from "../env";
 import { DCTrack } from "../types";
 import { getStringParts, normalize, stringsAreSimilar } from "../utils";
 import { Band } from "./Band";
@@ -68,7 +64,7 @@ export class Repertoire {
   // Get tracks that are not registered in this release
   public getUnregisteredTracks(release: Release): DCTrack[] {
     return this.getReleaseTracks(release).filter(
-      (track) => !this.getExistingTrack(track)
+      (track) => !this.getExistingTrack(track),
     );
   }
 
@@ -78,11 +74,11 @@ export class Repertoire {
       (_track) =>
         this.areSimilarTrackNames(track.title, _track.title) ||
         _track.subTracks.find((subtrack) =>
-          this.areSimilarTrackNames(track.title, subtrack)
+          this.areSimilarTrackNames(track.title, subtrack),
         ) ||
         _track.variations.find((variation) =>
-          this.areSimilarTrackNames(track.title, variation)
-        )
+          this.areSimilarTrackNames(track.title, variation),
+        ),
     );
   }
 
@@ -96,11 +92,11 @@ export class Repertoire {
         // Ignore track not written by the artist
         !track.artists?.every((artist) => this.band.id !== artist.id) &&
         // Ignore track containing an equal (translation title)
-        track.title.indexOf(" = ") === -1
-      // Ignore specific title ending such as "edit" or "version"
-      // !IGNORE_TITLE_ENDINGS.find((ending) =>
-      //   normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
-      // )
+        track.title.indexOf(" = ") === -1 &&
+        // Ignore specific title ending such as "edit" or "version"
+        !IGNORE_TITLE_ENDINGS.find((ending) =>
+          normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase()),
+        ),
     );
   }
 
@@ -108,7 +104,7 @@ export class Repertoire {
   private isValidTrackType(
     track: DCTrack,
     index: number,
-    release: Release
+    release: Release,
   ): boolean {
     return (
       track.type_ === "track" ||
@@ -128,7 +124,7 @@ export class Repertoire {
       this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
     }
     this.logger.log(
-      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
+      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`,
     );
   }
 
@@ -139,8 +135,8 @@ export class Repertoire {
 
     return [track1, ...track1Parts].find((track1part) =>
       [track2, ...track2Parts].find((track2part) =>
-        stringsAreSimilar(track1part, track2part)
-      )
+        stringsAreSimilar(track1part, track2part),
+      ),
     );
   }
 
@@ -162,7 +158,7 @@ export class Repertoire {
     if (
       trackVariation.track.title !== trackVariation.existing.title &&
       !trackVariation.existing.variations.find(
-        (variation) => variation === trackVariation.track.title
+        (variation) => variation === trackVariation.track.title,
       )
     ) {
       trackVariation.existing.variations.push(trackVariation.track.title);
@@ -193,7 +189,7 @@ export class Repertoire {
       !!trackContainingSubtracks.sub_tracks
     ) {
       targetTrack.subTracks = trackContainingSubtracks.sub_tracks.map(
-        (subTrack) => subTrack.title
+        (subTrack) => subTrack.title,
       );
     }
   }

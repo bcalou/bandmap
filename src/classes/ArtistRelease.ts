@@ -73,7 +73,7 @@ export class ArtistRelease {
     return this.artistRelease.main_release;
   }
 
-  // Analyze the release and add it to the discography as candidate or rejected
+  // Analyze the release and add it to the discography
   public async addToDiscography() {
     if (this.isIncludedInDiscography()) return null;
 

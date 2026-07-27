@@ -15,9 +15,9 @@ export const ARTIST_RELEASE_ROLES = {
 
 export const FORMATS = {
   mainSortedByConsiderationOrder: [
-    "EP",
-    "Maxi-Single",
     "Single",
+    "Maxi-Single",
+    "EP",
     "Compilation",
     "Unknown",
     "Album", // Album is last because if it's anything else (like Compilation),
@@ -104,7 +104,6 @@ export const FORMATS = {
     "Promo",
     "Record Store Day",
     "Reissue",
-    "Remastered",
     "Repress",
     "Test Pressing",
     "Tour Recording",

@@ -640,27 +640,29 @@ https://www.discogs.com/master/34898
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1067931
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1969-10-00 - Yes - "Looking Around (Single)"
+⌛ 1969-10-00 - Yes - "Looking Around" (Single)
 https://www.discogs.com/master/1067931
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/378005
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Mono
-⌛ 1969-07-04 - Yes - "Sweetness (Single)"
+⌛ 1969-07-04 - Yes - "Sweetness" (Single)
 https://www.discogs.com/master/378005
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4732917
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1970-03-27 - Yes - "Time And A Word  (Single)"
+⌛ 1970-03-27 - Yes - "Time And A Word " (Single)
 https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33059766
 💿 Format(s): Vinyl, LP, Compilation
-⌛ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word (Compilation)"
+🗓️ Imprecise date (1970) for "Layla / Time And A Word"
+🗓️ No better date found
+⌛ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word" (Compilation)
 https://www.discogs.com/release/33059766-Derek-And-The-Dominos-Yes-Layla-Time-And-A-Word
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/575574
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1970-06-19 - Yes - "Sweet Dreams (Single)"
+⌛ 1970-06-19 - Yes - "Sweet Dreams" (Single)
 https://www.discogs.com/master/575574
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/34919
@@ -670,7 +672,9 @@ https://www.discogs.com/master/34919
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2326453
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1971 - Yes - "Something Is Coming / Dear Father (Single)"
+🗓️ Imprecise date (1971) for "Something Is Coming / Dear Father"
+🗓️ No better date found
+⌛ 1971 - Yes - "Something Is Coming / Dear Father" (Single)
 https://www.discogs.com/release/2326453-Yes-Something-Is-Coming-Dear-Father
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4220328
@@ -681,7 +685,9 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9906839
 💿 Format(s): Vinyl, LP, Compilation
-⌛ 1971 - Yes - "Time And A Word / The Yes Album (Compilation)"
+🗓️ Imprecise date (1971) for "Time And A Word / The Yes Album"
+🗓️ No better date found
+⌛ 1971 - Yes - "Time And A Word / The Yes Album" (Compilation)
 https://www.discogs.com/release/9906839-Yes-Time-And-A-Word-The-Yes-Album
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/34934
@@ -696,17 +702,30 @@ https://www.discogs.com/master/34991
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/723554
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Mono
-⌛ 1971 - Yes - "Yours Is No Disgrace  (Single)"
+🗓️ Imprecise date (1971) for "Yours Is No Disgrace "
+🗃️ Looking at alternate version(s) from 1971
+🗃️ Analyzing version https://www.discogs.com/release/6394219
+🗓️ Release date: 1971
+🗓️ No better date found
+⌛ 1971 - Yes - "Yours Is No Disgrace " (Single)
 https://www.discogs.com/master/723554
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1449766
 💿 Format(s): Vinyl, 7", Single, 45 RPM
-⌛ 1971 - Yes - "Your Move (Single)"
+🗓️ Imprecise date (1971) for "Your Move"
+🗃️ Looking at alternate version(s) from 1971
+🗓️ No better date found
+⌛ 1971 - Yes - "Your Move" (Single)
 https://www.discogs.com/master/1449766
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/294845
 💿 Format(s): Vinyl, 7", Single, 45 RPM
-⌛ 1971 - Yes - "Your Move (Single)"
+🗓️ Imprecise date (1971) for "Your Move"
+🗃️ Looking at alternate version(s) from 1971
+🗃️ Analyzing version https://www.discogs.com/release/34977308
+🗓️ Release date: 1971-09-15
+Found better release date: 1971-09-15
+⌛ 1971-09-15 - Yes - "Your Move" (Single)
 https://www.discogs.com/master/294845
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2378787
@@ -716,7 +735,9 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/8878399
 💿 Format(s): Vinyl, 7", 45 RPM, White Label
-⌛ 1972 - Yes - "Siberian Khatru  (Unknown)"
+🗓️ Imprecise date (1972) for "Siberian Khatru "
+🗓️ No better date found
+⌛ 1972 - Yes - "Siberian Khatru " (Unknown)
 https://www.discogs.com/release/8878399-Yes-Siberian-Khatru-
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/11576961
@@ -727,7 +748,46 @@ Rejected format(s): Vinyl, 7", 33 ⅓ RPM, EP, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/157793
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Mono
-⌛ 1972 - Yes - "Roundabout (Single)"
+🗓️ Imprecise date (1972) for "Roundabout"
+🗃️ Looking at alternate version(s) from 1972
+🗃️ Analyzing version https://www.discogs.com/release/4025208
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/8883315
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/11001335
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/10267510
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/5713313
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/4026215
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/10433965
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/8737136
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/2326447
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/3917887
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/4324640
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/4864298
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/24523118
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/3841812
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/13534683
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/4625726
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/16139621
+🗓️ Release date: 1972
+🗃️ Analyzing version https://www.discogs.com/release/11794412
+🗓️ Release date: 1972
+🗓️ No better date found
+⌛ 1972 - Yes - "Roundabout" (Single)
 https://www.discogs.com/master/157793
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35006
@@ -737,22 +797,32 @@ https://www.discogs.com/master/35006
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/447560
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1972-07-00 - Yes - "America (Single)"
+⌛ 1972-07-00 - Yes - "America" (Single)
 https://www.discogs.com/master/447560
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1750215
 💿 Format(s): Vinyl, 7", 45 RPM, EP
-⌛ 1972 - Yes - "No Opportunity Necessary (EP)"
+🗓️ Imprecise date (1972) for "No Opportunity Necessary"
+🗃️ Looking at alternate version(s) from 1972
+🗓️ No better date found
+⌛ 1972 - Yes - "No Opportunity Necessary" (EP)
 https://www.discogs.com/master/1750215
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/261442
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1972 - Yes - "And You And I (Part I & II) (Single)"
+🗓️ Imprecise date (1972) for "And You And I (Part I & II)"
+🗃️ Looking at alternate version(s) from 1972
+🗃️ Analyzing version https://www.discogs.com/release/16051438
+🗓️ Release date: 1972-12-00
+Found better release date: 1972-12-00
+⌛ 1972-12-00 - Yes - "And You And I (Part I & II)" (Single)
 https://www.discogs.com/master/261442
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4864359
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1973 - Yes - "And You And I Live Part 1 Et 2 (Single)"
+🗓️ Imprecise date (1973) for "And You And I Live Part 1 Et 2"
+🗓️ No better date found
+⌛ 1973 - Yes - "And You And I Live Part 1 Et 2" (Single)
 https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9486063
@@ -786,16 +856,35 @@ https://www.discogs.com/master/35063
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/374347
 💿 Format(s): Vinyl, LP, Album, Compilation, Stereo
+🗓️ Imprecise date (1973) for "2 Originals Of Yes"
 🗃️ Looking at alternate version(s) from 1973
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26343584
+🗃️ Analyzing version https://www.discogs.com/release/16183805
+🗓️ Release date: 1973
 🗃️ Analyzing version https://www.discogs.com/release/26343584
-💿 Format(s): Vinyl, LP, Album, Compilation
-⌛ 1973 - Yes - "2 Originals Of Yes (Compilation)"
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/3126401
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/4433487
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/29768101
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/16087179
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/7858089
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/22075441
+🗓️ Release date: 1973
+🗃️ Analyzing version https://www.discogs.com/release/7571368
+🗓️ Release date: 1973
+🗓️ No better date found
+💿 1973 - Yes - "2 Originals Of Yes"
 https://www.discogs.com/master/374347
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4864390
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, Single
-⌛ 1974 - Yes - "America (Single)"
+🗓️ Imprecise date (1974) for "America"
+🗓️ No better date found
+⌛ 1974 - Yes - "America" (Single)
 https://www.discogs.com/release/4864390-Yes-America
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35126
@@ -816,17 +905,165 @@ https://www.discogs.com/master/35126
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35153
 💿 Format(s): Vinyl, LP, Compilation, Stereo
-⌛ 1975 - Yes - "Yesterdays (Compilation)"
+🗓️ Imprecise date (1975) for "Yesterdays"
+🗃️ Looking at alternate version(s) from 1975
+🗃️ Analyzing version https://www.discogs.com/release/13200757
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/10501140
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/37872063
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/7979534
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/3292690
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/8317776
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/26159198
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/3052960
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/2653592
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/26312714
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/10246756
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/6324551
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/16238236
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/6082885
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/24247643
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/11744566
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/8744816
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/36733282
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/5583851
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/30550741
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/2773462
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/27717789
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/12054418
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/11666253
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/6752786
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/35871472
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/6323005
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/5522520
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/7120454
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/7454224
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/8138116
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/10674554
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/31848875
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/4336494
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/800548
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/7700894
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/11870621
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/12490902
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/9312598
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/26227325
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/9147704
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/3599511
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/13244431
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/20751676
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/5047483
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/1185044
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/16134349
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/12098228
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/12515133
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/2510627
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/4897702
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/5653171
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/16228355
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/8244891
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/17478517
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/31225789
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/35711140
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/13447315
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/23246867
+🗓️ Release date: 1975
+🗓️ No better date found
+⌛ 1975 - Yes - "Yesterdays" (Compilation)
 https://www.discogs.com/master/35153
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/292365
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, Single
-⌛ 1974-01-00 - Yes - "And You And I (Single)"
+⌛ 1974-01-00 - Yes - "And You And I" (Single)
 https://www.discogs.com/master/292365
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/472217
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1975 - Yes - "Soon (Single)"
+🗓️ Imprecise date (1975) for "Soon"
+🗃️ Looking at alternate version(s) from 1975
+🗃️ Analyzing version https://www.discogs.com/release/3884088
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/20102017
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/14992620
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/29485525
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/3884063
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/12753696
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/32982210
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/13455993
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/6177717
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/14037548
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/4864558
+🗓️ Release date: 1975
+🗃️ Analyzing version https://www.discogs.com/release/25764037
+🗓️ Release date: 1975
+🗓️ No better date found
+⌛ 1975 - Yes - "Soon" (Single)
 https://www.discogs.com/master/472217
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7460174
@@ -853,7 +1090,9 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4731139
 💿 Format(s): Vinyl, 7", Single, 33 ⅓ RPM
-⌛ 1977 - Yes - "Turn Of The Century / Wonderous Stories (Single)"
+🗓️ Imprecise date (1977) for "Turn Of The Century / Wonderous Stories"
+🗓️ No better date found
+⌛ 1977 - Yes - "Turn Of The Century / Wonderous Stories" (Single)
 https://www.discogs.com/release/4731139-Yes-Turn-Of-The-Century-Wonderous-Stories
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5910743
@@ -874,7 +1113,20 @@ https://www.discogs.com/master/35199
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35209
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1977 - Yes - "Going For The One (Single)"
+🗓️ Imprecise date (1977) for "Going For The One"
+🗃️ Looking at alternate version(s) from 1977
+🗃️ Analyzing version https://www.discogs.com/release/1458863
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/5966110
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/17520580
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/29120317
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/2526387
+🗓️ Release date: 1977-07-00
+Found better release date: 1977-07-00
+⌛ 1977-07-00 - Yes - "Going For The One" (Single)
 https://www.discogs.com/master/35209
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35250
@@ -884,7 +1136,22 @@ Rejected artist(s): Yes
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/740583
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1977 - Yes - "Wonderous Stories / Awaken (Single)"
+🗓️ Imprecise date (1977) for "Wonderous Stories / Awaken"
+🗃️ Looking at alternate version(s) from 1977
+🗃️ Analyzing version https://www.discogs.com/release/1546011
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/10338774
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/6151269
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/26823266
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/29353540
+🗓️ Release date: 1977
+🗃️ Analyzing version https://www.discogs.com/release/1843284
+🗓️ Release date: 1977
+🗓️ No better date found
+⌛ 1977 - Yes - "Wonderous Stories / Awaken" (Single)
 https://www.discogs.com/master/740583
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14385010
@@ -904,12 +1171,40 @@ https://www.discogs.com/master/35277
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1447260
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1978 - Yes - "Release, Release (Single)"
+🗓️ Imprecise date (1978) for "Release, Release"
+🗃️ Looking at alternate version(s) from 1978
+🗃️ Analyzing version https://www.discogs.com/release/11680465
+🗓️ Release date: 1978
+🗓️ No better date found
+⌛ 1978 - Yes - "Release, Release" (Single)
 https://www.discogs.com/master/1447260
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/251305
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-⌛ 1978 - Yes - "Don't Kill The Whale (Single)"
+🗓️ Imprecise date (1978) for "Don't Kill The Whale"
+🗃️ Looking at alternate version(s) from 1978
+🗃️ Analyzing version https://www.discogs.com/release/7732315
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/36276991
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/15318512
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/14595151
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/2704664
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/13885282
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/21319831
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/5593443
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/2326473
+🗓️ Release date: 1978
+🗃️ Analyzing version https://www.discogs.com/release/2861584
+🗓️ Release date: 1978-09-00
+Found better release date: 1978-09-00
+⌛ 1978-09-00 - Yes - "Don't Kill The Whale" (Single)
 https://www.discogs.com/master/251305
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33874026
@@ -925,7 +1220,9 @@ https://www.discogs.com/master/35481
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2701268
 💿 Format(s): Vinyl, 7", 45 RPM, Jukebox
-⌛ 1980 - Narada Michael Walden, Yes - "The Real Thang / Does It Really Happen? (Unknown)"
+🗓️ Imprecise date (1980) for "The Real Thang / Does It Really Happen?"
+🗓️ No better date found
+⌛ 1980 - Narada Michael Walden, Yes - "The Real Thang / Does It Really Happen?" (Unknown)
 https://www.discogs.com/release/2701268-Narada-Michael-Walden-Yes-The-Real-Thang-Does-It-Really-Happen
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14908788
@@ -994,12 +1291,48 @@ https://www.discogs.com/master/35607
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/472215
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1980 - Yes - "Run Through The Light (Single)"
+🗓️ Imprecise date (1980) for "Run Through The Light"
+🗃️ Looking at alternate version(s) from 1980
+🗃️ Analyzing version https://www.discogs.com/release/24764513
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/3884048
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/10610327
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/14037622
+🗓️ Release date: 1980
+🗓️ No better date found
+⌛ 1980 - Yes - "Run Through The Light" (Single)
 https://www.discogs.com/master/472215
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/298379
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1980 - Yes - "Into The Lens (Single)"
+🗓️ Imprecise date (1980) for "Into The Lens"
+🗃️ Looking at alternate version(s) from 1980
+🗃️ Analyzing version https://www.discogs.com/release/5266341
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/4427423
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/4208772
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/19364512
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/7926507
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/2620685
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/3733525
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/996476
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/3723304
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/4335146
+🗓️ Release date: 1980
+🗃️ Analyzing version https://www.discogs.com/release/3519154
+🗓️ Release date: 1980-10-00
+Found better release date: 1980-10-00
+⌛ 1980-10-00 - Yes - "Into The Lens" (Single)
 https://www.discogs.com/master/298379
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13736402
@@ -1009,7 +1342,64 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35677
 💿 Format(s): Vinyl, LP, Compilation
-⌛ 1981 - Yes - "Classic Yes (Compilation)"
+🗓️ Imprecise date (1981) for "Classic Yes"
+🗃️ Looking at alternate version(s) from 1981
+🗃️ Analyzing version https://www.discogs.com/release/1009488
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/7952420
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/2800368
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/5431022
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/23442461
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/6235053
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/9211827
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/14163977
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/15336484
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/7853029
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/3520156
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/17191693
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/8734273
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/8562566
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/16875480
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/6098061
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/11461031
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/9641531
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/5130974
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/3840038
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/2841954
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/2637774
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/4336574
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/23153396
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/11987953
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/14790024
+🗓️ Release date: 1981
+🗃️ Analyzing version https://www.discogs.com/release/35871085
+🗓️ Release date: 1981-10-29
+Found better release date: 1981-10-29
+⌛ 1981-10-29 - Yes - "Classic Yes" (Compilation)
 https://www.discogs.com/master/35677
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/21471034
@@ -1046,7 +1436,9 @@ Rejected format(s): Cassette, Compilation, Reissue
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3447236
 💿 Format(s): Vinyl, 7", 45 RPM, Jukebox
-⌛ 1983 - Yes, Rufus & Chaka Khan - "Owner Of A Lonely Heart / Ain't Nobody (Unknown)"
+🗓️ Imprecise date (1983) for "Owner Of A Lonely Heart / Ain't Nobody"
+🗓️ No better date found
+⌛ 1983 - Yes, Rufus & Chaka Khan - "Owner Of A Lonely Heart / Ain't Nobody" (Unknown)
 https://www.discogs.com/release/3447236-Yes-Rufus-And-Chaka-Khan-Owner-Of-A-Lonely-Heart-Aint-Nobody
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6011525
@@ -1074,17 +1466,52 @@ https://www.discogs.com/master/35745
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35799
 💿 Format(s): Vinyl, 12", 45 RPM, Stereo
-⌛ 1984 - Yes - "Leave It (Unknown)"
+🗓️ Imprecise date (1984) for "Leave It"
+🗃️ Looking at alternate version(s) from 1984
+🗃️ Analyzing version https://www.discogs.com/release/5693459
+🗓️ Release date: 1984
+🗃️ Analyzing version https://www.discogs.com/release/11191011
+🗓️ Release date: 1984-04-25
+Found better release date: 1984-04-25
+⌛ 1984-04-25 - Yes - "Leave It" (Unknown)
 https://www.discogs.com/master/35799
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35851
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1983 - Yes - "Owner Of A Lonely Heart (Single)"
+🗓️ Imprecise date (1983) for "Owner Of A Lonely Heart"
+🗃️ Looking at alternate version(s) from 1983
+🗃️ Analyzing version https://www.discogs.com/release/12336198
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/3279672
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/10338715
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/5326962
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/24624494
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/12470698
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/1114360
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/6336615
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/347333
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/7173433
+🗓️ Release date: 1983-12-12
+Found better release date: 1983-12-12
+⌛ 1983-12-12 - Yes - "Owner Of A Lonely Heart" (Single)
 https://www.discogs.com/master/35851
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/230684
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1984 - Yes - "It Can Happen (Single)"
+🗓️ Imprecise date (1984) for "It Can Happen"
+🗃️ Looking at alternate version(s) from 1984
+🗃️ Analyzing version https://www.discogs.com/release/11190939
+🗓️ Release date: 1984-08-25
+Found better release date: 1984-08-25
+⌛ 1984-08-25 - Yes - "It Can Happen" (Single)
 https://www.discogs.com/master/230684
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/85473
@@ -1135,7 +1562,12 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3504519
 💿 Format(s): Vinyl, 7", 45 RPM, Jukebox
-⌛ 1984 - Gino Soccio, Yes - "Turn It Around / Leave It (Unknown)"
+🗓️ Imprecise date (1984) for "Turn It Around / Leave It"
+🗃️ Looking at alternate version(s) from 1984
+🗃️ Analyzing version https://www.discogs.com/release/30855501
+🗓️ Release date: 1984
+🗓️ No better date found
+⌛ 1984 - Gino Soccio, Yes - "Turn It Around / Leave It" (Unknown)
 https://www.discogs.com/master/3504519
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/555721
@@ -1172,7 +1604,10 @@ Rejected format(s): Cassette, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3594200
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1985 - Yes - "Owner Of A Lonely Heart / Leave It (Single)"
+🗓️ Imprecise date (1985) for "Owner Of A Lonely Heart / Leave It"
+🗃️ Looking at alternate version(s) from 1985
+🗓️ No better date found
+⌛ 1985 - Yes - "Owner Of A Lonely Heart / Leave It" (Single)
 https://www.discogs.com/master/3594200
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9861416
@@ -1310,12 +1745,58 @@ https://www.discogs.com/master/35904
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35924
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Styrene
-⌛ 1987 - Yes - "Rhythm Of Love (Single)"
+🗓️ Imprecise date (1987) for "Rhythm Of Love"
+🗃️ Looking at alternate version(s) from 1987
+🗃️ Analyzing version https://www.discogs.com/release/14839736
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/2488043
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/860721
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/14987356
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/4834384
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/1595597
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/13549651
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/7016509
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/3690546
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/7005172
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/1722593
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/5042532
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/6559250
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/13803699
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/32015381
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/4838357
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/9587074
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/14221908
+🗓️ Release date: 1987
+🗓️ No better date found
+⌛ 1987 - Yes - "Rhythm Of Love" (Single)
 https://www.discogs.com/master/35924
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/200508
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1987 - Yes - "Love Will Find A Way (Single)"
+🗓️ Imprecise date (1987) for "Love Will Find A Way"
+🗃️ Looking at alternate version(s) from 1987
+🗃️ Analyzing version https://www.discogs.com/release/3642835
+🗓️ Release date: 1987
+🗃️ Analyzing version https://www.discogs.com/release/6051933
+🗓️ Release date: 1987-10-25
+Found better release date: 1987-10-25
+⌛ 1987-10-25 - Yes - "Love Will Find A Way" (Single)
 https://www.discogs.com/master/200508
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14543772
@@ -1372,7 +1853,9 @@ Rejected format(s): Vinyl, LP, Unofficial Release, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14387857
 💿 Format(s): CD, Compilation, Stereo
-⌛ 1989 - Emerson, Lake & Palmer, Yes, Genesis, Roxy Music - "Progressive Night (Live Rock Super Hits) (Compilation)"
+🗓️ Imprecise date (1989) for "Progressive Night (Live Rock Super Hits)"
+🗓️ No better date found
+⌛ 1989 - Emerson, Lake & Palmer, Yes, Genesis, Roxy Music - "Progressive Night (Live Rock Super Hits)" (Compilation)
 https://www.discogs.com/release/14387857-Emerson-Lake-Palmer-Yes-Genesis-Roxy-Music-Progressive-Night-Live-Rock-Super-Hits
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14558719
@@ -1422,7 +1905,18 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/172385
 💿 Format(s): Vinyl, 7", Single, 45 RPM
-⌛ 1991 - Yes - "Saving My Heart (Single)"
+🗓️ Imprecise date (1991) for "Saving My Heart"
+🗃️ Looking at alternate version(s) from 1991
+🗃️ Analyzing version https://www.discogs.com/release/1888498
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/2321226
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/9057029
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/2387044
+🗓️ Release date: 1991
+🗓️ No better date found
+⌛ 1991 - Yes - "Saving My Heart" (Single)
 https://www.discogs.com/master/172385
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/700800
@@ -1440,7 +1934,18 @@ Rejected format(s): CD, Promo, Single
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/250295
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-⌛ 1991 - Yes - "Lift Me Up (Single)"
+🗓️ Imprecise date (1991) for "Lift Me Up"
+🗃️ Looking at alternate version(s) from 1991
+🗃️ Analyzing version https://www.discogs.com/release/15658677
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/9705677
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/3893727
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/2409832
+🗓️ Release date: 1991-06-05
+Found better release date: 1991-06-05
+⌛ 1991-06-05 - Yes - "Lift Me Up" (Single)
 https://www.discogs.com/master/250295
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1102579
@@ -1468,12 +1973,27 @@ https://www.discogs.com/master/35939
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35968
 💿 Format(s): CD, Compilation, Box Set, Compilation
-⌛ 1991 - Yes - "Yes Years (Compilation)"
+🗓️ Imprecise date (1991) for "Yes Years"
+🗃️ Looking at alternate version(s) from 1991
+🗃️ Analyzing version https://www.discogs.com/release/10823977
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/9329522
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/8598738
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/1664929
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/1913024
+🗓️ Release date: 1991
+🗃️ Analyzing version https://www.discogs.com/release/7683419
+🗓️ Release date: 1991-09-25
+Found better release date: 1991-09-25
+⌛ 1991-09-25 - Yes - "Yes Years" (Compilation)
 https://www.discogs.com/master/35968
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/35985
 💿 Format(s): CD, Compilation, Stereo
-⌛ 1991-09-00 - Yes - "Yesstory (Compilation)"
+⌛ 1991-09-00 - Yes - "Yesstory" (Compilation)
 https://www.discogs.com/master/35985
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/431489
@@ -1509,7 +2029,9 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1719305
 💿 Format(s): CD, Single
-⌛ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
+🗓️ Imprecise date (1993) for "Owner Of The Lonely Heart / Close To The Edge"
+🗓️ No better date found
+⌛ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge" (Single)
 https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14297224
@@ -1532,27 +2054,12 @@ Rejected format(s): Laserdisc, 12", Mono, NTSC
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/300714
 💿 Format(s): CD, Compilation, Remastered
+🗓️ Imprecise date (1993) for "Highlights - The Very Best Of Yes"
 🗃️ Looking at alternate version(s) from 1993
-🗃️ Analyzing main formats of version https://www.discogs.com/release/2459677
-💿 Format(s): CD, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/5341057
-💿 Format(s): CD, Compilation, Club Edition, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/22859312
-💿 Format(s): Cassette, Compilation, Club Edition, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/8806743
-🗃️ Analyzing version https://www.discogs.com/release/8806743
-💿 Format(s): Cassette, Compilation
-🗃️ Analyzing main formats of version https://www.discogs.com/release/10220146
-💿 Format(s): Cassette, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/11760628
-💿 Format(s): Cassette, Compilation, Promo, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/20178208
-🗃️ Analyzing version https://www.discogs.com/release/20178208
-💿 Format(s): Cassette, Compilation
-🗃️ Analyzing main formats of version https://www.discogs.com/release/10836298
-🗃️ Analyzing version https://www.discogs.com/release/10836298
-💿 Format(s): CD, Compilation
-⌛ 1993 - Yes - "Highlights: The Very Best Of Yes (Compilation)"
+🗃️ Analyzing version https://www.discogs.com/release/2459677
+🗓️ Release date: 1993-09-00
+Found better release date: 1993-09-00
+⌛ 1993-09-00 - Yes - "Highlights - The Very Best Of Yes" (Compilation)
 https://www.discogs.com/master/300714
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3832894
@@ -1575,12 +2082,21 @@ Rejected format(s): CD, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33522524
 💿 Format(s): CD, Advance, Stereo
-⌛ 1994 - Yes - "An Evening Of Yes Music Plus Sampler (Unknown)"
+🗓️ Imprecise date (1994) for "An Evening Of Yes Music Plus Sampler"
+🗓️ No better date found
+⌛ 1994 - Yes - "An Evening Of Yes Music Plus Sampler" (Unknown)
 https://www.discogs.com/release/33522524-Yes-An-Evening-Of-Yes-Music-Plus-Sampler
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/592295
 💿 Format(s): CD, Single
-⌛ 1994 - Yes - "The Calling (Single)"
+🗓️ Imprecise date (1994) for "The Calling"
+🗃️ Looking at alternate version(s) from 1994
+🗃️ Analyzing version https://www.discogs.com/release/4864734
+🗓️ Release date: 1994
+🗃️ Analyzing version https://www.discogs.com/release/9718365
+🗓️ Release date: 1994-03-16
+Found better release date: 1994-03-16
+⌛ 1994-03-16 - Yes - "The Calling" (Single)
 https://www.discogs.com/master/592295
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/513142
@@ -1619,7 +2135,12 @@ Analyzing release https://www.discogs.com/master/403344
 🗃️ Analyzing main formats of version https://www.discogs.com/release/3361189
 🗃️ Analyzing version https://www.discogs.com/release/3361189
 💿 Format(s): CD, VCD
-⌛ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
+🗓️ Imprecise date (1996) for "Live In Philadelphia 1979"
+🗃️ Looking at alternate version(s) from 1996
+🗃️ Analyzing version https://www.discogs.com/release/5110061
+🗓️ Release date: 1996
+🗓️ No better date found
+⌛ 1996 - Yes - "Live In Philadelphia 1979" (Unknown)
 https://www.discogs.com/master/403344
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2114547
@@ -1682,7 +2203,9 @@ Rejected format(s): VHS, PAL
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9547486
 💿 Format(s): CD, Single
-⌛ 1997 - Yes - "New State Of Mind (Single)"
+🗓️ Imprecise date (1997) for "New State Of Mind"
+🗓️ No better date found
+⌛ 1997 - Yes - "New State Of Mind" (Single)
 https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/37358832
@@ -1754,19 +2277,8 @@ https://www.discogs.com/master/36036
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/236968
 💿 Format(s): CD, Album, Compilation, Remastered
-🗃️ Looking at alternate version(s) from 1997
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14798641
-💿 Format(s): CD, Album, Compilation, Remastered, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/32586951
-💿 Format(s): CD, Album, Compilation, Remastered}
-🗃️ Looking at alternate version(s) from 1997
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14798641
-💿 Format(s): CD, Album, Compilation, Remastered, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/32586951
-💿 Format(s): CD, Album, Compilation, Remastered}
-❌ 1997 - Yes - "Something's Coming: The BBC Recordings 1969-1970"
-(https://www.discogs.com/master/236968)
-Rejected format(s): CD, Album, Compilation, Remastered
+💿 1997-10-14 - Yes - "Something's Coming: The BBC Recordings 1969-1970"
+https://www.discogs.com/master/236968
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/491661
 💿 Format(s): Vinyl, LP, Unofficial Release
@@ -1786,7 +2298,36 @@ Rejected format(s): Vinyl, LP, Unofficial Release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/345291
 💿 Format(s): CD, Compilation
-⌛ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
+🗓️ Imprecise date (1998) for "Yes, Friends And Relatives"
+🗃️ Looking at alternate version(s) from 1998
+🗃️ Analyzing version https://www.discogs.com/release/6984069
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/35948005
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/13932594
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/9005300
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/18030361
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/5653594
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/8874622
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/7565769
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/33500294
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/13778482
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/24263561
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/8006696
+🗓️ Release date: 1998
+🗃️ Analyzing version https://www.discogs.com/release/9203898
+🗓️ Release date: 1998-07-23
+Found better release date: 1998-07-23
+⌛ 1998-07-23 - Yes, Friends Of Yes - "Yes, Friends And Relatives" (Compilation)
 https://www.discogs.com/master/345291
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/607666
@@ -1850,12 +2391,24 @@ Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/641604
 💿 Format(s): CD, Compilation
-⌛ 1999 - Yes - "Astral Traveller (Compilation)"
+🗓️ Imprecise date (1999) for "Astral Traveller"
+🗃️ Looking at alternate version(s) from 1999
+🗃️ Analyzing version https://www.discogs.com/release/5284709
+🗓️ Release date: 1999
+🗃️ Analyzing version https://www.discogs.com/release/15539234
+🗓️ Release date: 1999
+🗓️ No better date found
+⌛ 1999 - Yes - "Astral Traveller" (Compilation)
 https://www.discogs.com/master/641604
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/607523
 💿 Format(s): CD, Compilation
-⌛ 1999 - Yes - "The Best Of Yes 1970-1987 (Compilation)"
+🗓️ Imprecise date (1999) for "The Best Of Yes 1970-1987"
+🗃️ Looking at alternate version(s) from 1999
+🗃️ Analyzing version https://www.discogs.com/release/9163904
+🗓️ Release date: 1999-11-10
+Found better release date: 1999-11-10
+⌛ 1999-11-10 - Yes - "The Best Of Yes 1970-1987" (Compilation)
 https://www.discogs.com/master/607523
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/415666
@@ -1870,7 +2423,10 @@ Rejected format(s): Laserdisc, 12", NTSC
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1385564
 💿 Format(s): CD, Compilation
-⌛ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two) (Compilation)"
+🗓️ Imprecise date (2000) for "Yes, Friends And Relatives (Volume Two)"
+🗃️ Looking at alternate version(s) from 2000
+🗓️ No better date found
+⌛ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two)" (Compilation)
 https://www.discogs.com/master/1385564
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1174695
@@ -1955,7 +2511,10 @@ Rejected format(s): CD, EP, Promo, Sampler
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/844182
 💿 Format(s): CD, Compilation
-⌛ 2010 - Yes - "Astral Traveller (The BBC Sessions) (Compilation)"
+🗓️ Imprecise date (2010) for "Astral Traveller (The BBC Sessions)"
+🗃️ Looking at alternate version(s) from 2010
+🗓️ No better date found
+⌛ 2010 - Yes - "Astral Traveller (The BBC Sessions)" (Compilation)
 https://www.discogs.com/master/844182
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/559690
@@ -1964,7 +2523,7 @@ Analyzing release https://www.discogs.com/master/559690
 🗃️ Analyzing main formats of version https://www.discogs.com/release/8521382
 🗃️ Analyzing version https://www.discogs.com/release/8521382
 💿 Format(s): Cassette, Album, Compilation
-⌛ 2001-09-18 - Yes - "Keystudio (Compilation)"
+⌛ 2001-09-18 - Yes - "Keystudio" (Compilation)
 https://www.discogs.com/master/559690
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/36017
@@ -1989,36 +2548,48 @@ https://www.discogs.com/master/36017
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1707213
 💿 Format(s): CD, Compilation
-⌛ 2002 - Yes - "Friends And Relatives: Ultimate Collection (Compilation)"
+🗓️ Imprecise date (2002) for "Friends And Relatives: Ultimate Collection"
+🗓️ No better date found
+⌛ 2002 - Yes - "Friends And Relatives: Ultimate Collection" (Compilation)
 https://www.discogs.com/release/1707213-Yes-Friends-And-Relatives-Ultimate-Collection
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5153523
 💿 Format(s): CD, Compilation
-⌛ 2002 - Yes - "Yes-today (Compilation)"
+🗓️ Imprecise date (2002) for "Yes-today"
+🗓️ No better date found
+⌛ 2002 - Yes - "Yes-today" (Compilation)
 https://www.discogs.com/release/5153523-Yes-Yes-today
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14542219
 💿 Format(s): CD, Compilation
-⌛ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
+🗓️ Imprecise date (2002) for "Friends And Relatives: Ultimate Collection 2"
+🗓️ No better date found
+⌛ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2" (Compilation)
 https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/211114
 💿 Format(s): CD, Compilation, Remastered
-🗃️ Looking at alternate version(s) from 2002
-🗃️ Analyzing main formats of version https://www.discogs.com/release/3982386
-🗃️ Analyzing version https://www.discogs.com/release/3982386
-💿 Format(s): CD, Compilation
-⌛ 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
+⌛ 2002-07-30 - Yes - "In A Word: Yes (1969 -    )" (Compilation)
 https://www.discogs.com/master/211114
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/367886
 💿 Format(s): CD, Compilation
-⌛ 2002 - Yes, Guests - "Essential Elements (Compilation)"
+🗓️ Imprecise date (2002) for "Essential Elements"
+🗃️ Looking at alternate version(s) from 2002
+🗃️ Analyzing version https://www.discogs.com/release/2707744
+🗓️ Release date: 2002
+🗓️ No better date found
+⌛ 2002 - Yes, Guests - "Essential Elements" (Compilation)
 https://www.discogs.com/master/367886
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/831099
 💿 Format(s): CD, Compilation
-⌛ 2002 - Yes - "Extended Versions: The Encore Collection (Compilation)"
+🗓️ Imprecise date (2002) for "Extended Versions: The Encore Collection"
+🗃️ Looking at alternate version(s) from 2002
+🗃️ Analyzing version https://www.discogs.com/release/35810356
+🗓️ Release date: 2002
+🗓️ No better date found
+⌛ 2002 - Yes - "Extended Versions: The Encore Collection" (Compilation)
 https://www.discogs.com/master/831099
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/349934
@@ -2051,12 +2622,19 @@ https://www.discogs.com/master/349934
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2080268
 💿 Format(s): CD, Compilation
-⌛ 2003 - Yes - "Roundabout - The Best Of Yes Live (Compilation)"
+🗓️ Imprecise date (2003) for "Roundabout - The Best Of Yes Live"
+🗓️ No better date found
+⌛ 2003 - Yes - "Roundabout - The Best Of Yes Live" (Compilation)
 https://www.discogs.com/release/2080268-Yes-Roundabout-The-Best-Of-Yes-Live
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/4264281
 💿 Format(s): CD, Compilation, Deluxe Edition
-⌛ 2003 - Yes - "The Yes Story (Compilation)"
+🗓️ Imprecise date (2003) for "The Yes Story"
+🗃️ Looking at alternate version(s) from 2003
+🗃️ Analyzing version https://www.discogs.com/release/37691241
+🗓️ Release date: 2003
+🗓️ No better date found
+⌛ 2003 - Yes - "The Yes Story" (Compilation)
 https://www.discogs.com/master/4264281
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3154695
@@ -2071,7 +2649,7 @@ Rejected format(s): DVD, DVD-Video, PAL, Unofficial Release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/486232
 💿 Format(s): CD, Compilation
-⌛ 2003-07-08 - Yes - "Remixes (Compilation)"
+⌛ 2003-07-08 - Yes - "Remixes" (Compilation)
 https://www.discogs.com/master/486232
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/513141
@@ -2086,12 +2664,15 @@ Rejected format(s): DVD, DVD-Video, PAL, EP, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/2211358
 💿 Format(s): CD, Compilation
-⌛ 2003 - Yes, Friends Of Yes - "Yes + Friends (Compilation)"
+🗓️ Imprecise date (2003) for "Yes + Friends"
+🗃️ Looking at alternate version(s) from 2003
+🗓️ No better date found
+⌛ 2003 - Yes, Friends Of Yes - "Yes + Friends" (Compilation)
 https://www.discogs.com/master/2211358
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/349947
 💿 Format(s): CD, Compilation, Stereo
-⌛ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection (Compilation)"
+⌛ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection" (Compilation)
 https://www.discogs.com/master/349947
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/349953
@@ -2123,7 +2704,9 @@ Rejected format(s): DVD, DVD-Video, NTSC, Stereo, Multichannel
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1530417
 💿 Format(s): CD, Compilation
-⌛ 2004 - Yes, Jon Anderson, Chris Squire, Steve Howe, Alan White - "The Collection (Compilation)"
+🗓️ Imprecise date (2004) for "The Collection"
+🗓️ No better date found
+⌛ 2004 - Yes, Jon Anderson, Chris Squire, Steve Howe, Alan White - "The Collection" (Compilation)
 https://www.discogs.com/release/1530417-Yes-Featuring-Jon-Anderson-Chris-Squire-Steve-Howe-And-Alan-White-The-Collection
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13224298
@@ -2134,12 +2717,19 @@ Rejected format(s): CDr, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/19657846
 💿 Format(s): CD, CD-ROM, Single
-⌛ 2004 - Yes - "Roundabout (Acoustic) (Single)"
+🗓️ Imprecise date (2004) for "Roundabout (Acoustic)"
+🗓️ No better date found
+⌛ 2004 - Yes - "Roundabout (Acoustic)" (Single)
 https://www.discogs.com/release/19657846-Yes-Roundabout-Acoustic
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1692560
 💿 Format(s): CD, Compilation
-⌛ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics) (Compilation)"
+🗓️ Imprecise date (2004) for "Topography (The Yes Anthology) (Studio, Live & Solo Classics)"
+🗃️ Looking at alternate version(s) from 2004
+🗃️ Analyzing version https://www.discogs.com/release/1690398
+🗓️ Release date: 2004
+🗓️ No better date found
+⌛ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics)" (Compilation)
 https://www.discogs.com/master/1692560
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/593100
@@ -2154,7 +2744,12 @@ Rejected format(s): DVD, DVD-Video, NTSC
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1883502
 💿 Format(s): CD, Compilation
-⌛ 2004 - Yes - "(Re)Union (Compilation)"
+🗓️ Imprecise date (2004) for "(Re)Union"
+🗃️ Looking at alternate version(s) from 2004
+🗃️ Analyzing version https://www.discogs.com/release/3871509
+🗓️ Release date: 2004
+🗓️ No better date found
+⌛ 2004 - Yes - "(Re)Union" (Compilation)
 https://www.discogs.com/master/1883502
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/528052
@@ -2203,27 +2798,33 @@ https://www.discogs.com/master/569660
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/361555
 💿 Format(s): Vinyl, 12", 33 ⅓ RPM
-⌛ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart (Unknown)"
+⌛ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart" (Unknown)
 https://www.discogs.com/master/361555
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1164578
 💿 Format(s): CD, Compilation
-⌛ 2005-10-03 - Yes - "The Solid Gold Collection (Compilation)"
+⌛ 2005-10-03 - Yes - "The Solid Gold Collection" (Compilation)
 https://www.discogs.com/master/1164578
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1295583
 💿 Format(s): CD, Compilation, Box Set
-⌛ 2006 - Yes - "Live And Solo (The Yes Collection) (Compilation)"
+🗓️ Imprecise date (2006) for "Live And Solo (The Yes Collection)"
+🗓️ No better date found
+⌛ 2006 - Yes - "Live And Solo (The Yes Collection)" (Compilation)
 https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3217396
 💿 Format(s): CD, Compilation
-⌛ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
+🗓️ Imprecise date (2006) for "Owner Of A Lonely Heart"
+🗓️ No better date found
+⌛ 2006 - Yes - "Owner Of A Lonely Heart" (Compilation)
 https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/8454921
 💿 Format(s): CD, Compilation
-⌛ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+🗓️ Imprecise date (2006) for "Owner Of A Lonely Heart"
+🗓️ No better date found
+⌛ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart" (Compilation)
 https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/979557
@@ -2252,7 +2853,9 @@ Rejected format(s): DVD, DVD-Video, NTSC, Deluxe Edition, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7061650
 💿 Format(s): CD, Album, Compilation
-⌛ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
+🗓️ Imprecise date (2007) for "Roundabout & Other Hits"
+🗓️ No better date found
+💿 2007 - Yes - "Roundabout & Other Hits"
 https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/303658
@@ -2293,21 +2896,25 @@ https://www.discogs.com/master/303658
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/709163
 💿 Format(s): CD, Compilation, Stereo
-⌛ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
+🗓️ Imprecise date (2007) for "Hits & More From The Yes Family"
+🗃️ Looking at alternate version(s) from 2007
+🗓️ No better date found
+⌛ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family" (Compilation)
 https://www.discogs.com/master/709163
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1471276
 💿 Format(s): CD, Compilation, Remastered
-🗃️ Looking at alternate version(s) from 2007
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12946994
-💿 Format(s): CD, Compilation, Club Edition, Remastered}
-❌ 2007 - Yes - "The Definitive Rock Collection"
-(https://www.discogs.com/master/1471276)
-Rejected format(s): CD, Compilation, Remastered
+⌛ 2007-02-23 - Yes - "The Definitive Rock Collection" (Compilation)
+https://www.discogs.com/master/1471276
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1639329
 💿 Format(s): CD, Compilation
-⌛ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
+🗓️ Imprecise date (2007) for "Yes & Friends (Owner Of A Lonely Heart)"
+🗃️ Looking at alternate version(s) from 2007
+🗃️ Analyzing version https://www.discogs.com/release/14424945
+🗓️ Release date: 2007
+🗓️ No better date found
+⌛ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart)" (Compilation)
 https://www.discogs.com/master/1639329
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/607701
@@ -2316,12 +2923,23 @@ Analyzing release https://www.discogs.com/master/607701
 🗃️ Analyzing main formats of version https://www.discogs.com/release/4287039
 🗃️ Analyzing version https://www.discogs.com/release/4287039
 💿 Format(s): CD, Album, Compilation
-⌛ 2007 - Yes, Friends Of Yes - "Yes & Friends (Compilation)"
+🗓️ Imprecise date (2007) for "Yes & Friends"
+🗃️ Looking at alternate version(s) from 2007
+🗃️ Analyzing version https://www.discogs.com/release/3706662
+🗓️ Release date: 2007
+🗃️ Analyzing version https://www.discogs.com/release/2073350
+🗓️ Release date: 2007
+🗃️ Analyzing version https://www.discogs.com/release/5516675
+🗓️ Release date: 2007
+🗓️ No better date found
+💿 2007 - Yes, Friends Of Yes - "Yes & Friends"
 https://www.discogs.com/master/607701
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2690296
 💿 Format(s): CD, Compilation
-⌛ 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
+🗓️ Imprecise date (2008) for "Owner Of A Lonely Heart"
+🗓️ No better date found
+⌛ 2008 - Yes - "Owner Of A Lonely Heart" (Compilation)
 https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3900250
@@ -2342,7 +2960,10 @@ Rejected format(s): DVD, DVD-Video
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/878086
 💿 Format(s): CD, Compilation
-⌛ 2008 - Yes - "Collection (Compilation)"
+🗓️ Imprecise date (2008) for "Collection"
+🗃️ Looking at alternate version(s) from 2008
+🗓️ No better date found
+⌛ 2008 - Yes - "Collection" (Compilation)
 https://www.discogs.com/master/878086
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3362648
@@ -2365,12 +2986,16 @@ Rejected format(s): CD, Sampler, Promo, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4977721
 💿 Format(s): CD, Compilation, Box Set
-⌛ 2009 - Deep Purple, Yes, Various - "Rock Heroes (Compilation)"
+🗓️ Imprecise date (2009) for "Rock Heroes"
+🗓️ No better date found
+⌛ 2009 - Deep Purple, Yes, Various - "Rock Heroes" (Compilation)
 https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7627209
 💿 Format(s): CD, Compilation
-⌛ 2009 - Yes - "Best Of (Compilation)"
+🗓️ Imprecise date (2009) for "Best Of"
+🗓️ No better date found
+⌛ 2009 - Yes - "Best Of" (Compilation)
 https://www.discogs.com/release/7627209-Yes-Best-Of
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/11596453
@@ -2393,7 +3018,12 @@ Rejected format(s): Memory Stick, MP3
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/978694
 💿 Format(s): CD, Compilation
-⌛ 2009 - Yes - "Introducing: Yes (Compilation)"
+🗓️ Imprecise date (2009) for "Introducing: Yes"
+🗃️ Looking at alternate version(s) from 2009
+🗃️ Analyzing version https://www.discogs.com/release/8309210
+🗓️ Release date: 2009
+🗓️ No better date found
+⌛ 2009 - Yes - "Introducing: Yes" (Compilation)
 https://www.discogs.com/master/978694
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/12917852
@@ -2422,7 +3052,10 @@ Rejected format(s): Blu-ray, Blu-ray, Box Set, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/719234
 💿 Format(s): CD, Compilation
-⌛ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
+🗓️ Imprecise date (2011) for "Wonderous Stories: The Best Of Yes"
+🗃️ Looking at alternate version(s) from 2011
+🗓️ No better date found
+⌛ 2011 - Yes - "Wonderous Stories: The Best Of Yes" (Compilation)
 https://www.discogs.com/master/719234
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/348933
@@ -2461,7 +3094,12 @@ Rejected format(s): DVD, NTSC
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/2143213
 💿 Format(s): CD, Compilation
-⌛ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
+🗓️ Imprecise date (2012) for "Yes Family Tree"
+🗃️ Looking at alternate version(s) from 2012
+🗃️ Analyzing version https://www.discogs.com/release/11368574
+🗓️ Release date: 2012
+🗓️ No better date found
+⌛ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree" (Compilation)
 https://www.discogs.com/master/2143213
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1531396
@@ -2516,7 +3154,7 @@ Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Al
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1188325
 💿 Format(s): CD, Compilation
-⌛ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
+⌛ 2014-11-19 - Yes - "The Greatest Hits" (Compilation)
 https://www.discogs.com/master/1188325
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/769207
@@ -2563,7 +3201,7 @@ https://www.discogs.com/master/865420
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/841073
 💿 Format(s): Box Set, CD, Mispress
-⌛ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
+⌛ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two" (Unknown)
 https://www.discogs.com/master/841073
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/884589
@@ -2610,23 +3248,8 @@ https://www.discogs.com/master/1382701
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1389962
 💿 Format(s): Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo
-🗃️ Looking at alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12231071
-💿 Format(s): Box Set, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/34214443
-💿 Format(s): Box Set, Compilation, Remastered, Test Pressing}
-🗃️ Looking at alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/37648203
-💿 Format(s): File, FLAC, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12231071
-💿 Format(s): Box Set, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12241895
-💿 Format(s): File, FLAC, Compilation, Remastered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/34214443
-💿 Format(s): Box Set, Compilation, Remastered, Test Pressing}
-❌ 2018 - Yes - "The Steven Wilson Remixes"
-(https://www.discogs.com/master/1389962)
-Rejected format(s): Box Set, Compilation, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, All Media, Remastered, Stereo
+💿 2018-06-29 - Yes - "The Steven Wilson Remixes"
+https://www.discogs.com/master/1389962
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14502870
 💿 Format(s): Box Set, Compilation, Limited Edition, Numbered, Vinyl, LP, Album, Limited Edition, Reissue, Remastered, Vinyl, LP, Album, Limited Edition, Numbered, Reissue, Remastered, CD, Album, Limited Edition, Numbered, Reissue, Vinyl, LP, Album, Limited Edition, Reissue, Remastered, Vinyl, LP, Album, Limited Edition, Reissue, Remastered
@@ -2757,11 +3380,7 @@ Rejected format(s): CD, Album, Tour Recording, DVD
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3274912
 💿 Format(s): Vinyl, LP, Album, Compilation
-🗃️ Looking at alternate version(s) from 2023
-🗃️ Analyzing main formats of version https://www.discogs.com/release/29411764
-🗃️ Analyzing version https://www.discogs.com/release/29411764
-💿 Format(s): Vinyl, LP, Album, Compilation, Stereo
-⌛ 2023-10-06 - Yes - "Yessingles (Compilation)"
+💿 2023-10-06 - Yes - "Yessingles"
 https://www.discogs.com/master/3274912
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3101595
@@ -2771,7 +3390,7 @@ https://www.discogs.com/master/3101595
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/32112012
 💿 Format(s): Vinyl, LP, Compilation
-⌛ 2024-10-25 - Yes - "Yessingles II (Compilation)"
+⌛ 2024-10-25 - Yes - "Yessingles II" (Compilation)
 https://www.discogs.com/release/32112012-Yes-Yessingles-II
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3674586
@@ -2834,22 +3453,30 @@ Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, 
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/11090041
 💿 Format(s): Vinyl, 7", 45 RPM
-⌛ unknown date - Yes - "Roundabout / Your Move (Unknown)"
+🗓️ Imprecise date (undefined) for "Roundabout / Your Move"
+🗓️ No better date found
+⌛ unknown date - Yes - "Roundabout / Your Move" (Unknown)
 https://www.discogs.com/release/11090041-Yes-Roundabout-Your-Move
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/11535745
 💿 Format(s): CD, Compilation
-⌛ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
+🗓️ Imprecise date (undefined) for "Owner Of A Lonely Heart"
+🗓️ No better date found
+⌛ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart" (Compilation)
 https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/11627134
 💿 Format(s): Vinyl, 12", 45 RPM
-⌛ unknown date - Yes, Todd Terry, Linda Clifford, Masters At Work - "Owner Of A Lonely Heart / Runaway Love (Unknown)"
+🗓️ Imprecise date (undefined) for "Owner Of A Lonely Heart / Runaway Love"
+🗓️ No better date found
+⌛ unknown date - Yes, Todd Terry, Linda Clifford, Masters At Work - "Owner Of A Lonely Heart / Runaway Love" (Unknown)
 https://www.discogs.com/release/11627134-Yes-Vs-Todd-Terry-Linda-Clifford-Vs-MAW-Owner-Of-A-Lonely-Heart-Runaway-Love
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/12691834
 💿 Format(s): CD, Compilation
-⌛ unknown date - Yes - "Best Of (Compilation)"
+🗓️ Imprecise date (undefined) for "Best Of"
+🗓️ No better date found
+⌛ unknown date - Yes - "Best Of" (Compilation)
 https://www.discogs.com/release/12691834-Yes-Best-Of
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/15062718
@@ -2878,7 +3505,9 @@ Rejected format(s): CDr, Single, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/32540937
 💿 Format(s): CD, Compilation
-⌛ unknown date - Yes - "Greatest Hits Live (Compilation)"
+🗓️ Imprecise date (undefined) for "Greatest Hits Live"
+🗓️ No better date found
+⌛ unknown date - Yes - "Greatest Hits Live" (Compilation)
 https://www.discogs.com/release/32540937-Yes-Greatest-Hits-Live
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/35537842
@@ -11790,7 +12419,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/431488)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2006 - Yes - "Beyond And Before (The BBC Recordings 1969-1970)"
-(https://www.discogs.com/master/236968)" (skipping, already rejected)
+(https://www.discogs.com/master/236968)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/2287429
 ❌ 2006 - Yes - "Solid Time Of Change"
@@ -13956,447 +14585,371 @@ Analyzing release https://www.discogs.com/master/995266
 (https://www.discogs.com/master/995266)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Looking for EP candidates with unregistered tracks
-Looking for Maxi-Single candidates with unregistered tracks
-Looking for Single candidates with unregistered tracks
-Found candidate with 2 unregistered track(s):
-🎵 Something Is Coming
-🎵 Dear Father
-🗓️ Imprecise date (1971) for "Something Is Coming / Dear Father"
-🗓️ No better date found
-💿 1971 - Yes - "Something Is Coming / Dear Father (Single)"
-https://www.discogs.com/release/2326453-Yes-Something-Is-Coming-Dear-Father
-———————————————————————————————————————————————————————————————
-Looking for Single candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 Abilene
-🗓️ Imprecise date (1978) for "Don't Kill The Whale"
-🗃️ Looking at alternate version(s) from 1978
-🗃️ Analyzing version https://www.discogs.com/release/7732315
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/36276991
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/15318512
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/14595151
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/2704664
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/13885282
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/21319831
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/5593443
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/2326473
-🗓️ Release date: 1978
-🗃️ Analyzing version https://www.discogs.com/release/2861584
-🗓️ Release date: 1978-09-00
-Found better release date: 1978-09-00
-💿 1978-09-00 - Yes - "Don't Kill The Whale (Single)"
-https://www.discogs.com/master/251305
-———————————————————————————————————————————————————————————————
-Looking for Single candidates with unregistered tracks
-Looking for Compilation candidates with unregistered tracks
-Found candidate with 6 unregistered track(s):
-🎵 Vevey, Part One
-🎵 Montreux's Theme
-🎵 Vevey, Part Two
-🎵 Money
-🎵 Run With The Fox
-🎵 Love Conquers All
-🗓️ Imprecise date (1991) for "Yes Years"
-🗃️ Looking at alternate version(s) from 1991
-🗃️ Analyzing version https://www.discogs.com/release/10823977
-🗓️ Release date: 1991
-🗃️ Analyzing version https://www.discogs.com/release/9329522
-🗓️ Release date: 1991
-🗃️ Analyzing version https://www.discogs.com/release/8598738
-🗓️ Release date: 1991
-🗃️ Analyzing version https://www.discogs.com/release/1664929
-🗓️ Release date: 1991
-🗃️ Analyzing version https://www.discogs.com/release/1913024
-🗓️ Release date: 1991
-🗃️ Analyzing version https://www.discogs.com/release/7683419
-🗓️ Release date: 1991-09-25
-Found better release date: 1991-09-25
-💿 1991-09-25 - Yes - "Yes Years (Compilation)"
-https://www.discogs.com/master/35968
-———————————————————————————————————————————————————————————————
-Looking for Compilation candidates with unregistered tracks
-Found candidate with 3 unregistered track(s):
-🎵 Richard
-🎵 Tango
-🎵 Last Train
-💿 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
-https://www.discogs.com/master/211114
-———————————————————————————————————————————————————————————————
-Looking for Compilation candidates with unregistered tracks
-Found candidate with 1 unregistered track(s):
-🎵 No Clowns
-💿 2003-07-08 - Yes - "Remixes (Compilation)"
-https://www.discogs.com/master/486232
-———————————————————————————————————————————————————————————————
-Looking for Compilation candidates with unregistered tracks
-Looking for Unknown candidates with unregistered tracks
-Looking for Album candidates with unregistered tracks
-❌ 1972 - Yes - "No Opportunity Necessary (EP)"
-https://www.discogs.com/master/1750215
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1969-07-04 - Yes - "Sweetness (Single)"
+❌ 1969-07-04 - Yes - "Sweetness" (Single)
 https://www.discogs.com/master/378005
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1970-06-19 - Yes - "Sweet Dreams (Single)"
-https://www.discogs.com/master/575574
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1969-10-00 - Yes - "Looking Around (Single)"
+❌ 1969-10-00 - Yes - "Looking Around" (Single)
 https://www.discogs.com/master/1067931
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1970-03-27 - Yes - "Time And A Word  (Single)"
-https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1971 - Yes - "Yours Is No Disgrace  (Single)"
-https://www.discogs.com/master/723554
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1971 - Yes - "Your Move (Single)"
-https://www.discogs.com/master/1449766
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1971 - Yes - "Your Move (Single)"
-https://www.discogs.com/master/294845
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1972 - Yes - "Roundabout (Single)"
-https://www.discogs.com/master/157793
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1972 - Yes - "And You And I (Part I & II) (Single)"
-https://www.discogs.com/master/261442
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1972-07-00 - Yes - "America (Single)"
-https://www.discogs.com/master/447560
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1973 - Yes - "And You And I Live Part 1 Et 2 (Single)"
-https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1974 - Yes - "America (Single)"
-https://www.discogs.com/release/4864390-Yes-America
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1974-01-00 - Yes - "And You And I (Single)"
-https://www.discogs.com/master/292365
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1975 - Yes - "Soon (Single)"
-https://www.discogs.com/master/472217
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1977 - Yes - "Turn Of The Century / Wonderous Stories (Single)"
-https://www.discogs.com/release/4731139-Yes-Turn-Of-The-Century-Wonderous-Stories
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1977 - Yes - "Going For The One (Single)"
-https://www.discogs.com/master/35209
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1977 - Yes - "Wonderous Stories / Awaken (Single)"
-https://www.discogs.com/master/740583
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1978 - Yes - "Release, Release (Single)"
-https://www.discogs.com/master/1447260
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Yes - "Run Through The Light (Single)"
-https://www.discogs.com/master/472215
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Yes - "Into The Lens (Single)"
-https://www.discogs.com/master/298379
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1983 - Yes - "Owner Of A Lonely Heart (Single)"
-https://www.discogs.com/master/35851
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1984 - Yes - "It Can Happen (Single)"
-https://www.discogs.com/master/230684
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1985 - Yes - "Owner Of A Lonely Heart / Leave It (Single)"
-https://www.discogs.com/master/3594200
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1987 - Yes - "Rhythm Of Love (Single)"
-https://www.discogs.com/master/35924
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1987 - Yes - "Love Will Find A Way (Single)"
-https://www.discogs.com/master/200508
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1991 - Yes - "Saving My Heart (Single)"
-https://www.discogs.com/master/172385
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1991 - Yes - "Lift Me Up (Single)"
-https://www.discogs.com/master/250295
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge (Single)"
-https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1994 - Yes - "The Calling (Single)"
-https://www.discogs.com/master/592295
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1997 - Yes - "New State Of Mind (Single)"
-https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2004 - Yes - "Roundabout (Acoustic) (Single)"
-https://www.discogs.com/release/19657846-Yes-Roundabout-Acoustic
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word (Compilation)"
+❌ 1970 - Derek & The Dominos, Yes - "Layla / Time And A Word" (Compilation)
 https://www.discogs.com/release/33059766-Derek-And-The-Dominos-Yes-Layla-Time-And-A-Word
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1971 - Yes - "Time And A Word / The Yes Album (Compilation)"
+❌ 1970-03-27 - Yes - "Time And A Word " (Single)
+https://www.discogs.com/release/4732917-Yes-Time-And-A-Word-
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1970-06-19 - Yes - "Sweet Dreams" (Single)
+https://www.discogs.com/master/575574
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1971 - Yes - "Something Is Coming / Dear Father" (Single)
+https://www.discogs.com/release/2326453-Yes-Something-Is-Coming-Dear-Father
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1971 - Yes - "Time And A Word / The Yes Album" (Compilation)
 https://www.discogs.com/release/9906839-Yes-Time-And-A-Word-The-Yes-Album
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1973 - Yes - "2 Originals Of Yes (Compilation)"
-https://www.discogs.com/master/374347
+❌ 1971 - Yes - "Yours Is No Disgrace " (Single)
+https://www.discogs.com/master/723554
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1975 - Yes - "Yesterdays (Compilation)"
-https://www.discogs.com/master/35153
+❌ 1971 - Yes - "Your Move" (Single)
+https://www.discogs.com/master/1449766
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Yes - "Classic Yes (Compilation)"
-https://www.discogs.com/master/35677
+❌ 1971-09-15 - Yes - "Your Move" (Single)
+https://www.discogs.com/master/294845
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1989 - Emerson, Lake & Palmer, Yes, Genesis, Roxy Music - "Progressive Night (Live Rock Super Hits) (Compilation)"
-https://www.discogs.com/release/14387857-Emerson-Lake-Palmer-Yes-Genesis-Roxy-Music-Progressive-Night-Live-Rock-Super-Hits
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1998 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Compilation)"
-https://www.discogs.com/master/345291
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1999 - Yes - "Astral Traveller (Compilation)"
-https://www.discogs.com/master/641604
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1999 - Yes - "The Best Of Yes 1970-1987 (Compilation)"
-https://www.discogs.com/master/607523
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two) (Compilation)"
-https://www.discogs.com/master/1385564
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2001-09-18 - Yes - "Keystudio (Compilation)"
-https://www.discogs.com/master/559690
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection (Compilation)"
-https://www.discogs.com/release/1707213-Yes-Friends-And-Relatives-Ultimate-Collection
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2002 - Yes - "Yes-today (Compilation)"
-https://www.discogs.com/release/5153523-Yes-Yes-today
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2 (Compilation)"
-https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2002 - Yes, Guests - "Essential Elements (Compilation)"
-https://www.discogs.com/master/367886
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2002 - Yes - "Extended Versions: The Encore Collection (Compilation)"
-https://www.discogs.com/master/831099
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2003 - Yes - "Roundabout - The Best Of Yes Live (Compilation)"
-https://www.discogs.com/release/2080268-Yes-Roundabout-The-Best-Of-Yes-Live
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2003 - Yes - "The Yes Story (Compilation)"
-https://www.discogs.com/master/4264281
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2003 - Yes, Friends Of Yes - "Yes + Friends (Compilation)"
-https://www.discogs.com/master/2211358
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection (Compilation)"
-https://www.discogs.com/master/349947
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2004 - Yes, Jon Anderson, Chris Squire, Steve Howe, Alan White - "The Collection (Compilation)"
-https://www.discogs.com/release/1530417-Yes-Featuring-Jon-Anderson-Chris-Squire-Steve-Howe-And-Alan-White-The-Collection
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics) (Compilation)"
-https://www.discogs.com/master/1692560
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2004 - Yes - "(Re)Union (Compilation)"
-https://www.discogs.com/master/1883502
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2005-10-03 - Yes - "The Solid Gold Collection (Compilation)"
-https://www.discogs.com/master/1164578
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Live And Solo (The Yes Collection) (Compilation)"
-https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2006 - Yes - "Owner Of A Lonely Heart (Compilation)"
-https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
-https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes - "Roundabout & Other Hits (Compilation)"
-https://www.discogs.com/release/7061650-Yes-Roundabout-Other-Hits
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family (Compilation)"
-https://www.discogs.com/master/709163
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart) (Compilation)"
-https://www.discogs.com/master/1639329
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Compilation)"
-https://www.discogs.com/master/607701
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2008 - Yes - "Owner Of A Lonely Heart (Compilation)"
-https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2008 - Yes - "Collection (Compilation)"
-https://www.discogs.com/master/878086
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2009 - Deep Purple, Yes, Various - "Rock Heroes (Compilation)"
-https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2009 - Yes - "Best Of (Compilation)"
-https://www.discogs.com/release/7627209-Yes-Best-Of
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2009 - Yes - "Introducing: Yes (Compilation)"
-https://www.discogs.com/master/978694
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2010 - Yes - "Astral Traveller (The BBC Sessions) (Compilation)"
-https://www.discogs.com/master/844182
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes (Compilation)"
-https://www.discogs.com/master/719234
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree (Compilation)"
-https://www.discogs.com/master/2143213
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2014-11-19 - Yes - "The Greatest Hits (Compilation)"
-https://www.discogs.com/master/1188325
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2023-10-06 - Yes - "Yessingles (Compilation)"
-https://www.discogs.com/master/3274912
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2024-10-25 - Yes - "Yessingles II (Compilation)"
-https://www.discogs.com/release/32112012-Yes-Yessingles-II
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart (Compilation)"
-https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ unknown date - Yes - "Best Of (Compilation)"
-https://www.discogs.com/release/12691834-Yes-Best-Of
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ unknown date - Yes - "Greatest Hits Live (Compilation)"
-https://www.discogs.com/release/32540937-Yes-Greatest-Hits-Live
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1991-09-00 - Yes - "Yesstory (Compilation)"
-https://www.discogs.com/master/35985
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1993 - Yes - "Highlights: The Very Best Of Yes (Compilation)"
-https://www.discogs.com/master/300714
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1972 - Yes - "Siberian Khatru  (Unknown)"
+❌ 1972 - Yes - "Siberian Khatru " (Unknown)
 https://www.discogs.com/release/8878399-Yes-Siberian-Khatru-
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Narada Michael Walden, Yes - "The Real Thang / Does It Really Happen? (Unknown)"
+❌ 1972 - Yes - "Roundabout" (Single)
+https://www.discogs.com/master/157793
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1972 - Yes - "No Opportunity Necessary" (EP)
+https://www.discogs.com/master/1750215
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1972-07-00 - Yes - "America" (Single)
+https://www.discogs.com/master/447560
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1972-12-00 - Yes - "And You And I (Part I & II)" (Single)
+https://www.discogs.com/master/261442
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1973 - Yes - "And You And I Live Part 1 Et 2" (Single)
+https://www.discogs.com/release/4864359-Yes-And-You-And-I-Live-Part-1-Et-2
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1974 - Yes - "America" (Single)
+https://www.discogs.com/release/4864390-Yes-America
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1974-01-00 - Yes - "And You And I" (Single)
+https://www.discogs.com/master/292365
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1975 - Yes - "Yesterdays" (Compilation)
+https://www.discogs.com/master/35153
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1975 - Yes - "Soon" (Single)
+https://www.discogs.com/master/472217
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1977 - Yes - "Turn Of The Century / Wonderous Stories" (Single)
+https://www.discogs.com/release/4731139-Yes-Turn-Of-The-Century-Wonderous-Stories
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1977 - Yes - "Wonderous Stories / Awaken" (Single)
+https://www.discogs.com/master/740583
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1977-07-00 - Yes - "Going For The One" (Single)
+https://www.discogs.com/master/35209
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1978 - Yes - "Release, Release" (Single)
+https://www.discogs.com/master/1447260
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with undefined unregistered track(s):
+💿 1978-09-00 - Yes - "Don't Kill The Whale" (Single)
+https://www.discogs.com/master/251305
+———————————————————————————————————————————————————————————————
+❌ 1980 - Narada Michael Walden, Yes - "The Real Thang / Does It Really Happen?" (Unknown)
 https://www.discogs.com/release/2701268-Narada-Michael-Walden-Yes-The-Real-Thang-Does-It-Really-Happen
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Yes, Rufus & Chaka Khan - "Owner Of A Lonely Heart / Ain't Nobody (Unknown)"
+❌ 1980 - Yes - "Run Through The Light" (Single)
+https://www.discogs.com/master/472215
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1980-10-00 - Yes - "Into The Lens" (Single)
+https://www.discogs.com/master/298379
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1981-10-29 - Yes - "Classic Yes" (Compilation)
+https://www.discogs.com/master/35677
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1983 - Yes, Rufus & Chaka Khan - "Owner Of A Lonely Heart / Ain't Nobody" (Unknown)
 https://www.discogs.com/release/3447236-Yes-Rufus-And-Chaka-Khan-Owner-Of-A-Lonely-Heart-Aint-Nobody
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Yes - "Leave It (Unknown)"
-https://www.discogs.com/master/35799
+❌ 1983-12-12 - Yes - "Owner Of A Lonely Heart" (Single)
+https://www.discogs.com/master/35851
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1984 - Gino Soccio, Yes - "Turn It Around / Leave It (Unknown)"
+❌ 1984 - Gino Soccio, Yes - "Turn It Around / Leave It" (Unknown)
 https://www.discogs.com/master/3504519
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1994 - Yes - "An Evening Of Yes Music Plus Sampler (Unknown)"
+❌ 1984-04-25 - Yes - "Leave It" (Unknown)
+https://www.discogs.com/master/35799
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1984-08-25 - Yes - "It Can Happen" (Single)
+https://www.discogs.com/master/230684
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1985 - Yes - "Owner Of A Lonely Heart / Leave It" (Single)
+https://www.discogs.com/master/3594200
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1987 - Yes - "Rhythm Of Love" (Single)
+https://www.discogs.com/master/35924
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1987-10-25 - Yes - "Love Will Find A Way" (Single)
+https://www.discogs.com/master/200508
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1989 - Emerson, Lake & Palmer, Yes, Genesis, Roxy Music - "Progressive Night (Live Rock Super Hits)" (Compilation)
+https://www.discogs.com/release/14387857-Emerson-Lake-Palmer-Yes-Genesis-Roxy-Music-Progressive-Night-Live-Rock-Super-Hits
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1991 - Yes - "Saving My Heart" (Single)
+https://www.discogs.com/master/172385
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1991-06-05 - Yes - "Lift Me Up" (Single)
+https://www.discogs.com/master/250295
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1991-09-00 - Yes - "Yesstory" (Compilation)
+https://www.discogs.com/master/35985
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with undefined unregistered track(s):
+💿 1991-09-25 - Yes - "Yes Years" (Compilation)
+https://www.discogs.com/master/35968
+———————————————————————————————————————————————————————————————
+❌ 1993 - Yes - "Owner Of The Lonely Heart / Close To The Edge" (Single)
+https://www.discogs.com/release/1719305-Yes-Owner-Of-The-Lonely-Heart-Close-To-The-Edge
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1993-09-00 - Yes - "Highlights - The Very Best Of Yes" (Compilation)
+https://www.discogs.com/master/300714
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1994 - Yes - "An Evening Of Yes Music Plus Sampler" (Unknown)
 https://www.discogs.com/release/33522524-Yes-An-Evening-Of-Yes-Music-Plus-Sampler
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1996 - Yes - "Live In Philadelphia 1979 (Unknown)"
+❌ 1994-03-16 - Yes - "The Calling" (Single)
+https://www.discogs.com/master/592295
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1996 - Yes - "Live In Philadelphia 1979" (Unknown)
 https://www.discogs.com/master/403344
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart (Unknown)"
+❌ 1997 - Yes - "New State Of Mind" (Single)
+https://www.discogs.com/release/9547486-Yes-New-State-Of-Mind
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1998-07-23 - Yes, Friends Of Yes - "Yes, Friends And Relatives" (Compilation)
+https://www.discogs.com/master/345291
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1999 - Yes - "Astral Traveller" (Compilation)
+https://www.discogs.com/master/641604
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1999-11-10 - Yes - "The Best Of Yes 1970-1987" (Compilation)
+https://www.discogs.com/master/607523
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2000 - Yes, Friends Of Yes - "Yes, Friends And Relatives (Volume Two)" (Compilation)
+https://www.discogs.com/master/1385564
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2001-09-18 - Yes - "Keystudio" (Compilation)
+https://www.discogs.com/master/559690
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection" (Compilation)
+https://www.discogs.com/release/1707213-Yes-Friends-And-Relatives-Ultimate-Collection
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Yes-today" (Compilation)
+https://www.discogs.com/release/5153523-Yes-Yes-today
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Friends And Relatives: Ultimate Collection 2" (Compilation)
+https://www.discogs.com/release/14542219-Yes-Friends-And-Relatives-Ultimate-Collection-2
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes, Guests - "Essential Elements" (Compilation)
+https://www.discogs.com/master/367886
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2002 - Yes - "Extended Versions: The Encore Collection" (Compilation)
+https://www.discogs.com/master/831099
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with undefined unregistered track(s):
+💿 2002-07-30 - Yes - "In A Word: Yes (1969 -    )" (Compilation)
+https://www.discogs.com/master/211114
+———————————————————————————————————————————————————————————————
+❌ 2003 - Yes - "Roundabout - The Best Of Yes Live" (Compilation)
+https://www.discogs.com/release/2080268-Yes-Roundabout-The-Best-Of-Yes-Live
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2003 - Yes - "The Yes Story" (Compilation)
+https://www.discogs.com/master/4264281
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2003 - Yes, Friends Of Yes - "Yes + Friends" (Compilation)
+https://www.discogs.com/master/2211358
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with undefined unregistered track(s):
+💿 2003-07-08 - Yes - "Remixes" (Compilation)
+https://www.discogs.com/master/486232
+———————————————————————————————————————————————————————————————
+❌ 2003-07-28 - Yes - "The Ultimate Yes: 35th Anniversary Collection" (Compilation)
+https://www.discogs.com/master/349947
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes, Jon Anderson, Chris Squire, Steve Howe, Alan White - "The Collection" (Compilation)
+https://www.discogs.com/release/1530417-Yes-Featuring-Jon-Anderson-Chris-Squire-Steve-Howe-And-Alan-White-The-Collection
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes - "Roundabout (Acoustic)" (Single)
+https://www.discogs.com/release/19657846-Yes-Roundabout-Acoustic
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes - "Topography (The Yes Anthology) (Studio, Live & Solo Classics)" (Compilation)
+https://www.discogs.com/master/1692560
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2004 - Yes - "(Re)Union" (Compilation)
+https://www.discogs.com/master/1883502
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2005-05-16 - Max Graham, Yes - "Owner Of A Lonely Heart" (Unknown)
 https://www.discogs.com/master/361555
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two (Unknown)"
+❌ 2005-10-03 - Yes - "The Solid Gold Collection" (Compilation)
+https://www.discogs.com/master/1164578
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Live And Solo (The Yes Collection)" (Compilation)
+https://www.discogs.com/release/1295583-Yes-Live-And-Solo-The-Yes-Collection
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes - "Owner Of A Lonely Heart" (Compilation)
+https://www.discogs.com/release/3217396-Yes-Owner-Of-A-Lonely-Heart
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2006 - Yes, Friends Of Yes - "Owner Of A Lonely Heart" (Compilation)
+https://www.discogs.com/release/8454921-Yes-Friends-Owner-Of-A-Lonely-Heart
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Hits & More From The Yes Family" (Compilation)
+https://www.discogs.com/master/709163
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2007 - Yes, Friends Of Yes - "Yes & Friends (Owner Of A Lonely Heart)" (Compilation)
+https://www.discogs.com/master/1639329
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2007-02-23 - Yes - "The Definitive Rock Collection" (Compilation)
+https://www.discogs.com/master/1471276
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2008 - Yes - "Owner Of A Lonely Heart" (Compilation)
+https://www.discogs.com/release/2690296-Yes-Owner-Of-A-Lonely-Heart
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2008 - Yes - "Collection" (Compilation)
+https://www.discogs.com/master/878086
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2009 - Deep Purple, Yes, Various - "Rock Heroes" (Compilation)
+https://www.discogs.com/release/4977721-Deep-Purple-Yes-Friends-Rock-Heroes
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2009 - Yes - "Best Of" (Compilation)
+https://www.discogs.com/release/7627209-Yes-Best-Of
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2009 - Yes - "Introducing: Yes" (Compilation)
+https://www.discogs.com/master/978694
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2010 - Yes - "Astral Traveller (The BBC Sessions)" (Compilation)
+https://www.discogs.com/master/844182
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2011 - Yes - "Wonderous Stories: The Best Of Yes" (Compilation)
+https://www.discogs.com/master/719234
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2012 - Various, Yes, Friends Of Yes - "Yes Family Tree" (Compilation)
+https://www.discogs.com/master/2143213
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2014-11-19 - Yes - "The Greatest Hits" (Compilation)
+https://www.discogs.com/master/1188325
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2015-05-19 - Yes - "Progeny: Seven Shows From Seventy-Two" (Unknown)
 https://www.discogs.com/master/841073
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Yes - "Roundabout / Your Move (Unknown)"
+❌ 2024-10-25 - Yes - "Yessingles II" (Compilation)
+https://www.discogs.com/release/32112012-Yes-Yessingles-II
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ unknown date - Yes - "Roundabout / Your Move" (Unknown)
 https://www.discogs.com/release/11090041-Yes-Roundabout-Your-Move
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Yes, Todd Terry, Linda Clifford, Masters At Work - "Owner Of A Lonely Heart / Runaway Love (Unknown)"
+❌ unknown date - Yes, Friends Of Yes - "Owner Of A Lonely Heart" (Compilation)
+https://www.discogs.com/release/11535745-Yes-And-Friends-Owner-Of-A-Lonely-Heart
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ unknown date - Yes, Todd Terry, Linda Clifford, Masters At Work - "Owner Of A Lonely Heart / Runaway Love" (Unknown)
 https://www.discogs.com/release/11627134-Yes-Vs-Todd-Terry-Linda-Clifford-Vs-MAW-Owner-Of-A-Lonely-Heart-Runaway-Love
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ unknown date - Yes - "Best Of" (Compilation)
+https://www.discogs.com/release/12691834-Yes-Best-Of
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ unknown date - Yes - "Greatest Hits Live" (Compilation)
+https://www.discogs.com/release/32540937-Yes-Greatest-Hits-Live
 No new tracks
 ———————————————————————————————————————————————————————————————

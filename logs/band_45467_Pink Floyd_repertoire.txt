@@ -1,4 +1,4 @@
-252 track(s):
+251 track(s):
 ———————————————————————————————————————————————————————————————
  Allons-y (1)
 Release(s): The Endless River
@@ -90,7 +90,7 @@ Release(s): Meddle, MP3 Collection
 ———————————————————————————————————————————————————————————————
 A Saucerful Of Secrets
 Variation(s): The End Of The Beginning (A Saucerful Of Secrets), The Massed Gadgets Of Hercules [A Saucerful Of Secrets]
-Release(s): A Saucerful Of Secrets, Ummagumma, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1968 Germin/Ation, MP3 Collection, MP3 Collection, The Early Years 1972 Obfusc/ation
+Release(s): A Saucerful Of Secrets, Ummagumma, MP3 Collection, MP3 Collection, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1968 Germin/Ation, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 A Spanish Piece
 Release(s): Soundtrack From The Film "More", MP3 Collection
@@ -100,10 +100,6 @@ Release(s): Obscured By Clouds, MP3 Collection, The Early Years 1972 Obfusc/atio
 ———————————————————————————————————————————————————————————————
 Aeroplane
 Release(s): The Early Years 1970 Devi/ation
-———————————————————————————————————————————————————————————————
-Afternoon (Biding My Time)
-Variation(s): Biding My Time
-Release(s): The Early Years 1969 Dramatis/ation, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Alan's Psychedelic Breakfast
 Variation(s): Alan's Psychedelic Breakfast: Rise And Shine; Sunny Side Up; Morning Glory
@@ -126,20 +122,19 @@ Apples And Oranges
 Release(s): Apples And Oranges, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Arnold Layne
-Release(s): Arnold Layne, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, All Gold Of The World
+Release(s): See Emily Play, Arnold Layne, Press Kit Box Set, Works, MP3 Collection, All Gold Of The World, Cre/ation - The Early Years 1967 - 1972, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Astronomy Dominé
 Variation(s): Astronomy Domine, Astronomi Domine
-Release(s): The Piper At The Gates Of Dawn, Ummagumma, Pulse, MP3 Collection, MP3 Collection, Progressive Story, All Gold Of The World
+Release(s): The Piper At The Gates Of Dawn, Ummagumma, Pulse, Progressive Story, MP3 Collection, MP3 Collection, All Gold Of The World
 ———————————————————————————————————————————————————————————————
 Atom Heart Mother
-Variation(s): Mother, Atom Heart Mother (Live In Montreux, 21 November 1970), Atom Heart Mother (With Choir, Cello And Brass Ensemble), Atom Heart Mother (Early Studio Version, Band Only), Atom Heart Mother: Father's Shout; Breast Milky; Mother Fore; Funky Dung; Mind Your Throats Please; Remergence, Atom Heart Mother (Extract), Atom Heart Mother (Extract, In Colour), Atom Heart Mother (Band Version) (Live In Montreux 1970)
+Variation(s): Mother, Atom Heart Mother: Father's Shout; Breast Milky; Mother Fore; Funky Dung; Mind Your Throats Please; Remergence, Atom Heart Mother (Band Version) (Live In Montreux 1970), Atom Heart Mother (Live In Montreux, 21 November 1970), Atom Heart Mother (With Choir, Cello And Brass Ensemble), Atom Heart Mother (Early Studio Version, Band Only), Atom Heart Mother (Extract), Atom Heart Mother (Extract, In Colour)
 Sub tracks: Father's Shout, Breast Milky, Mother Fore, Funky Dung, Mind Your Throats Please, Remergence
-Release(s): Atom Heart Mother, The Wall, Is There Anybody Out There? (The Wall Live 1980-81), The Early Years 1970 Devi/ation, The Early Years 1970 Devi/ation, The Early Years 1970 Devi/ation, MP3 Collection, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): Atom Heart Mother, The Wall, Is There Anybody Out There? (The Wall Live 1980-81), MP3 Collection, Cre/ation - The Early Years 1967 - 1972, The Early Years 1970 Devi/ation, The Early Years 1970 Devi/ation, The Early Years 1970 Devi/ation, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation
 ———————————————————————————————————————————————————————————————
 Auto Scene Version 2
-Variation(s): Auto Scene Version 2 (Zabriskie Point Remix)
-Release(s): The Early Years 1970 Devi/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 Auto Scene Version 3
 Release(s): The Early Years 1970 Devi/ation
@@ -150,11 +145,15 @@ Release(s): The Endless River
 Behold The Temple Of Light
 Release(s): The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
+Biding My Time
+Variation(s): Afternoon (Biding My Time)
+Release(s): Press Kit Box Set, MP3 Collection, The Early Years 1969 Dramatis/ation
+———————————————————————————————————————————————————————————————
 Bike
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, MP3 Collection, Progressive Story
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, Press Kit Box Set, MP3 Collection, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Brain Damage
-Release(s): The Dark Side Of The Moon, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
+Release(s): The Dark Side Of The Moon, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), Works, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Breathe
 Release(s): Pulse
@@ -187,17 +186,17 @@ Candy And A Currant Bun
 Release(s): Arnold Layne, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Careful With That Axe Eugene
-Variation(s): Careful With That Axe, Eugene, Beset By Creatures Of The Deep (Careful With That Axe, Eugene), Careful With That Axe, Eugene [Single Version], Murderotic Woman [Careful With That Axe, Eugene], Carefull With That Axe, Eugene, Careful With That Axe, Eugene / Band Interview, Careful With That Axe, Eugene (Alternative Take), Careful With That Axe, Eugene (Single Version), Careful With That Axe, Eugene (BBC Session 1969)
-Release(s): Ummagumma, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1970 Devi/ation, The Early Years 1968 Germin/Ation, The Early Years 1968 Germin/Ation, MP3 Collection, MP3 Collection, The Early Years 1971 Reverber/ation, The Early Years 1972 Obfusc/ation, The Early Years 1972 Obfusc/ation, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, All Gold Of The World
+Variation(s): Careful With That Axe, Eugene, Carefull With That Axe, Eugene, Careful With That Axe, Eugene (BBC Session 1969), Beset By Creatures Of The Deep (Careful With That Axe, Eugene), Careful With That Axe, Eugene / Band Interview, Murderotic Woman [Careful With That Axe, Eugene], Careful With That Axe, Eugene (Alternative Take)
+Release(s): Ummagumma, Point Me At The Sky, Press Kit Box Set, MP3 Collection, MP3 Collection, All Gold Of The World, Cre/ation - The Early Years 1967 - 1972, The Early Years 1970 Devi/ation, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1971 Reverber/ation, The Early Years 1968 Germin/Ation, The Early Years 1972 Obfusc/ation, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 Chapter 24
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Progressive Story
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Childhood's End
 Release(s): Obscured By Clouds, MP3 Collection, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 Cirrus Minor
-Release(s): Soundtrack From The Film "More", MP3 Collection, MP3 Collection, All Gold Of The World
+Release(s): Soundtrack From The Film "More", Press Kit Box Set, MP3 Collection, MP3 Collection, All Gold Of The World
 ———————————————————————————————————————————————————————————————
 Cluster One
 Release(s): The Division Bell
@@ -218,11 +217,8 @@ Crying Song
 Release(s): Soundtrack From The Film "More", MP3 Collection
 ———————————————————————————————————————————————————————————————
 Cymbaline
-Variation(s): Nightmare (Cymbaline), Cymbaline (BBC Session 1969)
-Release(s): Soundtrack From The Film "More", The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972
-———————————————————————————————————————————————————————————————
-Daybreak (Grantchester Meadows)
-Release(s): The Early Years 1969 Dramatis/ation
+Variation(s): Cymbaline (BBC Session 1969), Nightmare (Cymbaline)
+Release(s): Soundtrack From The Film "More", MP3 Collection, Cre/ation - The Early Years 1967 - 1972, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
 Documentary Including Pink Floyd And Manager Steve O'Rourke
 Release(s): The Early Years 1971 Reverber/ation
@@ -250,10 +246,11 @@ Variation(s): Echoes (Original 4.0 Quad Mix 1971)
 Release(s): Meddle, MP3 Collection, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 Eclipse
-Release(s): The Dark Side Of The Moon, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
+Release(s): The Dark Side Of The Moon, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), Works, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Embryo
-Release(s): The Early Years 1969 Dramatis/ation, The Early Years 1970 Devi/ation, The Early Years 1968 Germin/Ation, The Early Years 1971 Reverber/ation, Cre/ation - The Early Years 1967 - 1972
+Variation(s): Embryo (Alternative Version) (BBC Session 1970)
+Release(s): Works, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, The Early Years 1970 Devi/ation, The Early Years 1969 Dramatis/ation, The Early Years 1971 Reverber/ation, The Early Years 1968 Germin/Ation
 ———————————————————————————————————————————————————————————————
 Empty Spaces
 Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)
@@ -273,22 +270,22 @@ Eyes To Pearls
 Release(s): The Endless River
 ———————————————————————————————————————————————————————————————
 Fat Old Sun
-Release(s): Atom Heart Mother, The Early Years 1970 Devi/ation, MP3 Collection, The Early Years 1971 Reverber/ation
+Release(s): Atom Heart Mother, MP3 Collection, The Early Years 1970 Devi/ation, The Early Years 1971 Reverber/ation
 ———————————————————————————————————————————————————————————————
 Fearless Including "You'll Never Walk Alone"
-Variation(s): Fearless
+Variation(s): Fearless (Interpolating "You'll Never Walk Alone"), Fearless
 Sub tracks: Fearless, You'll Never Walk Alone
-Release(s): Meddle, MP3 Collection
+Release(s): Meddle, Works, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Flaming
 Variation(s): Flaming (BBC Session 1967)
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, Progressive Story
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection, Cre/ation - The Early Years 1967 - 1972
 ———————————————————————————————————————————————————————————————
 Footsteps / Doors
 Release(s): The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
 Free Four
-Release(s): Obscured By Clouds, MP3 Collection, The Early Years 1972 Obfusc/ation
+Release(s): Obscured By Clouds, Works, MP3 Collection, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 Get Your Filthy Hands Off My Desert
 Release(s): The Final Cut
@@ -300,12 +297,12 @@ Goodbye Cruel World
 Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)
 ———————————————————————————————————————————————————————————————
 Grantchester Meadows
-Variation(s): Grantchester Meadows (BBC Session 1969)
-Release(s): The Early Years 1969 Dramatis/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972
+Variation(s): Grantchester Meadows (BBC Session 1969), Daybreak (Grantchester Meadows)
+Release(s): MP3 Collection, Cre/ation - The Early Years 1967 - 1972, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
 Green Is The Colour
-Variation(s): Green Is The Colour /, The Beginning (Green Is The Colour), Green Is The Colour (BBC Session 1969) 
-Release(s): Soundtrack From The Film "More", The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation, The Early Years 1970 Devi/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, All Gold Of The World
+Variation(s): Green Is The Colour (BBC Session 1969) , Green Is The Colour /, The Beginning (Green Is The Colour)
+Release(s): Soundtrack From The Film "More", MP3 Collection, All Gold Of The World, Cre/ation - The Early Years 1967 - 1972, The Early Years 1970 Devi/ation, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
 Have A Cigar
 Release(s): Wish You Were Here
@@ -326,10 +323,7 @@ Ibiza Bar
 Release(s): Soundtrack From The Film "More", MP3 Collection
 ———————————————————————————————————————————————————————————————
 If
-Release(s): Atom Heart Mother, The Early Years 1970 Devi/ation, MP3 Collection, All Gold Of The World
-———————————————————————————————————————————————————————————————
-In The Beechwoods (2010 Mix)
-Release(s): The Early Years 1965-1967 Cambridge St/ation
+Release(s): Atom Heart Mother, MP3 Collection, All Gold Of The World, The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 In The Flesh
 Release(s): The Wall
@@ -340,7 +334,7 @@ Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81), Is Th
 ———————————————————————————————————————————————————————————————
 Interstellar Overdrive
 Variation(s): Interstellar Overdrive (Live At The Paradiso 1969)
-Release(s): The Piper At The Gates Of Dawn, Arnold Layne, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1968 Germin/Ation, MP3 Collection, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, Progressive Story, All Gold Of The World
+Release(s): The Piper At The Gates Of Dawn, Arnold Layne, Progressive Story, Press Kit Box Set, MP3 Collection, MP3 Collection, All Gold Of The World, Cre/ation - The Early Years 1967 - 1972, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1968 Germin/Ation
 ———————————————————————————————————————————————————————————————
 Introduction
 Release(s): The Early Years 1965-1967 Cambridge St/ation
@@ -382,11 +376,10 @@ John Latham Version 9
 Release(s): The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Jugband Blues
-Variation(s): Jugband Blues (2010 Mix)
-Release(s): A Saucerful Of Secrets, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection
+Release(s): A Saucerful Of Secrets, MP3 Collection, All Gold Of The World
 ———————————————————————————————————————————————————————————————
 Julia Dream
-Release(s): One Of These Days, It Would Be So Nice, The Early Years 1968 Germin/Ation, The Early Years 1968 Germin/Ation, MP3 Collection
+Release(s): It Would Be So Nice, Press Kit Box Set, MP3 Collection, The Early Years 1968 Germin/Ation, The Early Years 1968 Germin/Ation
 ———————————————————————————————————————————————————————————————
 Keep Talking
 Release(s): The Division Bell, Pulse
@@ -398,11 +391,10 @@ Learning To Fly
 Release(s): A Momentary Lapse Of Reason, Delicate Sound Of Thunder, Pulse, Live In Venice
 ———————————————————————————————————————————————————————————————
 Let There Be More Light
-Release(s): A Saucerful Of Secrets, The Early Years 1968 Germin/Ation, MP3 Collection, All Gold Of The World
+Release(s): A Saucerful Of Secrets, MP3 Collection, All Gold Of The World, The Early Years 1968 Germin/Ation
 ———————————————————————————————————————————————————————————————
 Looking At Map
-Variation(s): Looking At Map (Zabriskie Point Remix)
-Release(s): The Early Years 1970 Devi/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 Lost For Words
 Release(s): The Division Bell
@@ -426,21 +418,20 @@ Love Scene Version 7
 Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 Lucifer Sam
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Progressive Story, All Gold Of The World
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection, All Gold Of The World
 ———————————————————————————————————————————————————————————————
 Lucy Leave
 Release(s): The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Main Theme
-Variation(s): Breathe (In The Air), Theme (Beat Version)
-Release(s): Soundtrack From The Film "More", The Dark Side Of The Moon (Live At Wembley 1974), The Early Years 1969 Dramatis/ation, MP3 Collection
+Variation(s): Breathe (In The Air)
+Release(s): Soundtrack From The Film "More", The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
 ———————————————————————————————————————————————————————————————
 Marooned
 Release(s): The Division Bell
 ———————————————————————————————————————————————————————————————
 Matilda Mother
-Variation(s): Matilda Mother (2010 Mix), Jugband Blues (2010 Mix), In The Beechwoods (2010 Mix), Childhood's End (2016 Remix), Free Four (2016 Remix), Stay (2016 Remix), Jugband Blues
-Release(s): The Piper At The Gates Of Dawn, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, Cre/ation - The Early Years 1967 - 1972, Progressive Story, All Gold Of The World
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 MC: Atmos
 Release(s): Is There Anybody Out There? (The Wall Live 1980-81)
@@ -452,8 +443,7 @@ Money
 Release(s): The Dark Side Of The Moon, Delicate Sound Of Thunder, Live At Knebworth 1990, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
 ———————————————————————————————————————————————————————————————
 More Blues
-Variation(s): More Blues (Alternative Version), Embryo (Alternative Version) (BBC Session 1970)
-Release(s): Soundtrack From The Film "More", The Early Years 1969 Dramatis/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972
+Release(s): Soundtrack From The Film "More", MP3 Collection
 ———————————————————————————————————————————————————————————————
 Mudmen
 Release(s): Obscured By Clouds, MP3 Collection, The Early Years 1972 Obfusc/ation
@@ -475,9 +465,9 @@ Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)
 Not Now John
 Release(s): The Final Cut
 ———————————————————————————————————————————————————————————————
-Nothing Part 14 (Echoes Work In Progress)
-Variation(s): Nothing Part 14
-Release(s): The Early Years 1971 Reverber/ation, Cre/ation - The Early Years 1967 - 1972
+Nothing Part 14
+Variation(s): Nothing Part 14 (Echoes Work In Progress)
+Release(s): Cre/ation - The Early Years 1967 - 1972, The Early Years 1971 Reverber/ation
 ———————————————————————————————————————————————————————————————
 Obscured By Clouds
 Variation(s): Obscured By Clouds 
@@ -487,8 +477,7 @@ On Noodle Street
 Release(s): The Endless River
 ———————————————————————————————————————————————————————————————
 On The Highway
-Variation(s): On The Highway (Zabriskie Point Remix)
-Release(s): The Early Years 1970 Devi/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 On The Run
 Release(s): The Dark Side Of The Moon, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
@@ -504,7 +493,7 @@ Release(s): The Final Cut
 ———————————————————————————————————————————————————————————————
 One Of These Days
 Variation(s): One Of These Days ('French Windows')
-Release(s): Meddle, Delicate Sound Of Thunder, One Of These Days, MP3 Collection, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, The Early Years 1972 Obfusc/ation, All Gold Of The World
+Release(s): Meddle, Delicate Sound Of Thunder, Works, MP3 Collection, All Gold Of The World, The Early Years 1971 Reverber/ation, The Early Years 1971 Reverber/ation, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 One Slip
 Release(s): A Momentary Lapse Of Reason
@@ -514,7 +503,7 @@ Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)
 ———————————————————————————————————————————————————————————————
 Paint Box
 Variation(s): Paintbox
-Release(s): Apples And Oranges, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972
+Release(s): Apples And Oranges, Press Kit Box Set, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Paranoid Eyes
 Release(s): The Final Cut
@@ -531,16 +520,18 @@ Release(s): Animals
 Pigs On The Wing 2
 Release(s): Animals
 ———————————————————————————————————————————————————————————————
-Point Me To The Sky
-Variation(s): Point Me At The Sky
-Release(s): One Of These Days, The Early Years 1968 Germin/Ation, The Early Years 1968 Germin/Ation, Cre/ation - The Early Years 1967 - 1972
+Point Me At The Sky
+Release(s): Point Me At The Sky, Cre/ation - The Early Years 1967 - 1972, The Early Years 1968 Germin/Ation, The Early Years 1968 Germin/Ation
 ———————————————————————————————————————————————————————————————
 Poles Apart
 Release(s): The Division Bell
 ———————————————————————————————————————————————————————————————
 Pow R. Toc H
-Variation(s): The Pink Jungle (Pow R. Toc H.), Pow R. Toc H., Pow R.Toc H, Pow R. Toc. H.
-Release(s): The Piper At The Gates Of Dawn, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, Progressive Story
+Variation(s): Pow R. Toc. H., Pow R.Toc H, The Pink Jungle (Pow R. Toc H.), Pow R. Toc H.
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation
+———————————————————————————————————————————————————————————————
+Proper Education
+Release(s): Proper Education
 ———————————————————————————————————————————————————————————————
 Quicksilver
 Release(s): Soundtrack From The Film "More", MP3 Collection
@@ -550,7 +541,7 @@ Release(s): The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Remember A Day
 Variation(s): Remember Me
-Release(s): A Saucerful Of Secrets, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, MP3 Collection
+Release(s): A Saucerful Of Secrets, Press Kit Box Set, MP3 Collection, MP3 Collection, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Roger's Boogie (Capitol Studios, Los Angeles)
 Release(s): The Early Years 1968 Germin/Ation
@@ -567,9 +558,6 @@ Release(s): Meddle, MP3 Collection
 Scream Thy Last Scream
 Release(s): The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
-Scream Thy Last Scream (2010 Mix)
-Release(s): The Early Years 1965-1967 Cambridge St/ation
-———————————————————————————————————————————————————————————————
 Seabirds (Instrumental)
 Release(s): The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
@@ -577,17 +565,17 @@ Seamus
 Release(s): Meddle, MP3 Collection
 ———————————————————————————————————————————————————————————————
 See Emily Play
-Release(s): One Of These Days, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, Cre/ation - The Early Years 1967 - 1972, All Gold Of The World
+Release(s): See Emily Play / The Last Thing On My Mind, Press Kit Box Set, Works, MP3 Collection, All Gold Of The World, Cre/ation - The Early Years 1967 - 1972, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 See-Saw
 Release(s): A Saucerful Of Secrets, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Set The Controls For The Heart Of The Sun
 Variation(s): Set The Control For The Heart Of The Sun
-Release(s): A Saucerful Of Secrets, Ummagumma, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation, MP3 Collection, MP3 Collection, The Early Years 1972 Obfusc/ation, All Gold Of The World
+Release(s): A Saucerful Of Secrets, Ummagumma, Works, MP3 Collection, MP3 Collection, All Gold Of The World, The Early Years 1969 Dramatis/ation, The Early Years 1965-1967 Cambridge St/ation, The Early Years 1972 Obfusc/ation
 ———————————————————————————————————————————————————————————————
 Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
-Release(s): MP3 Collection
+Release(s): Works, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Several Species Of Small Furry Animals...
 Release(s): All Gold Of The World
@@ -663,14 +651,13 @@ Take It Back
 Release(s): The Division Bell
 ———————————————————————————————————————————————————————————————
 Take Off
-Variation(s): Take Off (Zabriskie Point Remix)
-Release(s): The Early Years 1970 Devi/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 Take Off Version 2
 Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 Take Up Thy Stethoscope And Walk
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Progressive Story
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection
 ———————————————————————————————————————————————————————————————
 Talkin' Hawkin'
 Release(s): The Endless River
@@ -681,6 +668,9 @@ Release(s): A Momentary Lapse Of Reason
 The Dogs Of War
 Release(s): A Momentary Lapse Of Reason, Delicate Sound Of Thunder
 ———————————————————————————————————————————————————————————————
+The Dub
+Release(s): Proper Education
+———————————————————————————————————————————————————————————————
 The Final Cut
 Release(s): The Final Cut
 ———————————————————————————————————————————————————————————————
@@ -688,7 +678,7 @@ The Fletcher Memorial Home
 Release(s): The Final Cut
 ———————————————————————————————————————————————————————————————
 The Gnome
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Progressive Story
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection
 ———————————————————————————————————————————————————————————————
 The Gold It's In The ...
 Variation(s): The Gold It's In The...
@@ -722,26 +712,28 @@ Release(s): The Early Years 1969 Dramatis/ation
 The Last Few Bricks
 Release(s): Is There Anybody Out There? (The Wall Live 1980-81)
 ———————————————————————————————————————————————————————————————
-The Narrow Way
-Variation(s): The Narrow Way Part One, The Narrow Way Part Two, The Narrow Way Part Three
-Release(s): The Early Years 1969 Dramatis/ation, MP3 Collection, MP3 Collection, MP3 Collection
+The Narrow Way Part One
+Variation(s): The Narrow Way, The Narrow Way, Part 3
+Release(s): MP3 Collection, The Early Years 1969 Dramatis/ation, The Early Years 1969 Dramatis/ation
 ———————————————————————————————————————————————————————————————
-The Narrow Way, Part 3
-Release(s): The Early Years 1969 Dramatis/ation
+The Narrow Way Part Three
+Release(s): MP3 Collection
+———————————————————————————————————————————————————————————————
+The Narrow Way Part Two
+Release(s): MP3 Collection
 ———————————————————————————————————————————————————————————————
 The Nile Song
-Release(s): Soundtrack From The Film "More", MP3 Collection, MP3 Collection
+Release(s): Soundtrack From The Film "More", Press Kit Box Set, MP3 Collection, MP3 Collection
 ———————————————————————————————————————————————————————————————
 The Post War Dream
 Release(s): The Final Cut
 ———————————————————————————————————————————————————————————————
 The Riot Scene
-Variation(s): The Riot Scene (Zabriskie Point Remix)
-Release(s): The Early Years 1970 Devi/ation, Cre/ation - The Early Years 1967 - 1972
+Release(s): The Early Years 1970 Devi/ation
 ———————————————————————————————————————————————————————————————
 The Scarecrow
 Variation(s): Scarecrow
-Release(s): The Piper At The Gates Of Dawn, MP3 Collection, Progressive Story, All Gold Of The World
+Release(s): The Piper At The Gates Of Dawn, Progressive Story, MP3 Collection, All Gold Of The World
 ———————————————————————————————————————————————————————————————
 The Show Must Go On
 Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)
@@ -777,9 +769,6 @@ Release(s): Soundtrack From The Film "More", MP3 Collection, All Gold Of The Wor
 ———————————————————————————————————————————————————————————————
 Us And Them
 Release(s): The Dark Side Of The Moon, Delicate Sound Of Thunder, Pulse, The Dark Side Of The Moon (Live At Wembley 1974), MP3 Collection
-———————————————————————————————————————————————————————————————
-Vegetable Man (2010 Mix)
-Release(s): The Early Years 1965-1967 Cambridge St/ation
 ———————————————————————————————————————————————————————————————
 Vera
 Release(s): The Wall, Is There Anybody Out There? (The Wall Live 1980-81)

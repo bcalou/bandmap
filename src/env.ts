@@ -102,6 +102,7 @@ export const FORMATS = {
     "Limited Edition",
     "Unofficial Release",
     "Promo",
+    "Record Store Day",
     "Reissue",
     "Remastered",
     "Repress",

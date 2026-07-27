@@ -37,7 +37,7 @@ Release(s): Keys To Ascension, The Word Is Live, The Royal Affair Tour: Live Fro
 And You And I
 Variation(s): Apocalypse (Detroit 1976), Apocalypse
 Sub tracks: (i) Cord Of Life, (ii) Eclipse, (iii) The Preacher The Teacher, (iv) The Apocalypse
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years
 ———————————————————————————————————————————————————————————————
 Angkor Wat
 Release(s): Union
@@ -113,7 +113,7 @@ Release(s): Time And A Word
 Close To The Edge
 Variation(s): Close To The Edge - I. The Solid Time Of Change; II. Total Mass Retain; III. I Get Up I Get Down; IV. Seasons Of Man
 Sub tracks: (i) The Solid Time Of Change, (ii) Total Mass Retain, (iii) I Get Up I Get Down, (iv) Seasons Of Man
-Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Symphonic Live, Symphonic Live, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yes Years, In A Word: Yes (1969 -    )
+Release(s): Close To The Edge, Yessongs, Keys To Ascension 2, Symphonic Live, Symphonic Live, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, 50 Live, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Countermovement
 Sub tracks: Taro, Anytime Soon, Blink Of An Eye, Freedom's Edge
@@ -178,7 +178,7 @@ Release(s): 50 Live
 ———————————————————————————————————————————————————————————————
 Excerpts From The Six Wives Of Henry VIII
 Variation(s): Excerpts From "The Six Wives Of Henry VIII"
-Release(s): Yessongs, Progeny: Highlights From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972)
+Release(s): Yessongs, Progeny: Highlights From Seventy-Two
 ———————————————————————————————————————————————————————————————
 Face To Face
 Release(s): The Ladder, House Of Yes (Live From House Of Blues)
@@ -233,7 +233,7 @@ Release(s): Yes
 ———————————————————————————————————————————————————————————————
 Heart Of The Sunrise
 Variation(s): Heart Of The Sunrise 
-Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
+Release(s): Fragile, Yessongs, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), Live At Glastonbury Festival 2003, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, Yes Years, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Hearts
 Release(s): 90125
@@ -271,7 +271,7 @@ Release(s): Big Generator
 I've Seen All Good People
 Variation(s): Your Move, Your Move / I've Seen All Good People, I've Seen All Good People (London 1971), I’ve Seen All Good People, I've Seen All Good People (Your Move / All Good People), I've Seen All Good People - A. Your Move; B. All Good People
 Sub tracks: Your Move, All Good People
-Release(s): The Yes Album, Yessongs, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, Yessongs, Keys To Ascension 2, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 If Only You Knew
 Release(s): The Ladder
@@ -396,8 +396,8 @@ Montreux's Theme
 Release(s): Yes Years
 ———————————————————————————————————————————————————————————————
 Mood For A Day
-Variation(s): Clap / Mood For A Day, Clap, Mood For A Day/Clap
-Release(s): Fragile, Yessongs, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
+Variation(s): Clap / Mood For A Day, Clap
+Release(s): Fragile, Yessongs, Union Live, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Music To My Ears
 Release(s): The Quest
@@ -497,7 +497,7 @@ Release(s): Tales From Topographic Oceans, Yesshows, Yesshows, House Of Yes (Liv
 ———————————————————————————————————————————————————————————————
 Roundabout
 Variation(s): Roundabout (Chicago 1979), Roundabout 
-Release(s): Fragile, Yessongs, Keys To Ascension, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Fragile, Yessongs, Keys To Ascension, House Of Yes (Live From House Of Blues), Symphonic Live, Symphonic Live, The Word Is Live, Live At Montreux 2003, Union Live, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Topographic Drama (Live Across America), 50 Live, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Run Through The Light
 Release(s): Drama, Topographic Drama (Live Across America)
@@ -523,8 +523,8 @@ Si
 Release(s): 9012Live • The Solos
 ———————————————————————————————————————————————————————————————
 Siberian Khatru
-Variation(s): Siberian Khatru (Detroit 1976), Opening (Excerpt From Firebird Suite) / Siberian Khatru, Opening (Excerpts From Firebird Suite)
-Release(s): Close To The Edge, Yessongs, Keys To Ascension, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    ), Remixes
+Variation(s): Siberian Khatru (Detroit 1976), Opening (Excerpt From Firebird Suite) / Siberian Khatru
+Release(s): Close To The Edge, Yessongs, Keys To Ascension, The Word Is Live, Live At Montreux 2003, In The Present (Live From Lyon), Like It Is: At The Mesa Arts Center, Progeny: Highlights From Seventy-Two, Live At Glastonbury Festival 2003, The Royal Affair Tour: Live From Las Vegas, Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976, In A Word: Yes (1969 -    ), Remixes
 ———————————————————————————————————————————————————————————————
 Sign Language
 Variation(s): New Language
@@ -762,5 +762,5 @@ Release(s): Yes
 ———————————————————————————————————————————————————————————————
 Yours Is No Disgrace
 Variation(s): Yours Is No Disgrace (London 1971)
-Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), The Word Is Live, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, 50 Live, Live At Knoxville Civic Auditorium (Knoxville, Tennessee November 15, 1972), Yes Years, In A Word: Yes (1969 -    )
+Release(s): The Yes Album, Yessongs, House Of Yes (Live From House Of Blues), The Word Is Live, Union Live, In The Present (Live From Lyon), Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome, Progeny: Highlights From Seventy-Two, 50 Live, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————

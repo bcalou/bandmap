@@ -1,14 +1,15 @@
 import { BandMap } from "./classes/BandMap";
+import { refs } from "./refs";
 
 function testArtist(artist: { id: number; expectedIdList: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();
 }
 
 // YES
-// new BandMap(50263).init();
+new BandMap(50263).init();
 
 // PF
-new BandMap(45467).init();
+// new BandMap(45467).init();
 
 // testArtist(refs.SUPERTRAMP);
 

@@ -119,6 +119,7 @@ export const DCRelease = z.object({
   country: z.string().or(z.null()),
   formats: z.array(DCFormat),
   master_id: z.number().optional(),
+  master_url: z.string().optional(),
   released: z.string().optional(),
   extraartists: z.array(DCExtraArtist).optional(),
   tracklist: z.array(DCTrack),

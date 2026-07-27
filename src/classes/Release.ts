@@ -95,7 +95,9 @@ export class Release {
   }
 
   get url() {
-    return this.release.uri;
+    return this.release.master_url
+      ? `${this.release.master_url}\n${this.release.uri}`
+      : this.release.uri;
   }
 
   get label() {
@@ -103,7 +105,7 @@ export class Release {
     const date = this.releaseDate.formattedDate;
     const format =
       this.getMainFormat() === "Album" ? "" : ` (${this.getMainFormat()})`;
-    return `${date} - ${artists} - "${this.title}${format}"\n(${this.url})`;
+    return `${date} - ${artists} - "${this.title}${format}"\n${this.url}`;
   }
 
   get releaseFormats() {
@@ -172,14 +174,14 @@ export class Release {
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions,
+    options?: GetVersionsOptions
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     return versions;

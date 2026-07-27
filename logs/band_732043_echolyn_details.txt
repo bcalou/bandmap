@@ -85,31 +85,36 @@
 ———————————————————————————————————————————————————————————————
 🎼 echolyn: 56 release(s) found
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/629465
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1991) for "echolyn"
-🗃️ Looking at 2 alternate version(s) from 1991
+🗃️ Looking at alternate version(s) from 1991
 🗃️ Analyzing version https://www.discogs.com/release/3651443
 🗓️ Release date: 1991
 🗓️ No better date found
 💿 1991 - echolyn - "echolyn"
-(https://www.discogs.com/release/5154821-echolyn-echolyn)
+https://api.discogs.com/masters/629465
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/629635
 💿 Format(s): CD, Album
 💿 1992-11-28 - echolyn - "Suffocating The Bloom"
-(https://www.discogs.com/release/3653657-echolyn-Suffocating-The-Bloom)
+https://api.discogs.com/masters/629635
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/3653603
 💿 Format(s): CD, EP
 ⌛ 1993 - echolyn - "...And Every Blossom (EP)"
-(https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom)
+https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/3651575
 💿 Format(s): CD, Single, Promo
 ❌ 1994 - echolyn - "As The World Sampler"
 (https://www.discogs.com/release/3651575)
 Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/428290
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1995) for "As The World"
-🗃️ Looking at 5 alternate version(s) from 1995
+🗃️ Looking at alternate version(s) from 1995
 🗃️ Analyzing version https://www.discogs.com/release/7859275
 🗓️ Release date: 1995
 🗃️ Analyzing version https://www.discogs.com/release/20713378
@@ -120,33 +125,37 @@ Rejected format(s): CD, Single, Promo
 🗓️ Release date: 1995
 🗓️ No better date found
 💿 1995 - echolyn - "As The World"
-(https://www.discogs.com/release/872981-echolyn-As-The-World)
+https://api.discogs.com/masters/428290
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/544426
 💿 Format(s): CD, Album
 🗓️ Imprecise date (1996) for "When The Sweet Turns Sour"
-🗃️ Looking at 3 alternate version(s) from 1996
+🗃️ Looking at alternate version(s) from 1996
 🗃️ Analyzing version https://www.discogs.com/release/4337055
 🗓️ Release date: 1996
 🗃️ Analyzing version https://www.discogs.com/release/14533301
 🗓️ Release date: 1996-07-25
 Found better release date: 1996-07-25
 💿 1996-07-25 - echolyn - "When The Sweet Turns Sour"
-(https://www.discogs.com/release/2739522-echolyn-When-The-Sweet-Turns-Sour)
+https://api.discogs.com/masters/544426
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/6590069
 💿 Format(s): CDr, Single, Stereo
 ❌ 2000 - echolyn - "2-song CD Sampler 2000 (2)"
 (https://www.discogs.com/release/6590069)
 Rejected format(s): CDr, Single, Stereo
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/619787
 💿 Format(s): CD, Album
 🗓️ Imprecise date (2000) for "Cowboy Poems Free"
-🗃️ Looking at 1 alternate version(s) from 2000
+🗃️ Looking at alternate version(s) from 2000
 🗓️ No better date found
 💿 2000 - echolyn - "Cowboy Poems Free"
-(https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free)
+https://api.discogs.com/masters/619787
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/1784240
 💿 Format(s): CDr, Single
-🗃️ Looking at 2 alternate version(s) from 2000
+🗃️ Looking at alternate version(s) from 2000
 🗃️ Analyzing main formats of version https://www.discogs.com/release/15730530
 🗃️ Analyzing version https://www.discogs.com/release/15730530
 💿 Format(s): CDr, Sampler
@@ -154,102 +163,122 @@ Rejected format(s): CDr, Single, Stereo
 (https://www.discogs.com/master/1784240)
 Rejected format(s): CDr, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/5182846
 💿 Format(s): CD, Compilation
 ⌛ 2002 - echolyn - "A Little Nonsense: Now And Then (Compilation)"
-(https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then)
+https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/6588431
 💿 Format(s): CDr, Album, Stereo
 ❌ 2002 - echolyn - "Progfest '94: The Official Bootleg"
 (https://www.discogs.com/release/6588431)
 Rejected format(s): CDr, Album, Stereo
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/2884450
 💿 Format(s): CDr, Album, Limited Edition, Stereo
-🗃️ Looking at 1 alternate version(s) from 2003
-🗃️ Looking at 1 alternate version(s) from 2003
+🗃️ Looking at alternate version(s) from 2003
+🗃️ Looking at alternate version(s) from 2003
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
 Rejected format(s): CDr, Album, Limited Edition, Stereo
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/649268
 💿 Format(s): CD, Album
 💿 2002-06-00 - echolyn - "Mei"
-(https://www.discogs.com/release/5355594-echolyn-Mei)
+https://api.discogs.com/masters/649268
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/5085130
 💿 Format(s): DVD, Stereo
 ❌ 2004 - echolyn - "Stars And Gardens Volume 4"
 (https://www.discogs.com/release/5085130)
 Rejected format(s): DVD, Stereo
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/15730579
 💿 Format(s): CDr, Sampler
 ❌ 2005 - echolyn - "Music From The Forthcoming Release: The End Is Beautiful"
 (https://www.discogs.com/release/15730579)
 Rejected format(s): CDr, Sampler
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/843365
 💿 Format(s): CD, Album
 🗓️ Imprecise date (2005) for "The End Is Beautiful"
-🗃️ Looking at 2 alternate version(s) from 2005
+🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/7077688
 🗓️ Release date: 2005
 🗓️ No better date found
 💿 2005 - echolyn - "The End Is Beautiful"
-(https://www.discogs.com/release/3809164-echolyn-The-End-Is-Beautiful)
+https://api.discogs.com/masters/843365
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304396
 💿 Format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "This Is How We Left It"
 (https://www.discogs.com/release/16304396)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304415
 💿 Format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "Moments With No Sound"
 (https://www.discogs.com/release/16304415)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304426
 💿 Format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "15 Days"
 (https://www.discogs.com/release/16304426)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304435
 💿 Format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "Accumulated Blur"
 (https://www.discogs.com/release/16304435)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/471034
 💿 Format(s): CD, Album, Stereo
 💿 2012-06-19 - echolyn - "echolyn"
-(https://www.discogs.com/release/3664811-echolyn-echolyn)
+https://api.discogs.com/masters/471034
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304444
 💿 Format(s): File, FLAC, Single
 ❌ 2013 - echolyn - "Another Stone"
 (https://www.discogs.com/release/16304444)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/16304456
 💿 Format(s): File, FLAC, Single
 ❌ 2013 - echolyn - "Crows Fly By"
 (https://www.discogs.com/release/16304456)
 Rejected format(s): File, FLAC, Single
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/885702
 💿 Format(s): CD, Album
 💿 2015-07-31 - echolyn - "I Heard You Listening"
-(https://www.discogs.com/release/7264878-echolyn-I-Heard-You-Listening)
+https://api.discogs.com/masters/885702
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/3801273
 💿 Format(s): CD, Album, Stereo
 💿 2025-03-07 - echolyn - "TimeSilentRadio vii"
-(https://www.discogs.com/release/33524262-echolyn-TimeSilentRadio-vii)
+https://api.discogs.com/masters/3801273
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/3801264
 💿 Format(s): CD, Album, Stereo
 💿 2025-03-07 - echolyn - "TimeSilentRadio II"
-(https://www.discogs.com/release/33524166-echolyn-TimeSilentRadio-II)
+https://api.discogs.com/masters/3801264
 ———————————————————————————————————————————————————————————————
 ↷ "1993 - echolyn - "...And Every Blossom"
 (https://www.discogs.com/release/3653603)" (skipping, already candidate)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/4688082
 ❌ 1995 - Various - "Progfest '94 - Variety Arts Center - Los Angeles"
 (https://www.discogs.com/release/4688082)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/297692
 ❌ 1996 - Various - "To Cry You A Song (A Collection Of Tull Tales)"
 (https://www.discogs.com/master/297692)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/4298257
 ❌ 1995 - Various - "Progfest '94 - Day One"
 (https://www.discogs.com/release/4298257)
 Rejected release role: TrackAppearance
@@ -257,10 +286,12 @@ Rejected release role: TrackAppearance
 ↷ "1995 - Various - "Progfest '94 - Variety Arts Center - Los Angeles"
 (https://www.discogs.com/release/4688082)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/6616873
 ❌ 1995 - Various - "Musician Magazine's A Little On The CD Side Volume 18"
 (https://www.discogs.com/release/6616873)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/9606206
 ❌ 1995 - Various - "Epic Audio Buyways 203/204 95"
 (https://www.discogs.com/release/9606206)
 Rejected release role: TrackAppearance
@@ -268,42 +299,52 @@ Rejected release role: TrackAppearance
 ↷ "1996 - Various - "To Cry You A Song - A Collection Of Tull Tales"
 (https://www.discogs.com/master/297692)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/5080439
 ❌ 1997 - Various - "Progday '95"
 (https://www.discogs.com/release/5080439)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/5537932
 ❌ 2001 - Various - "Prog In USA"
 (https://www.discogs.com/release/5537932)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/890776
 ❌ 2005 - Various - "Music From Time And Space Vol. 16"
 (https://www.discogs.com/release/890776)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/5234552
 ❌ 2005 - Various - "After The Storm "A Benefit Album For The Survivors Of Hurricane Katrina""
 (https://www.discogs.com/release/5234552)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/3917321
 ❌ 2012 - Various - "Autumn Breeze"
 (https://www.discogs.com/release/3917321)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/4371417
 ❌ 2012 - Various - "The Art Of Sysyphus Vol. 66"
 (https://www.discogs.com/release/4371417)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/11025761
 ❌ 2012 - Various - "Prog Résiste 70"
 (https://www.discogs.com/release/11025761)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/11147975
 ❌ 2016 - Various - "Prog Résiste 83 - Sampler"
 (https://www.discogs.com/release/11147975)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/master/2836016
 ❌ 2022 - Various - "A Tribute To Jethro Tull"
 (https://www.discogs.com/master/2836016)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/21676855
 ❌ unknown date - Various - "All You Nied Is Norm"
 (https://www.discogs.com/release/21676855)
 Rejected release role: TrackAppearance
@@ -314,10 +355,12 @@ Rejected release role: TrackAppearance
 ↷ "2000 - echolyn - "Suffocating The Bloom"
 (https://www.discogs.com/master/629635)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/7459772
 ❌ 2001 - echolyn - "Archives: Brett Kull"
 (https://www.discogs.com/release/7459772)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/6588620
 ❌ 2003 - echolyn - "ProgDay '95 / New Jersey 2002: Definitive Edition"
 (https://www.discogs.com/release/6588620)
 Rejected release role: UnofficialRelease
@@ -325,6 +368,7 @@ Rejected release role: UnofficialRelease
 ↷ "2005 - echolyn - "The End Is Beautiful"
 (https://www.discogs.com/master/843365)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/33685317
 ❌ 2008 - Presto Ballet, IZZ, Sylvan (2), echolyn - "CalProg 2008: The Authorized Bootleg"
 (https://www.discogs.com/release/33685317)
 Rejected release role: UnofficialRelease
@@ -358,10 +402,10 @@ Found candidate with 6 unregistered track(s):
 🗓️ Imprecise date (2002) for "A Little Nonsense: Now And Then"
 🗓️ No better date found
 💿 2002 - echolyn - "A Little Nonsense: Now And Then (Compilation)"
-(https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then)
+https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
 ———————————————————————————————————————————————————————————————
 Looking for candidates with unregistered tracks
 ❌ 1993 - echolyn - "...And Every Blossom (EP)"
-(https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom)
+https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
 No new tracks
 ———————————————————————————————————————————————————————————————

@@ -1,14 +1,14 @@
 4 release(s):
 ———————————————————————————————————————————————————————————————
 💿 2021-02-05 - Black Country, New Road - "For The First Time"
-(https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time)
+https://api.discogs.com/masters/1947124
 ———————————————————————————————————————————————————————————————
 💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
-(https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There)
+https://api.discogs.com/masters/2486344
 ———————————————————————————————————————————————————————————————
 💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
-(https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall)
+https://api.discogs.com/masters/3034334
 ———————————————————————————————————————————————————————————————
 💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
-(https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong)
+https://api.discogs.com/masters/3801192
 ———————————————————————————————————————————————————————————————

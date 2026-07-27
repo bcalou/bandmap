@@ -11,7 +11,7 @@ new BandMap(50263).init();
 // PF
 // new BandMap(45467).init();
 
-// testArtist(refs.SUPERTRAMP);
+// testArtist(refs.MOON_SAFARI);
 
 // const artistsBase = [
 //   refs.BLACK_COUNTRY_NEW_ROAD,

@@ -1,4 +1,4 @@
-import { FORMATS, OPTION_FORMATS_PRIORITY } from "../env";
+import { FORMATS } from "../env";
 import { DCTrack, RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
@@ -7,10 +7,11 @@ import { Release } from "./Release";
 import { Repertoire } from "./Repertoire";
 
 // A release that could be included in the final discography
-export type CandidateRelease = {
+export type DiscographyRelease = {
   // The release object
   release: Release;
-  // The tracks that are not included yet in the repertoire
+  // The tracks that are not included in the base albums and justify the
+  // inclusion of the release, if any
   unregisteredTracks?: DCTrack[] | undefined;
 };
 
@@ -20,13 +21,13 @@ export type CandidateRelease = {
  */
 export class Discography {
   // The list of releases constituting the final discography
-  private releases: Release[] = [];
+  private releases: DiscographyRelease[] = [];
+
+  // The list of releases that could be included in the final discography
+  private candidates: DiscographyRelease[] = [];
 
   // The list of songs performed by the band and its connected artists/bands
   public repertoire: Repertoire;
-
-  // The list of releases that could be included in the final discography
-  private candidates: CandidateRelease[] = [];
 
   // The logger object
   private logger: Logger;
@@ -57,12 +58,12 @@ export class Discography {
   }
 
   // Add a release to the discography
-  public async addAccepted(release: Release) {
+  public async addAccepted(release: Release, unregisteredTracks?: DCTrack[]) {
     await release.extractPreciseDate();
     this.logger.logSuccess(`💿 ${release.label}`);
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();
-    this.releases.push(release);
+    this.releases.push({ release, unregisteredTracks });
     this.repertoire.addReleaseTracks(release);
   }
 
@@ -88,7 +89,7 @@ export class Discography {
   // If the given id is included in the discography, return whether it's
   // candidate or rejected. Return false if the id is not present at all.
   public includes(id: number): "accepted" | "candidate" | "rejected" | false {
-    if (this.releases.find((release) => release.discographyId === id))
+    if (this.releases.find((release) => release.release.discographyId === id))
       return "accepted";
 
     if (this.candidates.find((release) => release.release.discographyId === id))
@@ -129,8 +130,8 @@ export class Discography {
   // Sort two release candidates, depending of which has the most unregistered
   // tracks and their format
   private sortCandidateReleases(
-    release1: CandidateRelease,
-    release2: CandidateRelease
+    release1: DiscographyRelease,
+    release2: DiscographyRelease
   ) {
     return release1.unregisteredTracks?.length ===
       release2.unregisteredTracks?.length
@@ -146,7 +147,7 @@ export class Discography {
 
   // Move a release from the candidate list to the accepted or reject list
   private async selectCandidate(
-    candidate: CandidateRelease,
+    candidate: DiscographyRelease,
     accepted: boolean
   ) {
     if (accepted) {
@@ -154,7 +155,7 @@ export class Discography {
       this.candidates = this.candidates.filter(
         (_candidate) => _candidate.release.id !== candidate.release.id
       );
-      await this.addAccepted(candidate.release);
+      await this.addAccepted(candidate.release, candidate.unregisteredTracks);
     } else {
       this.addRejected(candidate.release, "No new tracks");
     }
@@ -168,7 +169,7 @@ export class Discography {
   }
 
   // Log infos about a candidate unregistered tracks
-  private logCandidateUnregisteredTracks(candidate: CandidateRelease) {
+  private logCandidateUnregisteredTracks(candidate: DiscographyRelease) {
     const count = candidate.unregisteredTracks?.length;
     this.logger.logInfo(`Found candidate with ${count} unregistered track(s):`);
 
@@ -179,11 +180,8 @@ export class Discography {
 
   // Sort releases by release date
   public sort() {
-    this.releases.sort(this.sortByFormattedDate);
-
-    this.candidates.sort((candidate1, candidate2) =>
-      this.sortByFormattedDate(candidate1.release, candidate2.release)
-    );
+    this.sortReleasesArray(this.releases);
+    this.sortReleasesArray(this.candidates);
 
     this.rejected.sort((release1, release2) =>
       (release1.release.year ?? "")
@@ -203,8 +201,9 @@ export class Discography {
     this.logger.logSeparator();
 
     this.releases.forEach((release) => {
-      this.logger.logSuccess(`💿 ${release.label}`);
-      this.logger.log(release.formattedCredits);
+      this.logger.logSuccess(`💿 ${release.release.label}`);
+      this.logUnregisteredTracks(release);
+      // this.logger.log(release.release.formattedCredits);
       this.logger.logSeparator();
     });
   }
@@ -223,6 +222,24 @@ export class Discography {
 
   // Get the ID list of accepted releases
   public getAcceptedIdList(): string {
-    return this.releases.map((release) => release.id).join(",");
+    return this.releases.map((release) => release.release.id).join(",");
+  }
+
+  // Sort a release group by release date
+  private sortReleasesArray(releases: DiscographyRelease[]) {
+    releases.sort((release1, release2) =>
+      this.sortByFormattedDate(release1.release, release2.release)
+    );
+  }
+
+  private logUnregisteredTracks(release: DiscographyRelease) {
+    if (release.unregisteredTracks) {
+      this.logger.log(
+        "Including non-album track(s):" +
+          release.unregisteredTracks
+            ?.map((track) => `\n🎵 ${track.title}`)
+            .join("")
+      );
+    }
   }
 }

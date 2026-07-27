@@ -95,9 +95,7 @@ export class Release {
   }
 
   get url() {
-    return this.release.master_url
-      ? `${this.release.master_url}\n${this.release.uri}`
-      : this.release.uri;
+    return this.release.master_url ?? this.release.uri;
   }
 
   get label() {

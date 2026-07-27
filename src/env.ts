@@ -15,10 +15,10 @@ export const ARTIST_RELEASE_ROLES = {
 
 export const FORMATS = {
   mainSortedByConsiderationOrder: [
-    "Compilation",
     "EP",
     "Maxi-Single",
     "Single",
+    "Compilation",
     "Unknown",
     "Album", // Album is last because if it's anything else (like Compilation),
     // then it's not really an album

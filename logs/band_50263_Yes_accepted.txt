@@ -2,185 +2,155 @@
 ———————————————————————————————————————————————————————————————
 💿 1969-07-00 - Yes - "Yes"
 https://api.discogs.com/masters/34898
-https://www.discogs.com/release/9201144-Yes-Yes
 ———————————————————————————————————————————————————————————————
 💿 1970-06-00 - Yes - "Time And A Word"
 https://api.discogs.com/masters/34919
-https://www.discogs.com/release/704946-Yes-Time-And-A-Word
 ———————————————————————————————————————————————————————————————
 💿 1971-02-19 - Yes - "The Yes Album"
 https://api.discogs.com/masters/34991
-https://www.discogs.com/release/12242060-Yes-The-Yes-Album
 ———————————————————————————————————————————————————————————————
 💿 1971-11-26 - Yes - "Fragile"
 https://api.discogs.com/masters/34934
-https://www.discogs.com/release/462982-Yes-Fragile
 ———————————————————————————————————————————————————————————————
 💿 1972-09-00 - Yes - "Close To The Edge"
 https://api.discogs.com/masters/35006
-https://www.discogs.com/release/431005-Yes-Close-To-The-Edge
 ———————————————————————————————————————————————————————————————
 💿 1973-05-00 - Yes - "Yessongs"
 https://api.discogs.com/masters/35063
-https://www.discogs.com/release/8304347-Yes-Yessongs
 ———————————————————————————————————————————————————————————————
 💿 1973-12-07 - Yes - "Tales From Topographic Oceans"
 https://api.discogs.com/masters/35036
-https://www.discogs.com/release/981938-Yes-Tales-From-Topographic-Oceans
 ———————————————————————————————————————————————————————————————
 💿 1974-10-00 - Yes - "Relayer"
 https://api.discogs.com/masters/35126
-https://www.discogs.com/release/4506926-Yes-Relayer
 ———————————————————————————————————————————————————————————————
 💿 1977-07-15 - Yes - "Going For The One"
 https://api.discogs.com/masters/35199
-https://www.discogs.com/release/598277-Yes-Going-For-The-One
 ———————————————————————————————————————————————————————————————
 💿 1978-09-22 - Yes - "Tormato"
 https://api.discogs.com/masters/35277
-https://www.discogs.com/release/1515773-Yes-Tormato
 ———————————————————————————————————————————————————————————————
 💿 1980-09-00 - Yes - "Drama"
 https://api.discogs.com/masters/35607
-https://www.discogs.com/release/61131-Yes-Drama
 ———————————————————————————————————————————————————————————————
 💿 1980-11-24 - Yes - "Yesshows"
 https://api.discogs.com/masters/35481
-https://www.discogs.com/release/1346618-Yes-Yesshows
 ———————————————————————————————————————————————————————————————
 💿 1983-11-07 - Yes - "90125"
 https://api.discogs.com/masters/35745
-https://www.discogs.com/release/1257022-Yes-90125
 ———————————————————————————————————————————————————————————————
 💿 1985-12-10 - Yes - "9012Live • The Solos"
 https://api.discogs.com/masters/35870
-https://www.discogs.com/release/1751059-Yes-9012Live-The-Solos
 ———————————————————————————————————————————————————————————————
 💿 1987-11-10 - Yes - "Big Generator"
 https://api.discogs.com/masters/35904
-https://www.discogs.com/release/850614-Yes-Big-Generator
 ———————————————————————————————————————————————————————————————
 💿 1991-09-25 - Yes - "Yes Years (Compilation)"
 https://api.discogs.com/masters/35968
-https://www.discogs.com/release/6517892-Yes-Yes-Years
+Including non-album track(s):
+🎵 Something's Coming
+🎵 Vevey, Part One
+🎵 Montreux's Theme
+🎵 Vevey, Part Two
+🎵 Money
+🎵 Abilene
+🎵 Run With The Fox
+🎵 Love Conquers All
 ———————————————————————————————————————————————————————————————
 💿 1991-10-15 - Yes - "Union"
 https://api.discogs.com/masters/35939
-https://www.discogs.com/release/1913040-Yes-Union
 ———————————————————————————————————————————————————————————————
 💿 1994-03-02 - Yes - "Talk"
 https://api.discogs.com/masters/36002
-https://www.discogs.com/release/1273971-Yes-Talk
 ———————————————————————————————————————————————————————————————
 💿 1996-10-22 - Yes - "Keys To Ascension"
 https://api.discogs.com/masters/332495
-https://www.discogs.com/release/1025881-Yes-Keys-To-Ascension
 ———————————————————————————————————————————————————————————————
 💿 1997-11-03 - Yes - "Keys To Ascension 2"
 https://api.discogs.com/masters/36036
-https://www.discogs.com/release/594710-Yes-Keys-To-Ascension-2
 ———————————————————————————————————————————————————————————————
 💿 1997-12-17 - Yes - "Open Your Eyes"
 https://api.discogs.com/masters/379070
-https://www.discogs.com/release/1669986-Yes-Open-Your-Eyes
 ———————————————————————————————————————————————————————————————
 💿 1999-10-20 - Yes - "The Ladder"
 https://api.discogs.com/masters/157794
-https://www.discogs.com/release/21848851-Yes-The-Ladder
 ———————————————————————————————————————————————————————————————
 💿 2000 - Yes - "House Of Yes (Live From House Of Blues)"
 https://api.discogs.com/masters/290376
-https://www.discogs.com/release/1666511-Yes-House-Of-Yes-Live-From-House-Of-Blues
 ———————————————————————————————————————————————————————————————
 💿 2001-09-10 - Yes - "Magnification"
 https://api.discogs.com/masters/36017
-https://www.discogs.com/release/1664023-Yes-Magnification
 ———————————————————————————————————————————————————————————————
 💿 2002 - Yes - "Symphonic Live"
 https://api.discogs.com/masters/349934
-https://www.discogs.com/release/6148612-Yes-Symphonic-Live
 ———————————————————————————————————————————————————————————————
 💿 2002-07-30 - Yes - "In A Word: Yes (1969 -    ) (Compilation)"
 https://api.discogs.com/masters/211114
-https://www.discogs.com/release/3982386-Yes-In-A-Word-Yes-1969-
+Including non-album track(s):
+🎵 Dear Father
+🎵 Richard
+🎵 Tango
+🎵 Last Train
 ———————————————————————————————————————————————————————————————
 💿 2003-07-08 - Yes - "Remixes (Compilation)"
 https://api.discogs.com/masters/486232
-https://www.discogs.com/release/2068513-Yes-Remixes
+Including non-album track(s):
+🎵 No Clowns
 ———————————————————————————————————————————————————————————————
 💿 2005-09-21 - Yes - "The Word Is Live"
 https://api.discogs.com/masters/569660
-https://www.discogs.com/release/1363983-Yes-The-Word-Is-Live
 ———————————————————————————————————————————————————————————————
 💿 2007 - Yes - "Live At Montreux 2003"
 https://api.discogs.com/masters/303658
-https://www.discogs.com/release/1109506-Yes-Live-At-Montreux-2003
 ———————————————————————————————————————————————————————————————
 💿 2011-05-25 - Yes - "Union Live"
 https://api.discogs.com/masters/812688
-https://www.discogs.com/release/6341488-Yes-Union-Live
 ———————————————————————————————————————————————————————————————
 💿 2011-07-01 - Yes - "Fly From Here"
 https://api.discogs.com/masters/348933
-https://www.discogs.com/release/3005266-Yes-Fly-From-Here
 ———————————————————————————————————————————————————————————————
 💿 2011-11-23 - Yes - "In The Present (Live From Lyon)"
 https://api.discogs.com/masters/396729
-https://www.discogs.com/release/3462143-Yes-In-The-Present-Live-From-Lyon
 ———————————————————————————————————————————————————————————————
 💿 2014-07-16 - Yes - "Heaven & Earth"
 https://api.discogs.com/masters/709899
-https://www.discogs.com/release/5894293-Yes-Heaven-Earth
 ———————————————————————————————————————————————————————————————
 💿 2014-11-19 - Yes - "Like It Is: Yes At The Bristol Hippodrome"
 https://api.discogs.com/masters/769207
-https://www.discogs.com/release/6402940-Yes-Like-It-Is-Yes-At-The-Bristol-Hippodrome
 ———————————————————————————————————————————————————————————————
 💿 2015-06-10 - Yes - "Progeny: Highlights From Seventy-Two"
 https://api.discogs.com/masters/884589
-https://www.discogs.com/release/7070077-Yes-Progeny-Highlights-From-Seventy-Two
 ———————————————————————————————————————————————————————————————
 💿 2015-07-00 - Yes - "Like It Is: At The Mesa Arts Center"
 https://api.discogs.com/masters/865420
-https://www.discogs.com/release/7298061-Yes-Like-It-Is-At-The-Mesa-Arts-Center
 ———————————————————————————————————————————————————————————————
 💿 2017-11-24 - Yes - "Topographic Drama (Live Across America)"
 https://api.discogs.com/masters/1272976
-https://www.discogs.com/release/11177050-Yes-Topographic-Drama-Live-Across-America
 ———————————————————————————————————————————————————————————————
 💿 2018-06-22 - Yes - "Fly From Here - Return Trip"
 https://api.discogs.com/masters/1382701
-https://www.discogs.com/release/12167434-Yes-Fly-From-Here-Return-Trip
 ———————————————————————————————————————————————————————————————
 💿 2019 - Yes - "Live At Glastonbury Festival 2003"
 https://api.discogs.com/masters/1723408
-https://www.discogs.com/release/14222600-Yes-Live-At-Glastonbury-Festival-2003
 ———————————————————————————————————————————————————————————————
 💿 2019-08-02 - Yes - "50 Live"
 https://api.discogs.com/masters/1585772
-https://www.discogs.com/release/13950074-Yes-50-Live
 ———————————————————————————————————————————————————————————————
 💿 2019-10-25 - Yes - "From A Page"
 https://api.discogs.com/masters/1808364
-https://www.discogs.com/release/14345203-Yes-From-A-Page
 ———————————————————————————————————————————————————————————————
 💿 2020-10-30 - Yes - "The Royal Affair Tour: Live From Las Vegas"
 https://api.discogs.com/masters/1837841
-https://www.discogs.com/release/16195379-Yes-The-Royal-Affair-Tour-Live-From-Las-Vegas
 ———————————————————————————————————————————————————————————————
 💿 2021-10-01 - Yes - "The Quest"
 https://api.discogs.com/masters/2321083
-https://www.discogs.com/release/20434090-Yes-The-Quest
 ———————————————————————————————————————————————————————————————
 💿 2023-05-19 - Yes - "Mirror To The Sky"
 https://api.discogs.com/masters/3101595
-https://www.discogs.com/release/27124821-Yes-Mirror-To-The-Sky
 ———————————————————————————————————————————————————————————————
 💿 2026-06-12 - Yes - "Aurora"
 https://api.discogs.com/masters/4254969
-https://www.discogs.com/release/37608273-Yes-Aurora
 ———————————————————————————————————————————————————————————————
 💿 2026-07-17 - Yes - "Live At Roosevelt Stadium, Jersey City, NJ June 17, 1976"
 https://api.discogs.com/masters/1533573
-https://www.discogs.com/release/37912833-Yes-Live-At-Roosevelt-Stadium-Jersey-City-NJ-June-17-1976
 ———————————————————————————————————————————————————————————————

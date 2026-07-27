@@ -1,4 +1,4 @@
-import { FORMATS } from "../env";
+import { FORMATS, OPTION_CACHE_BUSTER } from "../env";
 import { DCTrack, RejectReason } from "../types";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
@@ -103,26 +103,42 @@ export class Discography {
 
   // Select the candidate that has the most unreleased tracks, if any
   public async selectCandidatesWithMostUnregisteredTracks() {
-    this.logger.logInfo("Looking for candidates with unregistered tracks");
-    this.countUnregisteredTracksInCandidatesReleases();
+    for (const format of FORMATS.mainSortedByConsiderationOrder.filter(
+      (format) => format !== "Unknown"
+    )) {
+      await this.selectCandidatesWithMostUnregisteredTracksForFormat(format);
+    }
+
+    this.rejectRemainingCandidates();
+  }
+
+  // Select the candidate of the given format with the most unreleased tracks
+  // TODO améliorer le process (format par format)
+  private async selectCandidatesWithMostUnregisteredTracksForFormat(
+    format: string
+  ) {
+    this.logger.logInfo(
+      `Looking for ${format} candidates with unregistered tracks`
+    );
+    this.countUnregisteredTracksInCandidatesReleases(format);
 
     const unregisteredTracks = this.candidates[0]?.unregisteredTracks ?? [];
     if (unregisteredTracks.length > 0) {
       await this.selectCandidate(this.candidates[0], true);
-      await this.selectCandidatesWithMostUnregisteredTracks();
-    } else {
-      this.rejectRemainingCandidates();
+      await this.selectCandidatesWithMostUnregisteredTracksForFormat(format);
     }
   }
 
   // For each candidate release, count how many tracks are not registered yet
-  private countUnregisteredTracksInCandidatesReleases() {
-    this.candidates.forEach(
-      (candidate) =>
-        (candidate.unregisteredTracks = this.repertoire.getUnregisteredTracks(
-          candidate.release
-        ))
-    );
+  private countUnregisteredTracksInCandidatesReleases(format: string) {
+    this.candidates
+      .filter((candidate) => candidate.release.getMainFormat() === format)
+      .forEach(
+        (candidate) =>
+          (candidate.unregisteredTracks = this.repertoire.getUnregisteredTracks(
+            candidate.release
+          ))
+      );
 
     this.candidates.sort(this.sortCandidateReleases);
   }

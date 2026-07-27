@@ -90,16 +90,17 @@ export class Repertoire {
   private getReleaseTracks(release: Release): DCTrack[] {
     return release.tracklist.filter(
       (track, index) =>
+        !["DVD", "BR"].find((prefix) => track.position.startsWith(prefix)) &&
         !track.position.charAt(-1).match(/[a-z]/i) &&
         this.isValidTrackType(track, index, release) &&
         // Ignore track not written by the artist
         !track.artists?.every((artist) => this.band.id !== artist.id) &&
         // Ignore track containing an equal (translation title)
-        track.title.indexOf(" = ") === -1 &&
-        // Ignore specific title ending such as "edit" or "version"
-        !IGNORE_TITLE_ENDINGS.find((ending) =>
-          normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
-        )
+        track.title.indexOf(" = ") === -1
+      // Ignore specific title ending such as "edit" or "version"
+      // !IGNORE_TITLE_ENDINGS.find((ending) =>
+      //   normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
+      // )
     );
   }
 

@@ -15,7 +15,7 @@ A Venture
 Release(s): The Yes Album, Like It Is: Yes At The Bristol Hippodrome, Like It Is: Yes At The Bristol Hippodrome
 ———————————————————————————————————————————————————————————————
 Abilene
-Release(s): Yes Years
+Release(s): Don't Kill The Whale, Yes Years
 ———————————————————————————————————————————————————————————————
 All Connected
 Release(s): Mirror To The Sky
@@ -138,7 +138,7 @@ Dare To Know
 Release(s): The Quest
 ———————————————————————————————————————————————————————————————
 Dear Father
-Release(s): In A Word: Yes (1969 -    )
+Release(s): Something Is Coming / Dear Father, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Does It Really Happen?
 Release(s): Drama, Topographic Drama (Live Across America), Yes Years
@@ -148,7 +148,7 @@ Release(s): Magnification, Symphonic Live, Symphonic Live
 ———————————————————————————————————————————————————————————————
 Don't Kill The Whale
 Variation(s): Don’t Kill The Whale 
-Release(s): Tormato, Yesshows, Live At Montreux 2003, Live At Glastonbury Festival 2003, Yes Years, In A Word: Yes (1969 -    )
+Release(s): Tormato, Yesshows, Live At Montreux 2003, Live At Glastonbury Festival 2003, Don't Kill The Whale, Yes Years, In A Word: Yes (1969 -    )
 ———————————————————————————————————————————————————————————————
 Don't Take No For An Answer
 Release(s): Fly From Here - Return Trip
@@ -551,8 +551,9 @@ Release(s): 9012Live • The Solos, Union Live
 Somehow.....Someday
 Release(s): Open Your Eyes
 ———————————————————————————————————————————————————————————————
-Something's Coming
-Release(s): Yes Years
+Something Is Coming
+Variation(s): Something's Coming
+Release(s): Something Is Coming / Dear Father, Yes Years
 ———————————————————————————————————————————————————————————————
 Soon
 Release(s): 9012Live • The Solos, 50 Live, Yes Years

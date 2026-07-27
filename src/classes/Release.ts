@@ -1,4 +1,4 @@
-import { DISCOGS_RELEASE_URL, GENRES } from "../env";
+import { DISCOGS_MASTER_URL, DISCOGS_RELEASE_URL, GENRES } from "../env";
 import { DCRelease, DCVersions, RejectReason } from "../types";
 import { removeNumberInParenthesis } from "../utils";
 import { Api, GetVersionsOptions } from "./Api";
@@ -95,7 +95,9 @@ export class Release {
   }
 
   get url() {
-    return this.release.master_url ?? this.release.uri;
+    return this.release.master_id
+      ? `${DISCOGS_MASTER_URL}${this.release.master_id}`
+      : this.release.uri;
   }
 
   get label() {

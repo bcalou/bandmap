@@ -6,10 +6,10 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
 }
 
 // YES
-new BandMap(50263).init();
+// new BandMap(50263).init();
 
 // PF
-// new BandMap(45467).init();
+new BandMap(45467).init();
 
 // testArtist(refs.MOON_SAFARI);
 

@@ -28,8 +28,5 @@ export function getStringParts(string: string) {
 // Remove any special character except spaces and convert to lowercase
 // "John's Doe" -> "john doe"
 export function normalize(string: string) {
-  return string
-    .replace(/[^a-zA-Z ]/g, "")
-    .replaceAll("&", "and")
-    .toLowerCase();
+  return string.replace(/[^a-zA-Z ]/g, "").toLowerCase();
 }

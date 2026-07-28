@@ -1,5 +1,5 @@
 import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { DCFormat, DCVersion, RejectReason } from "../types";
+import { DCVersion, RejectReason } from "../types";
 import { GetVersionsOptions } from "./Api";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
@@ -40,7 +40,7 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      []
+      [],
     );
   }
 
@@ -48,7 +48,7 @@ export class Formats {
   public getMainFormat() {
     return (
       FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        this.flattenedFormats.includes(format)
+        this.flattenedFormats.includes(format),
       ) ?? "Unknown"
     );
   }
@@ -72,7 +72,7 @@ export class Formats {
 
   // Look for valid format list in other versions of the release
   private async hasValidVersion(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<boolean> {
     const page = options?.page ?? 1;
     const versions = await this.release.getVersions(options);
@@ -92,7 +92,7 @@ export class Formats {
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
     this.logger.log(
-      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`
+      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`,
     );
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
@@ -109,7 +109,7 @@ export class Formats {
 
   // Get the version details and test if the format list is valid
   private async versionDetailsHasValidFormat(
-    version: DCVersion
+    version: DCVersion,
   ): Promise<boolean> {
     const release = await this.release.getVersion(version.id);
 
@@ -141,7 +141,10 @@ export class Formats {
         return false;
 
       // Valid format must be found once
-      if (formatList.find((format) => FORMATS.accept.includes(format)))
+      if (
+        formatList.find((format) => FORMATS.accept.includes(format)) &&
+        !formatList.find((format) => FORMATS.reject.includes(format))
+      )
         valid = true;
     }
 

@@ -1372,8 +1372,10 @@ Rejected format(s): CDr, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1673401
 💿 Format(s): CD, CD-ROM, Compilation
-⌛ 2002 - Pink Floyd - "MP3 Collection" (Compilation)
-https://www.discogs.com/master/1673401
+🗃️ Looking at alternate version(s) from 2002
+❌ 2002 - Pink Floyd - "MP3 Collection"
+(https://www.discogs.com/master/1673401)
+Rejected format(s): CD, CD-ROM, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7260801
 ❌ 2003 - Pink Floyd - "Off The Record Classic"
@@ -14060,7 +14062,7 @@ Analyzing release https://www.discogs.com/master/4020382
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2007 - Pink Floyd - "MP3"
-(https://www.discogs.com/master/1673401)" (skipping, already candidate)
+(https://www.discogs.com/master/1673401)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1409347
 ❌ 2007 - Pink Floyd - "Saratoga Master"
@@ -18674,8 +18676,6 @@ Looking at Pink Floyd alias Seamus (11)
 🗃️ Analyzing version https://www.discogs.com/release/8861533
 🗓️ Release date: 1970
 🗓️ No better date found
-🗓️ Imprecise date (1971) for "Progressive Story"
-🗓️ No better date found
 🗓️ Imprecise date (1971) for "Press Kit Box Set"
 🗓️ No better date found
 🗓️ Imprecise date (1971) for "One Of These Days"
@@ -18775,9 +18775,6 @@ Found better release date: 1983-07-11
 🗃️ Analyzing version https://www.discogs.com/release/6090254
 🗓️ Release date: 1997
 🗓️ No better date found
-🗓️ Imprecise date (2002) for "MP3 Collection"
-🗃️ Looking at alternate version(s) from 2002
-🗓️ No better date found
 🗓️ Imprecise date (2004) for "All Gold Of The World"
 🗓️ No better date found
 Found candidate with 2 unregistered track(s):
@@ -18845,12 +18842,9 @@ Found candidate with 5 unregistered track(s):
 💿 1971-05-14 - Pink Floyd - "Relics" (Compilation)
 https://www.discogs.com/master/20674
 ———————————————————————————————————————————————————————————————
-Found candidate with 1 unregistered track(s):
-🎵 Symphony For Group And Orchestra 
-🗓️ Imprecise date (1971) for "Progressive Story"
-🗓️ No better date found
-💿 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
+❌ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
 https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
+No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
 https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
@@ -18937,10 +18931,9 @@ No new tracks
 https://www.discogs.com/master/406779
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 4 unregistered track(s):
+Found candidate with 3 unregistered track(s):
 🎵 Arnold Layne
 🎵 See Emily Play
-🎵 Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
 🎵 Embryo
 💿 1983-07-11 - Pink Floyd - "Works" (Compilation)
 https://www.discogs.com/master/20699
@@ -19005,30 +18998,6 @@ No new tracks
 https://www.discogs.com/master/20631
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 17 unregistered track(s):
-🎵 Sysyphus Part One
-🎵 Sysyphus Part Two
-🎵 Sysyphus Part Three
-🎵 Sysyphus Part Four
-🎵 Grantchester Meadows
-🎵 Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
-🎵 The Narrow Way Part One
-🎵 The Narrow Way Part Two
-🎵 The Narrow Way Part Three
-🎵 The Grand Vizier's Garden Party (Entrance)
-🎵 The Grand Vizier's Garden Party (Entertainment)
-🎵 The Grand Vizier's Garden Party (Exit)
-🎵 Arnold Layne
-🎵 See Emily Play
-🎵 Paint Box
-🎵 Julia Dream
-🎵 Biding My Time
-🗓️ Imprecise date (2002) for "MP3 Collection"
-🗃️ Looking at alternate version(s) from 2002
-🗓️ No better date found
-💿 2002 - Pink Floyd - "MP3 Collection" (Compilation)
-https://www.discogs.com/master/1673401
-———————————————————————————————————————————————————————————————
 Found candidate with 3 unregistered track(s):
 🎵 Several Species Of Small Furry Animals...
 🎵 Arnold Layne
@@ -19038,11 +19007,9 @@ Found candidate with 3 unregistered track(s):
 💿 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
 https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
 ———————————————————————————————————————————————————————————————
-Found candidate with 2 unregistered track(s):
-🎵 Proper Education
-🎵 The Dub
-💿 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
+❌ 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
 https://www.discogs.com/master/20667
+No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2011-09-27 - Pink Floyd - "Sampler" (Unknown)
 https://www.discogs.com/release/3130633-Pink-Floyd-Sampler
@@ -19052,14 +19019,13 @@ No new tracks
 https://www.discogs.com/master/397339
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 9 unregistered track(s):
+Found candidate with 8 unregistered track(s):
 🎵 Arnold Layne
 🎵 See Emily Play
 🎵 Paintbox
 🎵 Point Me At The Sky
 🎵 Embryo
 🎵 Ummagumma Radio Ad
-🎵 Grantchester Meadows (BBC Session 1969)
 🎵 Embryo (Alternative Version) (BBC Session 1970)
 🎵 Nothing Part 14
 💿 2016-11-11 - Pink Floyd - "Cre/ation - The Early Years 1967 - 1972" (Compilation)
@@ -19086,19 +19052,15 @@ Found candidate with 17 unregistered track(s):
 💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
 https://www.discogs.com/master/1159448
 ———————————————————————————————————————————————————————————————
-Found candidate with 23 unregistered track(s):
+Found candidate with 19 unregistered track(s):
 🎵 Hollywood
 🎵 Seabirds (Instrumental)
 🎵 Embryo
-🎵 Grantchester Meadows
-🎵 The Narrow Way
-🎵 Daybreak (Grantchester Meadows)
 🎵 Work
 🎵 Afternoon (Biding My Time)
 🎵 Doing It
 🎵 Sleeping
 🎵 Labyrinth
-🎵 The Narrow Way, Part 3
 🎵 The Labyrinths Of Auximines
 🎵 Footsteps / Doors
 🎵 Behold The Temple Of Light

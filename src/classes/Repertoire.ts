@@ -70,6 +70,10 @@ export class Repertoire {
 
   // Try to find the given track inside the repertoire
   private getExistingTrack(track: DCTrack) {
+    // if (track.title.endsWith("...") || track.title.endsWith("…")) {
+    //   return this.tracks.find(_track => track.title)
+    // }
+
     return this.tracks.find(
       (_track) =>
         this.areSimilarTrackNames(track.title, _track.title) ||
@@ -90,7 +94,12 @@ export class Repertoire {
         !track.position.charAt(-1).match(/[a-z]/i) &&
         this.isValidTrackType(track, index, release) &&
         // Ignore track not written by the artist
-        !track.artists?.every((artist) => this.band.id !== artist.id) &&
+        (release.artists.length === 1 ||
+          [...(track.artists ?? []), ...(track.extraartists ?? [])]?.find(
+            (artist) =>
+              this.band.id === artist.id ||
+              this.band.members.find((member) => member.id === artist.id),
+          )) &&
         // Ignore track containing an equal (translation title)
         track.title.indexOf(" = ") === -1 &&
         // Ignore specific title ending such as "edit" or "version"
@@ -133,8 +142,8 @@ export class Repertoire {
     const track1Parts = getStringParts(track1);
     const track2Parts = getStringParts(track2);
 
-    return [track1, ...track1Parts].find((track1part) =>
-      [track2, ...track2Parts].find((track2part) =>
+    return [normalize(track1), ...track1Parts].find((track1part) =>
+      [normalize(track2), ...track2Parts].find((track2part) =>
         stringsAreSimilar(track1part, track2part),
       ),
     );

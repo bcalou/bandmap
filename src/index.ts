@@ -8,13 +8,13 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
 // new BandMap(50263).init();
 
 // PF
-// new BandMap(45467).init();
+new BandMap(45467).init();
 
 // TRANSATLANTIC
 // new BandMap(303573).init();
 
 // ELO
-new BandMap(112154).init();
+// new BandMap(112154).init();
 
 // testArtist(refs.SUPERTRAMP);
 

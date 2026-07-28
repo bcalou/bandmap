@@ -88,8 +88,9 @@ Rejected format(s): Acetate, 7", 45 RPM, EP
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/12785619
 💿 Format(s): Vinyl, 7", 45 RPM, Mispress
-⌛ 1967-02-17 - Pink Floyd, The Seekers - "See Emily Play / The Last Thing On My Mind" (Unknown)
-https://www.discogs.com/release/12785619-The-Pink-Floyd-The-Seekers-See-Emily-Play-The-Last-Thing-On-My-Mind
+❌ 1967 - The Pink Floyd* / The Seekers - "See Emily Play / The Last Thing On My Mind"
+(https://www.discogs.com/release/12785619)
+Rejected format(s): Vinyl, 7", 45 RPM, Mispress
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/243712
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Promo, Mono
@@ -107,11 +108,6 @@ https://www.discogs.com/master/114724
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/442863
 💿 Format(s): Vinyl, 7", 45 RPM, EP, Mono
-🗓️ Imprecise date (1967) for "See Emily Play"
-🗃️ Looking at alternate version(s) from 1967
-🗃️ Analyzing version https://www.discogs.com/release/23297444
-🗓️ Release date: 1967
-🗓️ No better date found
 ⌛ 1967 - Pink Floyd - "See Emily Play" (EP)
 https://www.discogs.com/master/442863
 ———————————————————————————————————————————————————————————————
@@ -122,11 +118,6 @@ https://www.discogs.com/master/19546
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/2006299
 💿 Format(s): Vinyl, 7", 45 RPM, EP
-🗓️ Imprecise date (1967) for "Arnold Layne"
-🗃️ Looking at alternate version(s) from 1967
-🗃️ Analyzing version https://www.discogs.com/release/36573046
-🗓️ Release date: 1967
-🗓️ No better date found
 ⌛ 1967 - Pink Floyd - "Arnold Layne" (EP)
 https://www.discogs.com/master/2006299
 ———————————————————————————————————————————————————————————————
@@ -163,15 +154,6 @@ Analyzing release https://www.discogs.com/master/466558
 🗃️ Analyzing main formats of version https://www.discogs.com/release/8453938
 🗃️ Analyzing version https://www.discogs.com/release/8453938
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-🗓️ Imprecise date (1968) for "Let There Be More Light / Remember A Day"
-🗃️ Looking at alternate version(s) from 1968
-🗃️ Analyzing version https://www.discogs.com/release/3834497
-🗓️ Release date: 1968
-🗃️ Analyzing version https://www.discogs.com/release/15191092
-🗓️ Release date: 1968
-🗃️ Analyzing version https://www.discogs.com/release/2626364
-🗓️ Release date: 1968
-🗓️ No better date found
 ⌛ 1968 - Pink Floyd - "Let There Be More Light / Remember A Day" (Single)
 https://www.discogs.com/master/466558
 ———————————————————————————————————————————————————————————————
@@ -193,11 +175,6 @@ https://www.discogs.com/master/20692
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/466560
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-🗓️ Imprecise date (1970) for "The Nile Song"
-🗃️ Looking at alternate version(s) from 1970
-🗃️ Analyzing version https://www.discogs.com/release/3834521
-🗓️ Release date: 1970
-🗓️ No better date found
 ⌛ 1970 - Pink Floyd - "The Nile Song" (Single)
 https://www.discogs.com/master/466560
 ———————————————————————————————————————————————————————————————
@@ -215,33 +192,16 @@ https://www.discogs.com/master/12676
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44236
 💿 Format(s): Vinyl, LP, Compilation, Stereo
-🗓️ Imprecise date (1970) for "The Best Of The Pink Floyd"
-🗃️ Looking at alternate version(s) from 1970
-🗃️ Analyzing version https://www.discogs.com/release/12837891
-🗓️ Release date: 1970
-🗃️ Analyzing version https://www.discogs.com/release/13055426
-🗓️ Release date: 1970
-🗃️ Analyzing version https://www.discogs.com/release/13571845
-🗓️ Release date: 1970
-🗃️ Analyzing version https://www.discogs.com/release/23406512
-🗓️ Release date: 1970
-🗃️ Analyzing version https://www.discogs.com/release/8861533
-🗓️ Release date: 1970
-🗓️ No better date found
 ⌛ 1970 - Pink Floyd - "The Best Of The Pink Floyd" (Compilation)
 https://www.discogs.com/master/44236
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10409991
 💿 Format(s): Vinyl, LP, Stereo, Box Set, Compilation
-🗓️ Imprecise date (1971) for "Progressive Story"
-🗓️ No better date found
 ⌛ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
 https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/24058937
 💿 Format(s): Box Set, Compilation, Vinyl, LP, Stereo
-🗓️ Imprecise date (1971) for "Press Kit Box Set"
-🗓️ No better date found
 ⌛ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
 https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
 ———————————————————————————————————————————————————————————————
@@ -265,19 +225,6 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/265020
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-🗓️ Imprecise date (1972) for "One Of These Days / Fearless"
-🗃️ Looking at alternate version(s) from 1972
-🗃️ Analyzing version https://www.discogs.com/release/2664042
-🗓️ Release date: 1972
-🗃️ Analyzing version https://www.discogs.com/release/14684174
-🗓️ Release date: 1972
-🗃️ Analyzing version https://www.discogs.com/release/20727025
-🗓️ Release date: 1972
-🗃️ Analyzing version https://www.discogs.com/release/4144000
-🗓️ Release date: 1972
-🗃️ Analyzing version https://www.discogs.com/release/14684058
-🗓️ Release date: 1972
-🗓️ No better date found
 ⌛ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
 https://www.discogs.com/master/265020
 ———————————————————————————————————————————————————————————————
@@ -288,12 +235,7 @@ Alternate language release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1238408
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Stereo
-🗓️ Imprecise date (1971) for "One Of These Days"
-🗃️ Looking at alternate version(s) from 1971
-🗃️ Analyzing version https://www.discogs.com/release/10854320
-🗓️ Release date: 1971-02-25
-Found better release date: 1971-02-25
-⌛ 1971-02-25 - Pink Floyd - "One Of These Days" (EP)
+⌛ 1971 - Pink Floyd - "One Of These Days" (EP)
 https://www.discogs.com/master/1238408
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/15447173
@@ -345,12 +287,7 @@ https://www.discogs.com/master/14720
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/250579
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-🗓️ Imprecise date (1972) for "Free Four"
-🗃️ Looking at alternate version(s) from 1972
-🗃️ Analyzing version https://www.discogs.com/release/6704038
-🗓️ Release date: 1972-07-10
-Found better release date: 1972-07-10
-⌛ 1972-07-10 - Pink Floyd - "Free Four" (Single)
+⌛ 1972 - Pink Floyd - "Free Four" (Single)
 https://www.discogs.com/master/250579
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1910286
@@ -360,15 +297,11 @@ Alternate language release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4016790
 💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
-🗓️ Imprecise date (1973) for "La Canzone Di Maria / Money"
-🗓️ No better date found
 ⌛ 1973 - Al Bano Carrisi, Pink Floyd - "La Canzone Di Maria / Money" (Unknown)
 https://www.discogs.com/release/4016790-Al-Bano-Pink-Floyd-La-Canzone-Di-Maria-Money
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4144038
 💿 Format(s): Vinyl, 7", 45 RPM, Jukebox, Stereo
-🗓️ Imprecise date (1973) for "Point Me At The Sky  / 48 Crash"
-🗓️ No better date found
 ⌛ 1973 - Pink Floyd, Suzi Quatro - "Point Me At The Sky  / 48 Crash" (Unknown)
 https://www.discogs.com/release/4144038-Pink-Floyd-Suzi-Quatro-Point-Me-At-The-Sky-48-Crash
 ———————————————————————————————————————————————————————————————
@@ -443,68 +376,12 @@ Rejected format(s): Vinyl, LP, Compilation, Promo, Sampler
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/507948
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-🗓️ Imprecise date (1975) for "Have A Cigar / Welcome To The Machine"
-🗃️ Looking at alternate version(s) from 1975
-🗃️ Analyzing version https://www.discogs.com/release/6292115
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/11719732
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/24816080
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/4340576
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/2025194
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/1559459
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/6092314
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/12021656
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/14803738
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/21156874
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/19116067
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/6239000
-🗓️ Release date: 1975
-🗃️ Analyzing version https://www.discogs.com/release/7227245
-🗓️ Release date: 1975
-🗓️ No better date found
 ⌛ 1975 - Pink Floyd - "Have A Cigar / Welcome To The Machine" (Single)
 https://www.discogs.com/master/507948
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20633
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-🗓️ Imprecise date (1976) for "Have A Cigar"
-🗃️ Looking at alternate version(s) from 1976
-🗃️ Analyzing version https://www.discogs.com/release/14125798
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/13990126
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/15204564
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/4281266
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/20922883
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/14060507
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/15891609
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/5737315
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/809140
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/16802391
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/4144216
-🗓️ Release date: 1976
-🗃️ Analyzing version https://www.discogs.com/release/1436510
-🗓️ Release date: 1976-01-00
-Found better release date: 1976-01-00
-⌛ 1976-01-00 - Pink Floyd - "Have A Cigar" (Single)
+⌛ 1976 - Pink Floyd - "Have A Cigar" (Single)
 https://www.discogs.com/master/20633
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/11703
@@ -535,11 +412,6 @@ Analyzing release https://www.discogs.com/master/2721236
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12472593
 🗃️ Analyzing version https://www.discogs.com/release/12472593
 💿 Format(s): Vinyl, LP, Album, Special Edition, Vinyl, LP, Album, Special Edition, Vinyl, LP, Album, Special Edition, All Media, Compilation
-🗓️ Imprecise date (1978) for "The Dark Side Of The Moon / Wish You Were Here / Animals"
-🗃️ Looking at alternate version(s) from 1978
-🗃️ Analyzing version https://www.discogs.com/release/23983457
-🗓️ Release date: 1978
-🗓️ No better date found
 ⌛ 1978 - Pink Floyd - "The Dark Side Of The Moon / Wish You Were Here / Animals" (Compilation)
 https://www.discogs.com/master/2721236
 ———————————————————————————————————————————————————————————————
@@ -634,8 +506,6 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4962597
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP
-🗓️ Imprecise date (1980) for "Los Dias Mas Felices De Nuestras Vidas"
-🗓️ No better date found
 ⌛ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas" (EP)
 https://www.discogs.com/release/4962597-Pink-Floyd-Los-Dias-Mas-Felices-De-Nuestras-Vidas
 ———————————————————————————————————————————————————————————————
@@ -656,22 +526,12 @@ Analyzing release https://www.discogs.com/master/3738723
 🗃️ Analyzing main formats of version https://www.discogs.com/release/32818116
 🗃️ Analyzing version https://www.discogs.com/release/32818116
 💿 Format(s): Cassette, Album, Compilation, Stereo
-🗓️ Imprecise date (1980) for "The Other Side Of The Wall"
-🗃️ Looking at alternate version(s) from 1980
-🗃️ Analyzing version https://www.discogs.com/release/32818116
-🗓️ Release date: 1980
-🗓️ No better date found
 ⌛ 1980 - Pink Floyd - "The Other Side Of The Wall" (Compilation)
 https://www.discogs.com/master/3738723
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44257
 💿 Format(s): Vinyl, 7", 45 RPM, Stereo
-🗓️ Imprecise date (1980) for "Run Like Hell"
-🗃️ Looking at alternate version(s) from 1980
-🗃️ Analyzing version https://www.discogs.com/release/12664135
-🗓️ Release date: 1980-04-00
-Found better release date: 1980-04-00
-⌛ 1980-04-00 - Pink Floyd - "Run Like Hell" (Unknown)
+⌛ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
 https://www.discogs.com/master/44257
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44264
@@ -689,85 +549,11 @@ Rejected format(s): Box Set, Compilation, Limited Edition, Vinyl, LP, Compilatio
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/10274
 💿 Format(s): Vinyl, LP, Compilation, Stereo
-🗓️ Imprecise date (1981) for "A Collection Of Great Dance Songs"
-🗃️ Looking at alternate version(s) from 1981
-🗃️ Analyzing version https://www.discogs.com/release/9283197
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/8289965
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/3591728
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/3225563
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/8379121
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/15382998
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/27206637
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/623693
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/6431818
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/3344216
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/7723472
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/8473870
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/32686830
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/514729
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/13412538
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/35697103
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/5587603
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/35697145
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/24709712
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/11221106
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/27579147
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/10128032
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/10333417
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/7118797
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/1849703
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/12392503
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/33678939
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/11545736
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/4311863
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/14145414
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/13807867
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/1862840
-🗓️ Release date: 1981-11-23
-Found better release date: 1981-11-23
-⌛ 1981-11-23 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
+⌛ 1981 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
 https://www.discogs.com/master/10274
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1301533
 💿 Format(s): Vinyl, 7", 45 RPM, Single, Stereo
-🗓️ Imprecise date (1981) for "Money (Edited Version)"
-🗃️ Looking at alternate version(s) from 1981
-🗃️ Analyzing version https://www.discogs.com/release/6089245
-🗓️ Release date: 1981
-🗃️ Analyzing version https://www.discogs.com/release/1469032
-🗓️ Release date: 1981
-🗓️ No better date found
 ⌛ 1981 - Pink Floyd - "Money (Edited Version)" (Single)
 https://www.discogs.com/master/1301533
 ———————————————————————————————————————————————————————————————
@@ -861,79 +647,11 @@ Rejected format(s): Vinyl, LP, Compilation, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20699
 💿 Format(s): Vinyl, LP, Compilation
-🗓️ Imprecise date (1983) for "Works"
-🗃️ Looking at alternate version(s) from 1983
-🗃️ Analyzing version https://www.discogs.com/release/15689663
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/6907569
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/5771174
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/3713905
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/26391593
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/12050084
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/13882844
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/6016514
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/1775077
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/24206675
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/32959749
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/11159032
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/3327852
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/1340853
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/25363384
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/10591547
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/2162396
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/11972061
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/10634087
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/21451363
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/6566868
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/28809223
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/3305976
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/11864313
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/36568351
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/10496528
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/730928
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/6440227
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/23126378
-🗓️ Release date: 1983
-🗃️ Analyzing version https://www.discogs.com/release/12367588
-🗓️ Release date: 1983-07-11
-Found better release date: 1983-07-11
-⌛ 1983-07-11 - Pink Floyd - "Works" (Compilation)
+⌛ 1983 - Pink Floyd - "Works" (Compilation)
 https://www.discogs.com/master/20699
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1219048
 💿 Format(s): Vinyl, LP, Compilation
-🗓️ Imprecise date (1983) for "Hits"
-🗃️ Looking at alternate version(s) from 1983
-🗃️ Analyzing version https://www.discogs.com/release/37058508
-🗓️ Release date: 1983
-🗓️ No better date found
 ⌛ 1983 - Pink Floyd - "Hits" (Compilation)
 https://www.discogs.com/master/1219048
 ———————————————————————————————————————————————————————————————
@@ -1021,8 +739,6 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6999746
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Stereo
-🗓️ Imprecise date (1987) for "A Momentary Lapse Of Reason"
-🗓️ No better date found
 ⌛ 1987 - Pink Floyd - "A Momentary Lapse Of Reason" (EP)
 https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
 ———————————————————————————————————————————————————————————————
@@ -1058,18 +774,7 @@ Analyzing release https://www.discogs.com/master/20627
 🗃️ Analyzing main formats of version https://www.discogs.com/release/4143971
 🗃️ Analyzing version https://www.discogs.com/release/4143971
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-🗓️ Imprecise date (1987) for "Learning To Fly / Terminal Frost"
-🗃️ Looking at alternate version(s) from 1987
-🗃️ Analyzing version https://www.discogs.com/release/6904710
-🗓️ Release date: 1987
-🗃️ Analyzing version https://www.discogs.com/release/2096591
-🗓️ Release date: 1987
-🗃️ Analyzing version https://www.discogs.com/release/36784615
-🗓️ Release date: 1987
-🗃️ Analyzing version https://www.discogs.com/release/5185859
-🗓️ Release date: 1987-10-21
-Found better release date: 1987-10-21
-⌛ 1987-10-21 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
+⌛ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
 https://www.discogs.com/master/20627
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20657
@@ -1085,8 +790,6 @@ Rejected format(s): CD, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2853703
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-🗓️ Imprecise date (1988) for "The Dogs Of War"
-🗓️ No better date found
 ⌛ 1988 - Pink Floyd - "The Dogs Of War" (Single)
 https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
 ———————————————————————————————————————————————————————————————
@@ -1172,18 +875,7 @@ Analyzing release https://www.discogs.com/master/44342
 🗃️ Analyzing main formats of version https://www.discogs.com/release/2293310
 🗃️ Analyzing version https://www.discogs.com/release/2293310
 💿 Format(s): CD, Single
-🗓️ Imprecise date (1988) for "One Slip"
-🗃️ Looking at alternate version(s) from 1988
-🗃️ Analyzing version https://www.discogs.com/release/4621356
-🗓️ Release date: 1988
-🗃️ Analyzing version https://www.discogs.com/release/2579133
-🗓️ Release date: 1988
-🗃️ Analyzing version https://www.discogs.com/release/2674723
-🗓️ Release date: 1988
-🗃️ Analyzing version https://www.discogs.com/release/3580522
-🗓️ Release date: 1988-06-23
-Found better release date: 1988-06-23
-⌛ 1988-06-23 - Pink Floyd - "One Slip" (Single)
+⌛ 1988 - Pink Floyd - "One Slip" (Single)
 https://www.discogs.com/master/44342
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/251639
@@ -1256,8 +948,6 @@ https://www.discogs.com/master/2102665
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7357525
 💿 Format(s): Vinyl, LP, Compilation
-🗓️ Imprecise date (1991) for "Greatest Hits"
-🗓️ No better date found
 ⌛ 1991 - Pink Floyd - "Greatest Hits" (Compilation)
 https://www.discogs.com/release/7357525-Pink-Floyd-Greatest-Hits
 ———————————————————————————————————————————————————————————————
@@ -1273,21 +963,6 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/196922
 💿 Format(s): CD, Compilation, Remastered, Mono
-🗓️ Imprecise date (1992) for "The Early Singles"
-🗃️ Looking at alternate version(s) from 1992
-🗃️ Analyzing version https://www.discogs.com/release/29269675
-🗓️ Release date: 1992
-🗃️ Analyzing version https://www.discogs.com/release/14052939
-🗓️ Release date: 1992
-🗃️ Analyzing version https://www.discogs.com/release/5698825
-🗓️ Release date: 1992
-🗃️ Analyzing version https://www.discogs.com/release/15991767
-🗓️ Release date: 1992
-🗃️ Analyzing version https://www.discogs.com/release/14482135
-🗓️ Release date: 1992
-🗃️ Analyzing version https://www.discogs.com/release/9955859
-🗓️ Release date: 1992
-🗓️ No better date found
 ⌛ 1992 - Pink Floyd - "The Early Singles" (Compilation)
 https://www.discogs.com/master/196922
 ———————————————————————————————————————————————————————————————
@@ -1461,84 +1136,12 @@ Rejected format(s): CD, Single, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44326
 💿 Format(s): CD, Maxi-Single
-🗓️ Imprecise date (1994) for "High Hopes / Keep Talking"
-🗃️ Looking at alternate version(s) from 1994
-🗃️ Analyzing version https://www.discogs.com/release/5339277
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1039774
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1133278
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1147336
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/9546312
-🗓️ Release date: 1994-10-17
-Found better release date: 1994-10-17
-⌛ 1994-10-17 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
+⌛ 1994 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
 https://www.discogs.com/master/44326
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44357
 💿 Format(s): CD, Maxi-Single
-🗓️ Imprecise date (1994) for "Take It Back"
-🗃️ Looking at alternate version(s) from 1994
-🗃️ Analyzing version https://www.discogs.com/release/5123530
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1117305
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/3391767
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/13182358
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/2373189
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/9907399
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/15435788
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/6333078
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/5253542
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/9493114
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/26035975
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/7939012
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/6135201
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/3182505
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/3184120
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/14122249
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/2681367
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1417319
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1221823
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/6410096
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/5392259
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/633334
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/1473153
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/8417447
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/6472727
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/505247
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/2207605
-🗓️ Release date: 1994
-🗃️ Analyzing version https://www.discogs.com/release/3362563
-🗓️ Release date: 1994-05-09
-Found better release date: 1994-05-09
-⌛ 1994-05-09 - Pink Floyd - "Take It Back" (Maxi-Single)
+⌛ 1994 - Pink Floyd - "Take It Back" (Maxi-Single)
 https://www.discogs.com/master/44357
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1562540
@@ -1607,39 +1210,6 @@ Analyzing release https://www.discogs.com/master/296063
 🗃️ Analyzing main formats of version https://www.discogs.com/release/29579851
 🗃️ Analyzing version https://www.discogs.com/release/29579851
 💿 Format(s): CD, VCD, Stereo
-🗓️ Imprecise date (1995) for "Pulse"
-🗃️ Looking at alternate version(s) from 1995
-🗃️ Analyzing version https://www.discogs.com/release/2165583
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/3739785
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/32997141
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/2610967
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/33383771
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/31143545
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/4175846
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/5277671
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/16236313
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/3803557
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/10965620
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/15851705
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/1833948
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/13549904
-🗓️ Release date: 1995
-🗃️ Analyzing version https://www.discogs.com/release/7754795
-🗓️ Release date: 1995
-🗓️ No better date found
 ⌛ 1995 - Pink Floyd - "Pulse" (Unknown)
 https://www.discogs.com/master/296063
 ———————————————————————————————————————————————————————————————
@@ -1672,23 +1242,11 @@ Rejected format(s): CD, Compilation, Promo, Sampler
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/375607
 💿 Format(s): Box Set, Compilation, Vinyl, LP
-🗓️ Imprecise date (1997) for "'97 Vinyl Collection"
-🗃️ Looking at alternate version(s) from 1997
-🗃️ Analyzing version https://www.discogs.com/release/3078043
-🗓️ Release date: 1997
-🗓️ No better date found
 ⌛ 1997 - Pink Floyd - "'97 Vinyl Collection" (Compilation)
 https://www.discogs.com/master/375607
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/273212
 💿 Format(s): CD, Compilation, Mono
-🗓️ Imprecise date (1997) for "1967 / The First 3 Singles"
-🗃️ Looking at alternate version(s) from 1997
-🗃️ Analyzing version https://www.discogs.com/release/9593511
-🗓️ Release date: 1997
-🗃️ Analyzing version https://www.discogs.com/release/6090254
-🗓️ Release date: 1997
-🗓️ No better date found
 ⌛ 1997 - Pink Floyd - "1967 / The First 3 Singles" (Compilation)
 https://www.discogs.com/master/273212
 ———————————————————————————————————————————————————————————————
@@ -1814,9 +1372,6 @@ Rejected format(s): CDr, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1673401
 💿 Format(s): CD, CD-ROM, Compilation
-🗓️ Imprecise date (2002) for "MP3 Collection"
-🗃️ Looking at alternate version(s) from 2002
-🗓️ No better date found
 ⌛ 2002 - Pink Floyd - "MP3 Collection" (Compilation)
 https://www.discogs.com/master/1673401
 ———————————————————————————————————————————————————————————————
@@ -1854,8 +1409,6 @@ Rejected format(s): VHS, Advance, Compilation, PAL
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10852178
 💿 Format(s): CD, Compilation
-🗓️ Imprecise date (2004) for "All Gold Of The World"
-🗓️ No better date found
 ⌛ 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
 https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
 ———————————————————————————————————————————————————————————————
@@ -2274,18 +1827,7 @@ Analyzing release https://www.discogs.com/master/1643576
 🗃️ Analyzing main formats of version https://www.discogs.com/release/17394310
 🗃️ Analyzing version https://www.discogs.com/release/17394310
 💿 Format(s): CD, Compilation
-🗓️ Imprecise date (2019) for "The Later Years 1987-2019"
-🗃️ Looking at alternate version(s) from 2019
-🗃️ Analyzing version https://www.discogs.com/release/14684122
-🗓️ Release date: 2019
-🗃️ Analyzing version https://www.discogs.com/release/14077408
-🗓️ Release date: 2019
-🗃️ Analyzing version https://www.discogs.com/release/16460652
-🗓️ Release date: 2019
-🗃️ Analyzing version https://www.discogs.com/release/14461466
-🗓️ Release date: 2019-11-29
-Found better release date: 2019-11-29
-⌛ 2019-11-29 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
+⌛ 2019 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
 https://www.discogs.com/master/1643576
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1796387
@@ -2651,8 +2193,6 @@ Rejected format(s): Acetate, 10", 45 RPM, Single Sided
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/28385452
 💿 Format(s): Vinyl, 7", 45 RPM, Stereo
-🗓️ Imprecise date (undefined) for "Money / La Canzone Di Maria"
-🗓️ No better date found
 ⌛ unknown date - Pink Floyd, Al Bano Carrisi - "Money / La Canzone Di Maria" (Unknown)
 https://www.discogs.com/release/28385452-Pink-Floyd-Al-Bano-Money-La-Canzone-Di-Maria
 ———————————————————————————————————————————————————————————————
@@ -2670,8 +2210,6 @@ Rejected format(s): Vinyl, LP, Test Pressing, White Label
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/31670582
 💿 Format(s): Vinyl, 12", 33 ⅓ RPM, White Label
-🗓️ Imprecise date (undefined) for "Another Brick"
-🗓️ No better date found
 ⌛ unknown date - DJ Russ Harris, Pink Floyd - "Another Brick" (Unknown)
 https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Brick
 ———————————————————————————————————————————————————————————————
@@ -19113,45 +18651,178 @@ Looking at Pink Floyd alias Seamus (11)
 ↷ "2014 - Seamus (11) - "Seamus Revisited"
 (https://www.discogs.com/master/754253)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1967 - Pink Floyd - "See Emily Play" (EP)
-https://www.discogs.com/master/442863
-———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1967 - Pink Floyd - "Arnold Layne" (EP)
-https://www.discogs.com/master/2006299
-———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1967-02-17 - Pink Floyd, The Seekers - "See Emily Play / The Last Thing On My Mind" (Unknown)
-https://www.discogs.com/release/12785619-The-Pink-Floyd-The-Seekers-See-Emily-Play-The-Last-Thing-On-My-Mind
-———————————————————————————————————————————————————————————————
-❌ 1967-03-10 - Pink Floyd - "Arnold Layne" (Single)
+🗓️ Imprecise date (1967) for "See Emily Play"
+🗃️ Looking at alternate version(s) from 1967
+🗃️ Analyzing version https://www.discogs.com/release/23297444
+🗓️ Release date: 1967
+🗓️ No better date found
+🗓️ Imprecise date (1967) for "Arnold Layne"
+🗃️ Looking at alternate version(s) from 1967
+🗃️ Analyzing version https://www.discogs.com/release/36573046
+🗓️ Release date: 1967
+🗓️ No better date found
+🗓️ Imprecise date (1970) for "The Best Of The Pink Floyd"
+🗃️ Looking at alternate version(s) from 1970
+🗃️ Analyzing version https://www.discogs.com/release/12837891
+🗓️ Release date: 1970
+🗃️ Analyzing version https://www.discogs.com/release/13055426
+🗓️ Release date: 1970
+🗃️ Analyzing version https://www.discogs.com/release/13571845
+🗓️ Release date: 1970
+🗃️ Analyzing version https://www.discogs.com/release/23406512
+🗓️ Release date: 1970
+🗃️ Analyzing version https://www.discogs.com/release/8861533
+🗓️ Release date: 1970
+🗓️ No better date found
+🗓️ Imprecise date (1971) for "Progressive Story"
+🗓️ No better date found
+🗓️ Imprecise date (1971) for "Press Kit Box Set"
+🗓️ No better date found
+🗓️ Imprecise date (1971) for "One Of These Days"
+🗃️ Looking at alternate version(s) from 1971
+🗃️ Analyzing version https://www.discogs.com/release/10854320
+🗓️ Release date: 1971-02-25
+Found better release date: 1971-02-25
+🗓️ Imprecise date (1973) for "Point Me At The Sky  / 48 Crash"
+🗓️ No better date found
+🗓️ Imprecise date (1983) for "Works"
+🗃️ Looking at alternate version(s) from 1983
+🗃️ Analyzing version https://www.discogs.com/release/15689663
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/6907569
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/5771174
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/3713905
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/26391593
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/12050084
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/13882844
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/6016514
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/1775077
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/24206675
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/32959749
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/11159032
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/3327852
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/1340853
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/25363384
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/10591547
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/2162396
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/11972061
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/10634087
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/21451363
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/6566868
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/28809223
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/3305976
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/11864313
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/36568351
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/10496528
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/730928
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/6440227
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/23126378
+🗓️ Release date: 1983
+🗃️ Analyzing version https://www.discogs.com/release/12367588
+🗓️ Release date: 1983-07-11
+Found better release date: 1983-07-11
+🗓️ Imprecise date (1992) for "The Early Singles"
+🗃️ Looking at alternate version(s) from 1992
+🗃️ Analyzing version https://www.discogs.com/release/29269675
+🗓️ Release date: 1992
+🗃️ Analyzing version https://www.discogs.com/release/14052939
+🗓️ Release date: 1992
+🗃️ Analyzing version https://www.discogs.com/release/5698825
+🗓️ Release date: 1992
+🗃️ Analyzing version https://www.discogs.com/release/15991767
+🗓️ Release date: 1992
+🗃️ Analyzing version https://www.discogs.com/release/14482135
+🗓️ Release date: 1992
+🗃️ Analyzing version https://www.discogs.com/release/9955859
+🗓️ Release date: 1992
+🗓️ No better date found
+🗓️ Imprecise date (1997) for "'97 Vinyl Collection"
+🗃️ Looking at alternate version(s) from 1997
+🗃️ Analyzing version https://www.discogs.com/release/3078043
+🗓️ Release date: 1997
+🗓️ No better date found
+🗓️ Imprecise date (1997) for "1967 / The First 3 Singles"
+🗃️ Looking at alternate version(s) from 1997
+🗃️ Analyzing version https://www.discogs.com/release/9593511
+🗓️ Release date: 1997
+🗃️ Analyzing version https://www.discogs.com/release/6090254
+🗓️ Release date: 1997
+🗓️ No better date found
+🗓️ Imprecise date (2002) for "MP3 Collection"
+🗃️ Looking at alternate version(s) from 2002
+🗓️ No better date found
+🗓️ Imprecise date (2004) for "All Gold Of The World"
+🗓️ No better date found
+Found candidate with 2 unregistered track(s):
+🎵 Arnold Layne
+🎵 Candy And A Currant Bun
+💿 1967-03-10 - Pink Floyd - "Arnold Layne" (Single)
 https://www.discogs.com/master/247397
-No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1967-06-16 - Pink Floyd - "See Emily Play" (Single)
+Found candidate with 1 unregistered track(s):
+🎵 See Emily Play
+💿 1967-06-16 - Pink Floyd - "See Emily Play" (Single)
 https://www.discogs.com/master/114724
-No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1967-11-02 - Pink Floyd - "Flaming" (Single)
 https://www.discogs.com/master/759394
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 2 unregistered track(s):
+🎵 Apples And Oranges
+🎵 Paint Box
 💿 1967-11-17 - Pink Floyd - "Apples And Oranges" (Single)
 https://www.discogs.com/master/243712
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "See Emily Play" (EP)
+https://www.discogs.com/master/442863
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "Arnold Layne" (EP)
+https://www.discogs.com/master/2006299
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with 2 unregistered track(s):
+🎵 It Would Be So Nice
+🎵 Julia Dream
+💿 1968-04-12 - Pink Floyd - "It Would Be So Nice" (Single)
+https://www.discogs.com/master/488186
+———————————————————————————————————————————————————————————————
+Found candidate with 1 unregistered track(s):
+🎵 Point Me At The Sky
+💿 1968-12-17 - Pink Floyd - "Point Me At The Sky" (Single)
+https://www.discogs.com/master/406776
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - Pink Floyd - "Let There Be More Light / Remember A Day" (Single)
 https://www.discogs.com/master/466558
 No new tracks
-———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1968-04-12 - Pink Floyd - "It Would Be So Nice" (Single)
-https://www.discogs.com/master/488186
-———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1968-12-17 - Pink Floyd - "Point Me At The Sky" (Single)
-https://www.discogs.com/master/406776
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - Pink Floyd - "The Nile Song" (Single)
 https://www.discogs.com/master/466560
@@ -19161,28 +18832,40 @@ No new tracks
 https://www.discogs.com/master/44236
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
-https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
-———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
-💿 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
-https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
-———————————————————————————————————————————————————————————————
 ❌ 1971-02-25 - Pink Floyd - "One Of These Days" (EP)
 https://www.discogs.com/master/1238408
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1971-05-14 - Pink Floyd - "Relics" (Compilation)
+Found candidate with 5 unregistered track(s):
+🎵 Arnold Layne
+🎵 See Emily Play
+🎵 Paintbox
+🎵 Julia Dream
+🎵 Biding My Time
+💿 1971-05-14 - Pink Floyd - "Relics" (Compilation)
 https://www.discogs.com/master/20674
+———————————————————————————————————————————————————————————————
+Found candidate with 1 unregistered track(s):
+🎵 Symphony For Group And Orchestra 
+🗓️ Imprecise date (1971) for "Progressive Story"
+🗓️ No better date found
+💿 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
+https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
+———————————————————————————————————————————————————————————————
+❌ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
+https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
 https://www.discogs.com/master/265020
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1972-07-10 - Pink Floyd - "Free Four" (Single)
+❌ 1972 - Pink Floyd - "Free Four" (Single)
 https://www.discogs.com/master/250579
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1973-05-07 - Pink Floyd - "Money" (Single)
+https://www.discogs.com/master/319677
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Al Bano Carrisi, Pink Floyd - "La Canzone Di Maria / Money" (Unknown)
@@ -19191,10 +18874,6 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Pink Floyd, Suzi Quatro - "Point Me At The Sky  / 48 Crash" (Unknown)
 https://www.discogs.com/release/4144038-Pink-Floyd-Suzi-Quatro-Point-Me-At-The-Sky-48-Crash
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1973-05-07 - Pink Floyd - "Money" (Single)
-https://www.discogs.com/master/319677
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1974-01-18 - Pink Floyd - "A Nice Pair" (Compilation)
@@ -19209,7 +18888,7 @@ No new tracks
 https://www.discogs.com/master/507948
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1976-01-00 - Pink Floyd - "Have A Cigar" (Single)
+❌ 1976 - Pink Floyd - "Have A Cigar" (Single)
 https://www.discogs.com/master/20633
 No new tracks
 ———————————————————————————————————————————————————————————————
@@ -19229,23 +18908,24 @@ No new tracks
 https://www.discogs.com/master/3738723
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1980-04-00 - Pink Floyd - "Run Like Hell" (Unknown)
+❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
 https://www.discogs.com/master/44257
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1981 - Pink Floyd - "Money (Edited Version)" (Single)
-https://www.discogs.com/master/1301533
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1981-05-00 - Pink Floyd - "Run Like Hell / Comfortably Numb" (Unknown)
 https://www.discogs.com/master/640187
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1981-11-23 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
+❌ 1981 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
 https://www.discogs.com/master/10274
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+❌ 1981 - Pink Floyd - "Money (Edited Version)" (Single)
+https://www.discogs.com/master/1301533
+No new tracks
+———————————————————————————————————————————————————————————————
+Found candidate with 1 unregistered track(s):
+🎵 When The Tigers Broke Free
 💿 1982-07-26 - Pink Floyd - "The Wall (Music From The Film)" (Single)
 https://www.discogs.com/master/44270
 ———————————————————————————————————————————————————————————————
@@ -19253,35 +18933,39 @@ https://www.discogs.com/master/44270
 https://www.discogs.com/release/25136041-Pink-Floyd-Money-Let-There-Be-More-Light
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Pink Floyd - "Hits" (Compilation)
-https://www.discogs.com/master/1219048
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1983-05-00 - Pink Floyd - "Not Now John" (Single)
 https://www.discogs.com/master/406779
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 4 unregistered track(s):
+🎵 Arnold Layne
+🎵 See Emily Play
+🎵 Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
+🎵 Embryo
 💿 1983-07-11 - Pink Floyd - "Works" (Compilation)
 https://www.discogs.com/master/20699
+———————————————————————————————————————————————————————————————
+❌ 1983 - Pink Floyd - "Hits" (Compilation)
+https://www.discogs.com/master/1219048
+No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - Pink Floyd - "A Momentary Lapse Of Reason" (EP)
 https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1987-10-21 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
+❌ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
 https://www.discogs.com/master/20627
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
-https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1988-01-25 - Pink Floyd - "On The Turning Away" (Single)
 https://www.discogs.com/master/20657
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1988-06-23 - Pink Floyd - "One Slip" (Single)
+❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
+https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1988 - Pink Floyd - "One Slip" (Single)
 https://www.discogs.com/master/44342
 No new tracks
 ———————————————————————————————————————————————————————————————
@@ -19293,12 +18977,12 @@ No new tracks
 https://www.discogs.com/master/196922
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1994-05-09 - Pink Floyd - "Take It Back" (Maxi-Single)
-https://www.discogs.com/master/44357
+❌ 1994 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
+https://www.discogs.com/master/44326
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1994-10-17 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
-https://www.discogs.com/master/44326
+❌ 1994 - Pink Floyd - "Take It Back" (Maxi-Single)
+https://www.discogs.com/master/44357
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Pink Floyd - "Pulse" (Unknown)
@@ -19321,15 +19005,42 @@ No new tracks
 https://www.discogs.com/master/20631
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 17 unregistered track(s):
+🎵 Sysyphus Part One
+🎵 Sysyphus Part Two
+🎵 Sysyphus Part Three
+🎵 Sysyphus Part Four
+🎵 Grantchester Meadows
+🎵 Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
+🎵 The Narrow Way Part One
+🎵 The Narrow Way Part Two
+🎵 The Narrow Way Part Three
+🎵 The Grand Vizier's Garden Party (Entrance)
+🎵 The Grand Vizier's Garden Party (Entertainment)
+🎵 The Grand Vizier's Garden Party (Exit)
+🎵 Arnold Layne
+🎵 See Emily Play
+🎵 Paint Box
+🎵 Julia Dream
+🎵 Biding My Time
+🗓️ Imprecise date (2002) for "MP3 Collection"
+🗃️ Looking at alternate version(s) from 2002
+🗓️ No better date found
 💿 2002 - Pink Floyd - "MP3 Collection" (Compilation)
 https://www.discogs.com/master/1673401
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 3 unregistered track(s):
+🎵 Several Species Of Small Furry Animals...
+🎵 Arnold Layne
+🎵 See Emily Play
+🗓️ Imprecise date (2004) for "All Gold Of The World"
+🗓️ No better date found
 💿 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
 https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 2 unregistered track(s):
+🎵 Proper Education
+🎵 The Dub
 💿 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
 https://www.discogs.com/master/20667
 ———————————————————————————————————————————————————————————————
@@ -19341,39 +19052,140 @@ No new tracks
 https://www.discogs.com/master/397339
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 9 unregistered track(s):
+🎵 Arnold Layne
+🎵 See Emily Play
+🎵 Paintbox
+🎵 Point Me At The Sky
+🎵 Embryo
+🎵 Ummagumma Radio Ad
+🎵 Grantchester Meadows (BBC Session 1969)
+🎵 Embryo (Alternative Version) (BBC Session 1970)
+🎵 Nothing Part 14
 💿 2016-11-11 - Pink Floyd - "Cre/ation - The Early Years 1967 - 1972" (Compilation)
 https://www.discogs.com/master/1088766
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 17 unregistered track(s):
+🎵 Embryo
+🎵 On The Highway
+🎵 Auto Scene Version 2
+🎵 Auto Scene Version 3
+🎵 Aeroplane
+🎵 Explosion
+🎵 The Riot Scene
+🎵 Looking At Map
+🎵 Love Scene Version 7
+🎵 Love Scene Version 1
+🎵 Take Off
+🎵 Take Off Version 2
+🎵 Love Scene Version 2
+🎵 Love Scene (Take 1)
+🎵 Unknown Song (Take 1)
+🎵 Love Scene (Take 2)
+🎵 Crumbling Land (Take 1)
 💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
 https://www.discogs.com/master/1159448
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 23 unregistered track(s):
+🎵 Hollywood
+🎵 Seabirds (Instrumental)
+🎵 Embryo
+🎵 Grantchester Meadows
+🎵 The Narrow Way
+🎵 Daybreak (Grantchester Meadows)
+🎵 Work
+🎵 Afternoon (Biding My Time)
+🎵 Doing It
+🎵 Sleeping
+🎵 Labyrinth
+🎵 The Narrow Way, Part 3
+🎵 The Labyrinths Of Auximines
+🎵 Footsteps / Doors
+🎵 Behold The Temple Of Light
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
 💿 2017-03-24 - Pink Floyd - "The Early Years 1969 Dramatis/ation" (Compilation)
 https://www.discogs.com/master/1159489
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 23 unregistered track(s):
+🎵 Lucy Leave
+🎵 Double O Bo
+🎵 Walk With Me Sydney
+🎵 Butterfly
+🎵 I'm A King Bee
+🎵 Arnold Layne
+🎵 See Emily Play
+🎵 Apples And Oranges
+🎵 Candy And A Currant Bun
+🎵 Paintbox
+🎵 Introduction
+🎵 Reaction In G
+🎵 Scream Thy Last Scream
+🎵 See Emily Play
+🎵 John Latham Version 1
+🎵 John Latham Version 2
+🎵 John Latham Version 3
+🎵 John Latham Version 4
+🎵 John Latham Version 5
+🎵 John Latham Version 6
+🎵 John Latham Version 7
+🎵 John Latham Version 8
+🎵 John Latham Version 9
 💿 2017-03-24 - Pink Floyd - "The Early Years 1965-1967 Cambridge St/ation" (Compilation)
 https://www.discogs.com/master/1228211
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 8 unregistered track(s):
+🎵 Nothing Part 14 (Echoes Work In Progress)
+🎵 Embryo
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 Documentary Including Pink Floyd And Manager Steve O'Rourke
+🎵 Storm Thorgerson And Aubrey 'Po' Powell
 💿 2017-03-24 - Pink Floyd - "The Early Years 1971 Reverber/ation" (Compilation)
 https://www.discogs.com/master/1158971
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 18 unregistered track(s):
+🎵 Point Me At The Sky
+🎵 It Would Be So Nice
+🎵 Julia Dream
+🎵 Song 1 (Capitol Studios, Los Angeles)
+🎵 Roger's Boogie (Capitol Studios, Los Angeles)
+🎵 Julia Dream
+🎵 Point Me At The Sky
+🎵 Embryo
+🎵 'Tienerklanken', Brussels
+🎵 'Bouton Rouge', Paris
+🎵 'Tienerklanken - Kastival', Kasterlee, Belgium
+🎵 'Samedi Et Compagnie', Paris
+🎵 'Tous En Scène', Paris
+🎵 'Tienerklanken', Brussels
+🎵 'Bouton Rouge', Paris
+🎵 'Tienerklanken - Kastival', Kasterlee, Belgium
+🎵 'Samedi Et Compagnie', Paris
+🎵 'Tous En Scène', Paris
 💿 2017-03-24 - Pink Floyd - "The Early Years 1968 Germin/Ation" (Compilation)
 https://www.discogs.com/master/1230809
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 2 unregistered track(s):
+🎵 Brighton Dome, UK, 29 June 1972
+🎵 Brighton Dome, UK, 29 June 1972
 💿 2017-03-24 - Pink Floyd - "The Early Years 1972 Obfusc/ation" (Compilation)
 https://www.discogs.com/master/1158816
 ———————————————————————————————————————————————————————————————
-❌ 2019-11-29 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
+❌ 2019 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
 https://www.discogs.com/master/1643576
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with undefined unregistered track(s):
+Found candidate with 1 unregistered track(s):
+🎵  Hey Hey Rise Up
 💿 2022-04-08 - Pink Floyd, Андрій Хливнюк - "Hey Hey Rise Up" (Single)
 https://www.discogs.com/master/2585249
 ———————————————————————————————————————————————————————————————

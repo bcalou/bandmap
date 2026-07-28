@@ -1,4 +1,4 @@
-3475 rejected release(s):
+3476 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Pink Floyd, Al Bano Carrisi - "Money / La Canzone Di Maria" (Unknown)
 https://www.discogs.com/release/28385452-Pink-Floyd-Al-Bano-Money-La-Canzone-Di-Maria
@@ -15,6 +15,10 @@ https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Br
 ❌ 1967 - Pink Floyd - "See Emily Play / Paint Box / Arnold Layne"
 (https://www.discogs.com/release/8378633)
 (Rejected format(s): Acetate, 7", 45 RPM, EP)
+———————————————————————————————————————————————————————————————
+❌ 1967 - The Pink Floyd* / The Seekers - "See Emily Play / The Last Thing On My Mind"
+(https://www.discogs.com/release/12785619)
+(Rejected format(s): Vinyl, 7", 45 RPM, Mispress)
 ———————————————————————————————————————————————————————————————
 ❌ 1967 - Various - "Inglaterra A Go-Go Vol.3"
 (https://www.discogs.com/release/5288068)
@@ -36,16 +40,16 @@ https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Br
 (https://www.discogs.com/release/34539823)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1967-03-10 - Pink Floyd - "Arnold Layne" (Single)
-https://www.discogs.com/master/247397
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1967-06-16 - Pink Floyd - "See Emily Play" (Single)
-https://www.discogs.com/master/114724
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1967-11-02 - Pink Floyd - "Flaming" (Single)
 https://www.discogs.com/master/759394
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "See Emily Play" (EP)
+https://www.discogs.com/master/442863
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "Arnold Layne" (EP)
+https://www.discogs.com/master/2006299
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - Various - "New Rock Special"
@@ -196,8 +200,8 @@ https://www.discogs.com/master/44236
 https://www.discogs.com/master/1238408
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1971-05-14 - Pink Floyd - "Relics" (Compilation)
-https://www.discogs.com/master/20674
+❌ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
+https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Pink Floyd - "Original Radio Spot Announcements"
@@ -252,7 +256,7 @@ https://www.discogs.com/master/20674
 https://www.discogs.com/master/265020
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1972-07-10 - Pink Floyd - "Free Four" (Single)
+❌ 1972 - Pink Floyd - "Free Four" (Single)
 https://www.discogs.com/master/250579
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -344,16 +348,16 @@ https://www.discogs.com/master/250579
 (https://www.discogs.com/master/489392)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1973-05-07 - Pink Floyd - "Money" (Single)
+https://www.discogs.com/master/319677
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1973 - Al Bano Carrisi, Pink Floyd - "La Canzone Di Maria / Money" (Unknown)
 https://www.discogs.com/release/4016790-Al-Bano-Pink-Floyd-La-Canzone-Di-Maria-Money
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Pink Floyd, Suzi Quatro - "Point Me At The Sky  / 48 Crash" (Unknown)
 https://www.discogs.com/release/4144038-Pink-Floyd-Suzi-Quatro-Point-Me-At-The-Sky-48-Crash
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1973-05-07 - Pink Floyd - "Money" (Single)
-https://www.discogs.com/master/319677
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Pink Floyd - "Time / Breathe"
@@ -528,7 +532,7 @@ https://www.discogs.com/master/507948
 (https://www.discogs.com/master/597743)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1976-01-00 - Pink Floyd - "Have A Cigar" (Single)
+❌ 1976 - Pink Floyd - "Have A Cigar" (Single)
 https://www.discogs.com/master/20633
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -888,7 +892,7 @@ https://www.discogs.com/release/4962597-Pink-Floyd-Los-Dias-Mas-Felices-De-Nuest
 https://www.discogs.com/master/3738723
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980-04-00 - Pink Floyd - "Run Like Hell" (Unknown)
+❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
 https://www.discogs.com/master/44257
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -980,16 +984,16 @@ https://www.discogs.com/master/44257
 (https://www.discogs.com/master/208267)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1981 - Pink Floyd - "Money (Edited Version)" (Single)
-https://www.discogs.com/master/1301533
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1981-05-00 - Pink Floyd - "Run Like Hell / Comfortably Numb" (Unknown)
 https://www.discogs.com/master/640187
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1981-11-23 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
+❌ 1981 - Pink Floyd - "A Collection Of Great Dance Songs" (Compilation)
 https://www.discogs.com/master/10274
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1981 - Pink Floyd - "Money (Edited Version)" (Single)
+https://www.discogs.com/master/1301533
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Pink Floyd - "The Wall"
@@ -1204,12 +1208,12 @@ https://www.discogs.com/release/25136041-Pink-Floyd-Money-Let-There-Be-More-Ligh
 (https://www.discogs.com/master/714343)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Pink Floyd - "Hits" (Compilation)
-https://www.discogs.com/master/1219048
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1983-05-00 - Pink Floyd - "Not Now John" (Single)
 https://www.discogs.com/master/406779
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Pink Floyd - "Hits" (Compilation)
+https://www.discogs.com/master/1219048
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Pink Floyd - "Shades Of Pink (The Legend Of Pink Floyd)"
@@ -1704,7 +1708,7 @@ https://www.discogs.com/master/406779
 https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1987-10-21 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
+❌ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
 https://www.discogs.com/master/20627
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -1996,15 +2000,15 @@ https://www.discogs.com/master/20627
 (https://www.discogs.com/master/1013625)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
-https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1988-01-25 - Pink Floyd - "On The Turning Away" (Single)
 https://www.discogs.com/master/20657
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1988-06-23 - Pink Floyd - "One Slip" (Single)
+❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
+https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1988 - Pink Floyd - "One Slip" (Single)
 https://www.discogs.com/master/44342
 (No new tracks)
 ———————————————————————————————————————————————————————————————
@@ -3344,12 +3348,12 @@ https://www.discogs.com/master/196922
 (https://www.discogs.com/master/714708)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1994-05-09 - Pink Floyd - "Take It Back" (Maxi-Single)
-https://www.discogs.com/master/44357
+❌ 1994 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
+https://www.discogs.com/master/44326
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1994-10-17 - Pink Floyd - "High Hopes / Keep Talking" (Maxi-Single)
-https://www.discogs.com/master/44326
+❌ 1994 - Pink Floyd - "Take It Back" (Maxi-Single)
+https://www.discogs.com/master/44357
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Pink Floyd - "What Do You Want From Me (Live)"
@@ -11064,7 +11068,7 @@ https://www.discogs.com/master/397339
 (https://www.discogs.com/master/2051878)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2019-11-29 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
+❌ 2019 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
 https://www.discogs.com/master/1643576
 (No new tracks)
 ———————————————————————————————————————————————————————————————

@@ -77,7 +77,7 @@ export class Discography {
   // Add a release to the rejected list
   public addRejected(
     artistRelease: ArtistRelease | Release,
-    reason: RejectReason,
+    reason: RejectReason
   ) {
     this.logger.logError(`❌ ${artistRelease.label}`);
     this.logger.logError(`${reason}`);
@@ -104,22 +104,22 @@ export class Discography {
   public async selectCandidatesWithUnregisteredTracks() {
     for (const candidate of this.candidates) {
       candidate.unregisteredTracks = this.repertoire.getUnregisteredTracks(
-        candidate.release,
+        candidate.release
       );
 
       if (candidate.unregisteredTracks.length) {
-        candidate.release.extractPreciseDate();
+        await candidate.release.extractPreciseDate();
       }
     }
 
     this.candidates.sort((candidate1, candidate2) =>
-      this.sortByFormattedDate(candidate1.release, candidate2.release),
+      this.sortByFormattedDate(candidate1.release, candidate2.release)
     );
 
     for (const candidate of this.candidates) {
       await this.selectCandidate(
         candidate,
-        this.repertoire.getUnregisteredTracks(candidate.release),
+        this.repertoire.getUnregisteredTracks(candidate.release)
       );
     }
 
@@ -183,12 +183,12 @@ export class Discography {
   // Move a release from the candidate list to the accepted or reject list
   private async selectCandidate(
     candidate: DiscographyRelease,
-    unregisteredTrack: DCTrack[],
+    unregisteredTrack: DCTrack[]
   ) {
     if (unregisteredTrack.length) {
       this.logCandidateUnregisteredTracks(candidate);
       this.candidates = this.candidates.filter(
-        (_candidate) => _candidate.release.id !== candidate.release.id,
+        (_candidate) => _candidate.release.id !== candidate.release.id
       );
       await this.addAccepted(candidate.release, unregisteredTrack);
     } else {
@@ -209,7 +209,7 @@ export class Discography {
     this.logger.logInfo(`Found candidate with ${count} unregistered track(s):`);
 
     candidate.unregisteredTracks?.forEach((track) =>
-      this.logger.logInfo(`🎵 ${track.title}`),
+      this.logger.logInfo(`🎵 ${track.title}`)
     );
   }
 
@@ -221,13 +221,25 @@ export class Discography {
     this.rejected.sort((release1, release2) =>
       (release1.release.year ?? "")
         .toString()
-        .localeCompare((release2.release.year ?? "").toString()),
+        .localeCompare((release2.release.year ?? "").toString())
     );
   }
 
   // Sort two releases based on their formatted date
+  // A release only dated with a year must come after the releases of the same
+  // year more precisely date
   public sortByFormattedDate(release1: Release, release2: Release) {
-    return release1.formattedDate.localeCompare(release2.formattedDate);
+    // Add XX-XX to year only date will "push them" at the end of the year
+    const date1 =
+      release1.formattedDate === release1.year
+        ? `${release1.year}-XX-XX`
+        : release1.formattedDate;
+    const date2 =
+      release2.formattedDate === release2.year
+        ? `${release2.year}-XX-XX`
+        : release2.formattedDate;
+
+    return date1.localeCompare(date2);
   }
 
   // Log the list of accepted releases
@@ -263,7 +275,7 @@ export class Discography {
   // Sort a release group by release date
   private sortReleasesArray(releases: DiscographyRelease[]) {
     releases.sort((release1, release2) =>
-      this.sortByFormattedDate(release1.release, release2.release),
+      this.sortByFormattedDate(release1.release, release2.release)
     );
   }
 
@@ -273,7 +285,7 @@ export class Discography {
         "Including non-album track(s):" +
           release.unregisteredTracks
             ?.map((track) => `\n🎵 ${track.title}`)
-            .join(""),
+            .join("")
       );
     }
   }

@@ -100,13 +100,14 @@ export const FORMATS = {
     "Enhanced",
     "Transcription",
     "Limited Edition",
-    "Unofficial Release",
+    "Mispress",
     "Promo",
     "Record Store Day",
     "Reissue",
     "Repress",
     "Test Pressing",
     "Tour Recording",
+    "Unofficial Release",
   ],
 };
 

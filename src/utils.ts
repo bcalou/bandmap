@@ -1,3 +1,4 @@
+import Fuse from "fuse.js";
 import { OPTION_TITLE_SIMILARITY_THRESHOLD } from "./env";
 
 var stringSimilarity = require("string-similarity");
@@ -9,6 +10,7 @@ export function removeNumberInParenthesis(string: string) {
 }
 
 export function stringsAreSimilar(string1: string, string2: string): boolean {
+  return Fuse.match(string1, string2, { threshold: 0.2 }).isMatch;
   return (
     stringSimilarity.compareTwoStrings(string1, string2) >
     OPTION_TITLE_SIMILARITY_THRESHOLD

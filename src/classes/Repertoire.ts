@@ -5,6 +5,7 @@ import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Release } from "./Release";
 var stringSimilarity = require("string-similarity");
+import Fuse from "fuse.js";
 
 // A track from the repertoire
 type Track = {
@@ -38,7 +39,8 @@ export class Repertoire {
 
   // Add the tracks from the given release to the repertoire
   public addReleaseTracks(release: Release) {
-    this.getReleaseTracks(release)
+    release.tracklist
+      .getValidTracks()
       .map((track) => this.getNewTrackCandidate(track, release))
       .forEach((track) => {
         if (track.existing) {
@@ -63,9 +65,9 @@ export class Repertoire {
 
   // Get tracks that are not registered in this release
   public getUnregisteredTracks(release: Release): DCTrack[] {
-    return this.getReleaseTracks(release).filter(
-      (track) => !this.getExistingTrack(track),
-    );
+    return release.tracklist
+      .getValidTracks()
+      .filter((track) => !this.getExistingTrack(track));
   }
 
   // Try to find the given track inside the repertoire
@@ -74,52 +76,20 @@ export class Repertoire {
     //   return this.tracks.find(_track => track.title)
     // }
 
+    // return this.tracks.find(
+    //   (_track) =>
+    //     Fuse.match(track.title, _track.title, { threshold: 0.2 }).isMatch
+    // );
+
     return this.tracks.find(
       (_track) =>
         this.areSimilarTrackNames(track.title, _track.title) ||
         _track.subTracks.find((subtrack) =>
-          this.areSimilarTrackNames(track.title, subtrack),
+          this.areSimilarTrackNames(track.title, subtrack)
         ) ||
         _track.variations.find((variation) =>
-          this.areSimilarTrackNames(track.title, variation),
-        ),
-    );
-  }
-
-  // Get the list of tracks for the given release
-  private getReleaseTracks(release: Release): DCTrack[] {
-    return release.tracklist.filter(
-      (track, index) =>
-        !["DVD", "BR"].find((prefix) => track.position.startsWith(prefix)) &&
-        !track.position.charAt(-1).match(/[a-z]/i) &&
-        this.isValidTrackType(track, index, release) &&
-        // Ignore track not written by the artist
-        (release.artists.length === 1 ||
-          [...(track.artists ?? []), ...(track.extraartists ?? [])]?.find(
-            (artist) =>
-              this.band.id === artist.id ||
-              this.band.members.find((member) => member.id === artist.id),
-          )) &&
-        // Ignore track containing an equal (translation title)
-        track.title.indexOf(" = ") === -1 &&
-        // Ignore specific title ending such as "edit" or "version"
-        !IGNORE_TITLE_ENDINGS.find((ending) =>
-          normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase()),
-        ),
-    );
-  }
-
-  // Return true if the given track is of a valid type in the tracklist
-  private isValidTrackType(
-    track: DCTrack,
-    index: number,
-    release: Release,
-  ): boolean {
-    return (
-      track.type_ === "track" ||
-      track.type_ === "index" ||
-      (track.type_ === "heading" &&
-        !!release.tracklist[index + 1].position.charAt(-1).match(/[a-z]/i))
+          this.areSimilarTrackNames(track.title, variation)
+        )
     );
   }
 
@@ -133,7 +103,7 @@ export class Repertoire {
       this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
     }
     this.logger.log(
-      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`,
+      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
     );
   }
 
@@ -144,8 +114,8 @@ export class Repertoire {
 
     return [normalize(track1), ...track1Parts].find((track1part) =>
       [normalize(track2), ...track2Parts].find((track2part) =>
-        stringsAreSimilar(track1part, track2part),
-      ),
+        stringsAreSimilar(track1part, track2part)
+      )
     );
   }
 
@@ -167,7 +137,7 @@ export class Repertoire {
     if (
       trackVariation.track.title !== trackVariation.existing.title &&
       !trackVariation.existing.variations.find(
-        (variation) => variation === trackVariation.track.title,
+        (variation) => variation === trackVariation.track.title
       )
     ) {
       trackVariation.existing.variations.push(trackVariation.track.title);
@@ -198,7 +168,7 @@ export class Repertoire {
       !!trackContainingSubtracks.sub_tracks
     ) {
       targetTrack.subTracks = trackContainingSubtracks.sub_tracks.map(
-        (subTrack) => subTrack.title,
+        (subTrack) => subTrack.title
       );
     }
   }

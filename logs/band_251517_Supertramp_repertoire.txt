@@ -178,7 +178,7 @@ Lady
 Release(s): Crisis? What Crisis?, Is Everybody Listening?, Lady
 ———————————————————————————————————————————————————————————————
 Land Ho
-Release(s): Land Ho / Summer Romance
+Release(s): Land Ho 
 ———————————————————————————————————————————————————————————————
 Listen To Me Please
 Release(s): Some Things Never Change, It Was The Best Of Times
@@ -255,8 +255,8 @@ Release(s): Some Things Never Change, It Was The Best Of Times
 Still In Love
 Release(s): Brother Where You Bound
 ———————————————————————————————————————————————————————————————
-Summer Romance 
-Release(s): Land Ho / Summer Romance
+Summer Romance
+Release(s): Land Ho 
 ———————————————————————————————————————————————————————————————
 Surely
 Release(s): Supertramp

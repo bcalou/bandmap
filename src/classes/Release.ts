@@ -7,13 +7,14 @@ import { Credits } from "./Credits";
 import { Formats } from "./Formats";
 import { Logger } from "./Logger";
 import { ReleaseDate } from "./ReleaseDate";
+import { Tracklist } from "./Tracklist";
 
 export class Release {
   // The discogs release object
-  private release: DCRelease;
+  public release: DCRelease;
 
   // The main band of the program
-  private mainBand: Band;
+  public mainBand: Band;
 
   // The formats associated to this release
   public formats: Formats;
@@ -23,6 +24,9 @@ export class Release {
 
   // The release date utility object
   private releaseDate: ReleaseDate;
+
+  // The tracklist of the release
+  public tracklist: Tracklist;
 
   // The api object
   private api: Api;
@@ -36,6 +40,7 @@ export class Release {
     this.credits = new Credits(this, this.mainBand);
     this.formats = new Formats(this);
     this.releaseDate = new ReleaseDate(this);
+    this.tracklist = new Tracklist(this);
     this.api = new Api();
     this.logger = new Logger();
   }
@@ -112,10 +117,6 @@ export class Release {
     return this.release.formats;
   }
 
-  get tracklist() {
-    return this.release.tracklist;
-  }
-
   // Get the main band associated to this release
   public getMainBand() {
     return this.mainBand;
@@ -127,6 +128,7 @@ export class Release {
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
       (await this.formats.heuristicFindBestFormatOrReject()) ??
+      this.heuristicRejectNoValidTracks() ??
       this
     );
   }
@@ -139,7 +141,11 @@ export class Release {
     });
 
     if ((options?.page ?? 1) === 1 && versions?.pagination.items >= 1) {
-      this.logger.log(`🗃️ Looking at alternate version(s) from ${this.year}`);
+      this.logger.log(
+        `🗃️ Looking at alternate version(s) from ${this.year}${
+          options?.format ? ` (format: ${options?.format})` : ""
+        }`
+      );
     }
 
     return versions;
@@ -174,14 +180,14 @@ export class Release {
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions,
+    options?: GetVersionsOptions
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     return versions;
@@ -201,6 +207,15 @@ export class Release {
   private heuristicRejectGenre(): RejectReason | null {
     if (!!this.genres.find((genre) => GENRES.reject.includes(genre))) {
       return `Rejected genre(s): ${this.genres}`;
+    }
+
+    return null;
+  }
+
+  // Reject if the release has no valid tracks
+  private heuristicRejectNoValidTracks(): RejectReason | null {
+    if (this.tracklist.getValidTracks().length === 0) {
+      return "No valid tracks found";
     }
 
     return null;

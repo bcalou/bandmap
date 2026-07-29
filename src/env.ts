@@ -101,6 +101,7 @@ export const FORMATS = {
     "Promo",
     "Record Store Day",
     "Reissue",
+    "Remixed",
     "Repress",
     "Test Pressing",
     "Tour Recording",

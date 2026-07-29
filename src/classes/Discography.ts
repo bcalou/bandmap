@@ -112,9 +112,7 @@ export class Discography {
       }
     }
 
-    this.candidates.sort((candidate1, candidate2) =>
-      this.sortByFormattedDate(candidate1.release, candidate2.release)
-    );
+    this.sortReleasesArray(this.candidates);
 
     for (const candidate of this.candidates) {
       await this.selectCandidate(
@@ -274,9 +272,13 @@ export class Discography {
 
   // Sort a release group by release date
   private sortReleasesArray(releases: DiscographyRelease[]) {
-    releases.sort((release1, release2) =>
-      this.sortByFormattedDate(release1.release, release2.release)
-    );
+    releases.sort((release1, release2) => {
+      if (release1.release.formattedDate === release2.release.formattedDate) {
+        return release1.release.title.localeCompare(release2.release.title);
+      }
+
+      return this.sortByFormattedDate(release1.release, release2.release);
+    });
   }
 
   private logUnregisteredTracks(release: DiscographyRelease) {

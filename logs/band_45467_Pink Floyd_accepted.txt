@@ -1,4 +1,4 @@
-39 release(s):
+38 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1967-03-10 - Pink Floyd - "Arnold Layne" (Single)
 https://www.discogs.com/master/247397
@@ -94,14 +94,6 @@ https://www.discogs.com/master/44422
 💿 2000-03-27 - Pink Floyd - "Is There Anybody Out There? (The Wall Live 1980-81)"
 https://www.discogs.com/master/20639
 ———————————————————————————————————————————————————————————————
-💿 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
-https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
-Including non-album track(s):
-🎵 Several Species Of Small Furry Animals...
-———————————————————————————————————————————————————————————————
-💿 2011 - Pink Floyd, Various - "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
-https://www.discogs.com/master/1205977
-———————————————————————————————————————————————————————————————
 💿 2014-11-07 - Pink Floyd - "The Endless River"
 https://www.discogs.com/master/754253
 ———————————————————————————————————————————————————————————————
@@ -110,47 +102,6 @@ https://www.discogs.com/master/1088766
 Including non-album track(s):
 🎵 Ummagumma Radio Ad
 🎵 Nothing Part 14
-———————————————————————————————————————————————————————————————
-💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
-https://www.discogs.com/master/1159448
-Including non-album track(s):
-🎵 On The Highway
-🎵 Auto Scene Version 2
-🎵 Auto Scene Version 3
-🎵 Aeroplane
-🎵 Explosion
-🎵 The Riot Scene
-🎵 Looking At Map
-🎵 Love Scene Version 7
-🎵 Love Scene Version 1
-🎵 Take Off
-🎵 Take Off Version 2
-🎵 Love Scene Version 2
-🎵 Love Scene (Take 1)
-🎵 Unknown Song (Take 1)
-🎵 Love Scene (Take 2)
-🎵 Crumbling Land (Take 1)
-———————————————————————————————————————————————————————————————
-💿 2017-03-24 - Pink Floyd - "The Early Years 1969 Dramatis/ation" (Compilation)
-https://www.discogs.com/master/1159489
-Including non-album track(s):
-🎵 Hollywood
-🎵 Seabirds (Instrumental)
-🎵 Work
-🎵 Doing It
-🎵 Sleeping
-🎵 Labyrinth
-🎵 The Labyrinths Of Auximines
-🎵 Footsteps / Doors
-🎵 Behold The Temple Of Light
-🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
-🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
-🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
-🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
-🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
-🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
-🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
-🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
 ———————————————————————————————————————————————————————————————
 💿 2017-03-24 - Pink Floyd - "The Early Years 1965-1967 Cambridge St/ation" (Compilation)
 https://www.discogs.com/master/1228211
@@ -173,16 +124,6 @@ Including non-album track(s):
 🎵 John Latham Version 8
 🎵 John Latham Version 9
 ———————————————————————————————————————————————————————————————
-💿 2017-03-24 - Pink Floyd - "The Early Years 1971 Reverber/ation" (Compilation)
-https://www.discogs.com/master/1158971
-Including non-album track(s):
-🎵 ‘Aspekte’ Feature
-🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
-🎵 ‘Aspekte’ Feature
-🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
-🎵 Documentary Including Pink Floyd And Manager Steve O'Rourke
-🎵 Storm Thorgerson And Aubrey 'Po' Powell
-———————————————————————————————————————————————————————————————
 💿 2017-03-24 - Pink Floyd - "The Early Years 1968 Germin/Ation" (Compilation)
 https://www.discogs.com/master/1230809
 Including non-album track(s):
@@ -199,11 +140,64 @@ Including non-album track(s):
 🎵 'Samedi Et Compagnie', Paris
 🎵 'Tous En Scène', Paris
 ———————————————————————————————————————————————————————————————
+💿 2017-03-24 - Pink Floyd - "The Early Years 1969 Dramatis/ation" (Compilation)
+https://www.discogs.com/master/1159489
+Including non-album track(s):
+🎵 Hollywood
+🎵 Seabirds (Instrumental)
+🎵 Work
+🎵 Doing It
+🎵 Sleeping
+🎵 Labyrinth
+🎵 The Narrow Way, Part 3
+🎵 The Labyrinths Of Auximines
+🎵 Footsteps / Doors
+🎵 Behold The Temple Of Light
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
+———————————————————————————————————————————————————————————————
+💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
+https://www.discogs.com/master/1159448
+Including non-album track(s):
+🎵 On The Highway
+🎵 Auto Scene Version 2
+🎵 Auto Scene Version 3
+🎵 Aeroplane
+🎵 Explosion
+🎵 The Riot Scene
+🎵 Looking At Map
+🎵 Love Scene Version 7
+🎵 Love Scene Version 1
+🎵 Take Off
+🎵 Take Off Version 2
+🎵 Love Scene Version 2
+———————————————————————————————————————————————————————————————
+💿 2017-03-24 - Pink Floyd - "The Early Years 1971 Reverber/ation" (Compilation)
+https://www.discogs.com/master/1158971
+Including non-album track(s):
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 Documentary Including Pink Floyd And Manager Steve O'Rourke
+🎵 Storm Thorgerson And Aubrey 'Po' Powell
+———————————————————————————————————————————————————————————————
 💿 2017-03-24 - Pink Floyd - "The Early Years 1972 Obfusc/ation" (Compilation)
 https://www.discogs.com/master/1158816
 Including non-album track(s):
 🎵 Brighton Dome, UK, 29 June 1972
 🎵 Brighton Dome, UK, 29 June 1972
+———————————————————————————————————————————————————————————————
+💿 2019-11-29 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
+https://www.discogs.com/master/1643576
+Including non-album track(s):
+🎵 Marooned Jam (The Division Bell Sessions)
 ———————————————————————————————————————————————————————————————
 💿 2021-04-30 - Pink Floyd - "Live At Knebworth 1990"
 https://www.discogs.com/master/2102665

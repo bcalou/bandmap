@@ -212,7 +212,7 @@ https://www.discogs.com/master/20649
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20674
 💿 Format(s): Vinyl, LP, Album, Compilation, Stereo
-🗃️ Looking at alternate version(s) from 1971
+🗃️ Looking at alternate version(s) from 1971 (format: Album)
 ⌛ 1971-05-14 - Pink Floyd - "Relics" (Compilation)
 https://www.discogs.com/master/20674
 ———————————————————————————————————————————————————————————————
@@ -313,7 +313,7 @@ Rejected format(s): Vinyl, LP, Compilation, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/10345
 💿 Format(s): Vinyl, LP, Album, Vinyl, LP, Album, Reissue, All Media, Compilation
-🗃️ Looking at alternate version(s) from 1974
+🗃️ Looking at alternate version(s) from 1974 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/3272743
 🗃️ Analyzing version https://www.discogs.com/release/3272743
 💿 Format(s): All Media, Compilation, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue
@@ -408,7 +408,7 @@ https://www.discogs.com/master/10370
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/2721236
 💿 Format(s): Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, All Media, Compilation
-🗃️ Looking at alternate version(s) from 1978
+🗃️ Looking at alternate version(s) from 1978 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12472593
 🗃️ Analyzing version https://www.discogs.com/release/12472593
 💿 Format(s): Vinyl, LP, Album, Special Edition, Vinyl, LP, Album, Special Edition, Vinyl, LP, Album, Special Edition, All Media, Compilation
@@ -460,7 +460,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Test Pressing
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/586673
 💿 Format(s): Vinyl, LP, Album, Reissue, Vinyl, LP, Compilation, Reissue, Box Set, Compilation, Limited Edition
-🗃️ Looking at alternate version(s) from 1979
+🗃️ Looking at alternate version(s) from 1979 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/3606928
 💿 Format(s): Vinyl, LP, Album, Reissue}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/16908726
@@ -506,8 +506,9 @@ Rejected format(s): Vinyl, LP, Transcription, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4962597
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP
-⌛ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas" (EP)
-https://www.discogs.com/release/4962597-Pink-Floyd-Los-Dias-Mas-Felices-De-Nuestras-Vidas
+❌ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas"
+(https://www.discogs.com/release/4962597)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6989086
 ❌ 1980 - Pink Floyd - "Adios Cielo Azul = Goodbye Blue Sky / Joven Codicia = Young Lust"
@@ -522,7 +523,7 @@ Rejected format(s): Vinyl, 7", 45 RPM, Single, Promo, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/3738723
 💿 Format(s): Vinyl, LP, Album, Compilation, Stereo
-🗃️ Looking at alternate version(s) from 1980
+🗃️ Looking at alternate version(s) from 1980 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/32818116
 🗃️ Analyzing version https://www.discogs.com/release/32818116
 💿 Format(s): Cassette, Album, Compilation, Stereo
@@ -541,7 +542,7 @@ Alternate language release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/714734
 💿 Format(s): Box Set, Compilation, Limited Edition, Vinyl, LP, Compilation, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album, Reissue, Vinyl, LP, Album
-🗃️ Looking at alternate version(s) from 1980
+🗃️ Looking at alternate version(s) from 1980 (format: Album)
 🗃️ Looking at alternate version(s) from 1980
 ❌ 1980 - Pink Floyd - "The Pink Floyd Collection"
 (https://www.discogs.com/master/714734)
@@ -739,8 +740,9 @@ Rejected format(s): Vinyl, LP, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6999746
 💿 Format(s): Vinyl, 7", 33 ⅓ RPM, EP, Stereo
-⌛ 1987 - Pink Floyd - "A Momentary Lapse Of Reason" (EP)
-https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
+❌ 1987 - Pink Floyd - "A Momentary Lapse Of Reason"
+(https://www.discogs.com/release/6999746)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9218676
 💿 Format(s): Vinyl, 7", Single, Promo, Test Pressing
@@ -774,8 +776,9 @@ Analyzing release https://www.discogs.com/master/20627
 🗃️ Analyzing main formats of version https://www.discogs.com/release/4143971
 🗃️ Analyzing version https://www.discogs.com/release/4143971
 💿 Format(s): Vinyl, 7", 45 RPM, Single
-⌛ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
-https://www.discogs.com/master/20627
+❌ 1987 - Pink Floyd - "Learning To Fly"
+(https://www.discogs.com/master/20627)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20657
 💿 Format(s): Vinyl, 7", 45 RPM, Single
@@ -849,7 +852,7 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/791424
 💿 Format(s): Box Set, Compilation, Limited Edition, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Compilation, Reissue, CD, Album, Reissue, CD, Album, Reissue
-🗃️ Looking at alternate version(s) from 1991
+🗃️ Looking at alternate version(s) from 1991 (format: Album)
 🗃️ Looking at alternate version(s) from 1991
 ❌ 1988 - Pink Floyd - "The Box 1975 - 1988"
 (https://www.discogs.com/master/791424)
@@ -901,7 +904,7 @@ Rejected format(s): CD, Promo, Transcription
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/597204
 💿 Format(s): Cassette, Album, Reissue, Cassette, Album, Reissue, Box Set, Compilation
-🗃️ Looking at alternate version(s) from 1989
+🗃️ Looking at alternate version(s) from 1989 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12069959
 💿 Format(s): CD, Album, Reissue, Stereo}
 🗃️ Looking at alternate version(s) from 1989
@@ -913,7 +916,7 @@ Rejected format(s): Cassette, Album, Reissue, Cassette, Album, Reissue, Box Set,
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/532346
 💿 Format(s): CD, Album, Reissue, CD, Compilation, Reissue, Box Set, Compilation
-🗃️ Looking at alternate version(s) from 1989
+🗃️ Looking at alternate version(s) from 1989 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/13535959
 💿 Format(s): Cassette, Album, Reissue}
 🗃️ Looking at alternate version(s) from 1989
@@ -998,7 +1001,7 @@ Rejected format(s): CD, Promo, Compilation
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/44375
 💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Compilation, Box Set, Compilation, Remastered
-🗃️ Looking at alternate version(s) from 1992
+🗃️ Looking at alternate version(s) from 1992 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/12443389
 💿 Format(s): CD, Album, Reissue, Remastered, Repress}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/1204419
@@ -1199,7 +1202,7 @@ Rejected format(s): CD, Maxi-Single, Reissue
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/296063
 💿 Format(s): Laserdisc, 12", Stereo, NTSC, Laserdisc, 12", Single Sided, Stereo, NTSC
-🗃️ Looking at alternate version(s) from 1995
+🗃️ Looking at alternate version(s) from 1995 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/3739785
 🗃️ Analyzing version https://www.discogs.com/release/3739785
 💿 Format(s): Laserdisc, 12", NTSC, Laserdisc, 12", Single Sided, NTSC, All Media, Album
@@ -1292,7 +1295,7 @@ Rejected format(s): VHS, Advance, Compilation, Promo, Sampler, Stereo, NTSC
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20639
 💿 Format(s): CD, Album, Box Set, Limited Edition
-🗃️ Looking at alternate version(s) from 2000
+🗃️ Looking at alternate version(s) from 2000 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/16087033
 🗃️ Analyzing version https://www.discogs.com/release/16087033
 💿 Format(s): Cassette, Album
@@ -1467,8 +1470,9 @@ Rejected format(s): CDr, Single, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/20667
 💿 Format(s): Vinyl, 12", 45 RPM
-⌛ 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
-https://www.discogs.com/master/20667
+❌ 2006 - Eric Prydz Vs Floyd* - "Proper Education"
+(https://www.discogs.com/master/20667)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/37890009
 ❌ 2007 - Pink Floyd - "Dark Side Of The Moon"
@@ -1477,7 +1481,7 @@ Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/437166
 💿 Format(s): CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, CD, Album, Reissue, Remastered, Stereo, Box Set, Compilation, Deluxe Edition
-🗃️ Looking at alternate version(s) from 2007
+🗃️ Looking at alternate version(s) from 2007 (format: Album)
 🗃️ Looking at alternate version(s) from 2007
 ❌ 2007 - Pink Floyd - "Oh By The Way"
 (https://www.discogs.com/master/437166)
@@ -1647,7 +1651,7 @@ Rejected format(s): Blu-ray, Promo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/376249
 💿 Format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered
-🗃️ Looking at alternate version(s) from 2011
+🗃️ Looking at alternate version(s) from 2011 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/3184076
 🗃️ Analyzing version https://www.discogs.com/release/3184076
 💿 Format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered
@@ -1667,17 +1671,13 @@ Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Al
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1205977
 💿 Format(s): DVD, DVD-Video, NTSC, Unofficial Release, CD, All Media
-🗃️ Looking at alternate version(s) from 2011
+🗃️ Looking at alternate version(s) from 2011 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/10533489
 🗃️ Analyzing version https://www.discogs.com/release/10533489
 💿 Format(s): DVD, Minimax, DVD-Video, NTSC, CD, Album
-🗓️ Imprecise date (2011) for "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
-🗃️ Looking at alternate version(s) from 2011
-🗃️ Analyzing version https://www.discogs.com/release/6094005
-🗓️ Release date: 2011
-🗓️ No better date found
-💿 2011 - Pink Floyd, Various - "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
-https://www.discogs.com/master/1205977
+❌ 2011 - Pink Floyd / Various - "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
+(https://www.discogs.com/master/1205977)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4911312
 💿 Format(s): CDr, Promo, Sampler, Compilation
@@ -1749,7 +1749,7 @@ https://www.discogs.com/master/1159489
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1115140
 💿 Format(s): Box Set, Compilation, Limited Edition, CD, Stereo, Mono, CD, Stereo, DVD, DVD-Video, NTSC, Stereo, Blu-ray, Stereo, CD, Stereo, DVD, DVD-Video, NTSC, Stereo, Blu-ray, Stereo, CD, Stereo, DVD, DVD-Video, NTSC, Stereo, Blu-ray, Stereo, CD, Stereo, DVD, DVD-Video, NTSC, Album, Stereo, Quadraphonic, DVD, DVD-Video, NTSC, Stereo, Blu-ray, Album, Stereo, Quadraphonic, CD, Stereo, DVD, DVD-Video, NTSC, Stereo, Quadraphonic, Blu-ray, Stereo, Quadraphonic, CD, Stereo, DVD, DVD-Video, Multichannel, NTSC, Stereo, Blu-ray, Stereo, Multichannel, CD, Stereo, DVD, DVD-Video, NTSC, Stereo, Blu-ray, Stereo, Vinyl, 7", Single, Reissue, Vinyl, 7", Single, Reissue, Vinyl, 7", Single, Reissue, Vinyl, 7", Single, Reissue, Vinyl, 7", Single, Reissue, CD, Album, Stereo
-🗃️ Looking at alternate version(s) from 2016
+🗃️ Looking at alternate version(s) from 2016 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/9435338
 🗃️ Analyzing version https://www.discogs.com/release/9435338
 💿 Format(s): CD, Album, DVD, NTSC, Stereo, Mono, Quadraphonic, Blu-ray, Stereo, Mono, Quadraphonic, Vinyl, 7", Single, Reissue, Box Set, Compilation, Limited Edition
@@ -1768,7 +1768,7 @@ https://www.discogs.com/master/1088766
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1228211
 💿 Format(s): CD, Compilation, Stereo, Mono, DVD, DVD-Video, NTSC, Compilation, Stereo, Blu-ray, Compilation, Stereo, Box Set
-🗃️ Looking at alternate version(s) from 2017
+🗃️ Looking at alternate version(s) from 2017 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/14881916
 🗃️ Analyzing version https://www.discogs.com/release/14881916
 💿 Format(s): CD, Compilation, DVD, DVD-Video, NTSC, Compilation, Blu-ray, Compilation, File, FLAC, Album, Reissue, Remastered
@@ -1813,7 +1813,7 @@ Rejected format(s): DVD, DVD-Video, Stereo
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1643576
 💿 Format(s): CD, Album, Stereo, CD, Album, Stereo, CD, Compilation, Partially Mixed, Stereo, CD, Album, Stereo, Blu-ray, Blu-ray Audio, Stereo, Multichannel, Blu-ray, Stereo, Multichannel, DVD, DVD-Video, Multichannel, NTSC, Stereo, DVD, DVD-Video, NTSC, Stereo, DVD, DVD-Video, Multichannel, NTSC, Stereo, Vinyl, 7", 45 RPM, Single Sided, Single, Etched, Stereo, Box Set, Compilation, Limited Edition
-🗃️ Looking at alternate version(s) from 2019
+🗃️ Looking at alternate version(s) from 2019 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/14527876
 💿 Format(s): CDr, Album, Reissue}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/16526190
@@ -2096,7 +2096,7 @@ Rejected format(s): Blu-ray, Stereo, Multichannel, DVD, DVD-Video, Multichannel,
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/406230
 💿 Format(s): CD, Album, Record Store Day, Reissue, Remastered, Stereo
-🗃️ Looking at alternate version(s) from 2026
+🗃️ Looking at alternate version(s) from 2026 (format: Album)
 🗃️ Analyzing main formats of version https://www.discogs.com/release/37108983
 💿 Format(s): Vinyl, LP, Album, Reissue, Remastered, Stereo}
 🗃️ Analyzing main formats of version https://www.discogs.com/release/37187496
@@ -2212,8 +2212,9 @@ Rejected format(s): Vinyl, LP, Test Pressing, White Label
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/31670582
 💿 Format(s): Vinyl, 12", 33 ⅓ RPM, White Label
-⌛ unknown date - DJ Russ Harris, Pink Floyd - "Another Brick" (Unknown)
-https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Brick
+❌ unknown date - DJ Russ Harris vs. Pink Floyd - "Another Brick"
+(https://www.discogs.com/release/31670582)
+No valid tracks found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/35060687
 💿 Format(s): DVD, Special Edition
@@ -14913,7 +14914,7 @@ Analyzing release https://www.discogs.com/master/1703441
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2011 - Pink Floyd / Various - "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
-(https://www.discogs.com/master/1205977)" (skipping, already accepted)
+(https://www.discogs.com/master/1205977)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/384804
 ❌ 2011 - Pink Floyd - "United (Live CD)"
@@ -16471,7 +16472,7 @@ Analyzing release https://www.discogs.com/master/3608687
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2021 - Pink Floyd - " 幻の翼 = Learning To Fly"
-(https://www.discogs.com/master/20627)" (skipping, already candidate)
+(https://www.discogs.com/master/20627)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/master/1651285
 ❌ 2021 - Pink Floyd - "The Other Gate"
@@ -18777,6 +18778,17 @@ Found better release date: 1983-07-11
 🗓️ No better date found
 🗓️ Imprecise date (2004) for "All Gold Of The World"
 🗓️ No better date found
+🗓️ Imprecise date (2019) for "The Later Years 1987-2019"
+🗃️ Looking at alternate version(s) from 2019
+🗃️ Analyzing version https://www.discogs.com/release/14684122
+🗓️ Release date: 2019
+🗃️ Analyzing version https://www.discogs.com/release/14077408
+🗓️ Release date: 2019
+🗃️ Analyzing version https://www.discogs.com/release/16460652
+🗓️ Release date: 2019
+🗃️ Analyzing version https://www.discogs.com/release/14461466
+🗓️ Release date: 2019-11-29
+Found better release date: 2019-11-29
 Found candidate with 2 unregistered track(s):
 🎵 Arnold Layne
 🎵 Candy And A Currant Bun
@@ -18798,12 +18810,12 @@ Found candidate with 2 unregistered track(s):
 💿 1967-11-17 - Pink Floyd - "Apples And Oranges" (Single)
 https://www.discogs.com/master/243712
 ———————————————————————————————————————————————————————————————
-❌ 1967 - Pink Floyd - "See Emily Play" (EP)
-https://www.discogs.com/master/442863
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1967 - Pink Floyd - "Arnold Layne" (EP)
 https://www.discogs.com/master/2006299
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "See Emily Play" (EP)
+https://www.discogs.com/master/442863
 No new tracks
 ———————————————————————————————————————————————————————————————
 Found candidate with 2 unregistered track(s):
@@ -18821,12 +18833,12 @@ https://www.discogs.com/master/406776
 https://www.discogs.com/master/466558
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1970 - Pink Floyd - "The Nile Song" (Single)
-https://www.discogs.com/master/466560
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1970 - Pink Floyd - "The Best Of The Pink Floyd" (Compilation)
 https://www.discogs.com/master/44236
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1970 - Pink Floyd - "The Nile Song" (Single)
+https://www.discogs.com/master/466560
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1971-02-25 - Pink Floyd - "One Of These Days" (EP)
@@ -18842,20 +18854,20 @@ Found candidate with 5 unregistered track(s):
 💿 1971-05-14 - Pink Floyd - "Relics" (Compilation)
 https://www.discogs.com/master/20674
 ———————————————————————————————————————————————————————————————
-❌ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
-https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
 https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
-https://www.discogs.com/master/265020
+❌ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
+https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Pink Floyd - "Free Four" (Single)
 https://www.discogs.com/master/250579
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
+https://www.discogs.com/master/265020
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1973-05-07 - Pink Floyd - "Money" (Single)
@@ -18894,16 +18906,12 @@ No new tracks
 https://www.discogs.com/master/406778
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas" (EP)
-https://www.discogs.com/release/4962597-Pink-Floyd-Los-Dias-Mas-Felices-De-Nuestras-Vidas
+❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
+https://www.discogs.com/master/44257
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Pink Floyd - "The Other Side Of The Wall" (Compilation)
 https://www.discogs.com/master/3738723
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
-https://www.discogs.com/master/44257
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1981-05-00 - Pink Floyd - "Run Like Hell / Comfortably Numb" (Unknown)
@@ -18942,24 +18950,16 @@ https://www.discogs.com/master/20699
 https://www.discogs.com/master/1219048
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1987 - Pink Floyd - "A Momentary Lapse Of Reason" (EP)
-https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
-https://www.discogs.com/master/20627
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1988-01-25 - Pink Floyd - "On The Turning Away" (Single)
 https://www.discogs.com/master/20657
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
-https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1988 - Pink Floyd - "One Slip" (Single)
 https://www.discogs.com/master/44342
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
+https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1991 - Pink Floyd - "Greatest Hits" (Compilation)
@@ -18998,17 +18998,8 @@ No new tracks
 https://www.discogs.com/master/20631
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 3 unregistered track(s):
-🎵 Several Species Of Small Furry Animals...
-🎵 Arnold Layne
-🎵 See Emily Play
-🗓️ Imprecise date (2004) for "All Gold Of The World"
-🗓️ No better date found
-💿 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
+❌ 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
 https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
-———————————————————————————————————————————————————————————————
-❌ 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
-https://www.discogs.com/master/20667
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2011-09-27 - Pink Floyd - "Sampler" (Unknown)
@@ -19019,61 +19010,16 @@ No new tracks
 https://www.discogs.com/master/397339
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 8 unregistered track(s):
+Found candidate with 7 unregistered track(s):
 🎵 Arnold Layne
 🎵 See Emily Play
 🎵 Paintbox
 🎵 Point Me At The Sky
 🎵 Embryo
 🎵 Ummagumma Radio Ad
-🎵 Embryo (Alternative Version) (BBC Session 1970)
 🎵 Nothing Part 14
 💿 2016-11-11 - Pink Floyd - "Cre/ation - The Early Years 1967 - 1972" (Compilation)
 https://www.discogs.com/master/1088766
-———————————————————————————————————————————————————————————————
-Found candidate with 17 unregistered track(s):
-🎵 Embryo
-🎵 On The Highway
-🎵 Auto Scene Version 2
-🎵 Auto Scene Version 3
-🎵 Aeroplane
-🎵 Explosion
-🎵 The Riot Scene
-🎵 Looking At Map
-🎵 Love Scene Version 7
-🎵 Love Scene Version 1
-🎵 Take Off
-🎵 Take Off Version 2
-🎵 Love Scene Version 2
-🎵 Love Scene (Take 1)
-🎵 Unknown Song (Take 1)
-🎵 Love Scene (Take 2)
-🎵 Crumbling Land (Take 1)
-💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
-https://www.discogs.com/master/1159448
-———————————————————————————————————————————————————————————————
-Found candidate with 19 unregistered track(s):
-🎵 Hollywood
-🎵 Seabirds (Instrumental)
-🎵 Embryo
-🎵 Work
-🎵 Afternoon (Biding My Time)
-🎵 Doing It
-🎵 Sleeping
-🎵 Labyrinth
-🎵 The Labyrinths Of Auximines
-🎵 Footsteps / Doors
-🎵 Behold The Temple Of Light
-🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
-🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
-🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
-🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
-🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
-🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
-🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
-🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
-💿 2017-03-24 - Pink Floyd - "The Early Years 1969 Dramatis/ation" (Compilation)
-https://www.discogs.com/master/1159489
 ———————————————————————————————————————————————————————————————
 Found candidate with 23 unregistered track(s):
 🎵 Lucy Leave
@@ -19102,18 +19048,6 @@ Found candidate with 23 unregistered track(s):
 💿 2017-03-24 - Pink Floyd - "The Early Years 1965-1967 Cambridge St/ation" (Compilation)
 https://www.discogs.com/master/1228211
 ———————————————————————————————————————————————————————————————
-Found candidate with 8 unregistered track(s):
-🎵 Nothing Part 14 (Echoes Work In Progress)
-🎵 Embryo
-🎵 ‘Aspekte’ Feature
-🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
-🎵 ‘Aspekte’ Feature
-🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
-🎵 Documentary Including Pink Floyd And Manager Steve O'Rourke
-🎵 Storm Thorgerson And Aubrey 'Po' Powell
-💿 2017-03-24 - Pink Floyd - "The Early Years 1971 Reverber/ation" (Compilation)
-https://www.discogs.com/master/1158971
-———————————————————————————————————————————————————————————————
 Found candidate with 18 unregistered track(s):
 🎵 Point Me At The Sky
 🎵 It Would Be So Nice
@@ -19136,15 +19070,69 @@ Found candidate with 18 unregistered track(s):
 💿 2017-03-24 - Pink Floyd - "The Early Years 1968 Germin/Ation" (Compilation)
 https://www.discogs.com/master/1230809
 ———————————————————————————————————————————————————————————————
+Found candidate with 20 unregistered track(s):
+🎵 Hollywood
+🎵 Seabirds (Instrumental)
+🎵 Embryo
+🎵 Work
+🎵 Afternoon (Biding My Time)
+🎵 Doing It
+🎵 Sleeping
+🎵 Labyrinth
+🎵 The Narrow Way, Part 3
+🎵 The Labyrinths Of Auximines
+🎵 Footsteps / Doors
+🎵 Behold The Temple Of Light
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
+🎵 ‘Forum Musiques’, Paris, France, 22 January 1969
+🎵 ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, 14 April, 1969
+🎵 Essener Pop And Blues Festival, Essen, Germany, 11 October 1969
+🎵 Music Power And European Music Revolution, Festival Actuel, Amougies Mont De L’Enclus, Belgium, 25 October 1969
+💿 2017-03-24 - Pink Floyd - "The Early Years 1969 Dramatis/ation" (Compilation)
+https://www.discogs.com/master/1159489
+———————————————————————————————————————————————————————————————
+Found candidate with 13 unregistered track(s):
+🎵 Embryo
+🎵 On The Highway
+🎵 Auto Scene Version 2
+🎵 Auto Scene Version 3
+🎵 Aeroplane
+🎵 Explosion
+🎵 The Riot Scene
+🎵 Looking At Map
+🎵 Love Scene Version 7
+🎵 Love Scene Version 1
+🎵 Take Off
+🎵 Take Off Version 2
+🎵 Love Scene Version 2
+💿 2017-03-24 - Pink Floyd - "The Early Years 1970 Devi/ation" (Compilation)
+https://www.discogs.com/master/1159448
+———————————————————————————————————————————————————————————————
+Found candidate with 8 unregistered track(s):
+🎵 Nothing Part 14 (Echoes Work In Progress)
+🎵 Embryo
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 ‘Aspekte’ Feature
+🎵 ‘Cinq Grands Sur La Deux’, Abbaye De Royaumont, Asnierès-Sur-Oise, France, 15 June 1971
+🎵 Documentary Including Pink Floyd And Manager Steve O'Rourke
+🎵 Storm Thorgerson And Aubrey 'Po' Powell
+💿 2017-03-24 - Pink Floyd - "The Early Years 1971 Reverber/ation" (Compilation)
+https://www.discogs.com/master/1158971
+———————————————————————————————————————————————————————————————
 Found candidate with 2 unregistered track(s):
 🎵 Brighton Dome, UK, 29 June 1972
 🎵 Brighton Dome, UK, 29 June 1972
 💿 2017-03-24 - Pink Floyd - "The Early Years 1972 Obfusc/ation" (Compilation)
 https://www.discogs.com/master/1158816
 ———————————————————————————————————————————————————————————————
-❌ 2019 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
+Found candidate with 1 unregistered track(s):
+🎵 Marooned Jam (The Division Bell Sessions)
+💿 2019-11-29 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
 https://www.discogs.com/master/1643576
-No new tracks
 ———————————————————————————————————————————————————————————————
 Found candidate with 1 unregistered track(s):
 🎵  Hey Hey Rise Up
@@ -19157,9 +19145,5 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Pink Floyd, Al Bano Carrisi - "Money / La Canzone Di Maria" (Unknown)
 https://www.discogs.com/release/28385452-Pink-Floyd-Al-Bano-Money-La-Canzone-Di-Maria
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ unknown date - DJ Russ Harris, Pink Floyd - "Another Brick" (Unknown)
-https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Brick
 No new tracks
 ———————————————————————————————————————————————————————————————

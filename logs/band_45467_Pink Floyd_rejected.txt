@@ -1,11 +1,7 @@
-3479 rejected release(s):
+3480 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Pink Floyd, Al Bano Carrisi - "Money / La Canzone Di Maria" (Unknown)
 https://www.discogs.com/release/28385452-Pink-Floyd-Al-Bano-Money-La-Canzone-Di-Maria
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ unknown date - DJ Russ Harris, Pink Floyd - "Another Brick" (Unknown)
-https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Brick
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1965 - The Pink Floyd* - "Lucy Leave / I'm A King Bee"
@@ -44,12 +40,12 @@ https://www.discogs.com/release/31670582-DJ-Russ-Harris-vs-Pink-Floyd-Another-Br
 https://www.discogs.com/master/759394
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1967 - Pink Floyd - "See Emily Play" (EP)
-https://www.discogs.com/master/442863
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1967 - Pink Floyd - "Arnold Layne" (EP)
 https://www.discogs.com/master/2006299
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1967 - Pink Floyd - "See Emily Play" (EP)
+https://www.discogs.com/master/442863
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1968 - Various - "New Rock Special"
@@ -132,12 +128,12 @@ https://www.discogs.com/master/466558
 (https://www.discogs.com/release/3274439)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1970 - Pink Floyd - "The Nile Song" (Single)
-https://www.discogs.com/master/466560
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1970 - Pink Floyd - "The Best Of The Pink Floyd" (Compilation)
 https://www.discogs.com/master/44236
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1970 - Pink Floyd - "The Nile Song" (Single)
+https://www.discogs.com/master/466560
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Pink Floyd - "Stereo Pop Special-3"
@@ -200,12 +196,12 @@ https://www.discogs.com/master/44236
 https://www.discogs.com/master/1238408
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
-https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1971 - Pink Floyd, Barefoot Jerry, McGuinness Flint, Happy And Artie Traum - "Press Kit Box Set" (Compilation)
 https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Flint-Happy-Artie-Traum-Press-Kit-Box-Set
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1971 - Pink Floyd, The Nice, Steve Miller Band, Deep Purple - "Progressive Story" (Compilation)
+https://www.discogs.com/release/10409991-The-Pink-Floyd-The-Nice-Steve-Miller-Band-Deep-Purple-Progressive-Story
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1972 - Pink Floyd - "Original Radio Spot Announcements"
@@ -256,12 +252,12 @@ https://www.discogs.com/release/24058937-Pink-Floyd-Barefoot-Jerry-McGuinness-Fl
 (https://www.discogs.com/master/431942)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
-https://www.discogs.com/master/265020
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1972 - Pink Floyd - "Free Four" (Single)
 https://www.discogs.com/master/250579
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1972 - Pink Floyd - "One Of These Days / Fearless" (Single)
+https://www.discogs.com/master/265020
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1973 - Pink Floyd, Deep Purple - "The Dark Side Of The Moon / Made In Japan"
@@ -696,6 +692,10 @@ https://www.discogs.com/master/2721236
 https://www.discogs.com/master/406778
 (No new tracks)
 ———————————————————————————————————————————————————————————————
+❌ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas"
+(https://www.discogs.com/release/4962597)
+(No valid tracks found)
+———————————————————————————————————————————————————————————————
 ❌ 1980 - Pink Floyd - "Adios Cielo Azul = Goodbye Blue Sky / Joven Codicia = Young Lust"
 (https://www.discogs.com/release/6989086)
 (Alternate language release)
@@ -888,16 +888,12 @@ https://www.discogs.com/master/406778
 (https://www.discogs.com/master/222326)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Pink Floyd - "Los Dias Mas Felices De Nuestras Vidas" (EP)
-https://www.discogs.com/release/4962597-Pink-Floyd-Los-Dias-Mas-Felices-De-Nuestras-Vidas
+❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
+https://www.discogs.com/master/44257
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Pink Floyd - "The Other Side Of The Wall" (Compilation)
 https://www.discogs.com/master/3738723
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1980 - Pink Floyd - "Run Like Hell" (Unknown)
-https://www.discogs.com/master/44257
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Pink Floyd - "Money / Another Brick In The Wall (Part II)"
@@ -1460,6 +1456,10 @@ https://www.discogs.com/master/1219048
 (https://www.discogs.com/release/916202)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1987 - Pink Floyd - "A Momentary Lapse Of Reason"
+(https://www.discogs.com/release/6999746)
+(No valid tracks found)
+———————————————————————————————————————————————————————————————
 ❌ 1987 - Pink Floyd - "Terminal Frost"
 (https://www.discogs.com/release/9218676)
 (Rejected format(s): Vinyl, 7", Single, Promo, Test Pressing)
@@ -1471,6 +1471,10 @@ https://www.discogs.com/master/1219048
 ❌ 1987 - Jefferson Airplane, Pink Floyd, The Byrds, Canned Heat, Santana, It's A Beautiful Day, Al Stewart, Country Joe McDonald, Dr. John And The Nite Trippers - "Stamping Ground - Live performances"
 (https://www.discogs.com/release/15673442)
 (Rejected format(s): VHS, Compilation, NTSC)
+———————————————————————————————————————————————————————————————
+❌ 1987 - Pink Floyd - "Learning To Fly"
+(https://www.discogs.com/master/20627)
+(No valid tracks found)
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - Hans Platzgumer - "Live At Sternwartestr."
 (https://www.discogs.com/release/2130895)
@@ -1707,14 +1711,6 @@ https://www.discogs.com/master/1219048
 ❌ 1987 - Arid Abdabs* - "If Pigs Could Fly, Cleveland Would Be Next Door To Heaven"
 (https://www.discogs.com/release/2388217)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 1987 - Pink Floyd - "A Momentary Lapse Of Reason" (EP)
-https://www.discogs.com/release/6999746-Pink-Floyd-A-Momentary-Lapse-Of-Reason
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 1987 - Pink Floyd - "Learning To Fly / Terminal Frost" (Single)
-https://www.discogs.com/master/20627
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1988 - Pink Floyd - "A Momentary Lapse Of Reason Official Tour CD"
 (https://www.discogs.com/release/2373238)
@@ -2008,12 +2004,12 @@ https://www.discogs.com/master/20627
 https://www.discogs.com/master/20657
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
-https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1988 - Pink Floyd - "One Slip" (Single)
 https://www.discogs.com/master/44342
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1988 - Pink Floyd - "The Dogs Of War" (Single)
+https://www.discogs.com/release/2853703-Pink-Floyd-The-Dogs-Of-War
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1989 - Pink Floyd - "In The Studio "The Wall" (Part 2)"
@@ -5844,6 +5840,10 @@ https://www.discogs.com/master/20631
 (https://www.discogs.com/master/1079259)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 2004 - Pink Floyd - "All Gold Of The World" (Compilation)
+https://www.discogs.com/release/10852178-Pink-Floyd-All-Gold-Of-The-World
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 2005 - Pink Floyd - "Another Brick In The Wall (Part II) Live"
 (https://www.discogs.com/release/1302120)
 (Rejected format(s): Vinyl, 7", 45 RPM, Limited Edition, Promo, Stereo)
@@ -6236,6 +6236,10 @@ https://www.discogs.com/master/20631
 (https://www.discogs.com/master/1003616)
 (Rejected format(s): CDr, Single, Promo)
 ———————————————————————————————————————————————————————————————
+❌ 2006 - Eric Prydz Vs Floyd* - "Proper Education"
+(https://www.discogs.com/master/20667)
+(No valid tracks found)
+———————————————————————————————————————————————————————————————
 ❌ 2006 - Jacob Smigel - "Eavesdrop: A Wealth Of Found Sound"
 (https://www.discogs.com/release/3915681)
 (Rejected artist(s): Jacob Smigel)
@@ -6619,10 +6623,6 @@ https://www.discogs.com/master/20631
 ❌ 2006 - Pink Floyd - "Swiss Made"
 (https://www.discogs.com/master/431857)
 (Rejected release role: UnofficialRelease)
-———————————————————————————————————————————————————————————————
-❌ 2006-11-24 - Eric Prydz, Pink Floyd - "Proper Education" (Unknown)
-https://www.discogs.com/master/20667
-(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Pink Floyd - "Dark Side Of The Moon"
 (https://www.discogs.com/release/37890009)
@@ -9192,6 +9192,10 @@ https://www.discogs.com/master/20667
 (https://www.discogs.com/master/376249)
 (Rejected format(s): Box Set, Compilation, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered, CD, Album, Reissue, Remastered)
 ———————————————————————————————————————————————————————————————
+❌ 2011 - Pink Floyd / Various - "Behind The Wall (Inside The Minds Of Pink Floyd) / The Dark Side Of The Moon (Revisited)"
+(https://www.discogs.com/master/1205977)
+(No valid tracks found)
+———————————————————————————————————————————————————————————————
 ❌ 2011 - DJ Cairo Braga* - "Set De Abertura Da Primeira Festa³"
 (https://www.discogs.com/release/2806605)
 (Rejected artist(s): Cairo Braga)
@@ -11080,10 +11084,6 @@ https://www.discogs.com/master/397339
 (https://www.discogs.com/master/2051878)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2019 - Pink Floyd - "The Later Years 1987-2019" (Compilation)
-https://www.discogs.com/master/1643576
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2020 - Pink Floyd - "Arnold Layne"
 (https://www.discogs.com/master/1796387)
 (Rejected format(s): Vinyl, 7", 45 RPM, Single Sided, Record Store Day, Etched)
@@ -12247,6 +12247,10 @@ https://www.discogs.com/master/4246764
 ❌ unknown date - Pink Floyd, Glen Campbell - "Capitol Color Test #1"
 (https://www.discogs.com/release/31411745)
 (Rejected format(s): Vinyl, LP, Test Pressing, White Label)
+———————————————————————————————————————————————————————————————
+❌ unknown date - DJ Russ Harris vs. Pink Floyd - "Another Brick"
+(https://www.discogs.com/release/31670582)
+(No valid tracks found)
 ———————————————————————————————————————————————————————————————
 ❌ unknown date - Pink Floyd - "Les Albums Phares"
 (https://www.discogs.com/release/35060687)

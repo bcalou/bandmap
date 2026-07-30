@@ -60,228 +60,194 @@
 ———————————————————————————————————————————————————————————————
 🎼 Black Country, New Road: 34 release(s) found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1636364
-💿 Format(s): Vinyl, 7", Single, Limited Edition, Numbered
+Analyzing release https://www.discogs.com/release/13318111
 🗃️ Looking at alternate version(s) from 2019
-🗃️ Analyzing main formats of version https://www.discogs.com/release/15822578
-💿 Format(s): CDr, Single, Promo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14399055
+🗃️ Analyzing version https://www.discogs.com/release/15822578
 🗃️ Analyzing version https://www.discogs.com/release/14399055
-💿 Format(s): File, FLAC, Single
 ❌ 2019 - Black Country, New Road - "Athen's, France"
 (https://www.discogs.com/master/1636364)
-Rejected format(s): Vinyl, 7", Single, Limited Edition, Numbered
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1598328
-💿 Format(s): Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered
+Analyzing release https://www.discogs.com/release/14003267
 🗃️ Looking at alternate version(s) from 2019
-🗃️ Analyzing main formats of version https://www.discogs.com/release/16699332
-💿 Format(s): Vinyl, 7", 45 RPM, Single, Test Pressing}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/24841430
+🗃️ Analyzing version https://www.discogs.com/release/16699332
 🗃️ Analyzing version https://www.discogs.com/release/24841430
-💿 Format(s): File, AIFF, Single, Stereo
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14036680
-💿 Format(s): Cassette, Single, Limited Edition, Numbered}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14338188
-💿 Format(s): Vinyl, 7", 45 RPM, Single, Repress}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/14145052
-💿 Format(s): Vinyl, 7", 45 RPM, Single, Numbered, Repress}
+🗃️ Analyzing version https://www.discogs.com/release/14036680
+🗃️ Analyzing version https://www.discogs.com/release/14338188
+🗃️ Analyzing version https://www.discogs.com/release/14145052
 ❌ 2019 - Black Country, New Road - "Sunglasses"
 (https://www.discogs.com/master/1598328)
-Rejected format(s): Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/19296748
-💿 Format(s): File, WAV, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - Black Country, New Road - "Science Fair"
-(https://www.discogs.com/release/19296748)
-Rejected format(s): File, WAV, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/2825867
-💿 Format(s): File, AIFF, Single
+Analyzing release https://www.discogs.com/release/24841742
 🗃️ Looking at alternate version(s) from 2020
-🗃️ Analyzing main formats of version https://www.discogs.com/release/23638478
 🗃️ Analyzing version https://www.discogs.com/release/23638478
-💿 Format(s): File, ALAC, Single
 ❌ 2020 - Black Country, New Road - "Manchester xx​/​xx​/​20 (improvised)"
 (https://www.discogs.com/master/2825867)
-Rejected format(s): File, AIFF, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/19294159
-💿 Format(s): File, WAV, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Ethan P. Flynn Feat. Black Country, New Road - "Television Show (Live)"
-(https://www.discogs.com/release/19294159)
-Rejected format(s): File, WAV, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/19296817
-💿 Format(s): File, WAV, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Black Country, New Road - "Track X"
-(https://www.discogs.com/release/19296817)
-Rejected format(s): File, WAV, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/19616953
-💿 Format(s): Vinyl, LP
-⌛ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+Analyzing release https://www.discogs.com/release/undefined
+⌛ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe." (Unknown)
 https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/21147799
-💿 Format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition, Stereo
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Black Country, New Road - "Never Again"
-(https://www.discogs.com/release/21147799)
-Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition, Stereo
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/2189830
-💿 Format(s): File, WAV, Single
+Analyzing release https://www.discogs.com/release/19296856
 🗃️ Looking at alternate version(s) from 2021
-🗃️ Analyzing main formats of version https://www.discogs.com/release/22161631
 🗃️ Analyzing version https://www.discogs.com/release/22161631
-💿 Format(s): File, WAV, Single
-🗃️ Analyzing main formats of version https://www.discogs.com/release/18922588
 🗃️ Analyzing version https://www.discogs.com/release/18922588
-💿 Format(s): File, MP3, Single
 ❌ 2021 - Black Country, New Road - "Track X (The Guest)"
 (https://www.discogs.com/master/2189830)
-Rejected format(s): File, WAV, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1947124
-💿 Format(s): Vinyl, LP, Album
+Analyzing release https://www.discogs.com/release/17151706
 🗓️ Imprecise date (2021) for "For The First Time"
 🗃️ Looking at alternate version(s) from 2021
 🗃️ Analyzing version https://www.discogs.com/release/17250961
 🗓️ Release date: 2021-02-05
 Found better release date: 2021-02-05
 💿 2021-02-05 - Black Country, New Road - "For The First Time"
-https://api.discogs.com/masters/1947124
+https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/25182631
-💿 Format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Black Country, New Road - "Never Again Part 2"
-(https://www.discogs.com/release/25182631)
-Rejected format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/2486344
-💿 Format(s): Vinyl, LP, Album, Stereo
+Analyzing release https://www.discogs.com/release/21933142
 💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
-https://api.discogs.com/masters/2486344
+https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/3034334
-💿 Format(s): File, MP3, Album
+Analyzing release https://www.discogs.com/release/26523116
 🗃️ Looking at alternate version(s) from 2023
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26940023
-💿 Format(s): Vinyl, LP, Album, Limited Edition}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26890124
+🗃️ Analyzing version https://www.discogs.com/release/26940023
 🗃️ Analyzing version https://www.discogs.com/release/26890124
-💿 Format(s): Vinyl, LP, Album
 💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
-https://api.discogs.com/masters/3034334
+https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/35664514
-💿 Format(s): Vinyl, LP, 45 RPM, EP, Limited Edition
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2025 - Black Country, New Road - "Forever Howlong Demos: Live At The Cornish Bank"
-(https://www.discogs.com/release/35664514)
-Rejected format(s): Vinyl, LP, 45 RPM, EP, Limited Edition
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/3801192
-💿 Format(s): Vinyl, LP, Album
+Analyzing release https://www.discogs.com/release/33596541
 💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
-https://api.discogs.com/masters/3801192
+https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/3861109
+Analyzing release https://www.discogs.com/release/34081483
 ❌ 2025 - The Wedding Present - "Marc Riley Sessions Volume 5"
 (https://www.discogs.com/master/3861109)
 Rejected artist(s): The Wedding Present
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/14506051
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2019 - Various - "Speedy Wunderground Year 4"
-(https://www.discogs.com/release/14506051)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1669264
+Analyzing release https://www.discogs.com/release/14475978
 ❌ 2019 - Various - "Rough Trade Shops Counter Culture 19"
 (https://www.discogs.com/master/1669264)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/14686594
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - Various - "Atmospheres (Mojo Presents Post-Punk 2020)"
-(https://www.discogs.com/release/14686594)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/16239619
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - Various - "La Bande-son de L'automne 2020 Volume 2"
-(https://www.discogs.com/release/16239619)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/16909407
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Various - "Stories Of The Street (12 Tracks Of The Month's Best Music)"
-(https://www.discogs.com/release/16909407)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/16936833
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Various - "Musikexpress 02/21"
-(https://www.discogs.com/release/16936833)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/20922148
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Various - "The Best Of 2021 (15 Tracks Of The Year's Finest Music)"
-(https://www.discogs.com/release/20922148)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/20961196
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Various - "Mojo The Best Of 2021"
-(https://www.discogs.com/release/20961196)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/21972034
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Various - "Février 2022 - 15 Titres"
-(https://www.discogs.com/release/21972034)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/24618179
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Various - "No Music On A Dead Planet"
-(https://www.discogs.com/release/24618179)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/25384354
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Various - "Mixtape 2022"
-(https://www.discogs.com/release/25384354)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/28063668
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2023 - Various - "Speedy Wunderground The Dubs - Vol 1"
-(https://www.discogs.com/release/28063668)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/34102681
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2024 - Various - "Ninja Tune & The Guild Of Music Supervisors Christmas Party 2024 @ 100 Club, Soho, London"
-(https://www.discogs.com/release/34102681)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/33271299
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2025 - Various - "Time To Fly (15 Tracks Of The Month's Best Music)"
-(https://www.discogs.com/release/33271299)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/33642483
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2025 - Various - "Musikexpress 05/25"
-(https://www.discogs.com/release/33642483)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/35054264
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2025 - Various - "Rough Trade Shops - End Of The Road 2025"
-(https://www.discogs.com/release/35054264)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/4153960
+Analyzing release https://www.discogs.com/release/36685252
 ❌ 2026 - Various - "Help(2)"
 (https://www.discogs.com/master/4153960)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/2163559
+Analyzing release https://www.discogs.com/release/19055758
 ❌ 2021 - Sanger Sangwritre - "Country Worse"
 (https://www.discogs.com/master/2163559)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-❌ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe. (Unknown)"
+❌ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe." (Unknown)
 https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal
 No new tracks
 ———————————————————————————————————————————————————————————————

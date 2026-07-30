@@ -1,4 +1,4 @@
-import { DISCOGS_MASTER_URL, DISCOGS_RELEASE_URL, GENRES } from "../env";
+import { DISCOGS_RELEASE_URL, GENRES } from "../env";
 import { DCRelease, DCVersions, RejectReason } from "../types";
 import { removeNumberInParenthesis } from "../utils";
 import { Api, GetVersionsOptions } from "./Api";
@@ -100,9 +100,7 @@ export class Release {
   }
 
   get url() {
-    return this.release.master_id
-      ? `${DISCOGS_MASTER_URL}${this.release.master_id}`
-      : this.release.uri;
+    return this.release.uri;
   }
 
   get label() {
@@ -127,10 +125,36 @@ export class Release {
     return (
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.formats.heuristicFindBestFormatOrReject()) ??
-      this.heuristicRejectNoValidTracks() ??
+      (await this.heuristicFindValidVersionOrReject()) ??
+      // (await this.formats.heuristicFindBestFormatOrReject()) ??
+      // this.heuristicRejectNoValidTracks() ??
       this
     );
+  }
+
+  // Find a valid version for this release
+  private async heuristicFindValidVersionOrReject(): Promise<RejectReason | null> {
+    if (this.isValidVersion()) {
+      return null;
+    }
+
+    for (const version of (await this.getVersions()).versions) {
+      // TODO : valider la version avant de valider la release ?
+      const release = await this.getVersion(version.id);
+
+      if (release?.isValidVersion()) {
+        this.updateRelease(release);
+
+        return null;
+      }
+    }
+
+    return "No valid version found";
+  }
+
+  // Is this release a valid version?
+  private isValidVersion() {
+    return this.formats.isValidFormatList() && this.tracklist.isValid();
   }
 
   // Return the version list
@@ -144,7 +168,7 @@ export class Release {
       this.logger.log(
         `🗃️ Looking at alternate version(s) from ${this.year}${
           options?.format ? ` (format: ${options?.format})` : ""
-        }`
+        }`,
       );
     }
 
@@ -154,6 +178,10 @@ export class Release {
   // Fetch the version or return the one already fetched
   public async getVersion(versionId: number): Promise<Release | null> {
     this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
+
+    const version = await this.api.getRelease(versionId);
+
+    if (!version) return null;
 
     return new Release(await this.api.getRelease(versionId), this.mainBand);
   }
@@ -180,14 +208,14 @@ export class Release {
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
 
     return versions;

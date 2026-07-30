@@ -78,8 +78,7 @@
 ———————————————————————————————————————————————————————————————
 🎼 Moon Safari: 34 release(s) found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/512087
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/8543634
 🗓️ Imprecise date (2005) for "A Doorway To Summer"
 🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/3346044
@@ -88,164 +87,152 @@ Found better release date: 2005-01-01
 🗃️ Analyzing version https://www.discogs.com/release/13306655
 🗓️ Release date: 2005
 💿 2005-01-01 - Moon Safari - "A Doorway To Summer"
-https://api.discogs.com/masters/512087
+https://www.discogs.com/release/8543634-Moon-Safari-A-Doorway-To-Summer
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/818554
-💿 Format(s): CD, Album, Stereo
+Analyzing release https://www.discogs.com/release/3346064
 🗓️ Imprecise date (2008-01-01) for "Blomljud"
 🗃️ Looking at alternate version(s) from 2008
 🗃️ Analyzing version https://www.discogs.com/release/21709531
 🗓️ Release date: 2008-01-03
 Found better release date: 2008-01-03
 💿 2008-01-03 - Moon Safari - "Blomljud"
-https://api.discogs.com/masters/818554
+https://www.discogs.com/release/3346064-Moon-Safari-Blomljud
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/7418394
-💿 Format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Øresund Space Collective, Darkwater (5), Moon Safari, John Randén & Synkopaterna - "Various - Slottsskogen Goes Progressive 2008"
-(https://www.discogs.com/release/7418394)
-Rejected format(s): DVDr, DVD-Video, PAL, Limited Edition, Stereo
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/735784
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/3346056
 💿 2010-11-11 - Moon Safari - "Lover's End"
-https://api.discogs.com/masters/735784
+https://www.discogs.com/release/3346056-Moon-Safari-Lovers-End
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4138230
-💿 Format(s): CD, EP, Compilation
-⌛ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (EP)"
+Analyzing release https://www.discogs.com/release/undefined
+⌛ 2012-12-19 - Moon Safari - "The Lover's End Trilogy" (EP)
 https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/744333
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/3398502
 💿 2012-02-08 - Moon Safari - "The Gettysburg Address"
-https://api.discogs.com/masters/744333
+https://www.discogs.com/release/3398502-Moon-Safari-The-Gettysburg-Address
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1145140
-💿 Format(s): CD, EP, Stereo
-⌛ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
-https://api.discogs.com/masters/1145140
+Analyzing release https://www.discogs.com/release/4045354
+⌛ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade" (EP)
+https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/818555
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/5212812
 💿 2013-08-21 - Moon Safari - "Himlabacken • Vol 1"
-https://api.discogs.com/masters/818555
+https://www.discogs.com/release/5212812-Moon-Safari-Himlabacken-Vol-1
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/818556
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/23243657
 💿 2014-10-00 - Moon Safari - "Live In Mexico"
-https://api.discogs.com/masters/818556
+https://www.discogs.com/release/23243657-Moon-Safari-Live-In-Mexico
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/9450160
-💿 Format(s): CD, Compilation
-⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
+Analyzing release https://www.discogs.com/release/undefined
+⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013)" (Compilation)
 https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/15123057
-💿 Format(s): CD, Compilation, Reissue, Stereo
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
-(https://www.discogs.com/release/15123057)
-Rejected format(s): CD, Compilation, Reissue, Stereo
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/3337825
-💿 Format(s): Vinyl, LP, Album, Stereo
+Analyzing release https://www.discogs.com/release/29220661
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
-https://api.discogs.com/masters/3337825
+https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/32469678
-💿 Format(s): Vinyl, LP, Compilation
-⌛ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
+Analyzing release https://www.discogs.com/release/undefined
+⌛ unknown date - Moon Safari - "Moon Romantic Special" (Compilation)
 https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1078050
+Analyzing release https://www.discogs.com/release/8480988
 ❌ 2016 - The Syn - "Trustworks"
 (https://www.discogs.com/master/1078050)
 Rejected artist(s): The Syn
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4234020
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2005 - The Flower Kings - "Fanclub CD 2005 : Harvest"
-(https://www.discogs.com/release/4234020)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): The Flower Kings
 ———————————————————————————————————————————————————————————————
 ↷ "2016 - The Syn - "Trustworks"
 (https://www.discogs.com/master/1078050)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 ↷ "2005 - The Flower Kings - "Fanclub CD 2005 : Harvest"
-(https://www.discogs.com/release/4234020)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/891435
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2006 - Various - "Music From Time And Space Vol. 18"
-(https://www.discogs.com/release/891435)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/12896004
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2006 - Various - "Empire Art Rock 77"
-(https://www.discogs.com/release/12896004)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/15264119
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2006 - Various - "Terra Incognita - Découvertes Volume 6"
-(https://www.discogs.com/release/15264119)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/1414229
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2008 - Various - "Cinematic Sound Vol. 1"
-(https://www.discogs.com/release/1414229)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/1634495
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2008 - Various - "Empire Art Rock 85"
-(https://www.discogs.com/release/1634495)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/11013347
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2008 - Various - "Convention Prog Resiste 2008"
-(https://www.discogs.com/release/11013347)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/11013367
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2008 - Various - "Prog Résiste 53 - Premier Contact"
-(https://www.discogs.com/release/11013367)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/15504547
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "Mały Leksykon Wielkich Zespołów (15th Anniversary 3 CD Compilation Album)"
-(https://www.discogs.com/release/15504547)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/11021661
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Convention Prog Resiste 2010"
-(https://www.discogs.com/release/11021661)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/12896384
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Empire Art Rock 94"
-(https://www.discogs.com/release/12896384)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4887836
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "P16: Arriving Somewhere... ...But Not Here"
-(https://www.discogs.com/release/4887836)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5651684
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "The Best Of... 2Days Prog+1 Veruno, September 6,7 & 8 2013"
-(https://www.discogs.com/release/5651684)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/29524336
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2024 - Various - "Empire Art Rock 154"
-(https://www.discogs.com/release/29524336)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/30147131
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2024 - Various - "The Art Of Sysyphus 128"
-(https://www.discogs.com/release/30147131)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/31678865
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2024 - Various - "PROG Presents: Discovering Summer's End Festival"
-(https://www.discogs.com/release/31678865)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2016 - The Syn - "Trustworks"
@@ -254,20 +241,19 @@ Rejected release role: TrackAppearance
 ↷ "unknown date - Moon Safari - "Himlabacken • Vol 1"
 (https://www.discogs.com/master/818555)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-❌ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade (EP)"
-https://api.discogs.com/masters/1145140
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2012-12-19 - Moon Safari - "The Lover's End Trilogy (EP)"
+❌ 2012-12-19 - Moon Safari - "The Lover's End Trilogy" (EP)
 https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013) (Compilation)"
+❌ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade" (EP)
+https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade
+No new tracks
+———————————————————————————————————————————————————————————————
+❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013)" (Compilation)
 https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Moon Safari - "Moon Romantic Special (Compilation)"
+❌ unknown date - Moon Safari - "Moon Romantic Special" (Compilation)
 https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special
 No new tracks
 ———————————————————————————————————————————————————————————————

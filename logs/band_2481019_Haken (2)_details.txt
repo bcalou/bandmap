@@ -86,338 +86,305 @@
 ———————————————————————————————————————————————————————————————
 🎼 Haken: 61 release(s) found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): CDr
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2007 - Haken (2) - "Haken"
-(https://www.discogs.com/release/15000061)
-Rejected format(s): CDr
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): CDr
-🗃️ Looking at 3 alternate version(s) from 2008
-🗃️ Analyzing main formats of version https://www.discogs.com/release/21080776
+Analyzing release https://www.discogs.com/release/4075958
+🗃️ Looking at alternate version(s) from 2008
 🗃️ Analyzing version https://www.discogs.com/release/21080776
-💿 Format(s): CDr
-🗃️ Analyzing main formats of version https://www.discogs.com/release/33565128
 🗃️ Analyzing version https://www.discogs.com/release/33565128
-💿 Format(s): CDr
 ❌ 2008 - Haken (2) - "Enter The 5th Dimension"
 (https://www.discogs.com/master/1706323)
-Rejected format(s): CDr
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/3429761
 💿 2010-03-30 - Haken - "Aquarius"
-(https://www.discogs.com/release/3429761-Haken-2-Aquarius)
+https://www.discogs.com/release/3429761-Haken-2-Aquarius
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 5 alternate version(s) from 2011
-🗃️ Analyzing main formats of version https://www.discogs.com/release/5164041
+Analyzing release https://www.discogs.com/release/10944724
+🗃️ Looking at alternate version(s) from 2011
 🗃️ Analyzing version https://www.discogs.com/release/5164041
-💿 Format(s): CD, Album
 💿 2011-10-25 - Haken - "Visions"
-(https://www.discogs.com/release/5164041-Haken-2-Visions)
+https://www.discogs.com/release/5164041-Haken-2-Visions
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 12 alternate version(s) from 2013
-🗃️ Analyzing main formats of version https://www.discogs.com/release/5396142
+Analyzing release https://www.discogs.com/release/10944697
+🗃️ Looking at alternate version(s) from 2013
 🗃️ Analyzing version https://www.discogs.com/release/5396142
-💿 Format(s): CD, Album
 💿 2013-09-17 - Haken - "The Mountain"
-(https://www.discogs.com/release/5396142-Haken-2-The-Mountain)
+https://www.discogs.com/release/5396142-Haken-2-The-Mountain
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, EP
-🗃️ Looking at 4 alternate version(s) from 2014
-🗃️ Analyzing main formats of version https://www.discogs.com/release/6264964
+Analyzing release https://www.discogs.com/release/10944682
+🗃️ Looking at alternate version(s) from 2014
 🗃️ Analyzing version https://www.discogs.com/release/6264964
-💿 Format(s): Vinyl, 12", 33 ⅓ RPM, EP, CD, EP, All Media, Limited Edition, Numbered
-🗃️ Analyzing main formats of version https://www.discogs.com/release/6242292
 🗃️ Analyzing version https://www.discogs.com/release/6242292
-💿 Format(s): Vinyl, 12", 33 ⅓ RPM, EP, CD, EP
-⌛ 2014-11-11 - Haken - "Restoration (EP)"
-(https://www.discogs.com/release/6242292-Haken-2-Restoration)
+⌛ 2014-11-11 - Haken - "Restoration" (EP)
+https://www.discogs.com/release/6242292-Haken-2-Restoration
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2016
-🗃️ Analyzing main formats of version https://www.discogs.com/release/10857307
+Analyzing release https://www.discogs.com/release/10831860
+🗃️ Looking at alternate version(s) from 2016
 🗃️ Analyzing version https://www.discogs.com/release/10857307
-💿 Format(s): File, FLAC, Single
 ❌ 2016 - Haken (2) - "Initiate"
 (https://www.discogs.com/master/1237559)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2016
-🗃️ Analyzing main formats of version https://www.discogs.com/release/10857319
+Analyzing release https://www.discogs.com/release/10831861
+🗃️ Looking at alternate version(s) from 2016
 🗃️ Analyzing version https://www.discogs.com/release/10857319
-💿 Format(s): File, FLAC, Single
 ❌ 2016 - Haken (2) - "The Endless Knot"
 (https://www.discogs.com/master/1237560)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 11 alternate version(s) from 2016
-🗃️ Analyzing main formats of version https://www.discogs.com/release/8497688
+Analyzing release https://www.discogs.com/release/10944667
+🗃️ Looking at alternate version(s) from 2016
 🗃️ Analyzing version https://www.discogs.com/release/8497688
-💿 Format(s): Vinyl, LP, Album, CD, Album, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/8728886
-💿 Format(s): CD, Album, Unofficial Release}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/8453071
+🗃️ Analyzing version https://www.discogs.com/release/8728886
 🗃️ Analyzing version https://www.discogs.com/release/8453071
-💿 Format(s): Vinyl, LP, Album, CD, Album
 💿 2016-04-29 - Haken - "Affinity"
-(https://www.discogs.com/release/8453071-Haken-2-Affinity)
+https://www.discogs.com/release/8453071-Haken-2-Affinity
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 14 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12702035
+Analyzing release https://www.discogs.com/release/13142135
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12702035
-💿 Format(s): CD, Album, CD, Album, All Media
 💿 2018-10-26 - Haken - "Vector"
-(https://www.discogs.com/release/12702035-Haken-2-Vector)
+https://www.discogs.com/release/12702035-Haken-2-Vector
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/13392244
+Analyzing release https://www.discogs.com/release/13392239
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/13392244
-💿 Format(s): File, FLAC, Single
 ❌ 2018 - Haken (2) - "The Good Doctor"
 (https://www.discogs.com/master/1521736)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/13392262
+Analyzing release https://www.discogs.com/release/13392251
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/13392262
-💿 Format(s): File, FLAC, Single
 ❌ 2018 - Haken (2) - "Puzzle Box"
 (https://www.discogs.com/master/1521737)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/13392268
+Analyzing release https://www.discogs.com/release/13392264
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/13392268
-💿 Format(s): File, FLAC, Single
 ❌ 2018 - Haken (2) - "A Cell Divides"
 (https://www.discogs.com/master/1521738)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 2 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12157175
+Analyzing release https://www.discogs.com/release/13231638
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12157175
-💿 Format(s): CD, Album, DVD, DVD-Video, Multichannel
 💿 2018-06-22 - Haken - "L-1VE"
-(https://www.discogs.com/release/12157175-Haken-2-L-1VE)
+https://www.discogs.com/release/12157175-Haken-2-L-1VE
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, WAV, EP
-🗃️ Looking at 5 alternate version(s) from 2018
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12921065
+Analyzing release https://www.discogs.com/release/30549505
+🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12921065
-💿 Format(s): Vinyl, LP, EP, CD, EP, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12921106
 🗃️ Analyzing version https://www.discogs.com/release/12921106
-💿 Format(s): Vinyl, LP, EP, CD, EP, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/12909218
 🗃️ Analyzing version https://www.discogs.com/release/12909218
-💿 Format(s): Vinyl, LP, EP, CD, EP, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/13267371
 🗃️ Analyzing version https://www.discogs.com/release/13267371
-💿 Format(s): Vinyl, LP, EP, Stereo, CD, EP, All Media, Limited Edition
 ❌ 2018 - Haken (2) - "L+1VE"
 (https://www.discogs.com/master/1467638)
-Rejected format(s): File, WAV, EP
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - Haken (2) - "Prosthetic"
-(https://www.discogs.com/release/15041770)
-Rejected format(s): File, MP3, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - Haken (2) - "Invasion"
-(https://www.discogs.com/release/15349077)
-Rejected format(s): File, MP3, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 17 alternate version(s) from 2020
-🗃️ Analyzing main formats of version https://www.discogs.com/release/15680080
+Analyzing release https://www.discogs.com/release/15670029
+🗃️ Looking at alternate version(s) from 2020
 🗃️ Analyzing version https://www.discogs.com/release/15680080
-💿 Format(s): CD, Album, CD, Album, All Media, Deluxe Edition
 💿 2020-07-24 - Haken - "Virus"
-(https://www.discogs.com/release/15680080-Haken-2-Virus)
+https://www.discogs.com/release/15680080-Haken-2-Virus
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 1 alternate version(s) from 2020
+Analyzing release https://www.discogs.com/release/15222568
+🗃️ Looking at alternate version(s) from 2020
 ❌ 2020 - Haken (2) - "Canary Yellow"
 (https://www.discogs.com/master/3538078)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, MP3, Single
-🗃️ Looking at 2 alternate version(s) from 2020
-🗃️ Analyzing main formats of version https://www.discogs.com/release/16300981
+Analyzing release https://www.discogs.com/release/15038791
+🗃️ Looking at alternate version(s) from 2020
 🗃️ Analyzing version https://www.discogs.com/release/16300981
-💿 Format(s): File, FLAC, Single
 ❌ 2020 - Haken (2) - "The Architect - Jazzfinity"
 (https://www.discogs.com/master/1879641)
-Rejected format(s): File, MP3, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Single
-🗃️ Looking at 2 alternate version(s) from 2022
-🗃️ Analyzing main formats of version https://www.discogs.com/release/23006144
+Analyzing release https://www.discogs.com/release/23010590
+🗃️ Looking at alternate version(s) from 2022
 🗃️ Analyzing version https://www.discogs.com/release/23006144
-💿 Format(s): File, MP3, Single
 ❌ 2022 - Haken (2) - "Nightingale"
 (https://www.discogs.com/master/2608775)
-Rejected format(s): File, AAC, Single
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2023 - Haken (2) - "The Last Lullaby"
-(https://www.discogs.com/release/27466704)
-Rejected format(s): File, AAC, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 17 alternate version(s) from 2023
-🗃️ Analyzing main formats of version https://www.discogs.com/release/32742147
-💿 Format(s): CD, Album, Promo, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26311025
-💿 Format(s): Vinyl, LP, Album, Limited Edition, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26302511
+Analyzing release https://www.discogs.com/release/26327753
+🗃️ Looking at alternate version(s) from 2023
+🗃️ Analyzing version https://www.discogs.com/release/32742147
+🗃️ Analyzing version https://www.discogs.com/release/26311025
 🗃️ Analyzing version https://www.discogs.com/release/26302511
-💿 Format(s): CD, Album, Stereo, CD, Album, Stereo, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26813168
 🗃️ Analyzing version https://www.discogs.com/release/26813168
-💿 Format(s): CD, Album, Stereo
 💿 2023-03-03 - Haken - "Fauna"
-(https://www.discogs.com/release/26813168-Haken-2-Fauna)
+https://www.discogs.com/release/26813168-Haken-2-Fauna
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, AAC, Album
-🗃️ Looking at 6 alternate version(s) from 2025
-🗃️ Analyzing main formats of version https://www.discogs.com/release/33971067
-💿 Format(s): Vinyl, LP, Album, Limited Edition, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/33940008
+Analyzing release https://www.discogs.com/release/33976143
+🗃️ Looking at alternate version(s) from 2025
+🗃️ Analyzing version https://www.discogs.com/release/33971067
 🗃️ Analyzing version https://www.discogs.com/release/33940008
-💿 Format(s): Blu-ray, Stereo, Multichannel, CD, Album, Stereo, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/33944871
 🗃️ Analyzing version https://www.discogs.com/release/33944871
-💿 Format(s): Blu-ray, Stereo, Multichannel, CD, Album, Stereo, All Media, Limited Edition
-🗃️ Analyzing main formats of version https://www.discogs.com/release/34034742
 🗃️ Analyzing version https://www.discogs.com/release/34034742
-💿 Format(s): Vinyl, LP, Album, Stereo
 💿 2025-05-09 - Haken - "Liveforms: Fauna Live In London"
-(https://www.discogs.com/release/34034742-Haken-2-Liveforms-Fauna-Live-In-London)
+https://www.discogs.com/release/34034742-Haken-2-Liveforms-Fauna-Live-In-London
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, FLAC, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2026 - Haken (2) - "In A Fever Dream"
-(https://www.discogs.com/release/37415226)
-Rejected format(s): File, FLAC, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-💿 Format(s): File, FLAC, Single
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2026 - Haken (2) - "Bleeding Sky"
-(https://www.discogs.com/release/37690941)
-Rejected format(s): File, FLAC, Single
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "Classic Rock Presents PROG: Prognosis 2"
-(https://www.discogs.com/release/3092335)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "Classic Rock Presents PROG: Prognosis 2.1"
-(https://www.discogs.com/release/3854094)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/20271676
 ❌ 2021 - Kyros (3) - "Recover"
 (https://www.discogs.com/master/3006722)
 Rejected artist(s): Kyros (3)
 ———————————————————————————————————————————————————————————————
 ↷ "2009 - Various - "Classic Rock Presents PROG: Prognosis 2"
-(https://www.discogs.com/release/3092335)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Music From Time And Space Vol. 37"
-(https://www.discogs.com/release/6259103)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "Kronjuwelen #11"
-(https://www.discogs.com/release/3259593)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2011 - Various - "Classic Rock Presents PROG: Prognosis 2.1"
-(https://www.discogs.com/release/3854094)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "Music From Time And Space Vol. 42"
-(https://www.discogs.com/release/6127624)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "Empire Art Rock 96"
-(https://www.discogs.com/release/12896426)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2012 - Various - "P2: Stormwatch"
-(https://www.discogs.com/release/3854165)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Progressive Rock (Aktuelle Highlights Und Klassiker)"
-(https://www.discogs.com/release/4916912)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "P17: Awaken The Stone King"
-(https://www.discogs.com/release/4977080)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In Aug./Early Sept. 2013)"
-(https://www.discogs.com/release/5086817)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Best Of 2013"
-(https://www.discogs.com/release/5204457)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Music In Progress"
-(https://www.discogs.com/release/5248769)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "CRS Presents: New Species Volume X"
-(https://www.discogs.com/release/5380356)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Celebr8.2"
-(https://www.discogs.com/release/5775927)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Empire Art Rock 103"
-(https://www.discogs.com/release/12896532)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "ProgPower USA XIV"
-(https://www.discogs.com/release/20859448)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "Highlights 2013"
-(https://www.discogs.com/release/5327486)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "The Best Of... 2Days Prog+1 Veruno, September 6,7 & 8 2013"
-(https://www.discogs.com/release/5651684)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "Prog Rocks! Volume Four"
-(https://www.discogs.com/release/6513328)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "Prog Résiste 75"
-(https://www.discogs.com/release/11005671)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2016 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In April/Early May 2016)"
-(https://www.discogs.com/release/8506811)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2018 - Various - "The Art Of Sysyphus 100"
-(https://www.discogs.com/release/12718024)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Various - "Le Sampler RockHard 232"
-(https://www.discogs.com/release/23520782)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2023 - Various - "Le Sampler RockHard 240"
-(https://www.discogs.com/release/26395064)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2011 - Haken (2) - "Visions"
@@ -435,8 +402,9 @@ Rejected release role: TrackAppearance
 ↷ "2020 - Haken (2) - "Virus"
 (https://www.discogs.com/master/1776143)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2023 - Haken (2) - "The Alphabet Of Me"
-(https://www.discogs.com/release/27837942)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2023 - Haken (2) - "Fauna"
@@ -445,13 +413,13 @@ Rejected release role: UnofficialRelease
 ↷ "unknown date - Haken (2) - "The Architect - Jazzfinity"
 (https://www.discogs.com/master/1879641)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks
-Found candidate with 4 unregistered track(s):
+Found candidate with 6 unregistered track(s):
 🎵 Darkest Light
 🎵 Earthlings
+🎵 Crystallised
 🎵 Darkest Light
 🎵 Earthlings
-💿 2014-11-11 - Haken - "Restoration (EP)"
-(https://www.discogs.com/release/6242292-Haken-2-Restoration)
+🎵 Crystallised
+💿 2014-11-11 - Haken - "Restoration" (EP)
+https://www.discogs.com/release/6242292-Haken-2-Restoration
 ———————————————————————————————————————————————————————————————
-Looking for candidates with unregistered tracks

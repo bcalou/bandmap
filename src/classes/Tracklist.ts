@@ -23,6 +23,11 @@ export class Tracklist {
     return this.release.release.tracklist;
   }
 
+  // Is the tracklist valid? (meaning it contains at least 1 valid track)
+  public isValid(): boolean {
+    return this.getValidTracks().length > 0;
+  }
+
   // Get the list of tracks for the given release
   public getValidTracks(): DCTrack[] {
     return this.tracklist.filter((track, index) => {

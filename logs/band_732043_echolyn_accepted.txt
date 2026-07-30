@@ -1,45 +1,46 @@
 12 release(s):
 ———————————————————————————————————————————————————————————————
 💿 1991 - echolyn - "echolyn"
-https://api.discogs.com/masters/629465
+https://www.discogs.com/release/5154821-echolyn-echolyn
 ———————————————————————————————————————————————————————————————
 💿 1992-11-28 - echolyn - "Suffocating The Bloom"
-https://api.discogs.com/masters/629635
+https://www.discogs.com/release/3653657-echolyn-Suffocating-The-Bloom
 ———————————————————————————————————————————————————————————————
-💿 1995 - echolyn - "As The World"
-https://api.discogs.com/masters/428290
-———————————————————————————————————————————————————————————————
-💿 1996-07-25 - echolyn - "When The Sweet Turns Sour"
-https://api.discogs.com/masters/544426
-———————————————————————————————————————————————————————————————
-💿 2000 - echolyn - "Cowboy Poems Free"
-https://api.discogs.com/masters/619787
-———————————————————————————————————————————————————————————————
-💿 2002 - echolyn - "A Little Nonsense: Now And Then (Compilation)"
-https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
+💿 1993 - echolyn - "...And Every Blossom" (EP)
+https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
 Including non-album track(s):
 🎵 Bright Sides
 🎵 Ballet For A Marsh
 🎵 Lunch In The Sun
 🎵 Blue And Sand
+———————————————————————————————————————————————————————————————
+💿 1995 - echolyn - "As The World"
+https://www.discogs.com/release/872981-echolyn-As-The-World
+———————————————————————————————————————————————————————————————
+💿 1996-07-25 - echolyn - "When The Sweet Turns Sour"
+https://www.discogs.com/release/2739522-echolyn-When-The-Sweet-Turns-Sour
+———————————————————————————————————————————————————————————————
+💿 2000 - echolyn - "Cowboy Poems Free"
+https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free
+———————————————————————————————————————————————————————————————
+💿 2002-06-00 - echolyn - "Mei"
+https://www.discogs.com/release/5355594-echolyn-Mei
+———————————————————————————————————————————————————————————————
+💿 2002 - echolyn - "A Little Nonsense: Now And Then" (Compilation)
+https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
+Including non-album track(s):
 🎵 Edge Of Wonder (Erad-Glitch)
 🎵 Lator Man (Unlisted)
 ———————————————————————————————————————————————————————————————
-💿 2002-06-00 - echolyn - "Mei"
-https://api.discogs.com/masters/649268
-———————————————————————————————————————————————————————————————
 💿 2005 - echolyn - "The End Is Beautiful"
-https://api.discogs.com/masters/843365
+https://www.discogs.com/release/3809164-echolyn-The-End-Is-Beautiful
 ———————————————————————————————————————————————————————————————
 💿 2012-06-19 - echolyn - "echolyn"
-https://api.discogs.com/masters/471034
+https://www.discogs.com/release/3664811-echolyn-echolyn
 ———————————————————————————————————————————————————————————————
 💿 2015-07-31 - echolyn - "I Heard You Listening"
-https://api.discogs.com/masters/885702
+https://www.discogs.com/release/7264878-echolyn-I-Heard-You-Listening
 ———————————————————————————————————————————————————————————————
 💿 2025-03-07 - echolyn - "TimeSilentRadio vii"
-https://api.discogs.com/masters/3801273
-———————————————————————————————————————————————————————————————
-💿 2025-03-07 - echolyn - "TimeSilentRadio II"
-https://api.discogs.com/masters/3801264
+https://www.discogs.com/release/33524262-echolyn-TimeSilentRadio-vii
 ———————————————————————————————————————————————————————————————

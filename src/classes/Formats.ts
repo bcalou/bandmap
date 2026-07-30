@@ -40,7 +40,7 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      []
+      [],
     );
   }
 
@@ -48,7 +48,7 @@ export class Formats {
   public getMainFormat() {
     return (
       FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        this.flattenedFormats.includes(format)
+        this.flattenedFormats.includes(format),
       ) ?? "Unknown"
     );
   }
@@ -72,7 +72,7 @@ export class Formats {
 
   // Look for valid format list in other versions of the release
   private async hasValidVersion(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<boolean> {
     const page = options?.page ?? 1;
     const versions = await this.release.getVersions(options);
@@ -92,7 +92,7 @@ export class Formats {
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
     this.logger.log(
-      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`
+      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`,
     );
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
@@ -109,7 +109,7 @@ export class Formats {
 
   // Get the version details and test if the format list is valid
   private async versionDetailsHasValidFormat(
-    version: DCVersion
+    version: DCVersion,
   ): Promise<boolean> {
     const release = await this.release.getVersion(version.id);
 
@@ -126,7 +126,7 @@ export class Formats {
   }
 
   // Is this list of formats potentially valid for the discography?
-  private isValidFormatList(): boolean {
+  public isValidFormatList(): boolean {
     // First, eliminate multiple album types (eg compilation of former releases)
     // if (this.getAlbumType() === AlbumType.Multiple) return false;
 

@@ -1,27 +1,23 @@
 32 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ 1993 - echolyn - "...And Every Blossom (EP)"
-https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 1994 - echolyn - "As The World Sampler"
-(https://www.discogs.com/release/3651575)
-(Rejected format(s): CD, Single, Promo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Various - "Progfest '94 - Variety Arts Center - Los Angeles"
-(https://www.discogs.com/release/4688082)
+(https://www.discogs.com/release/undefined)
 (Rejected artist(s): Various)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Various - "Progfest '94 - Day One"
-(https://www.discogs.com/release/4298257)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Various - "Musician Magazine's A Little On The CD Side Volume 18"
-(https://www.discogs.com/release/6616873)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1995 - Various - "Epic Audio Buyways 203/204 95"
-(https://www.discogs.com/release/9606206)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1996 - Various - "To Cry You A Song (A Collection Of Tull Tales)"
@@ -29,102 +25,106 @@ https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
 (Rejected artist(s): Various)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - Various - "Progday '95"
-(https://www.discogs.com/release/5080439)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - echolyn - "2-song CD Sampler 2000 (2)"
-(https://www.discogs.com/release/6590069)
-(Rejected format(s): CDr, Single, Stereo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2000 - echolyn - "2-song CD Sampler 2000"
 (https://www.discogs.com/master/1784240)
-(Rejected format(s): CDr, Single)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Various - "Prog In USA"
-(https://www.discogs.com/release/5537932)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - echolyn - "Archives: Brett Kull"
-(https://www.discogs.com/release/7459772)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - echolyn - "Progfest '94: The Official Bootleg"
-(https://www.discogs.com/release/6588431)
-(Rejected format(s): CDr, Album, Stereo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
-(Rejected format(s): CDr, Album, Limited Edition, Stereo)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2003 - echolyn - "ProgDay '95 / New Jersey 2002: Definitive Edition"
-(https://www.discogs.com/release/6588620)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2004 - echolyn - "Stars And Gardens Volume 4"
-(https://www.discogs.com/release/5085130)
-(Rejected format(s): DVD, Stereo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2005 - echolyn - "Music From The Forthcoming Release: The End Is Beautiful"
-(https://www.discogs.com/release/15730579)
-(Rejected format(s): CDr, Sampler)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2005 - Various - "Music From Time And Space Vol. 16"
-(https://www.discogs.com/release/890776)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2005 - Various - "After The Storm "A Benefit Album For The Survivors Of Hurricane Katrina""
-(https://www.discogs.com/release/5234552)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Presto Ballet, IZZ, Sylvan (2), echolyn - "CalProg 2008: The Authorized Bootleg"
-(https://www.discogs.com/release/33685317)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - echolyn - "This Is How We Left It"
-(https://www.discogs.com/release/16304396)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - echolyn - "Moments With No Sound"
-(https://www.discogs.com/release/16304415)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - echolyn - "15 Days"
-(https://www.discogs.com/release/16304426)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - echolyn - "Accumulated Blur"
-(https://www.discogs.com/release/16304435)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various - "Autumn Breeze"
-(https://www.discogs.com/release/3917321)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various - "The Art Of Sysyphus Vol. 66"
-(https://www.discogs.com/release/4371417)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various - "Prog Résiste 70"
-(https://www.discogs.com/release/11025761)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - echolyn - "Another Stone"
-(https://www.discogs.com/release/16304444)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - echolyn - "Crows Fly By"
-(https://www.discogs.com/release/16304456)
-(Rejected format(s): File, FLAC, Single)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - Various - "Prog Résiste 83 - Sampler"
-(https://www.discogs.com/release/11147975)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2022 - Various - "A Tribute To Jethro Tull"
 (https://www.discogs.com/master/2836016)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 2025 - echolyn - "TimeSilentRadio II"
+(https://www.discogs.com/master/3801264)
+(No valid version found)
+———————————————————————————————————————————————————————————————
 ❌ unknown date - Various - "All You Nied Is Norm"
-(https://www.discogs.com/release/21676855)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————

@@ -1,4 +1,4 @@
-106 track(s):
+104 track(s):
 ———————————————————————————————————————————————————————————————
 A Soapbox Opera
 Release(s): Crisis? What Crisis?, Paris
@@ -175,7 +175,8 @@ Know Who You Are
 Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Lady
-Release(s): Crisis? What Crisis?, Is Everybody Listening?, Lady
+Variation(s): My Kind Of Lady
+Release(s): Crisis? What Crisis?, Is Everybody Listening?, "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 Land Ho
 Release(s): Land Ho 
@@ -197,9 +198,6 @@ Release(s): Even In The Quietest Moments...
 ———————————————————————————————————————————————————————————————
 Maybe I'm A Beggar
 Release(s): Supertramp
-———————————————————————————————————————————————————————————————
-My Kind Of Lady
-Release(s): "...Famous Last Words..."
 ———————————————————————————————————————————————————————————————
 No Inbetween
 Release(s): Brother Where You Bound
@@ -308,9 +306,6 @@ Release(s): Free As A Bird
 ———————————————————————————————————————————————————————————————
 You Started Laughing
 Release(s): Paris, Live '88
-———————————————————————————————————————————————————————————————
-You Started Laughing When I Held You In My Arms
-Release(s): Lady
 ———————————————————————————————————————————————————————————————
 You Win, I Lose
 Release(s): Some Things Never Change, It Was The Best Of Times

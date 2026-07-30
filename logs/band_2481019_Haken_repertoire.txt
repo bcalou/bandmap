@@ -1,10 +1,13 @@
-85 track(s):
-———————————————————————————————————————————————————————————————
-1985
-Release(s): Affinity, L-1VE, L-1VE
+87 track(s):
 ———————————————————————————————————————————————————————————————
 1985
 Release(s): Affinity
+———————————————————————————————————————————————————————————————
+1985
+Release(s): Affinity
+———————————————————————————————————————————————————————————————
+1985
+Release(s): L-1VE
 ———————————————————————————————————————————————————————————————
 A Cell Divides
 Release(s): Vector
@@ -14,7 +17,7 @@ Release(s): Vector
 ———————————————————————————————————————————————————————————————
 affinity.exe
 Variation(s): Affinity.exe/Initiate
-Release(s): Affinity, L-1VE, L-1VE
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 affinity.exe
 Release(s): Affinity
@@ -23,10 +26,10 @@ Aquarium
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 As Death Embraces
-Release(s): The Mountain, L-1VE, L-1VE
+Release(s): The Mountain, L-1VE
 ———————————————————————————————————————————————————————————————
 Atlas Stone
-Release(s): The Mountain, L-1VE, L-1VE
+Release(s): The Mountain, L-1VE
 ———————————————————————————————————————————————————————————————
 Because It's There
 Release(s): The Mountain
@@ -62,10 +65,13 @@ Clear
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Cockroach King
-Release(s): The Mountain, L-1VE, L-1VE
+Release(s): The Mountain, L-1VE
 ———————————————————————————————————————————————————————————————
 Crystallised
-Release(s): L-1VE, Restoration, Restoration
+Release(s): Restoration
+———————————————————————————————————————————————————————————————
+Crystallised
+Release(s): Restoration
 ———————————————————————————————————————————————————————————————
 Darkest Light
 Release(s): Restoration
@@ -86,8 +92,7 @@ Earthlings
 Release(s): Restoration
 ———————————————————————————————————————————————————————————————
 Earthrise
-Variation(s): Earthrise (Music Video)
-Release(s): Affinity, L-1VE, L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Earthrise
 Release(s): Affinity
@@ -103,7 +108,7 @@ Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Falling Back To Earth
 Sub tracks: Part 1: Rise, Part 2: Fall
-Release(s): The Mountain, L-1VE
+Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
 Host
 Release(s): Vector
@@ -113,11 +118,10 @@ Release(s): Vector
 ———————————————————————————————————————————————————————————————
 In Memorian
 Variation(s): In Memoriam
-Release(s): The Mountain, L-1VE, L-1VE
+Release(s): The Mountain, L-1VE
 ———————————————————————————————————————————————————————————————
 Initiate
-Variation(s): Initiate (Music Video)
-Release(s): Affinity, L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Initiate
 Release(s): Affinity
@@ -135,8 +139,7 @@ Island In The Clouds
 Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 Lapse
-Variation(s): Lapse (Music Video)
-Release(s): Affinity, L-1VE
+Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Lapse
 Release(s): Affinity
@@ -171,7 +174,7 @@ Only Stars
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Pareidolia
-Release(s): The Mountain, L-1VE
+Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
 Portals
 Release(s): Visions
@@ -192,7 +195,7 @@ Puzzle Box
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Red Giant
-Release(s): Affinity, L-1VE, L-1VE
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 Red Giant
 Release(s): Affinity
@@ -220,13 +223,13 @@ The Alphabet Of Me
 Release(s): Fauna, Liveforms: Fauna Live In London
 ———————————————————————————————————————————————————————————————
 The Architect
-Release(s): Affinity, L-1VE, L-1VE
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 The Architect
 Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 The Endless Knot
-Release(s): Affinity, L-1VE, L-1VE
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 The Endless Knot
 Release(s): Affinity
@@ -262,5 +265,5 @@ Veil
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Visions
-Release(s): Visions, L-1VE, L-1VE
+Release(s): Visions, L-1VE
 ———————————————————————————————————————————————————————————————

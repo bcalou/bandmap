@@ -1,7 +1,6 @@
 import { BandMap } from "./classes/BandMap";
-import { refs } from "./refs";
 
-function testArtist(artist: { id: number; expectedIdList: string }) {
+function testArtist(artist: { id: number; expectedIdList?: string }) {
   new BandMap(artist.id, artist.expectedIdList).init();
 }
 
@@ -17,7 +16,7 @@ function testArtist(artist: { id: number; expectedIdList: string }) {
 // ELO
 // new BandMap(112154).init();
 
-testArtist(refs.HAKEN);
+testArtist({ id: 303573 });
 
 // const artistsBase = [
 //   refs.BLACK_COUNTRY_NEW_ROAD,

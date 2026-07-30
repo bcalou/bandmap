@@ -199,24 +199,20 @@
 ———————————————————————————————————————————————————————————————
 🎼 TransAtlantic: 96 release(s) found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/101512
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/439703
 💿 2000-04-10 - TransAtlantic - "SMPTe"
-https://www.discogs.com/master/101512
+https://www.discogs.com/release/439703-TransAtlantic-2-SMPTe
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/3138650
-💿 Format(s): CD, Compilation, Limited Edition, Promo, Stereo
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2001 - TransAtlantic (2) - "Bridge Across Europe Tour 2001"
-(https://www.discogs.com/release/3138650)
-Rejected format(s): CD, Compilation, Limited Edition, Promo, Stereo
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/101514
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/859967
 💿 2001-10-09 - TransAtlantic - "Bridge Across Forever"
-https://www.discogs.com/master/101514
+https://www.discogs.com/release/859967-TransAtlantic-2-Bridge-Across-Forever
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/519022
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/6608953
 🗓️ Imprecise date (2001) for "Live In America"
 🗃️ Looking at alternate version(s) from 2001
 🗃️ Analyzing version https://www.discogs.com/release/5770614
@@ -229,150 +225,118 @@ Analyzing release https://www.discogs.com/master/519022
 🗓️ Release date: 2001
 🗓️ No better date found
 💿 2001 - TransAtlantic - "Live In America"
-https://www.discogs.com/master/519022
+https://www.discogs.com/release/6608953-TransAtlantic-2-Live-In-America
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4298218
-💿 Format(s): VHS
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2002 - Transatlantic (2) - "Building The Bridge (The Making Of Bridge Across Forever)"
-(https://www.discogs.com/release/4298218)
-Rejected format(s): VHS
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1004236
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/3139208
 🗓️ Imprecise date (2003) for "Archive Series: SMPT:e As Mixed By Roine Stolt 1999"
 🗃️ Looking at alternate version(s) from 2003
 🗓️ No better date found
 💿 2003 - Transatlantic - "Archive Series: SMPT:e As Mixed By Roine Stolt 1999"
-https://www.discogs.com/master/1004236
+https://www.discogs.com/release/3139208-Transatlantic-2-Archive-Series-SMPTe-As-Mixed-By-Roine-Stolt-1999
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/491054
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/4036775
 💿 2003-11-04 - TransAtlantic - "Live In Europe"
-https://www.discogs.com/master/491054
+https://www.discogs.com/release/4036775-TransAtlantic-2-Live-In-Europe
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/910265
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Remastered
+Analyzing release https://www.discogs.com/release/3770426
 🗃️ Looking at alternate version(s) from 2006
-🗃️ Analyzing main formats of version https://www.discogs.com/release/7694323
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/10329340
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation, Unofficial Release, Stereo}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/19097587
+🗃️ Analyzing version https://www.discogs.com/release/7694323
+🗃️ Analyzing version https://www.discogs.com/release/10329340
 🗃️ Analyzing version https://www.discogs.com/release/19097587
-💿 Format(s): DVD, DVD-Video, NTSC, Compilation
 ❌ 2006 - Transatlantic (2) - "Building The Bridge & Live In America"
 (https://www.discogs.com/master/910265)
-Rejected format(s): DVD, DVD-Video, NTSC, Compilation, Remastered
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/372900
-💿 Format(s): File, AAC, Album
+Analyzing release https://www.discogs.com/release/12042053
 🗃️ Looking at alternate version(s) from 2009
-🗃️ Analyzing main formats of version https://www.discogs.com/release/9400103
-💿 Format(s): CD, Album, Special Edition, Unofficial Release}
-🗃️ Analyzing main formats of version https://www.discogs.com/release/3139299
+🗃️ Analyzing version https://www.discogs.com/release/9400103
 🗃️ Analyzing version https://www.discogs.com/release/3139299
-💿 Format(s): Box Set, Deluxe Edition, CD, Album, Special Edition, DVD, DVD-Video
 💿 2009-10-27 - TransAtlantic - "The Whirlwind"
-https://www.discogs.com/master/372900
+https://www.discogs.com/release/3139299-TransAtlantic-2-The-Whirlwind
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4298103
-💿 Format(s): DVD, DVD-Video
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - TransAtlantic (2) - "The Official Bootleg DVD"
-(https://www.discogs.com/release/4298103)
-Rejected format(s): DVD, DVD-Video
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/487232
-💿 Format(s): All Media, Deluxe Edition, DVD, DVD-Video, Multichannel, CD, Album
+Analyzing release https://www.discogs.com/release/3336560
 🗓️ Imprecise date (2010) for "Whirld Tour 2010 (Live From Shepherd's Bush Empire, London)"
 🗃️ Looking at alternate version(s) from 2010
 🗃️ Analyzing version https://www.discogs.com/release/4527386
 🗓️ Release date: 2010-11-08
 Found better release date: 2010-11-08
 💿 2010-11-08 - Transatlantic - "Whirld Tour 2010 (Live From Shepherd's Bush Empire, London)"
-https://www.discogs.com/master/487232
+https://www.discogs.com/release/3336560-Transatlantic-2-Whirld-Tour-2010-Live-From-Shepherds-Bush-Empire-London
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/518068
-💿 Format(s): CD, Album, DVD, DVD-Video, All Media
+Analyzing release https://www.discogs.com/release/3235346
 💿 2011-09-00 - Transatlantic - "More Never Is Enough - Live @ Manchester And Tilburg 2010"
-https://www.discogs.com/master/518068
+https://www.discogs.com/release/3235346-Transatlantic-2-More-Never-Is-Enough-Live-Manchester-And-Tilburg-2010
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/647052
-💿 Format(s): CD, Album
+Analyzing release https://www.discogs.com/release/9478524
 💿 2014-01-27 - TransAtlantic - "Kaleidoscope"
-https://www.discogs.com/master/647052
+https://www.discogs.com/release/9478524-TransAtlantic-2-Kaleidoscope
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/752911
-💿 Format(s): CD, Album, DVD, DVD-Video, All Media, Limited Edition
+Analyzing release https://www.discogs.com/release/6325493
 🗃️ Looking at alternate version(s) from 2014
-🗃️ Analyzing main formats of version https://www.discogs.com/release/6870348
 🗃️ Analyzing version https://www.discogs.com/release/6870348
-💿 Format(s): CD, Album, DVD, DVD-Video, All Media, Special Edition
 🗓️ Imprecise date (2014) for "KaLIVEoscope"
 🗃️ Looking at alternate version(s) from 2014
 🗃️ Analyzing version https://www.discogs.com/release/6788572
 🗓️ Release date: 2014-10-27
 Found better release date: 2014-10-27
 💿 2014-10-27 - TransAtlantic - "KaLIVEoscope"
-https://www.discogs.com/master/752911
+https://www.discogs.com/release/6870348-TransAtlantic-2-KaLIVEoscope
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/17246953
-💿 Format(s): File, MP3, File, MPEG-4 Video, File, MPEG Video
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2020 - TransAtlantic (2) - "Live At Sweden Rock 2014 & Live At Wetlands Preserve – NYC 2000"
-(https://www.discogs.com/release/17246953)
-Rejected format(s): File, MP3, File, MPEG-4 Video, File, MPEG Video
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/17230804
-💿 Format(s): Box Set, Compilation, Limited Edition, Vinyl, LP, Album, Vinyl, LP, Album, CD, Album, Stereo, CD, Album, Stereo, Blu-ray, Album, Stereo, Multichannel
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Transatlantic (2) - "The Absolute Universe: The Ultimate Edition"
-(https://www.discogs.com/release/17230804)
-Rejected format(s): Box Set, Compilation, Limited Edition, Vinyl, LP, Album, Vinyl, LP, Album, CD, Album, Stereo, CD, Album, Stereo, Blu-ray, Album, Stereo, Multichannel
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/17263564
-💿 Format(s): Blu-ray, Album, Limited Edition, Stereo, Multichannel
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Transatlantic (2) - "The Absolute Universe - 5.1 Mix (The Ultimate Version)"
-(https://www.discogs.com/release/17263564)
-Rejected format(s): Blu-ray, Album, Limited Edition, Stereo, Multichannel
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/17965318
-💿 Format(s): File, MPEG-4 Video, File, MPEG Video
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - TransAtlantic (2) - "The Absolute Universe - The Making Of Breath Of Life (Abridged Version)"
-(https://www.discogs.com/release/17965318)
-Rejected format(s): File, MPEG-4 Video, File, MPEG Video
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1949602
-💿 Format(s): CD, Album, Special Edition, Stereo
+Analyzing release https://www.discogs.com/release/17173141
 💿 2021-02-05 - Transatlantic - "The Absolute Universe - The Breath Of Life (Abridged Version)"
-https://www.discogs.com/master/1949602
+https://www.discogs.com/release/17173141-Transatlantic-2-The-Absolute-Universe-The-Breath-Of-Life-Abridged-Version
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1954813
-💿 Format(s): CD, Album, Special Edition, Stereo
+Analyzing release https://www.discogs.com/release/17173297
 💿 2021-02-05 - Transatlantic - "The Absolute Universe - Forevermore (Extended Version)"
-https://www.discogs.com/master/1954813
+https://www.discogs.com/release/17173297-Transatlantic-2-The-Absolute-Universe-Forevermore-Extended-Version
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/2979490
-💿 Format(s): CD, Album, Stereo, Blu-ray, Stereo, Multichannel, All Media, Limited Edition
+Analyzing release https://www.discogs.com/release/25784947
 🗃️ Looking at alternate version(s) from 2023
-🗃️ Analyzing main formats of version https://www.discogs.com/release/26140280
 🗃️ Analyzing version https://www.discogs.com/release/26140280
-💿 Format(s): CD, Album, Stereo, Blu-ray, Stereo, Multichannel
 💿 2023-02-17 - Transatlantic - "The Final Flight: Live At L'Olympia"
-https://www.discogs.com/master/2979490
+https://www.discogs.com/release/26140280-Transatlantic-2-The-Final-Flight-Live-At-LOlympia
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/3551352
-💿 Format(s): CD, Stereo, Blu-ray, Stereo, All Media, Limited Edition
+Analyzing release https://www.discogs.com/release/30295532
 🗃️ Looking at alternate version(s) from 2024
-🗃️ Analyzing main formats of version https://www.discogs.com/release/31299212
 🗃️ Analyzing version https://www.discogs.com/release/31299212
-💿 Format(s): Blu-ray, Stereo
 ❌ 2024 - TransAtlantic (2) - "Morsefest 2022 (The Absolute Whirlwind)"
 (https://www.discogs.com/master/3551352)
-Rejected format(s): CD, Stereo, Blu-ray, Stereo, All Media, Limited Edition
+No valid version found
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/18831895
-💿 Format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, DVD, DVD-Video, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, DVD, DVD-Video, Reissue, Box Set, Compilation
+Analyzing release https://www.discogs.com/release/undefined
 ❌ unknown date - TransAtlantic (2) - "Studio & Live Albums (2000-2014)"
-(https://www.discogs.com/release/18831895)
-Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, DVD, DVD-Video, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, DVD, DVD-Video, Reissue, Box Set, Compilation
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 ↷ "2001 - TransAtlantic (2) - "Bridge Across Forever"
 (https://www.discogs.com/master/101514)" (skipping, already accepted)
@@ -384,9 +348,9 @@ Rejected format(s): CD, Album, Reissue, CD, Album, Reissue, CD, Album, Reissue, 
 (https://www.discogs.com/master/1954813)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "2001 - TransAtlantic (2) - "Bridge Across Europe Tour 2001"
-(https://www.discogs.com/release/3138650)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/645572
+Analyzing release https://www.discogs.com/release/2798306
 ❌ 2009 - Neal Morse - "So Many Roads"
 (https://www.discogs.com/master/645572)
 Rejected artist(s): Neal Morse
@@ -400,19 +364,19 @@ Rejected artist(s): Neal Morse
 ↷ "2011 - Transatlantic (2) - "More Never Is Enough - Live @ Manchester And Tilburg 2010"
 (https://www.discogs.com/master/518068)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5218366
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Classic Rock Compilation Volume 27 "
-(https://www.discogs.com/release/5218366)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5296161
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "P20: Elephant Talk"
-(https://www.discogs.com/release/5296161)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5352068
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "Lauschangriff Volume 025"
-(https://www.discogs.com/release/5352068)
+(https://www.discogs.com/release/undefined)
 Rejected artist(s): Various
 ———————————————————————————————————————————————————————————————
 ↷ "2014 - TransAtlantic (2) - "Kaleidoscope"
@@ -424,207 +388,207 @@ Rejected artist(s): Various
 ↷ "2021 - Transatlantic (2) - "The Absolute Universe - Forevermore (Extended Version)"
 (https://www.discogs.com/master/1954813)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/1088090
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2000 - Various - "The Art Of Sysyphus Volume 2"
-(https://www.discogs.com/release/1088090)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/6080761
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2000 - Various - "Classic Cuts No. 10 - Where Legends Live"
-(https://www.discogs.com/release/6080761)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/9961705
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2000 - Various - "Progfest 2000 Sampler"
-(https://www.discogs.com/release/9961705)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/12113643
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2000 - Various - "Progressive Springtime 2000"
-(https://www.discogs.com/release/12113643)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/master/1655437
+Analyzing release https://www.discogs.com/release/12396268
 ❌ 2000 - Various - "Compilation Promo"
 (https://www.discogs.com/master/1655437)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/7346956
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2001 - Various - "The Art Of Sysyphus Vol. 9"
-(https://www.discogs.com/release/7346956)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/8972086
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2001 - Various - "Knuckletracks XXXVII"
-(https://www.discogs.com/release/8972086)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/10252120
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2001 - Various - "Compilation Promo n° 10"
-(https://www.discogs.com/release/10252120)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2675764
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2002 - Various - "AWOL A Marillion Solo Projects Sampler"
-(https://www.discogs.com/release/2675764)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/1127517
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2003 - Various - "Progressive Time 2003"
-(https://www.discogs.com/release/1127517)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/745556
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2005 - Various - "Music In Progress 1 (Progressive Rock & More)"
-(https://www.discogs.com/release/745556)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/7325928
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2006 - Various - "Metal Ballads Forever"
-(https://www.discogs.com/release/7325928)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/3537827
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2007 - Neal Morse - "Sing It High - A Collection Of Singles"
-(https://www.discogs.com/release/3537827)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/1990857
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "The Art Of Sysyphus Vol. 51"
-(https://www.discogs.com/release/1990857)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2145631
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In Oct. 2009) "
-(https://www.discogs.com/release/2145631)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2158014
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "Classic Rock Presents PROG: Prognosis 5"
-(https://www.discogs.com/release/2158014)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/7845486
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Various - "Le Sampler RockHard #93"
-(https://www.discogs.com/release/7845486)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2607588
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Kronjuwelen #05"
-(https://www.discogs.com/release/2607588)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/3811490
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Metal Hammer 1/2010"
-(https://www.discogs.com/release/3811490)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5253887
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In November 2010)"
-(https://www.discogs.com/release/5253887)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/13356208
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - Various - "Progressive Rock Anthems"
-(https://www.discogs.com/release/13356208)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/3163841
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "Classic Rock Presents PROG: Prog Rocks!"
-(https://www.discogs.com/release/3163841)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/14828310
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2011 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In Oct/Early Novl 2011)"
-(https://www.discogs.com/release/14828310)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/3997083
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2012 - Various - "Prog Rocks! Volume Two"
-(https://www.discogs.com/release/3997083)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/27027276
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2012 - Neal Morse - "Sing It High: Song Book"
-(https://www.discogs.com/release/27027276)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4545267
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Rock (Die CD: Großartige Cover-Versionen Zum Buch)"
-(https://www.discogs.com/release/4545267)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2013 - Various - "Classic Rock Compilation Volume 27 "
-(https://www.discogs.com/release/5218366)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5325329
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Various - "Le Sampler RockHard 138"
-(https://www.discogs.com/release/5325329)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2014 - Various - "P20: Elephant Talk"
-(https://www.discogs.com/release/5296161)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5315236
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "The Art Of Sysyphus Vol. 75"
-(https://www.discogs.com/release/5315236)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2014 - Various - "Lauschangriff Volume 025"
-(https://www.discogs.com/release/5352068)" (skipping, already rejected)
+(https://www.discogs.com/release/undefined)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5484195
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - " Empire Art Rock 104"
-(https://www.discogs.com/release/5484195)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/5975328
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In January / Early February 2014)"
-(https://www.discogs.com/release/5975328)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/14397982
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - Various - "New Release Highlights (Thrilling Albums Out On Century Media Records In October/Early November 2014)"
-(https://www.discogs.com/release/14397982)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/11919417
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2018 - Various - "Prog-Perlen"
-(https://www.discogs.com/release/11919417)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/17002353
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Various - "The Art Of Sysyphus 112"
-(https://www.discogs.com/release/17002353)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/27549942
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - Mike Portnoy - "The Absolute Universe"
-(https://www.discogs.com/release/27549942)
+(https://www.discogs.com/release/undefined)
 Rejected release role: TrackAppearance
 ———————————————————————————————————————————————————————————————
 ↷ "2000 - TransAtlantic (2) - "SMPTe"
 (https://www.discogs.com/master/101512)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2276565
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2001 - TransAtlantic (2) - "Mike's Silver Hammer"
-(https://www.discogs.com/release/2276565)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2001 - TransAtlantic (2) - "Bridge Across Forever"
 (https://www.discogs.com/master/101514)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/2746640
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2002 - Dream Theater - "Beyond Reality"
-(https://www.discogs.com/release/2746640)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2003 - TransAtlantic (2) - "Live In Europe"
 (https://www.discogs.com/master/491054)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/8271318
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2004 - TransAtlantic (2) - "SMPTe / Bridge Across Forever"
-(https://www.discogs.com/release/8271318)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2006 - Transatlantic (2) - "Building The Bridge & Live In America"
@@ -633,58 +597,58 @@ Rejected release role: UnofficialRelease
 ↷ "2009 - Transatlantic (2) - "The Whirlwind"
 (https://www.discogs.com/master/372900)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/4471848
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2010 - TransAtlantic (2) - "Whirlwind In Barcelona"
-(https://www.discogs.com/release/4471848)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2010 - Transatlantic (2) - "Whirld Tour 2010 (Live From Shepherd's Bush Empire, London)"
 (https://www.discogs.com/master/487232)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/9743992
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - Neal Morse Band With Mike Portnoy, The Flower Kings, TransAtlantic (2) - "Barcelona 2013 (Prog Rock Royalty Double Bill Of 2013)"
-(https://www.discogs.com/release/9743992)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/8123907
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2014 - TransAtlantic (2) - "Barcelona Is On Fire"
-(https://www.discogs.com/release/8123907)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2014 - TransAtlantic (2) - "Kaleidoscope"
 (https://www.discogs.com/master/647052)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/26417285
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - TransAtlantic (2) - "Above The Clouds"
-(https://www.discogs.com/release/26417285)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/26417348
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2021 - TransAtlantic (2) - "Bridge Across Munich"
-(https://www.discogs.com/release/26417348)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "2021 - Transatlantic (2) - "The Absolute Universe - Forevermore (Extended Version)"
 (https://www.discogs.com/master/1954813)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/23155154
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - TransAtlantic (2) - "Light Of The Universe"
-(https://www.discogs.com/release/23155154)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/27961764
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2023 - TransAtlantic (2) - "Above The Clouds"
-(https://www.discogs.com/release/27961764)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/31052324
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2024 - TransAtlantic (2) - "Bridge Across Munich"
-(https://www.discogs.com/release/31052324)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
-Analyzing release https://www.discogs.com/release/36180655
+Analyzing release https://www.discogs.com/release/undefined
 ❌ 2026 - TransAtlantic (2) - "The Space Whirlwind"
-(https://www.discogs.com/release/36180655)
+(https://www.discogs.com/release/undefined)
 Rejected release role: UnofficialRelease
 ———————————————————————————————————————————————————————————————
 ↷ "unknown date - TransAtlantic (2) - "Archive Series: SMPT:e As Mixed By Roine Stolt 1999"

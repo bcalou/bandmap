@@ -1,102 +1,106 @@
-25 rejected release(s):
+26 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 2004 - The Dear Hunter - "Dear Ms. Leading"
-(https://www.discogs.com/release/2229811)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - The Dear Hunter - "Random EP #1"
-(https://www.discogs.com/release/5913707)
-(Rejected format(s): CDr, EP, Limited Edition)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - The Dear Hunter - "Random EP #2"
-(https://www.discogs.com/release/7417928)
-(Rejected format(s): CDr, EP, Limited Edition)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2008 - Various - "Soundwave 2008"
-(https://www.discogs.com/release/12208614)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2010 - The Dear Hunter - "The Branches EP"
-(https://www.discogs.com/release/28175119)
-(Rejected format(s): File, MP3, EP)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
-❌ 2010-06-29 - The Dear Hunter - "Act I: The Lake South, The River North & Act II: The Meaning Of, And All Things Regarding Ms. Leading (Compilation)"
-(https://www.discogs.com/release/2281743-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Act-II-The-Meaning-Of-And-All-Things-Regarding-Ms-Le)
+❌ 2010-06-29 - The Dear Hunter - "Act I: The Lake South, The River North & Act II: The Meaning Of, And All Things Regarding Ms. Leading" (Compilation)
+https://www.discogs.com/release/2281743-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Act-II-The-Meaning-Of-And-All-Things-Regarding-Ms-Le
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2011 - The Dear Hunter - "Daytrotter Studio  11-3-2011"
-(https://www.discogs.com/release/24140507)
-(Rejected format(s): File, MP3)
-———————————————————————————————————————————————————————————————
-❌ 2011-06-14 - The Dear Hunter - "The Color Spectrum (Unknown)"
-(https://www.discogs.com/release/3067005-The-Dear-Hunter-The-Color-Spectrum)
-(No new tracks)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Various - "Promo Only Modern Rock Radio: February 2012"
-(https://www.discogs.com/release/19538188)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - The Dear Hunter - "One Night Only - The Dear Hunter Presents The Color Spectrum Live"
-(https://www.discogs.com/release/5115756)
-(Rejected format(s): DVD, DVD-Video)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - The Dear Hunter - "Daytrotter Studio  5-2-2013"
-(https://www.discogs.com/release/24140468)
-(Rejected format(s): File, MP3)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Various - "Songs For Justice"
-(https://www.discogs.com/release/5534284)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Various - "New Sounds 2013 Vol. 1"
-(https://www.discogs.com/release/6211150)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2013 - Various - "BMG Chrysalis Sampler - April 2013 "
-(https://www.discogs.com/release/20448082)
+(https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 2015 - The Dear Hunter - "Wait"
-(https://www.discogs.com/release/11096094)
-(Rejected format(s): CD, Single, Promo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
-❌ 2015-03-03 - The Dear Hunter - "Live (Unknown)"
-(https://www.discogs.com/release/9182986-The-Dear-Hunter-Live)
+❌ 2015-03-03 - The Dear Hunter - "Live" (Unknown)
+https://www.discogs.com/release/9182986-The-Dear-Hunter-Live
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - The Dear Hunter - "Gloria"
-(https://www.discogs.com/release/11753584)
-(Rejected format(s): CDr, Single, Promo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - The Dear Hunter - "Hymns With The Devil In Confessional"
-(https://www.discogs.com/release/32321916)
-(Rejected format(s): Flexi-disc, Promo)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
+———————————————————————————————————————————————————————————————
+❌ 2016-09-09 - The Dear Hunter - "The Matchstick Demos" (EP)
+https://www.discogs.com/release/10739670-The-Dear-Hunter-The-Matchstick-Demos
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2017 - The Dear Hunter - "Act I, II & III"
-(https://www.discogs.com/release/10494541)
-(Rejected format(s): CD, Album, Compilation, Reissue)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
+———————————————————————————————————————————————————————————————
+❌ 2018 - Between The Buried And Me / The Dear Hunter - "The Tank / Rapid Calm"
+(https://www.discogs.com/master/1364343)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2019 - The Dear Hunter, Casey Crescenzo & Brian Adam McCune With The Awesöme Orchestra* - "The Acts"
-(https://www.discogs.com/release/14573279)
-(Rejected format(s): Box Set, Compilation, Limited Edition, Stereo, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, LP, Album, Vinyl, 12", 45 RPM, Album)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
-❌ 2023-09-00 - The Dear Hunter - "Act I: The Lake South, The River North (Live From Seattle, WA) (Unknown)"
-(https://www.discogs.com/release/28393675-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Live-From-Seattle-WA)
+❌ 2023 - The Dear Hunter - "Migrant Returned"
+(https://www.discogs.com/master/3265207)
+(No valid version found)
+———————————————————————————————————————————————————————————————
+❌ 2023-09-00 - The Dear Hunter - "Act I: The Lake South, The River North (Live From Seattle, WA)" (Unknown)
+https://www.discogs.com/release/28393675-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Live-From-Seattle-WA
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 2023-10-06 - The Dear Hunter - "Migrant Returned (Unknown)"
-(https://www.discogs.com/release/28505611-The-Dear-Hunter-Migrant-Returned)
-(No new tracks)
-———————————————————————————————————————————————————————————————
-❌ 2024-05-00 - The Dear Hunter - "Act II: The Meaning Of, & All Things Regarding Ms. Leading (Live From Seattle, WA) (Unknown)"
-(https://www.discogs.com/release/30616921-The-Dear-Hunter-Act-II-The-Meaning-Of-All-Things-Regarding-Ms-Leading-Live-From-Seattle-WA)
-(No new tracks)
+❌ 2024 - The Dear Hunter - "Act II: The Meaning Of, & All Things Regarding Ms. Leading (Live From Seattle, WA)"
+(https://www.discogs.com/master/3516703)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - The Dear Hunter - "North American Tour 2023"
-(https://www.discogs.com/release/35057342)
-(Rejected format(s): Blu-ray)
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2025 - The Dear Hunter - "Ring 7 (8-bit Version)"
 (https://www.discogs.com/master/3821481)
-(Rejected format(s): Flexi-disc, 7")
+(No valid version found)
 ———————————————————————————————————————————————————————————————

@@ -62,7 +62,11 @@ export class ArtistRelease {
   get url() {
     return this.type === "master"
       ? `${DISCOGS_MASTER_URL}${this.id}`
-      : `${DISCOGS_RELEASE_URL}${this.id}`;
+      : this.releaseUrl;
+  }
+
+  get releaseUrl() {
+    return `${DISCOGS_RELEASE_URL}${this.mainRelease}`;
   }
 
   get type() {
@@ -90,7 +94,7 @@ export class ArtistRelease {
 
   // Return the matching release object if it's considered acceptable
   private async getCandidateRelease(): Promise<Release | RejectReason> {
-    this.logger.log(`Analyzing release ${this.url}`);
+    this.logger.log(`Analyzing release ${this.releaseUrl}`);
 
     return (
       this.heuristicRejectRole() ??

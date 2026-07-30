@@ -1,6 +1,7 @@
 import { IGNORE_TITLE_ENDINGS } from "../env";
 import { DCTrack } from "../types";
 import { normalize } from "../utils";
+import { Logger } from "./Logger";
 import { Release } from "./Release";
 
 /**
@@ -10,8 +11,12 @@ export class Tracklist {
   // The associated release
   private release: Release;
 
+  // The logger utils
+  private logger: Logger;
+
   constructor(release: Release) {
     this.release = release;
+    this.logger = new Logger();
   }
 
   get tracklist() {
@@ -20,26 +25,31 @@ export class Tracklist {
 
   // Get the list of tracks for the given release
   public getValidTracks(): DCTrack[] {
-    return this.tracklist.filter(
-      (track, index) =>
-        !["DVD", "BR"].find((prefix) => track.position.startsWith(prefix)) &&
-        !track.position.charAt(-1).match(/[a-z]/i) &&
-        this.isValidTrackType(track, index) &&
-        // Ignore track not written by the artist
-        (this.release.artists.length === 1 ||
-          [...(track.artists ?? []), ...(track.extraartists ?? [])]?.find(
-            (artist) =>
-              this.release.mainBand.id === artist.id ||
-              this.release.mainBand.members.find(
-                (member) => member.id === artist.id
-              )
-          )) &&
-        // Ignore track containing an equal (translation title)
-        track.title.indexOf(" = ") === -1 &&
-        // Ignore specific title ending such as "edit" or "version"
-        !IGNORE_TITLE_ENDINGS.find((ending) =>
-          normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
-        )
+    return this.tracklist.filter((track, index) => {
+      return this.isValidTrack(track, index);
+    });
+  }
+
+  // Should the given track considered as a main track of the release?
+  private isValidTrack(track: DCTrack, index: number): boolean {
+    return (
+      this.isValidTrackPosition(track) &&
+      this.isValidTrackType(track, index) &&
+      // Ignore track not written by the artist
+      (this.release.artists.length === 1 ||
+        !![...(track.artists ?? []), ...(track.extraartists ?? [])]?.find(
+          (artist) =>
+            this.release.mainBand.id === artist.id ||
+            this.release.mainBand.members.find(
+              (member) => member.id === artist.id,
+            ),
+        )) &&
+      // Ignore track containing an equal (translation title)
+      track.title.indexOf(" = ") === -1 &&
+      // Ignore specific title ending such as "edit" or "version"
+      !IGNORE_TITLE_ENDINGS.find((ending) =>
+        normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase()),
+      )
     );
   }
 
@@ -47,9 +57,20 @@ export class Tracklist {
   private isValidTrackType(track: DCTrack, index: number): boolean {
     return (
       track.type_ === "track" ||
-      track.type_ === "index" ||
-      (track.type_ === "heading" &&
-        !!this.tracklist[index + 1].position.charAt(-1).match(/[a-z]/i))
+      (track.type_ === "index" &&
+        this.tracklist[index + 1] &&
+        this.isValidTrack(this.tracklist[index + 1], index + 1))
+    );
+  }
+
+  private isValidTrackPosition(track: DCTrack): boolean {
+    return (
+      // Exclude DVD-1, BR-1...
+      !["DVD", "BD", "BR"].find((prefix) =>
+        track.position.startsWith(prefix),
+      ) &&
+      // Exclude 1A, 1B...
+      !track.position.charAt(-1).match(/[a-z]/i)
     );
   }
 }

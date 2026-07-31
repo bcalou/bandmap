@@ -1,6 +1,6 @@
 import { DateQuality } from "./classes/ReleaseDate";
 
-export const OPTION_CACHE_BUSTER: string[] = ["release_27056589"];
+export const OPTION_CACHE_BUSTER: string[] = ["release_9182986"];
 export const OPTION_INCLUDE_CONNECTED_RELEASES = false;
 export const OPTION_TITLE_SIMILARITY_THRESHOLD = 0.66;
 export const OPTION_DATE_QUALITY = DateQuality.MonthOnly;

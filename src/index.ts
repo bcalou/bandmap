@@ -16,7 +16,7 @@ function testArtist(artist: { id: number; expectedIdList?: string }) {
 // ELO
 // new BandMap(112154).init();
 
-testArtist({ id: 303573 });
+testArtist({ id: 1092029 });
 
 // const artistsBase = [
 //   refs.BLACK_COUNTRY_NEW_ROAD,

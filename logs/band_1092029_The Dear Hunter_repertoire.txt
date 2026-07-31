@@ -1,4 +1,4 @@
-148 track(s):
+144 track(s):
 ———————————————————————————————————————————————————————————————
 1878
 Release(s): Act I: The Lake South, The River North
@@ -28,8 +28,8 @@ At The End Of The Earth
 Release(s): Act IV: Rebirth In Reprise
 ———————————————————————————————————————————————————————————————
 Battesimo Del Fuoco
-Variation(s): The Love (Live) , Middle Ground (Live) , Like Crazy (Live) , Coming Up Next (Quack) 
-Release(s): Act I: The Lake South, The River North, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack
+Variation(s): The Love (Live) , Middle Ground (Live) , Like Crazy (Live) , Coming Up Next (Quack) , Magic Beans, Four Amigos, Shlammin’ Salmon, Classic Wrock
+Release(s): Act I: The Lake South, The River North, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack, North American Tour 2023 - Soundtrack, North American EP, North American EP, North American EP, North American EP
 ———————————————————————————————————————————————————————————————
 Beyond The Pale
 Release(s): All Is As All Should Be
@@ -52,23 +52,19 @@ Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading, Act V: H
 ———————————————————————————————————————————————————————————————
 Bring You Down
 Variation(s): Ring 8 - Poverty, Ring 7 - Industry, Ring 6 - LoTown, Ring 5 - Middle Class, Ring 4 - Patrol, Ring 3 - Luxury, Ring 2 - Nature, Ring 1 - Tower, Patrol/The Retrieval Guide
-Release(s): Migrant, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, The Indigo Child
+Release(s): Migrant, Live, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, Antimai, The Indigo Child
 ———————————————————————————————————————————————————————————————
 Burritokyo
 Release(s): North American EP
 ———————————————————————————————————————————————————————————————
-But There's Wolves?
-Variation(s): But There's Wolves
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+But There's Wolves
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Cascade
 Release(s): Act V: Hymns With The Devil In Confessional
 ———————————————————————————————————————————————————————————————
 City Escape
 Release(s): Act I: The Lake South, The River North
-———————————————————————————————————————————————————————————————
-Classic Wrock
-Release(s): North American EP
 ———————————————————————————————————————————————————————————————
 Credits
 Release(s): The Indigo Child
@@ -83,7 +79,7 @@ Dear Ms. Leading
 Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading
 ———————————————————————————————————————————————————————————————
 Deny It All
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Dig Your Own Grave
 Release(s): The Migrations Annex
@@ -98,19 +94,16 @@ Evicted
 Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading
 ———————————————————————————————————————————————————————————————
 Fall And Flee
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Father
 Release(s): Act III: Life And Death
 ———————————————————————————————————————————————————————————————
 Filth And Squalor
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
-———————————————————————————————————————————————————————————————
-Four Amigos
-Release(s): North American EP
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Girl
-Release(s): Migrant
+Release(s): Migrant, Live
 ———————————————————————————————————————————————————————————————
 Gleeb is Here
 Release(s): North American Tour 2023 - Soundtrack
@@ -137,7 +130,7 @@ His Hands Matched His Tongue
 Release(s): Act I: The Lake South, The River North
 ———————————————————————————————————————————————————————————————
 Home
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): Live, The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 I Couldn't Do It Alone
 Release(s): The Color Spectrum Complete Collection
@@ -174,16 +167,13 @@ Like Crazy
 Release(s): The Migrations Annex
 ———————————————————————————————————————————————————————————————
 Lillian
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Look Away
 Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Lost But Not All Gone
 Release(s): The Color Spectrum Complete Collection
-———————————————————————————————————————————————————————————————
-Magic Beans
-Release(s): North American EP
 ———————————————————————————————————————————————————————————————
 Mandala
 Release(s): The Color Spectrum Complete Collection
@@ -207,7 +197,7 @@ Mr. Usher (On His Way To Town)
 Release(s): Act V: Hymns With The Devil In Confessional
 ———————————————————————————————————————————————————————————————
 Mustard Gas
-Release(s): Act III: Life And Death
+Release(s): Act III: Life And Death, Live
 ———————————————————————————————————————————————————————————————
 Never Forgive, Never Forget
 Release(s): The Color Spectrum Complete Collection
@@ -224,15 +214,15 @@ Release(s): Act IV: Rebirth In Reprise
 Owls
 Release(s): The Migrations Annex
 ———————————————————————————————————————————————————————————————
+Progress
+Variation(s): Regress
+Release(s): Live, Act V: Hymns With The Devil In Confessional, The Color Spectrum Complete Collection
+———————————————————————————————————————————————————————————————
 Rebirth
 Release(s): Act IV: Rebirth In Reprise
 ———————————————————————————————————————————————————————————————
 Red Hands
 Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading
-———————————————————————————————————————————————————————————————
-Regress
-Variation(s): Progress
-Release(s): Act V: Hymns With The Devil In Confessional, The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Remembered
 Release(s): Act IV: Rebirth In Reprise
@@ -242,13 +232,10 @@ Release(s): Act III: Life And Death
 ———————————————————————————————————————————————————————————————
 Shame
 Variation(s): Shake Me (Awake)
-Release(s): Migrant, All Is As All Should Be
+Release(s): Migrant, Live, All Is As All Should Be
 ———————————————————————————————————————————————————————————————
 She's Always Singing
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
-———————————————————————————————————————————————————————————————
-Shlammin’ Salmon
-Release(s): North American EP
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Shouting At The Rain
 Release(s): Migrant
@@ -369,7 +356,7 @@ The Poison Woman
 Release(s): Act III: Life And Death
 ———————————————————————————————————————————————————————————————
 The Procession
-Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading
+Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading, Live
 ———————————————————————————————————————————————————————————————
 The Revival
 Release(s): Act V: Hymns With The Devil In Confessional
@@ -387,13 +374,13 @@ The Tank
 Release(s): Act III: Life And Death
 ———————————————————————————————————————————————————————————————
 The Thief
-Release(s): Act III: Life And Death
+Release(s): Act III: Life And Death, Live
 ———————————————————————————————————————————————————————————————
 The Wasteland
 Release(s): Sunya
 ———————————————————————————————————————————————————————————————
 Things That Hide Away
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): Live, The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 This Beautiful Lie
 Release(s): Act III: Life And Death
@@ -414,7 +401,7 @@ Tour
 Release(s): North American Tour 2023 - Soundtrack
 ———————————————————————————————————————————————————————————————
 Trapdoor
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Tripping In Triplets
 Release(s): The Color Spectrum Complete Collection
@@ -438,13 +425,14 @@ What It Means To Be Alone
 Release(s): Act III: Life And Death
 ———————————————————————————————————————————————————————————————
 What Time Taught Us
-Release(s): The Color Spectrum, The Color Spectrum Complete Collection
+Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 What You Said
 Release(s): The Color Spectrum Complete Collection
 ———————————————————————————————————————————————————————————————
 Where The Road Parts
-Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading
+Variation(s): Where the Road Parts
+Release(s): Act II: The Meaning Of, & All Things Regarding Ms. Leading, Live
 ———————————————————————————————————————————————————————————————
 Whisper
 Release(s): Migrant

@@ -142,7 +142,7 @@ Analyzing release https://www.discogs.com/release/4447215
 https://www.discogs.com/release/4447215-The-Dear-Hunter-Migrant
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 2015-03-03 - The Dear Hunter - "Live" (Unknown)
+💿 2015-03-03 - The Dear Hunter - "Live"
 https://www.discogs.com/release/9182986-The-Dear-Hunter-Live
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
@@ -312,21 +312,7 @@ Found better release date: 2021-10-22
 https://www.discogs.com/release/2281743-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Act-II-The-Meaning-Of-And-All-Things-Regarding-Ms-Le
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 10 unregistered track(s):
-🎵 Filth And Squalor
-🎵 Deny It All
-🎵 But There's Wolves?
-🎵 She's Always Singing
-🎵 Things That Hide Away
-🎵 Trapdoor
-🎵 What Time Taught Us
-🎵 Lillian
-🎵 Home
-🎵 Fall And Flee
-💿 2011-06-14 - The Dear Hunter - "The Color Spectrum" (Unknown)
-https://www.discogs.com/release/3067005-The-Dear-Hunter-The-Color-Spectrum
-———————————————————————————————————————————————————————————————
-Found candidate with 34 unregistered track(s):
+Found candidate with 32 unregistered track(s):
 🎵 Never Forgive, Never Forget
 🎵 Filth And Squalor
 🎵 Take More Than You Need
@@ -343,7 +329,6 @@ Found candidate with 34 unregistered track(s):
 🎵 The Dead Don't Starve
 🎵 A Sua Voz
 🎵 Misplaced Devotion
-🎵 Things That Hide Away
 🎵 The Canopy
 🎵 Crow And Cackle
 🎵 The Inheritance
@@ -357,12 +342,15 @@ Found candidate with 34 unregistered track(s):
 🎵 Lillian
 🎵 Too Late
 🎵 Look Away
-🎵 Home
 🎵 Fall And Flee
 🎵 No God
 🎵 Lost But Not All Gone
 💿 2011-06-14 - The Dear Hunter - "The Color Spectrum Complete Collection" (Unknown)
 https://www.discogs.com/release/4686625-The-Dear-Hunter-The-Color-Spectrum-Complete-Collection
+———————————————————————————————————————————————————————————————
+❌ 2011-06-14 - The Dear Hunter - "The Color Spectrum" (Unknown)
+https://www.discogs.com/release/3067005-The-Dear-Hunter-The-Color-Spectrum
+No new tracks
 ———————————————————————————————————————————————————————————————
 Found candidate with 6 unregistered track(s):
 🎵 Dig Your Own Grave
@@ -375,10 +363,6 @@ Found candidate with 6 unregistered track(s):
 🗓️ No better date found
 💿 2013 - The Dear Hunter - "The Migrations Annex" (Unknown)
 https://www.discogs.com/release/4533145-The-Dear-Hunter-The-Migrations-Annex
-———————————————————————————————————————————————————————————————
-❌ 2015-03-03 - The Dear Hunter - "Live" (Unknown)
-https://www.discogs.com/release/9182986-The-Dear-Hunter-Live
-No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2016-09-09 - The Dear Hunter - "The Matchstick Demos" (EP)
 https://www.discogs.com/release/10739670-The-Dear-Hunter-The-Matchstick-Demos
@@ -407,15 +391,6 @@ https://www.discogs.com/release/21507937-The-Dear-Hunter-The-Indigo-Child
 https://www.discogs.com/release/28393675-The-Dear-Hunter-Act-I-The-Lake-SouthRiver-North-Live-From-Seattle-WA
 No new tracks
 ———————————————————————————————————————————————————————————————
-Found candidate with 5 unregistered track(s):
-🎵 Magic Beans
-🎵 Four Amigos
-🎵 Shlammin’ Salmon
-🎵 Classic Wrock
-🎵 Burritokyo
-💿 2025-06-06 - The Dear Hunter - "North American EP" (EP)
-https://www.discogs.com/release/34687875-The-Dear-Hunter-North-American-EP
-———————————————————————————————————————————————————————————————
 Found candidate with 12 unregistered track(s):
 🎵 Tour
 🎵 Valley of the Frankensteins
@@ -431,4 +406,13 @@ Found candidate with 12 unregistered track(s):
 🎵 Biggus
 💿 2025-06-06 - The Dear Hunter - "North American Tour 2023 - Soundtrack" (Unknown)
 https://www.discogs.com/release/34948277-The-Dear-Hunter-North-American-Tour-2023-Soundtrack
+———————————————————————————————————————————————————————————————
+Found candidate with 5 unregistered track(s):
+🎵 Magic Beans
+🎵 Four Amigos
+🎵 Shlammin’ Salmon
+🎵 Classic Wrock
+🎵 Burritokyo
+💿 2025-06-06 - The Dear Hunter - "North American EP" (EP)
+https://www.discogs.com/release/34687875-The-Dear-Hunter-North-American-EP
 ———————————————————————————————————————————————————————————————

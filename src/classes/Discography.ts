@@ -115,6 +115,14 @@ export class Discography {
     this.sortReleasesArray(this.candidates);
 
     for (const candidate of this.candidates) {
+      const candidatesAtThisDate = this.candidates.filter(
+        (_candidate) =>
+          _candidate.release.released === candidate.release.released
+      );
+
+      for (const candidateAtThisDate of candidatesAtThisDate) {
+      }
+
       await this.selectCandidate(
         candidate,
         this.repertoire.getUnregisteredTracks(candidate.release)
@@ -274,7 +282,10 @@ export class Discography {
   private sortReleasesArray(releases: DiscographyRelease[]) {
     releases.sort((release1, release2) => {
       if (release1.release.formattedDate === release2.release.formattedDate) {
-        return release1.release.title.localeCompare(release2.release.title);
+        return (
+          (release2.unregisteredTracks?.length ?? 0) -
+          (release1.unregisteredTracks?.length ?? 0)
+        );
       }
 
       return this.sortByFormattedDate(release1.release, release2.release);

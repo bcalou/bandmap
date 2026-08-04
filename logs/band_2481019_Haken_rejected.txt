@@ -1,4 +1,4 @@
-42 rejected release(s):
+43 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 2007 - Haken (2) - "Haken"
 (https://www.discogs.com/release/undefined)
@@ -159,6 +159,10 @@
 ❌ 2023 - Haken (2) - "The Alphabet Of Me"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2025 - Haken (2) - "Liveforms: An Evening With Haken (Live In London 2024)"
+(https://www.discogs.com/master/3842901)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2026 - Haken (2) - "In A Fever Dream"
 (https://www.discogs.com/release/undefined)

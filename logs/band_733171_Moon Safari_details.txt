@@ -79,6 +79,12 @@
 🎼 Moon Safari: 34 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/8543634
+Anthon Johansson: Electric Guitar [Electric Guitars], Twelve-String Guitar [12 String Acoustic Guitars], Acoustic Guitar [6 String Acoustic Guitars], Slide Guitar, Backing Vocals, Engineer
+Johan Westerlund: Bass, Backing Vocals
+Petter Sandström: Artwork, Artwork [Moon Safari Logo By], Lead Vocals, Backing Vocals, Harmonica
+Simon Åkesson: Lead Vocals, Backing Vocals, Organ [Hammond Organ], Piano, Synth [Moogs], Mellotron [Mellotrons], Arranged By [Choir Arrangements]
+Tobias Lundgren: Drums, Percussion
+Tomas Bodin: Engineer, Mixed By, Mastered By, Producer, Guest [Guest Musician], Keyboards [Keyboardtheme And Solo]
 🗓️ Imprecise date (2005) for "A Doorway To Summer"
 🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/3346044
@@ -88,8 +94,20 @@ Found better release date: 2005-01-01
 🗓️ Release date: 2005
 💿 2005-01-01 - Moon Safari - "A Doorway To Summer"
 https://www.discogs.com/release/8543634-Moon-Safari-A-Doorway-To-Summer
+Anthon Johansson: Electric Guitar [Electric Guitars], Twelve-String Guitar [12 String Acoustic Guitars], Acoustic Guitar [6 String Acoustic Guitars], Slide Guitar, Backing Vocals, Engineer
+Johan Westerlund: Bass, Backing Vocals
+Petter Sandström: Artwork, Artwork [Moon Safari Logo By], Lead Vocals, Backing Vocals, Harmonica
+Simon Åkesson: Lead Vocals, Backing Vocals, Organ [Hammond Organ], Piano, Synth [Moogs], Mellotron [Mellotrons], Arranged By [Choir Arrangements]
+Tobias Lundgren: Drums, Percussion
+Tomas Bodin: Engineer, Mixed By, Mastered By, Producer, Guest [Guest Musician], Keyboards [Keyboardtheme And Solo]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3346064
+Anthon Johansson: Engineer, Guest, Electric Guitar, Music By
+Johan Westerlund: Bass, Lead Vocals, Backing Vocals, Layout, Lyrics By, Music By
+Petter Sandström: Artwork [Cover Artwork], Artwork [Moon Safari Logo], Painting [Flying Flower, Methuselah, Bluebells, Other Half & To Sail Beyond That Sunset Paintings], Layout, Lead Vocals, Backing Vocals, Twelve-String Guitar [12 Str. Acoustic Guitar], Electric Guitar [Occasional Electric Guitar], Effects [SFX], Lyrics By, Music By
+Pontus Åkesson: Electric Guitar [Electric Guitars], Acoustic Guitar [6-String Nylon / Steel Acoustic Guitar], Twelve-String Guitar [12 Str. Acoustic Guitar], Mandolin, Lead Vocals, Backing Vocals
+Simon Åkesson: Lead Vocals, Backing Vocals, Piano, Synthesizer [Moogs], Mellotron [Mellotrons], Organ [Hammond Organ], Piano Accordion, Effects [SFX], Arranged By [Choir Arrangements], Music By, Arranged By [Arrangement By]
+Tobias Lundgren: Drums, Percussion, Backing Vocals
 🗓️ Imprecise date (2008-01-01) for "Blomljud"
 🗃️ Looking at alternate version(s) from 2008
 🗃️ Analyzing version https://www.discogs.com/release/21709531
@@ -97,6 +115,12 @@ Analyzing release https://www.discogs.com/release/3346064
 Found better release date: 2008-01-03
 💿 2008-01-03 - Moon Safari - "Blomljud"
 https://www.discogs.com/release/3346064-Moon-Safari-Blomljud
+Anthon Johansson: Engineer, Guest, Electric Guitar, Music By
+Johan Westerlund: Bass, Lead Vocals, Backing Vocals, Layout, Lyrics By, Music By
+Petter Sandström: Artwork [Cover Artwork], Artwork [Moon Safari Logo], Painting [Flying Flower, Methuselah, Bluebells, Other Half & To Sail Beyond That Sunset Paintings], Layout, Lead Vocals, Backing Vocals, Twelve-String Guitar [12 Str. Acoustic Guitar], Electric Guitar [Occasional Electric Guitar], Effects [SFX], Lyrics By, Music By
+Pontus Åkesson: Electric Guitar [Electric Guitars], Acoustic Guitar [6-String Nylon / Steel Acoustic Guitar], Twelve-String Guitar [12 Str. Acoustic Guitar], Mandolin, Lead Vocals, Backing Vocals
+Simon Åkesson: Lead Vocals, Backing Vocals, Piano, Synthesizer [Moogs], Mellotron [Mellotrons], Organ [Hammond Organ], Piano Accordion, Effects [SFX], Arranged By [Choir Arrangements], Music By, Arranged By [Arrangement By]
+Tobias Lundgren: Drums, Percussion, Backing Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2009 - Øresund Space Collective, Darkwater (5), Moon Safari, John Randén & Synkopaterna - "Various - Slottsskogen Goes Progressive 2008"
@@ -104,32 +128,101 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3346056
+Johan Westerlund: Words By, Music By
+Petter Sandström: Music By, Words By
+Pontus Åkesson: Music By
+Simon Åkesson: Music By
 💿 2010-11-11 - Moon Safari - "Lover's End"
 https://www.discogs.com/release/3346056-Moon-Safari-Lovers-End
+Johan Westerlund: Words By, Music By
+Petter Sandström: Music By, Words By
+Pontus Åkesson: Music By
+Simon Åkesson: Music By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Johan Westerlund: Bass Guitar, Vocals, Words By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Music By, Words By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Music By
+Sebastian Åkesson: Keyboards, Vocals, Other [Misc]
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choir], Arranged By [Orchestra], Music By
+Tobias Lundgren: Drums, Vocals
 ⌛ 2012-12-19 - Moon Safari - "The Lover's End Trilogy" (EP)
 https://www.discogs.com/release/4138230-Moon-Safari-The-Lovers-End-Trilogy
+Johan Westerlund: Bass Guitar, Vocals, Words By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Music By, Words By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Music By
+Sebastian Åkesson: Keyboards, Vocals, Other [Misc]
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choir], Arranged By [Orchestra], Music By
+Tobias Lundgren: Drums, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3398502
+Johan Westerlund: Bass Guitar, Vocals, Lyrics By, Composed By
+Petter Sandström: Acoustic Guitar, Vocals, Composed By, Lyrics By
+Pontus Åkesson: Electric Guitar, Vocals
+Sebastian Åkesson: Organ, Mellotron, Percussion, Vocals
+Simon Åkesson: Synthesizer [Lead Synthesizers], Grand Piano, Organ, Mellotron, Vocals, Composed By
+Tobias Lundgren: Drums, Percussion, Vocals
 💿 2012-02-08 - Moon Safari - "The Gettysburg Address"
 https://www.discogs.com/release/3398502-Moon-Safari-The-Gettysburg-Address
+Johan Westerlund: Bass Guitar, Vocals, Lyrics By, Composed By
+Petter Sandström: Acoustic Guitar, Vocals, Composed By, Lyrics By
+Pontus Åkesson: Electric Guitar, Vocals
+Sebastian Åkesson: Organ, Mellotron, Percussion, Vocals
+Simon Åkesson: Synthesizer [Lead Synthesizers], Grand Piano, Organ, Mellotron, Vocals, Composed By
+Tobias Lundgren: Drums, Percussion, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4045354
+Johan Westerlund: Bass Guitar, Vocals, Words By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Music By, Words By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Music By
+Sebastian Åkesson: Music By, Other [Misc. Keys], Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral]
+Tobias Lundgren: Drums, Vocals
 ⌛ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade" (EP)
 https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade
+Johan Westerlund: Bass Guitar, Vocals, Words By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Music By, Words By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Music By
+Sebastian Åkesson: Music By, Other [Misc. Keys], Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral]
+Tobias Lundgren: Drums, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5212812
+Johan Westerlund: Bass Guitar, Vocals, Words By, Music By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Words By, Music By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Words By, Music By
+Sebastian Åkesson: Organ, Percussion, Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral Arrangements], Music By
+Tobias Lundgren: Drums, Vocals, Photography By [Individual Photos]
 💿 2013-08-21 - Moon Safari - "Himlabacken • Vol 1"
 https://www.discogs.com/release/5212812-Moon-Safari-Himlabacken-Vol-1
+Johan Westerlund: Bass Guitar, Vocals, Words By, Music By
+Petter Sandström: Lead Vocals, Acoustic Guitar, Words By, Music By
+Pontus Åkesson: Electric Guitar, Acoustic Guitar, Vocals, Words By, Music By
+Sebastian Åkesson: Organ, Percussion, Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral Arrangements], Music By
+Tobias Lundgren: Drums, Vocals, Photography By [Individual Photos]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/23243657
+Johan Westerlund: Bass Guitar
+Mikael Israelsson: Drum
+Petter Sandström: Lead Vocals, Acoustic Guitar
+Pontus Åkesson: Vocals, Lead Guitar
+Sebastian Åkesson: Vocals, Keyboards
+Simon Åkesson: Lead Vocals, Keyboards
 💿 2014-10-00 - Moon Safari - "Live In Mexico"
 https://www.discogs.com/release/23243657-Moon-Safari-Live-In-Mexico
+Johan Westerlund: Bass Guitar
+Mikael Israelsson: Drum
+Petter Sandström: Lead Vocals, Acoustic Guitar
+Pontus Åkesson: Vocals, Lead Guitar
+Sebastian Åkesson: Vocals, Keyboards
+Simon Åkesson: Lead Vocals, Keyboards
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 2015-12-16 - Moon Safari - "Best Of (2005-2013)" (Compilation)
-https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
+❌ 2015 - Moon Safari - "Best Of (2005-2013)"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
@@ -137,12 +230,25 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/29220661
+Johan Westerlund: Bass Guitar, Lead Vocals
+Mikael Israelsson: Drums, Percussion, Keyboards, Vocals
+Petter Sandström: Lead Vocals, Acoustic Guitar
+Pontus Åkesson: Electric Guitar, Acoustic Bass, Lead Vocals
+Sebastian Åkesson: Organ, Percussion, Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral Arrangements]
 💿 2023-12-01 - Moon Safari - "Himlabacken • Vol 2"
 https://www.discogs.com/release/29220661-Moon-Safari-Himlabacken-Vol-2
+Johan Westerlund: Bass Guitar, Lead Vocals
+Mikael Israelsson: Drums, Percussion, Keyboards, Vocals
+Petter Sandström: Lead Vocals, Acoustic Guitar
+Pontus Åkesson: Electric Guitar, Acoustic Bass, Lead Vocals
+Sebastian Åkesson: Organ, Percussion, Vocals
+Simon Åkesson: Lead Vocals, Grand Piano, Organ, Synthesizer [Moog], Arranged By [Choral & Orchestral Arrangements]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ unknown date - Moon Safari - "Moon Romantic Special" (Compilation)
-https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special
+❌ unknown date - Moon Safari - "Moon Romantic Special"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/8480988
 ❌ 2016 - The Syn - "Trustworks"
@@ -247,13 +353,5 @@ No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 2012 - Moon Safari - "Lover's End Pt. III: Skellefteå Serenade" (EP)
 https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefteå-Serenade
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013)" (Compilation)
-https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ unknown date - Moon Safari - "Moon Romantic Special" (Compilation)
-https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special
 No new tracks
 ———————————————————————————————————————————————————————————————

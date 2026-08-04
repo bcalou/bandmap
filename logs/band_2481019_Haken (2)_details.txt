@@ -87,40 +87,133 @@
 🎼 Haken: 61 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Matthew Marshall: Guitar
+Peter Jones: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar, Keyboards
+Ross Jennings: Vocals
+Tom MacLean: Bass
 ❌ 2007 - Haken (2) - "Haken"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4075958
+Matthew Marshall: Guitar [Guitars]
+Peter Jones: Keyboards
+Raymond Hearne: Drums, Percussion
+Richard Henshall: Guitar [Guitars], Keyboards
+Ross Jennings: Vocals
+Tom MacLean: Bass Guitar
 🗃️ Looking at alternate version(s) from 2008
 🗃️ Analyzing version https://www.discogs.com/release/21080776
+Matthew Marshall: Guitar [Guitars]
+Peter Jones: Keyboards
+Raymond Hearne: Drums, Percussion
+Richard Henshall: Guitar [Guitars], Keyboards
+Ross Jennings: Vocals
+Tom MacLean: Bass Guitar
 🗃️ Analyzing version https://www.discogs.com/release/33565128
+Matthew Marshall: Guitar [Guitars]
+Peter Jones: Keyboards
+Raymond Hearne: Drums, Percussion
+Richard Henshall: Guitar [Guitars], Keyboards
+Ross Jennings: Vocals
+Tom MacLean: Bass Guitar
 ❌ 2008 - Haken (2) - "Enter The 5th Dimension"
 (https://www.discogs.com/master/1706323)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3429761
+Charlie Griffiths: Guitar
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums, Tuba, Djembe, Drum [Ocean Drum]
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass
 💿 2010-03-30 - Haken - "Aquarius"
 https://www.discogs.com/release/3429761-Haken-2-Aquarius
+Charlie Griffiths: Guitar
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums, Tuba, Djembe, Drum [Ocean Drum]
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10944724
 🗃️ Looking at alternate version(s) from 2011
 🗃️ Analyzing version https://www.discogs.com/release/5164041
+🗃️ Analyzing version https://www.discogs.com/release/8511485
+Charlie Griffiths: Guitar
+Diego Tejeida: Arranged By [Strings Quartet And French Horn Arrangements], Keyboards, Sound Designer, Music By
+Raymond Hearne: Arranged By [Strings Quartet And French Horn Arrangements], Drums, Percussion
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass Guitar, Music By
+🗃️ Analyzing version https://www.discogs.com/release/7477434
+Charlie Griffiths: Guitar
+Diego Tejeida: Arranged By [Strings Quartet And French Horn Arrangements], Keyboards, Sound Designer, Music By
+Raymond Hearne: Arranged By [Strings Quartet And French Horn Arrangements], Drums, Percussion
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass Guitar, Music By
+🗃️ Analyzing version https://www.discogs.com/release/3203747
+Charlie Griffiths: Guitar
+Diego Tejeida: Arranged By [Strings Quartet And French Horn Arrangements], Keyboards, Sound Designer, Music By
+Raymond Hearne: Arranged By [Strings Quartet And French Horn Arrangements], Drums, Percussion
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass Guitar, Music By
 💿 2011-10-25 - Haken - "Visions"
-https://www.discogs.com/release/5164041-Haken-2-Visions
+https://www.discogs.com/release/3203747-Haken-2-Visions
+Charlie Griffiths: Guitar
+Diego Tejeida: Arranged By [Strings Quartet And French Horn Arrangements], Keyboards, Sound Designer, Music By
+Raymond Hearne: Arranged By [Strings Quartet And French Horn Arrangements], Drums, Percussion
+Richard Henshall: Guitar, Keyboards, Music By
+Ross Jennings: Lyrics By, Vocals
+Tom MacLean: Bass Guitar, Music By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10944697
 🗃️ Looking at alternate version(s) from 2013
 🗃️ Analyzing version https://www.discogs.com/release/5396142
+Charlie Griffiths: Guitar, Backing Vocals, Lyrics By
+Diego Tejeida: Keyboards, Sound Designer, Backing Vocals, Music By, Lyrics By
+Raymond Hearne: Brass [Brass Musician], Trombone [Cimbasso], Tuba, Drums, Percussion, Backing Vocals, Lyrics By
+Richard Henshall: Keyboards, Guitar, Backing Vocals, Music By, Lyrics By
+Ross Jennings: Vocals, Lyrics By
+Tom MacLean: Bass Guitar, Backing Vocals, Lyrics By
 💿 2013-09-17 - Haken - "The Mountain"
 https://www.discogs.com/release/5396142-Haken-2-The-Mountain
+Charlie Griffiths: Guitar, Backing Vocals, Lyrics By
+Diego Tejeida: Keyboards, Sound Designer, Backing Vocals, Music By, Lyrics By
+Raymond Hearne: Brass [Brass Musician], Trombone [Cimbasso], Tuba, Drums, Percussion, Backing Vocals, Lyrics By
+Richard Henshall: Keyboards, Guitar, Backing Vocals, Music By, Lyrics By
+Ross Jennings: Vocals, Lyrics By
+Tom MacLean: Bass Guitar, Backing Vocals, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10944682
 🗃️ Looking at alternate version(s) from 2014
 🗃️ Analyzing version https://www.discogs.com/release/6264964
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar, Keyboards
+Ross Jennings: Vocals
 🗃️ Analyzing version https://www.discogs.com/release/6242292
+Charlie Griffiths: Guitar, Lyrics By
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer
+Raymond Hearne: Drums, Backing Vocals, Lyrics By
+Richard Henshall: Guitar, Keyboards, Lyrics By
+Ross Jennings: Vocals, Lyrics By, Music By
 ⌛ 2014-11-11 - Haken - "Restoration" (EP)
 https://www.discogs.com/release/6242292-Haken-2-Restoration
+Charlie Griffiths: Guitar, Lyrics By
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer
+Raymond Hearne: Drums, Backing Vocals, Lyrics By
+Richard Henshall: Guitar, Keyboards, Lyrics By
+Ross Jennings: Vocals, Lyrics By, Music By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/10831860
 🗃️ Looking at alternate version(s) from 2016
@@ -140,15 +233,59 @@ Analyzing release https://www.discogs.com/release/10944667
 🗃️ Looking at alternate version(s) from 2016
 🗃️ Analyzing version https://www.discogs.com/release/8497688
 🗃️ Analyzing version https://www.discogs.com/release/8728886
+Charlie Griffiths: Band [Haken Are_], Guitar
+Conner Green: Band [Haken Are_], Bass
+Diego Tejeida: Band [Haken Are_], Keyboards, Sound Designer
+Raymond Hearne: Band [Haken Are_], Drums
+Richard Henshall: Band [Haken Are_], Guitar
+Ross Jennings: Band [Haken Are_], Vocals
 🗃️ Analyzing version https://www.discogs.com/release/8453071
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 💿 2016-04-29 - Haken - "Affinity"
 https://www.discogs.com/release/8453071-Haken-2-Affinity
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13142135
 🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12702035
+🗃️ Analyzing version https://www.discogs.com/release/12746605
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer, Engineer [Vocals], Vocals [Producer]
+Peter Jones: Drum Programming [Additional]
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
+🗃️ Analyzing version https://www.discogs.com/release/12717379
+🗃️ Analyzing version https://www.discogs.com/release/12713045
+🗃️ Analyzing version https://www.discogs.com/release/12712441
+🗃️ Analyzing version https://www.discogs.com/release/12784716
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer, Producer [Vocals Recorded At The Bunker, Mexico City, Produced By], Engineer [Vocals Recorded At The Bunker, Engineered By]
+Peter Jones: Guest [Guest Musician], Drum Programming [Additional Drum Programming]
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 💿 2018-10-26 - Haken - "Vector"
-https://www.discogs.com/release/12702035-Haken-2-Vector
+https://www.discogs.com/release/12784716-Haken-2-Vector
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer, Producer [Vocals Recorded At The Bunker, Mexico City, Produced By], Engineer [Vocals Recorded At The Bunker, Engineered By]
+Peter Jones: Guest [Guest Musician], Drum Programming [Additional Drum Programming]
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13392239
 🗃️ Looking at alternate version(s) from 2018
@@ -174,15 +311,51 @@ No valid version found
 Analyzing release https://www.discogs.com/release/13231638
 🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12157175
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar, Keyboards
+Ross Jennings: Vocals
 💿 2018-06-22 - Haken - "L-1VE"
 https://www.discogs.com/release/12157175-Haken-2-L-1VE
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar, Keyboards
+Ross Jennings: Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/30549505
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 🗃️ Looking at alternate version(s) from 2018
 🗃️ Analyzing version https://www.discogs.com/release/12921065
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 🗃️ Analyzing version https://www.discogs.com/release/12921106
 🗃️ Analyzing version https://www.discogs.com/release/12909218
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar, Keyboards
+Ross Jennings: Vocals
 🗃️ Analyzing version https://www.discogs.com/release/13267371
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 ❌ 2018 - Haken (2) - "L+1VE"
 (https://www.discogs.com/master/1467638)
 No valid version found
@@ -200,8 +373,22 @@ No valid version found
 Analyzing release https://www.discogs.com/release/15670029
 🗃️ Looking at alternate version(s) from 2020
 🗃️ Analyzing version https://www.discogs.com/release/15680080
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Peter Jones: Drum Programming, Keyboards [Additional], Producer, Arranged By
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 💿 2020-07-24 - Haken - "Virus"
 https://www.discogs.com/release/15680080-Haken-2-Virus
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Diego Tejeida: Keyboards
+Peter Jones: Drum Programming, Keyboards [Additional], Producer, Arranged By
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/15222568
 🗃️ Looking at alternate version(s) from 2020
@@ -233,25 +420,79 @@ Analyzing release https://www.discogs.com/release/26327753
 🗃️ Analyzing version https://www.discogs.com/release/32742147
 🗃️ Analyzing version https://www.discogs.com/release/26311025
 🗃️ Analyzing version https://www.discogs.com/release/26302511
+Charlie Griffiths: Guitar [Guitars]
+Conner Green: Bass
+Peter Jones: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar [Guitars]
+Ross Jennings: Vocals
 🗃️ Analyzing version https://www.discogs.com/release/26813168
+🗃️ Analyzing version https://www.discogs.com/release/26396540
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Peter Jones: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 💿 2023-03-03 - Haken - "Fauna"
-https://www.discogs.com/release/26813168-Haken-2-Fauna
+https://www.discogs.com/release/26396540-Haken-2-Fauna
+Charlie Griffiths: Guitar
+Conner Green: Bass
+Peter Jones: Keyboards
+Raymond Hearne: Drums
+Richard Henshall: Guitar
+Ross Jennings: Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33976143
+Charlie Griffiths: Composed By [Composer], Guitar, Backing Vocals [Background Vocals]
+Conner Green: Bass Guitar, Backing Vocals [Background Vocals], Composed By [Composer]
+Diego Tejeida: Composed By [Composer]
+Peter Jones: Composed By [Composer], Keyboards, Backing Vocals [Background Vocals]
+Raymond Hearne: Composed By [Composer], Drums, Backing Vocals [Background Vocals]
+Richard Henshall: Composed By [Composer], Guitar, Keyboards, Backing Vocals [Background Vocals]
+Ross Jennings: Lead Vocals
 🗃️ Looking at alternate version(s) from 2025
 🗃️ Analyzing version https://www.discogs.com/release/33971067
+Charlie Griffiths: Guitar, Backing Vocals, Written-By
+Conner Green: Bass, Backing Vocals, Written-By
+Peter Jones: Keyboards, Backing Vocals, Written-By
+Raymond Hearne: Drums, Backing Vocals, Written-By
+Richard Henshall: Guitar, Keyboards, Backing Vocals, Written-By
+Ross Jennings: Lead Vocals, Written-By
 🗃️ Analyzing version https://www.discogs.com/release/33940008
+Charlie Griffiths: Band [Haken Are], Guitar [Guitars], Backing Vocals
+Conner Green: Band [Haken Are], Bass, Backing Vocals
+Peter Jones: Band [Haken Are], Keyboards, Backing Vocals
+Raymond Hearne: Band [Haken Are], Drums, Backing Vocals
+Richard Henshall: Band [Haken Are], Guitar [Guitars], Keyboards, Backing Vocals
+Ross Jennings: Band [Haken Are], Lead Vocals
 🗃️ Analyzing version https://www.discogs.com/release/33944871
+Charlie Griffiths: Band [Haken Are], Guitar, Backing Vocals
+Conner Green: Band [Haken Are], Bass, Backing Vocals
+Peter Jones: Band [Haken Are], Keyboards, Backing Vocals
+Raymond Hearne: Band [Haken Are], Drums, Backing Vocals
+Richard Henshall: Band [Haken Are], Guitar, Keyboards, Backing Vocals
+Ross Jennings: Band [Haken Are], Lead Vocals
 🗃️ Analyzing version https://www.discogs.com/release/34034742
-💿 2025-05-09 - Haken - "Liveforms: Fauna Live In London"
-https://www.discogs.com/release/34034742-Haken-2-Liveforms-Fauna-Live-In-London
+🗃️ Analyzing version https://www.discogs.com/release/33888948
+❌ 2025 - Haken (2) - "Liveforms: An Evening With Haken (Live In London 2024)"
+(https://www.discogs.com/master/3842901)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Peter Jones: Keyboards, Lyrics By, Composed By
+Raymond Hearne: Drums, Lyrics By, Composed By
+Richard Henshall: Guitar, Lyrics By, Composed By
+Ross Jennings: Lead Vocals, Lyrics By, Composed By
 ❌ 2026 - Haken (2) - "In A Fever Dream"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Peter Jones: Composed By, Lyrics By, Keyboards
+Raymond Hearne: Composed By, Lyrics By, Drums
+Richard Henshall: Composed By, Lyrics By, Guitar
+Ross Jennings: Composed By, Lyrics By, Lead Vocals
 ❌ 2026 - Haken (2) - "Bleeding Sky"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -422,4 +663,10 @@ Found candidate with 6 unregistered track(s):
 🎵 Crystallised
 💿 2014-11-11 - Haken - "Restoration" (EP)
 https://www.discogs.com/release/6242292-Haken-2-Restoration
+Charlie Griffiths: Guitar, Lyrics By
+Conner Green: Bass
+Diego Tejeida: Keyboards, Sound Designer
+Raymond Hearne: Drums, Backing Vocals, Lyrics By
+Richard Henshall: Guitar, Keyboards, Lyrics By
+Ross Jennings: Vocals, Lyrics By, Music By
 ———————————————————————————————————————————————————————————————

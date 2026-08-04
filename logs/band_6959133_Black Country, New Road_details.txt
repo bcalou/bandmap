@@ -102,10 +102,18 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe." (Unknown)
-https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal
+❌ 2021 - s t a r g a z e* / Black Country, New Road / Loney, Dear / All The Luck In The World - "Now The Villages Are Talking To Europe."
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Charlie Wayne: Band [Black Country, New Road Are]
+Georgia Ellery: Band [Black Country, New Road Are]
+Isaac Wood: Band [Black Country, New Road Are]
+Lewis Evans: Band [Black Country, New Road Are]
+Luke Mark: Band [Black Country, New Road Are]
+May Kershaw: Band [Black Country, New Road Are]
+Tyler Hyde: Band [Black Country, New Road Are]
 ❌ 2021 - Black Country, New Road - "Never Again"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -119,6 +127,13 @@ Analyzing release https://www.discogs.com/release/19296856
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/17151706
+Charlie Wayne: Performer [Back Country New Road are]
+Georgia Ellery: Performer [Back Country New Road are]
+Isaac Wood: Performer [Back Country New Road are]
+Lewis Evans: Performer [Back Country New Road are]
+Luke Mark: Performer [Back Country New Road are]
+May Kershaw: Performer [Back Country New Road are]
+Tyler Hyde: Performer [Back Country New Road are]
 🗓️ Imprecise date (2021) for "For The First Time"
 🗃️ Looking at alternate version(s) from 2021
 🗃️ Analyzing version https://www.discogs.com/release/17250961
@@ -126,6 +141,13 @@ Analyzing release https://www.discogs.com/release/17151706
 Found better release date: 2021-02-05
 💿 2021-02-05 - Black Country, New Road - "For The First Time"
 https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time
+Charlie Wayne: Performer [Back Country New Road are]
+Georgia Ellery: Performer [Back Country New Road are]
+Isaac Wood: Performer [Back Country New Road are]
+Lewis Evans: Performer [Back Country New Road are]
+Luke Mark: Performer [Back Country New Road are]
+May Kershaw: Performer [Back Country New Road are]
+Tyler Hyde: Performer [Back Country New Road are]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2022 - Black Country, New Road - "Never Again Part 2"
@@ -133,24 +155,67 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/21933142
+Charlie Wayne: Performer [Black Country, New Road are]
+Georgia Ellery: Performer [Black Country, New Road are]
+Isaac Wood: Performer [Black Country, New Road are]
+Lewis Evans: Performer [Black Country, New Road are]
+Luke Mark: Performer [Black Country, New Road are]
+May Kershaw: Performer [Black Country, New Road are]
+Tyler Hyde: Performer [Black Country, New Road are]
 💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
 https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There
+Charlie Wayne: Performer [Black Country, New Road are]
+Georgia Ellery: Performer [Black Country, New Road are]
+Isaac Wood: Performer [Black Country, New Road are]
+Lewis Evans: Performer [Black Country, New Road are]
+Luke Mark: Performer [Black Country, New Road are]
+May Kershaw: Performer [Black Country, New Road are]
+Tyler Hyde: Performer [Black Country, New Road are]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/26523116
 🗃️ Looking at alternate version(s) from 2023
 🗃️ Analyzing version https://www.discogs.com/release/26940023
 🗃️ Analyzing version https://www.discogs.com/release/26890124
+Charlie Wayne: Performer
+Georgia Ellery: Performer
+Lewis Evans: Performer
+Luke Mark: Performer
+May Kershaw: Performer
+Tyler Hyde: Performer
 💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
 https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall
+Charlie Wayne: Performer
+Georgia Ellery: Performer
+Lewis Evans: Performer
+Luke Mark: Performer
+May Kershaw: Performer
+Tyler Hyde: Performer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Charlie Wayne: Band [Black Country, New Road]
+Georgia Ellery: Band [Black Country, New Road]
+Luke Mark: Band [Black Country, New Road]
+May Kershaw: Band [Black Country, New Road]
+Tyler Hyde: Band [Black Country, New Road]
 ❌ 2025 - Black Country, New Road - "Forever Howlong Demos: Live At The Cornish Bank"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33596541
+Charlie Wayne: Banjo, Drums, Percussion, Tenor Recorder, Percussion [Tuned Percussion], Lyrics By
+Georgia Ellery: Acoustic Guitar, Mandolin, Tenor Recorder, Violin, Vocals, Lyrics By
+Lewis Evans: Alto Saxophone, Bass Clarinet, Clarinet, Flute, Tenor Recorder
+Luke Mark: Acoustic Guitar, Baritone Guitar, Electric Guitar, Lap Steel Guitar, Tenor Recorder
+May Kershaw: Accordion, Harpsichord, Piano, Vocals, Lyrics By
+Tyler Hyde: Acoustic Guitar, Bass Guitar, Clarinet, Harmonium, Piano, Tenor Recorder, Vocals, Lyrics By
 💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
 https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong
+Charlie Wayne: Banjo, Drums, Percussion, Tenor Recorder, Percussion [Tuned Percussion], Lyrics By
+Georgia Ellery: Acoustic Guitar, Mandolin, Tenor Recorder, Violin, Vocals, Lyrics By
+Lewis Evans: Alto Saxophone, Bass Clarinet, Clarinet, Flute, Tenor Recorder
+Luke Mark: Acoustic Guitar, Baritone Guitar, Electric Guitar, Lap Steel Guitar, Tenor Recorder
+May Kershaw: Accordion, Harpsichord, Piano, Vocals, Lyrics By
+Tyler Hyde: Acoustic Guitar, Bass Guitar, Clarinet, Harmonium, Piano, Tenor Recorder, Vocals, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/34081483
 ❌ 2025 - The Wedding Present - "Marc Riley Sessions Volume 5"
@@ -246,8 +311,4 @@ Analyzing release https://www.discogs.com/release/19055758
 ❌ 2021 - Sanger Sangwritre - "Country Worse"
 (https://www.discogs.com/master/2163559)
 Rejected release role: UnofficialRelease
-———————————————————————————————————————————————————————————————
-❌ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe." (Unknown)
-https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal
-No new tracks
 ———————————————————————————————————————————————————————————————

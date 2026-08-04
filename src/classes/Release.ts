@@ -20,7 +20,7 @@ export class Release {
   public formats: Formats;
 
   // The credits associated to this release
-  private credits: Credits;
+  public credits: Credits;
 
   // The release date utility object
   private releaseDate: ReleaseDate;
@@ -122,14 +122,14 @@ export class Release {
 
   // Return release object if it's considered acceptable
   public async getCandidateRelease(): Promise<Release | RejectReason> {
-    return (
+    const reject =
       this.heuristicRejectArtist() ??
       this.heuristicRejectGenre() ??
-      (await this.heuristicFindValidVersionOrReject()) ??
-      // (await this.formats.heuristicFindBestFormatOrReject()) ??
-      // this.heuristicRejectNoValidTracks() ??
-      this
-    );
+      (await this.heuristicFindValidVersionOrReject());
+
+    if (reject) return reject;
+
+    return this;
   }
 
   // Find a valid version for this release
@@ -154,7 +154,11 @@ export class Release {
 
   // Is this release a valid version?
   private isValidVersion() {
-    return this.formats.isValidFormatList() && this.tracklist.isValid();
+    return (
+      this.tracklist.isValid() &&
+      this.credits.hasValidCredits() &&
+      this.formats.isValidFormatList()
+    );
   }
 
   // Return the version list
@@ -168,7 +172,7 @@ export class Release {
       this.logger.log(
         `🗃️ Looking at alternate version(s) from ${this.year}${
           options?.format ? ` (format: ${options?.format})` : ""
-        }`,
+        }`
       );
     }
 
@@ -204,18 +208,19 @@ export class Release {
   // Replace the release infos with another release
   public async updateRelease(newRelease: Release) {
     this.release = newRelease.release;
+    this.credits = newRelease.credits;
   }
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions,
+    options?: GetVersionsOptions
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     return versions;

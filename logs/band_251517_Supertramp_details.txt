@@ -271,8 +271,16 @@
 🎼 Supertramp: 875 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2862074
+Richard Palmer-James: Electric Guitar, Acoustic Guitar, Balalaika, Vocals, Written-By
+Rick Davies: Organ, Piano [Acoustic], Electric Piano, Harmonica, Vocals, Written-By
+Robert Millar: Percussion, Harmonica
+Roger Hodgson: Bass Guitar, Flageolet, Acoustic Guitar, Cello, Vocals, Written-By
 🗃️ Looking at alternate version(s) from 1970
 🗃️ Analyzing version https://www.discogs.com/release/9211841
+Richard Palmer-James: Guitar, Acoustic Guitar, Balalaika, Vocals, Written-By
+Rick Davies: Organ, Piano [Acoustic], Harmonica, Vocals, Electric Piano, Written-By
+Robert Millar: Percussion, Harmonica
+Roger Hodgson: Bass, Flageolet, Acoustic Guitar, Cello, Vocals, Written-By
 🗓️ Imprecise date (1970) for "Supertramp"
 🗃️ Looking at alternate version(s) from 1970
 🗃️ Analyzing version https://www.discogs.com/release/5800608
@@ -292,10 +300,15 @@ Analyzing release https://www.discogs.com/release/2862074
 🗓️ No better date found
 💿 1970 - Supertramp - "Supertramp"
 https://www.discogs.com/release/9211841-Supertramp-Supertramp
+Richard Palmer-James: Guitar, Acoustic Guitar, Balalaika, Vocals, Written-By
+Rick Davies: Organ, Piano [Acoustic], Harmonica, Vocals, Electric Piano, Written-By
+Robert Millar: Percussion, Harmonica
+Roger Hodgson: Bass, Flageolet, Acoustic Guitar, Cello, Vocals, Written-By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned" (Unknown)
-https://www.discogs.com/release/5707677-Supertramp-Your-Poppa-Dont-Mind-Rosie-Had-Everything-Planned
+❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1971 - Supertramp - "Forever / Your Poppa Don't Mind"
@@ -303,38 +316,94 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1414075
+Dave Winthrop: Flute [Flutes], Saxophone [Saxophones], Vocals
+Frank Farrell: Bass, Piano, Accordion, Vocals [Harmony Vocals], Written-By
+Kevin Currie: Percussion
+Rick Davies: Keyboards, Harmonica, Vocals
+Roger Hodgson: Bass [Bass Guitars], Acoustic Guitar, Guitar [Lead Guitar], Vocals, Written-By
 💿 1971-06-25 - Supertramp - "Indelibly Stamped"
 https://www.discogs.com/release/1414075-Supertramp-Indelibly-Stamped
+Dave Winthrop: Flute [Flutes], Saxophone [Saxophones], Vocals
+Frank Farrell: Bass, Piano, Accordion, Vocals [Harmony Vocals], Written-By
+Kevin Currie: Percussion
+Rick Davies: Keyboards, Harmonica, Vocals
+Roger Hodgson: Bass [Bass Guitars], Acoustic Guitar, Guitar [Lead Guitar], Vocals, Written-By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1974 - Supertramp - "Land Ho / Summer Romance" (Single)
-https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance
+❌ 1974 - Supertramp - "Land Ho / Summer Romance"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3402272
-⌛ 1974-03-01 - Supertramp - "Land Ho " (Single)
-https://www.discogs.com/release/3402272-Supertramp-Land-Ho-
+🗃️ Looking at alternate version(s) from 1974
+🗃️ Analyzing version https://www.discogs.com/release/2231687
+🗃️ Analyzing version https://www.discogs.com/release/14330124
+❌ 1974 - Supertramp - "Land Ho "
+(https://www.discogs.com/master/429615)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3347037
-⌛ 1977 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/3347037-Supertramp-Dreamer
+🗃️ Looking at alternate version(s) from 1977
+🗃️ Analyzing version https://www.discogs.com/release/24636335
+🗃️ Analyzing version https://www.discogs.com/release/6345380
+🗃️ Analyzing version https://www.discogs.com/release/15213914
+🗃️ Analyzing version https://www.discogs.com/release/4905282
+❌ 1974 - Supertramp - "Dreamer"
+(https://www.discogs.com/master/497430)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/31408358
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Saxophone, Clarinet, Vocals
+Rick Davies: Vocals, Keyboards, Harmonica
+Roger Hodgson: Vocals, Guitar, Piano
 💿 1974-09-00 - Supertramp - "Crime Of The Century"
 https://www.discogs.com/release/31408358-Supertramp-Crime-Of-The-Century
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Saxophone, Clarinet, Vocals
+Rick Davies: Vocals, Keyboards, Harmonica
+Roger Hodgson: Vocals, Guitar, Piano
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/721754
-⌛ 1974-11-01 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/721754-Supertramp-Dreamer
+🗃️ Looking at alternate version(s) from 1974
+🗃️ Analyzing version https://www.discogs.com/release/5231641
+🗃️ Analyzing version https://www.discogs.com/release/2231696
+🗃️ Analyzing version https://www.discogs.com/release/743824
+🗃️ Analyzing version https://www.discogs.com/release/8425698
+🗃️ Analyzing version https://www.discogs.com/release/13369126
+🗃️ Analyzing version https://www.discogs.com/release/4642883
+🗃️ Analyzing version https://www.discogs.com/release/16240097
+🗃️ Analyzing version https://www.discogs.com/release/12829373
+🗃️ Analyzing version https://www.discogs.com/release/21578851
+🗃️ Analyzing version https://www.discogs.com/release/4598445
+🗃️ Analyzing version https://www.discogs.com/release/5602328
+🗃️ Analyzing version https://www.discogs.com/release/9847227
+🗃️ Analyzing version https://www.discogs.com/release/14632633
+🗃️ Analyzing version https://www.discogs.com/release/7866731
+🗃️ Analyzing version https://www.discogs.com/release/2300189
+🗃️ Analyzing version https://www.discogs.com/release/23075030
+🗃️ Analyzing version https://www.discogs.com/release/23260385
+🗃️ Analyzing version https://www.discogs.com/release/4254185
+🗃️ Analyzing version https://www.discogs.com/release/4354267
+❌ 1974 - Supertramp - "Dreamer"
+(https://www.discogs.com/master/25471)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5464224
 🗃️ Looking at alternate version(s) from 1974
 🗃️ Analyzing version https://www.discogs.com/release/30727721
-⌛ 1974 - Supertramp - "Bloody Well Right" (Single)
-https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right
+🗃️ Analyzing version https://www.discogs.com/release/6345374
+🗃️ Analyzing version https://www.discogs.com/release/26061379
+❌ 1974 - Supertramp - "Bloody Well Right"
+(https://www.discogs.com/master/2908033)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1975 - Supertramp - "Sister Moonshine " (Single)
-https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-
+❌ 1975 - Supertramp - "Sister Moonshine "
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1975 - Supertramp / Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day"
@@ -342,10 +411,20 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3160840
-⌛ 1976 - Supertramp - "Ain't Nobody But Me" (Single)
-https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me
+🗃️ Looking at alternate version(s) from 1976
+🗃️ Analyzing version https://www.discogs.com/release/12284082
+🗃️ Analyzing version https://www.discogs.com/release/6903186
+🗃️ Analyzing version https://www.discogs.com/release/26000335
+❌ 1975 - Supertramp - "Ain't Nobody But Me"
+(https://www.discogs.com/master/594689)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1414002
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Wind, Vocals
+Rick Davies: Vocals, Keyboards, Artwork [Idea]
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗓️ Imprecise date (1975) for "Crisis? What Crisis?"
 🗃️ Looking at alternate version(s) from 1975
 🗃️ Analyzing version https://www.discogs.com/release/18181171
@@ -359,17 +438,24 @@ Analyzing release https://www.discogs.com/release/1414002
 Found better release date: 1975-11-10
 💿 1975-11-10 - Supertramp - "Crisis? What Crisis?"
 https://www.discogs.com/release/1414002-Supertramp-Crisis-What-Crisis
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Wind, Vocals
+Rick Davies: Vocals, Keyboards, Artwork [Idea]
+Roger Hodgson: Vocals, Guitar, Keyboards
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2469812
-⌛ 1976 - Supertramp - "Lady" (Single)
-https://www.discogs.com/release/2469812-Supertramp-Lady
+🗃️ Looking at alternate version(s) from 1976
+🗃️ Analyzing version https://www.discogs.com/release/3920450
+❌ 1975 - Supertramp - "Lady"
+(https://www.discogs.com/master/240507)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/791136
-🗓️ Imprecise date (2001) for "Is Everybody Listening?"
 🗃️ Looking at alternate version(s) from 2001
-🗓️ No better date found
-💿 2001 - Supertramp - "Is Everybody Listening?"
-https://www.discogs.com/release/791136-Supertramp-Is-Everybody-Listening
+❌ 1975 - Supertramp - "Is Everybody Listening?"
+(https://www.discogs.com/master/373734)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1976 - Supertramp / Chris Hillman - "Rock Around The World #115"
@@ -382,20 +468,73 @@ Analyzing release https://www.discogs.com/release/undefined
 Rejected genre(s): Rock,Non-Music,Pop
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4727625
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Wind [Instruments], Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar
 💿 1977-04-00 - Supertramp - "Even In The Quietest Moments..."
 https://www.discogs.com/release/4727625-Supertramp-Even-In-The-Quietest-Moments
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Wind [Instruments], Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1422180
-⌛ 1978 - Supertramp - "Babaji" (Single)
-https://www.discogs.com/release/1422180-Supertramp-Babaji
+🗃️ Looking at alternate version(s) from 1978
+🗃️ Analyzing version https://www.discogs.com/release/11506412
+🗃️ Analyzing version https://www.discogs.com/release/5835299
+❌ 1977 - Supertramp - "Babaji"
+(https://www.discogs.com/master/234796)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1106712
-⌛ 1977 - Supertramp - "Give A Little Bit" (Single)
-https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit
+🗃️ Looking at alternate version(s) from 1977
+🗃️ Analyzing version https://www.discogs.com/release/6162286
+🗃️ Analyzing version https://www.discogs.com/release/14188184
+🗃️ Analyzing version https://www.discogs.com/release/27683817
+🗃️ Analyzing version https://www.discogs.com/release/15419188
+🗃️ Analyzing version https://www.discogs.com/release/6564427
+🗃️ Analyzing version https://www.discogs.com/release/5201698
+🗃️ Analyzing version https://www.discogs.com/release/6143760
+🗃️ Analyzing version https://www.discogs.com/release/7955208
+🗃️ Analyzing version https://www.discogs.com/release/11436876
+🗃️ Analyzing version https://www.discogs.com/release/3497058
+🗃️ Analyzing version https://www.discogs.com/release/15470767
+🗃️ Analyzing version https://www.discogs.com/release/3028956
+🗃️ Analyzing version https://www.discogs.com/release/9142541
+🗃️ Analyzing version https://www.discogs.com/release/10144268
+🗃️ Analyzing version https://www.discogs.com/release/4354270
+🗃️ Analyzing version https://www.discogs.com/release/23239964
+🗃️ Analyzing version https://www.discogs.com/release/1776394
+🗃️ Analyzing version https://www.discogs.com/release/834208
+🗃️ Analyzing version https://www.discogs.com/release/12762647
+🗃️ Analyzing version https://www.discogs.com/release/23553101
+🗃️ Analyzing version https://www.discogs.com/release/8265414
+🗃️ Analyzing version https://www.discogs.com/release/29099653
+🗃️ Analyzing version https://www.discogs.com/release/8715297
+🗃️ Analyzing version https://www.discogs.com/release/10155368
+🗃️ Analyzing version https://www.discogs.com/release/32925477
+🗃️ Analyzing version https://www.discogs.com/release/2048082
+🗃️ Analyzing version https://www.discogs.com/release/23554007
+🗃️ Analyzing version https://www.discogs.com/release/14117484
+🗃️ Analyzing version https://www.discogs.com/release/3402329
+🗃️ Analyzing version https://www.discogs.com/release/1720155
+🗃️ Analyzing version https://www.discogs.com/release/4980444
+🗃️ Analyzing version https://www.discogs.com/release/15666610
+🗃️ Analyzing version https://www.discogs.com/release/10418876
+🗃️ Analyzing version https://www.discogs.com/release/24628787
+🗃️ Analyzing version https://www.discogs.com/release/18193210
+🗃️ Analyzing version https://www.discogs.com/release/1511864
+❌ 1977 - Supertramp - "Give A Little Bit"
+(https://www.discogs.com/master/25463)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1978 - Supertramp - "4 Sucessos" (EP)
-https://www.discogs.com/release/4282303-Supertramp-4-Sucessos
+❌ 1978 - Supertramp - "4 Sucessos"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1978 - Supertramp - "In Concert-163"
@@ -418,14 +557,24 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1979 - Anita Ward, Supertramp - "Ring My Bell / The Logical Song" (Unknown)
-https://www.discogs.com/release/7598284-Anita-Ward-Supertramp-Ring-My-Bell-The-Logical-Song
+❌ 1979 - Anita Ward / Supertramp - "Ring My Bell / The Logical Song"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Rick Davies: Music By, Words By
+Roger Hodgson: Music By, Words By
 ⌛ 1979 - Supertramp, Chicago - "Goodbye Stranger / Must Have Been Crazy" (Unknown)
 https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Must-Have-Been-Crazy
+Rick Davies: Music By, Words By
+Roger Hodgson: Music By, Words By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Horn
+Rick Davies: Keyboards, Vocals
+Roger Hodgson: Guitar, Keyboards, Vocals
 ❌ 1979 - Supertramp - "Super Mileage"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -446,14 +595,27 @@ Analyzing release https://www.discogs.com/release/undefined
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1979 - Supertramp, Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll" (Unknown)
-https://www.discogs.com/release/15409597-Supertramp-Atlantic-Starr-Even-In-The-Quietest-Moments-Lets-Rock-N-Roll
+❌ 1979 - Supertramp / Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2636056
-⌛ 1979 - Supertramp - "Breakfast In America" (Single)
-https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America
+🗃️ Looking at alternate version(s) from 1979
+🗃️ Analyzing version https://www.discogs.com/release/12232042
+🗃️ Analyzing version https://www.discogs.com/release/23680364
+🗃️ Analyzing version https://www.discogs.com/release/7536264
+🗃️ Analyzing version https://www.discogs.com/release/24628568
+🗃️ Analyzing version https://www.discogs.com/release/30295652
+❌ 1979 - Supertramp - "Breakfast In America"
+(https://www.discogs.com/master/3571973)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/617486
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Woodwind [Woodwind Instruments]
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar [Guitars]
 🗓️ Imprecise date (1979) for "Breakfast In America"
 🗃️ Looking at alternate version(s) from 1979
 🗃️ Analyzing version https://www.discogs.com/release/9786162
@@ -463,32 +625,157 @@ Analyzing release https://www.discogs.com/release/617486
 Found better release date: 1979-03-29
 💿 1979-03-29 - Supertramp - "Breakfast In America"
 https://www.discogs.com/release/617486-Supertramp-Breakfast-In-America
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Woodwind [Woodwind Instruments]
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar [Guitars]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/12138792
 🗃️ Looking at alternate version(s) from 1979
 🗃️ Analyzing version https://www.discogs.com/release/16739280
-⌛ 1979 - Supertramp - "The Logical Song" (Single)
-https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song
+❌ 1979 - Supertramp - "The Logical Song / Goodbye Stranger"
+(https://www.discogs.com/master/445264)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1737396
-⌛ 1979 - Supertramp - "Goodbye Stranger" (Single)
-https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger
+🗃️ Looking at alternate version(s) from 1979
+🗃️ Analyzing version https://www.discogs.com/release/16786446
+🗃️ Analyzing version https://www.discogs.com/release/1912912
+🗃️ Analyzing version https://www.discogs.com/release/16273883
+🗃️ Analyzing version https://www.discogs.com/release/13065816
+🗃️ Analyzing version https://www.discogs.com/release/11640301
+🗃️ Analyzing version https://www.discogs.com/release/25875286
+🗃️ Analyzing version https://www.discogs.com/release/34516258
+🗃️ Analyzing version https://www.discogs.com/release/9535479
+🗃️ Analyzing version https://www.discogs.com/release/3259956
+🗃️ Analyzing version https://www.discogs.com/release/5838811
+🗃️ Analyzing version https://www.discogs.com/release/7343720
+🗃️ Analyzing version https://www.discogs.com/release/13218002
+🗃️ Analyzing version https://www.discogs.com/release/8358444
+🗃️ Analyzing version https://www.discogs.com/release/3559044
+🗃️ Analyzing version https://www.discogs.com/release/21490756
+🗃️ Analyzing version https://www.discogs.com/release/3247085
+🗃️ Analyzing version https://www.discogs.com/release/3579342
+🗃️ Analyzing version https://www.discogs.com/release/28310503
+🗃️ Analyzing version https://www.discogs.com/release/10879435
+🗃️ Analyzing version https://www.discogs.com/release/1056000
+🗃️ Analyzing version https://www.discogs.com/release/2604036
+🗃️ Analyzing version https://www.discogs.com/release/3786328
+🗃️ Analyzing version https://www.discogs.com/release/8178901
+🗃️ Analyzing version https://www.discogs.com/release/10497911
+🗃️ Analyzing version https://www.discogs.com/release/1992313
+🗃️ Analyzing version https://www.discogs.com/release/10979214
+🗃️ Analyzing version https://www.discogs.com/release/7386515
+🗃️ Analyzing version https://www.discogs.com/release/5941943
+🗃️ Analyzing version https://www.discogs.com/release/12511469
+🗃️ Analyzing version https://www.discogs.com/release/3863744
+🗃️ Analyzing version https://www.discogs.com/release/14762623
+🗃️ Analyzing version https://www.discogs.com/release/1037934
+❌ 1979 - Supertramp - "Goodbye Stranger"
+(https://www.discogs.com/master/104278)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/947504
-⌛ 1979 - Supertramp - "Breakfast In America" (Single)
-https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America
+🗃️ Looking at alternate version(s) from 1979
+🗃️ Analyzing version https://www.discogs.com/release/15073214
+🗃️ Analyzing version https://www.discogs.com/release/15207332
+🗃️ Analyzing version https://www.discogs.com/release/10960281
+🗃️ Analyzing version https://www.discogs.com/release/2699732
+🗃️ Analyzing version https://www.discogs.com/release/1065090
+🗃️ Analyzing version https://www.discogs.com/release/13652088
+🗃️ Analyzing version https://www.discogs.com/release/15639639
+🗃️ Analyzing version https://www.discogs.com/release/556900
+🗃️ Analyzing version https://www.discogs.com/release/1802551
+🗃️ Analyzing version https://www.discogs.com/release/4884384
+🗃️ Analyzing version https://www.discogs.com/release/27702312
+🗃️ Analyzing version https://www.discogs.com/release/2447801
+🗃️ Analyzing version https://www.discogs.com/release/9566496
+🗃️ Analyzing version https://www.discogs.com/release/5244087
+🗃️ Analyzing version https://www.discogs.com/release/8745178
+🗃️ Analyzing version https://www.discogs.com/release/8734497
+🗃️ Analyzing version https://www.discogs.com/release/4031939
+🗃️ Analyzing version https://www.discogs.com/release/21768229
+🗃️ Analyzing version https://www.discogs.com/release/15545412
+🗃️ Analyzing version https://www.discogs.com/release/9978779
+❌ 1979 - Supertramp - "Breakfast In America"
+(https://www.discogs.com/master/25477)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/444840
-⌛ 1979 - Supertramp - "The Logical Song" (Single)
-https://www.discogs.com/release/444840-Supertramp-The-Logical-Song
+🗃️ Looking at alternate version(s) from 1979
+🗃️ Analyzing version https://www.discogs.com/release/4387034
+🗃️ Analyzing version https://www.discogs.com/release/6619178
+🗃️ Analyzing version https://www.discogs.com/release/10928348
+🗃️ Analyzing version https://www.discogs.com/release/8751378
+🗃️ Analyzing version https://www.discogs.com/release/1065096
+🗃️ Analyzing version https://www.discogs.com/release/7423937
+🗃️ Analyzing version https://www.discogs.com/release/12498878
+🗃️ Analyzing version https://www.discogs.com/release/10644311
+🗃️ Analyzing version https://www.discogs.com/release/647237
+🗃️ Analyzing version https://www.discogs.com/release/15815902
+🗃️ Analyzing version https://www.discogs.com/release/4761000
+🗃️ Analyzing version https://www.discogs.com/release/7343655
+🗃️ Analyzing version https://www.discogs.com/release/5487075
+🗃️ Analyzing version https://www.discogs.com/release/16402527
+🗃️ Analyzing version https://www.discogs.com/release/12621218
+🗃️ Analyzing version https://www.discogs.com/release/15240655
+🗃️ Analyzing version https://www.discogs.com/release/577332
+🗃️ Analyzing version https://www.discogs.com/release/3028958
+🗃️ Analyzing version https://www.discogs.com/release/4417655
+🗃️ Analyzing version https://www.discogs.com/release/12285600
+🗃️ Analyzing version https://www.discogs.com/release/12324445
+🗃️ Analyzing version https://www.discogs.com/release/3438457
+🗃️ Analyzing version https://www.discogs.com/release/13559982
+🗃️ Analyzing version https://www.discogs.com/release/5835446
+🗃️ Analyzing version https://www.discogs.com/release/12997419
+🗃️ Analyzing version https://www.discogs.com/release/3904259
+🗃️ Analyzing version https://www.discogs.com/release/868120
+🗃️ Analyzing version https://www.discogs.com/release/11701064
+🗃️ Analyzing version https://www.discogs.com/release/17253676
+🗃️ Analyzing version https://www.discogs.com/release/26043751
+🗃️ Analyzing version https://www.discogs.com/release/3497056
+🗃️ Analyzing version https://www.discogs.com/release/13291991
+🗃️ Analyzing version https://www.discogs.com/release/10354662
+🗃️ Analyzing version https://www.discogs.com/release/3247122
+🗃️ Analyzing version https://www.discogs.com/release/13099527
+🗃️ Analyzing version https://www.discogs.com/release/5244148
+🗃️ Analyzing version https://www.discogs.com/release/8551152
+🗃️ Analyzing version https://www.discogs.com/release/1511873
+🗃️ Analyzing version https://www.discogs.com/release/12697645
+🗃️ Analyzing version https://www.discogs.com/release/25619110
+🗃️ Analyzing version https://www.discogs.com/release/9791803
+🗃️ Analyzing version https://www.discogs.com/release/1551511
+🗃️ Analyzing version https://www.discogs.com/release/6263272
+🗃️ Analyzing version https://www.discogs.com/release/10516216
+🗃️ Analyzing version https://www.discogs.com/release/36976644
+🗃️ Analyzing version https://www.discogs.com/release/12217083
+🗃️ Analyzing version https://www.discogs.com/release/7325222
+🗃️ Analyzing version https://www.discogs.com/release/899406
+🗃️ Analyzing version https://www.discogs.com/release/3048649
+🗃️ Analyzing version https://www.discogs.com/release/12497715
+🗃️ Analyzing version https://www.discogs.com/release/8944104
+🗃️ Analyzing version https://www.discogs.com/release/7609763
+🗃️ Analyzing version https://www.discogs.com/release/11861862
+🗃️ Analyzing version https://www.discogs.com/release/16003398
+❌ 1979 - Supertramp - "The Logical Song"
+(https://www.discogs.com/master/25484)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13133010
+🗃️ Looking at alternate version(s) from 1979
+🗃️ Analyzing version https://www.discogs.com/release/4392041
+Rick Davies: Songwriter
+Roger Hodgson: Songwriter
 ⌛ 1979-10-00 - Supertramp - "Take The Long Way Home" (Single)
-https://www.discogs.com/release/13133010-Supertramp-Take-The-Long-Way-Home
+https://www.discogs.com/release/4392041-Supertramp-Take-The-Long-Way-Home
+Rick Davies: Songwriter
+Roger Hodgson: Songwriter
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia" (Unknown)
-https://www.discogs.com/release/2673783-Supertramp-Francis-Cabrel-Dreamer-Questa-Specie-Di-Poesia
+❌ 1980 - Supertramp / Francis Cabrel - "Dreamer / Questa Specie Di Poesia"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1980 - Supertramp - "The Supertramp Special"
@@ -501,8 +788,9 @@ Analyzing release https://www.discogs.com/release/undefined
 Rejected genre(s): Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home" (EP)
-https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home
+❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1980 - Supertramp - "BBC Rock Hour #142"
@@ -510,12 +798,47 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13677228
-⌛ 1980 - Supertramp - "Lord Is It Mine" (Single)
-https://www.discogs.com/release/13677228-Supertramp-Lord-Is-It-Mine
+🗃️ Looking at alternate version(s) from 1980
+🗃️ Analyzing version https://www.discogs.com/release/14371675
+❌ 1980 - Supertramp - "Lord Is It Mine"
+(https://www.discogs.com/master/1641520)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6027501
-⌛ 1980 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/6027501-Supertramp-Dreamer
+🗃️ Looking at alternate version(s) from 1980
+🗃️ Analyzing version https://www.discogs.com/release/5136634
+🗃️ Analyzing version https://www.discogs.com/release/3497052
+🗃️ Analyzing version https://www.discogs.com/release/2945317
+🗃️ Analyzing version https://www.discogs.com/release/14659606
+🗃️ Analyzing version https://www.discogs.com/release/3585765
+🗃️ Analyzing version https://www.discogs.com/release/12421099
+🗃️ Analyzing version https://www.discogs.com/release/12486214
+🗃️ Analyzing version https://www.discogs.com/release/5537508
+🗃️ Analyzing version https://www.discogs.com/release/14131065
+🗃️ Analyzing version https://www.discogs.com/release/3989931
+🗃️ Analyzing version https://www.discogs.com/release/453115
+🗃️ Analyzing version https://www.discogs.com/release/34854959
+🗃️ Analyzing version https://www.discogs.com/release/1296323
+🗃️ Analyzing version https://www.discogs.com/release/16451949
+🗃️ Analyzing version https://www.discogs.com/release/1343414
+🗃️ Analyzing version https://www.discogs.com/release/3449182
+🗃️ Analyzing version https://www.discogs.com/release/2635383
+🗃️ Analyzing version https://www.discogs.com/release/25927333
+🗃️ Analyzing version https://www.discogs.com/release/4874016
+🗃️ Analyzing version https://www.discogs.com/release/8974935
+🗃️ Analyzing version https://www.discogs.com/release/8358441
+🗃️ Analyzing version https://www.discogs.com/release/6320321
+🗃️ Analyzing version https://www.discogs.com/release/16832970
+🗃️ Analyzing version https://www.discogs.com/release/12201679
+🗃️ Analyzing version https://www.discogs.com/release/13108349
+🗃️ Analyzing version https://www.discogs.com/release/18192979
+🗃️ Analyzing version https://www.discogs.com/release/6813267
+🗃️ Analyzing version https://www.discogs.com/release/2231721
+🗃️ Analyzing version https://www.discogs.com/release/33979779
+🗃️ Analyzing version https://www.discogs.com/release/17428657
+❌ 1980 - Supertramp - "Dreamer"
+(https://www.discogs.com/master/305286)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9502260
 ❌ 1980 - Supertramp - "Dreamer = Soñador"
@@ -525,10 +848,19 @@ Alternate language release
 Analyzing release https://www.discogs.com/release/1716252
 🗃️ Looking at alternate version(s) from 1980
 🗃️ Analyzing version https://www.discogs.com/release/8643213
-⌛ 1980 - Supertramp - "Take The Long Way Home [Live Version]" (Single)
-https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version
+🗃️ Analyzing version https://www.discogs.com/release/706888
+🗃️ Analyzing version https://www.discogs.com/release/9815920
+🗃️ Analyzing version https://www.discogs.com/release/3579331
+❌ 1980 - Supertramp - "Take The Long Way Home"
+(https://www.discogs.com/master/261913)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/448302
+Bob Siebenberg: Performer [The Band]
+Dougie Thomson: Performer [The Band]
+John Helliwell: Performer [The Band]
+Rick Davies: Performer [The Band]
+Roger Hodgson: Performer [The Band]
 🗓️ Imprecise date (1980) for "Paris"
 🗃️ Looking at alternate version(s) from 1980
 🗃️ Analyzing version https://www.discogs.com/release/7252786
@@ -698,6 +1030,11 @@ Analyzing release https://www.discogs.com/release/448302
 🗓️ No better date found
 💿 1980 - Supertramp - "Paris"
 https://www.discogs.com/release/448302-Supertramp-Paris
+Bob Siebenberg: Performer [The Band]
+Dougie Thomson: Performer [The Band]
+John Helliwell: Performer [The Band]
+Rick Davies: Performer [The Band]
+Roger Hodgson: Performer [The Band]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1981 - Mary Turner (4), Supertramp - "Off The Record Specials With Mary Turner"
@@ -728,8 +1065,9 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1982 - KC & The Sunshine Band, Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again" (Unknown)
-https://www.discogs.com/release/6782259-KC-The-Sunshine-Band-Supertramp-You-Said-Youd-Gimme-Some-More-Its-Raining-Again
+❌ 1982 - KC & The Sunshine Band / Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1982 - Supertramp - "B.B.C. Rock Hour #343"
@@ -737,6 +1075,11 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone, Keyboards
+Rick Davies: Lead Vocals, Keyboards
+Roger Hodgson: Lead Vocals, Keyboards, Guitar
 ❌ 1982 - Supertramp - "SuperGroups Presents A Night On The Road"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -752,16 +1095,34 @@ Analyzing release https://www.discogs.com/release/10537395
 Alternate language release
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3058365
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone, Keyboards
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar
 💿 1982-10-00 - Supertramp - ""...Famous Last Words...""
 https://www.discogs.com/release/3058365-Supertramp-Famous-Last-Words
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone, Keyboards
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Keyboards, Guitar
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1681029
+Rick Davies: Written-By, Vocals
+Roger Hodgson: Written-By, Vocals
 ⌛ 1982 - Supertramp - "My Kind Of Lady" (Single)
 https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady
+Rick Davies: Written-By, Vocals
+Roger Hodgson: Written-By, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/561341
+Rick Davies: Featuring, Vocals
+Roger Hodgson: Featuring, Vocals
 ⌛ 1982 - Supertramp - "It's Raining Again" (Single)
 https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
+Rick Davies: Featuring, Vocals
+Roger Hodgson: Featuring, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3707616
 ❌ 1982 - Supertramp - "Dreamer / Give A Little Bit "
@@ -769,8 +1130,16 @@ Analyzing release https://www.discogs.com/release/3707616
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/999816
-⌛ 1982 - Supertramp - "Crazy" (Unknown)
-https://www.discogs.com/release/999816-Supertramp-Crazy
+🗃️ Looking at alternate version(s) from 1982
+🗃️ Analyzing version https://www.discogs.com/release/5276112
+🗃️ Analyzing version https://www.discogs.com/release/10618724
+🗃️ Analyzing version https://www.discogs.com/release/7163765
+🗃️ Analyzing version https://www.discogs.com/release/5835686
+🗃️ Analyzing version https://www.discogs.com/release/13108170
+🗃️ Analyzing version https://www.discogs.com/release/2804374
+❌ 1982 - Supertramp - "Crazy"
+(https://www.discogs.com/master/332273)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1983 - Supertramp - "Supersampler"
@@ -778,10 +1147,16 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1983 - Ivano Fossati, Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady" (Unknown)
-https://www.discogs.com/release/3632856-Ivano-Fossati-Supertramp-La-Musica-Che-Gira-Intorno-My-Kind-Of-Lady
+❌ 1983 - Ivano Fossati / Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Reeds, Vocals
+Rick Davies: Keyboards, Harp, Vocals
+Roger Hodgson: Guitar, Keyboards, Vocals
 ❌ 1983 - Supertramp - "In Concert-309"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -792,19 +1167,32 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1469631
-⌛ 1983 - Supertramp - "Don't Leave Me Now" (Single)
-https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now
+🗃️ Looking at alternate version(s) from 1983
+🗃️ Analyzing version https://www.discogs.com/release/3048558
+❌ 1983 - Supertramp - "Don't Leave Me Now"
+(https://www.discogs.com/master/377008)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2210323
-⌛ 1983 - Supertramp - "School" (Unknown)
-https://www.discogs.com/release/2210323-Supertramp-School
+🗃️ Looking at alternate version(s) from 1983
+❌ 1983 - Supertramp - "School"
+(https://www.discogs.com/master/357739)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3047430
+Rick Davies: Music By, Lyrics By [Text]
+Roger Hodgson: Music By, Lyrics By [Text]
 🗃️ Looking at alternate version(s) from 1984
 🗃️ Analyzing version https://www.discogs.com/release/1399661
 🗃️ Analyzing version https://www.discogs.com/release/6739506
+Rick Davies: Music By, Lyrics By [Text]
+Roger Hodgson: Music By, Lyrics By [Text]
 🗃️ Analyzing version https://www.discogs.com/release/11369608
+Rick Davies: Music By, Lyrics By [Text]
+Roger Hodgson: Music By, Lyrics By [Text]
 🗃️ Analyzing version https://www.discogs.com/release/1480521
+Rick Davies: Music By, Lyrics By [Text]
+Roger Hodgson: Music By, Lyrics By [Text]
 ❌ 1984 - Supertramp - "Die Songs Einer Supergruppe"
 (https://www.discogs.com/master/119642)
 No valid version found
@@ -832,8 +1220,10 @@ Rejected genre(s): Rock,Non-Music
 Analyzing release https://www.discogs.com/release/2774976
 🗃️ Looking at alternate version(s) from 1985
 🗃️ Analyzing version https://www.discogs.com/release/27073434
+Rick Davies: Music By, Lyrics By
 ⌛ 1985 - Supertramp - "Better Days" (Single)
 https://www.discogs.com/release/27073434-Supertramp-Better-Days
+Rick Davies: Music By, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/20304460
 🗃️ Looking at alternate version(s) from 1985
@@ -850,10 +1240,16 @@ Analyzing release https://www.discogs.com/release/10725862
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3648249
+Rick Davies: Producer, Written-By
 ⌛ 1985-07-19 - Supertramp - "Still In Love / No Inbetween" (Unknown)
 https://www.discogs.com/release/3648249-Supertramp-Still-In-Love-No-Inbetween
+Rick Davies: Producer, Written-By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/736899
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone [Saxophones]
+Rick Davies: Music By, Lyrics By, Vocals, Keyboards
 🗓️ Imprecise date (1985) for "Brother Where You Bound"
 🗃️ Looking at alternate version(s) from 1985
 🗃️ Analyzing version https://www.discogs.com/release/4035837
@@ -879,10 +1275,21 @@ Analyzing release https://www.discogs.com/release/736899
 Found better release date: 1985-06-00
 💿 1985-06-00 - Supertramp - "Brother Where You Bound"
 https://www.discogs.com/release/736899-Supertramp-Brother-Where-You-Bound
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone [Saxophones]
+Rick Davies: Music By, Lyrics By, Vocals, Keyboards
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/4106612
-⌛ 1985 - Supertramp - "Cannonball" (Unknown)
-https://www.discogs.com/release/4106612-Supertramp-Cannonball
+🗃️ Looking at alternate version(s) from 1985
+🗃️ Analyzing version https://www.discogs.com/release/13968287
+🗃️ Analyzing version https://www.discogs.com/release/2401138
+Rick Davies: Written-By, Producer
+🗃️ Analyzing version https://www.discogs.com/release/407946
+Rick Davies: Written-By, Producer
+⌛ 1985 - Supertramp - "Cannonball" (Single)
+https://www.discogs.com/release/407946-Supertramp-Cannonball
+Rick Davies: Written-By, Producer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1986 - Supertramp - "Westwood One Startrak Profile "
@@ -905,8 +1312,20 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/527192
+🗃️ Looking at alternate version(s) from 1986
+🗃️ Analyzing version https://www.discogs.com/release/14123194
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Concept By, Keyboards, Vocals, Words By, Music By
+Roger Hodgson: Guitar, Keyboards, Vocals [Except On Cannonball]
 ⌛ 1986 - Supertramp - "The Autobiography Of Supertramp" (Compilation)
-https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp
+https://www.discogs.com/release/14123194-Supertramp-The-Autobiography-Of-Supertramp
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Concept By, Keyboards, Vocals, Words By, Music By
+Roger Hodgson: Guitar, Keyboards, Vocals [Except On Cannonball]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/12390611
 🗃️ Looking at alternate version(s) from 1986
@@ -920,6 +1339,12 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1373129
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Brass [Section], Saxophone
+Lee Thornburg: Brass [Section], Trumpet, Soloist
+Mark Hart: Keyboards, Guitar, Soloist [Guitar], Vocals [Additional], Music By, Lyrics By
+Rick Davies: Music By, Lyrics By, Producer [Produced By], Timbales, Vocals, Keyboards
 🗓️ Imprecise date (1987) for "Free As A Bird"
 🗃️ Looking at alternate version(s) from 1987
 🗃️ Analyzing version https://www.discogs.com/release/1355600
@@ -933,21 +1358,34 @@ Analyzing release https://www.discogs.com/release/1373129
 Found better release date: 1987-11-06
 💿 1987-11-06 - Supertramp - "Free As A Bird"
 https://www.discogs.com/release/1373129-Supertramp-Free-As-A-Bird
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Brass [Section], Saxophone
+Lee Thornburg: Brass [Section], Trumpet, Soloist
+Mark Hart: Keyboards, Guitar, Soloist [Guitar], Vocals [Additional], Music By, Lyrics By
+Rick Davies: Music By, Lyrics By, Producer [Produced By], Timbales, Vocals, Keyboards
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1065115
+Rick Davies: Producer, Written-By
 ⌛ 1987 - Supertramp - "Free As A Bird" (Single)
 https://www.discogs.com/release/1065115-Supertramp-Free-As-A-Bird
+Rick Davies: Producer, Written-By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/882745
+Rick Davies: Producer, Songwriter [Music & Lyrics]
 ⌛ 1987 - Supertramp - "I'm Beggin' You" (Unknown)
 https://www.discogs.com/release/882745-Supertramp-Im-Beggin-You
+Rick Davies: Producer, Songwriter [Music & Lyrics]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Roger Hodgson: Written-By, Producer
 ❌ 1988 - Supertramp - "Compact Hits"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Rick Davies: Songwriter
+Roger Hodgson: Songwriter
 ❌ 1988 - Supertramp - "Breakfast In America (Live)"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -968,13 +1406,20 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5835909
+Rick Davies: Producer, Words By, Music By
 🗃️ Looking at alternate version(s) from 1988
 🗃️ Analyzing version https://www.discogs.com/release/2332053
+Rick Davies: Producer
 ❌ 1988 - Supertramp - "I'm Your Hoochie Cooche Man"
 (https://www.discogs.com/master/703388)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13339667
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Mark Hart: Keyboards, Guitar, Vocals
+Rick Davies: Piano, Vocals, Producer
 🗓️ Imprecise date (1988) for "Live '88"
 🗃️ Looking at alternate version(s) from 1988
 🗃️ Analyzing version https://www.discogs.com/release/3887161
@@ -986,20 +1431,57 @@ Analyzing release https://www.discogs.com/release/13339667
 Found better release date: 1988-11-21
 💿 1988-11-21 - Supertramp - "Live '88"
 https://www.discogs.com/release/13339667-Supertramp-Live-88
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Mark Hart: Keyboards, Guitar, Vocals
+Rick Davies: Piano, Vocals, Producer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7228938
+Rick Davies: Producer [Produced By], Written-By
 ⌛ 1988 - Supertramp - "It's Alright" (Single)
 https://www.discogs.com/release/7228938-Supertramp-Its-Alright
+Rick Davies: Producer [Produced By], Written-By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2558598
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Keyboards, Vocals, Written-By, Producer
+Roger Hodgson: Guitar, Keyboards, Vocals
 ⌛ 1990 - Supertramp - "The Very Best Of Supertramp" (Compilation)
 https://www.discogs.com/release/2558598-Supertramp-The-Very-Best-Of-Supertramp
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Keyboards, Vocals, Written-By, Producer
+Roger Hodgson: Guitar, Keyboards, Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5941128
+Bob Siebenberg: Performer
+Dougie Thomson: Performer
+John Helliwell: Performer
+Rick Davies: Performer
+Roger Hodgson: Performer
 🗃️ Looking at alternate version(s) from 1990
 🗃️ Analyzing version https://www.discogs.com/release/10392140
+Bob Siebenberg: Performer
+Dougie Thomson: Performer
+John Helliwell: Performer
+Rick Davies: Performer
+Roger Hodgson: Performer
 🗃️ Analyzing version https://www.discogs.com/release/13562634
+Bob Siebenberg: Performer
+Dougie Thomson: Performer
+John Helliwell: Performer
+Rick Davies: Performer
+Roger Hodgson: Performer
 🗃️ Analyzing version https://www.discogs.com/release/2735732
+Bob Siebenberg: Performer
+Dougie Thomson: Performer
+John Helliwell: Performer
+Rick Davies: Performer
+Roger Hodgson: Performer
 ❌ 1990 - Supertramp - "The Story So Far..."
 (https://www.discogs.com/master/258351)
 No valid version found
@@ -1020,8 +1502,18 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/782129
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Keyboards, Lyrics By, Producer, Songwriter [Music], Vocals
+Roger Hodgson: Guitar, Keyboards, Lyrics By, Songwriter [Music], Vocals
 ⌛ 1992 - Supertramp - "The Very Best Of Supertramp 2" (Compilation)
 https://www.discogs.com/release/782129-Supertramp-The-Very-Best-Of-Supertramp-2
+Bob Siebenberg: Drums
+Dougie Thomson: Bass
+John Helliwell: Saxophone
+Rick Davies: Keyboards, Lyrics By, Producer, Songwriter [Music], Vocals
+Roger Hodgson: Guitar, Keyboards, Lyrics By, Songwriter [Music], Vocals
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1994 - Supertramp - "In The Studio - 'Breakfast In America'"
@@ -1044,8 +1536,9 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 1997 - Paul McCartney, Supertramp - "Young Boy / You Win, I Lose" (Unknown)
-https://www.discogs.com/release/8254595-Paul-McCartney-Supertramp-Young-Boy-You-Win-I-Lose
+❌ 1997 - Paul McCartney / Supertramp - "Young Boy / You Win, I Lose"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1997 - Supertramp - "Some Things Never Change"
@@ -1056,21 +1549,34 @@ Analyzing release https://www.discogs.com/release/4476884
 🗃️ Looking at alternate version(s) from 1997
 🗃️ Analyzing version https://www.discogs.com/release/1784855
 🗃️ Analyzing version https://www.discogs.com/release/13653763
-⌛ 1997 - Supertramp - "Sooner Or Later" (Maxi-Single)
-https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later
+❌ 1997 - Supertramp - "Sooner Or Later"
+(https://www.discogs.com/master/547377)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2417257
 🗃️ Looking at alternate version(s) from 1997
 🗃️ Analyzing version https://www.discogs.com/release/2397297
 🗃️ Analyzing version https://www.discogs.com/release/2565886
+Rick Davies: Executive-Producer, Music By, Lyrics By
 ⌛ 1997 - Supertramp - "You Win, I Lose" (Single)
 https://www.discogs.com/release/2565886-Supertramp-You-Win-I-Lose
+Rick Davies: Executive-Producer, Music By, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3571073
+Rick Davies: Music By, Lyrics By, Executive Producer
 ⌛ 1997 - Supertramp - "Listen To Me Please" (Maxi-Single)
 https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
+Rick Davies: Music By, Lyrics By, Executive Producer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1138644
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone, Backing Vocals
+Mark Hart: Vocals, Keyboards, Guitar, Written-By
+Rick Davies: Executive-Producer, Vocals, Keyboards, Written-By
+Tom Walsh: Percussion
 🗓️ Imprecise date (1997) for "Some Things Never Change"
 🗃️ Looking at alternate version(s) from 1997
 🗃️ Analyzing version https://www.discogs.com/release/10795996
@@ -1098,6 +1604,14 @@ Analyzing release https://www.discogs.com/release/1138644
 Found better release date: 1997-04-28
 💿 1997-04-28 - Supertramp - "Some Things Never Change"
 https://www.discogs.com/release/1138644-Supertramp-Some-Things-Never-Change
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone, Backing Vocals
+Mark Hart: Vocals, Keyboards, Guitar, Written-By
+Rick Davies: Executive-Producer, Vocals, Keyboards, Written-By
+Tom Walsh: Percussion
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1998 - Supertramp - "Superstar Concert Series"
@@ -1125,6 +1639,14 @@ Analyzing release https://www.discogs.com/release/undefined
 Rejected genre(s): Rock,Non-Music
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/903197
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Jesse Siebenberg: Percussion
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone
+Mark Hart: Vocals, Keyboards, Guitar, Words By, Music By
+Rick Davies: Vocals, Keyboards, Harmonica, Producer, Liner Notes, Words By, Music By
 🗓️ Imprecise date (1999) for "It Was The Best Of Times"
 🗃️ Looking at alternate version(s) from 1999
 🗃️ Analyzing version https://www.discogs.com/release/4110466
@@ -1134,10 +1656,19 @@ Analyzing release https://www.discogs.com/release/903197
 Found better release date: 1999-04-12
 💿 1999-04-12 - Supertramp - "It Was The Best Of Times"
 https://www.discogs.com/release/903197-Supertramp-It-Was-The-Best-Of-Times
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Jesse Siebenberg: Percussion
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone
+Mark Hart: Vocals, Keyboards, Guitar, Words By, Music By
+Rick Davies: Vocals, Keyboards, Harmonica, Producer, Liner Notes, Words By, Music By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-⌛ 2000 - Supertramp - "Star Profile" (Compilation)
-https://www.discogs.com/release/16048043-Supertramp-Star-Profile
+❌ 2000 - Supertramp - "Star Profile"
+(https://www.discogs.com/release/undefined)
+No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2002 - Supertramp - "Over You"
@@ -1165,6 +1696,14 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/1492418
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Jesse Siebenberg: Percussion, Backing Vocals
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone, Backing Vocals
+Mark Hart: Co-producer, Keyboards, Guitar, Backing Vocals
+Rick Davies: Producer, Vocals, Keyboards, Harmonica, Words By, Music By
 🗓️ Imprecise date (2002) for "Slow Motion"
 🗃️ Looking at alternate version(s) from 2002
 🗃️ Analyzing version https://www.discogs.com/release/24288122
@@ -1206,8 +1745,18 @@ Analyzing release https://www.discogs.com/release/1492418
 🗓️ No better date found
 💿 2002 - Supertramp - "Slow Motion"
 https://www.discogs.com/release/1492418-Supertramp-Slow-Motion
+Bob Siebenberg: Drums
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Jesse Siebenberg: Percussion, Backing Vocals
+John Helliwell: Saxophone, Woodwind
+Lee Thornburg: Trumpet, Trombone, Backing Vocals
+Mark Hart: Co-producer, Keyboards, Guitar, Backing Vocals
+Rick Davies: Producer, Vocals, Keyboards, Harmonica, Words By, Music By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2633513
+Mark Hart: Co-producer
+Rick Davies: Producer, Written-By
 🗃️ Looking at alternate version(s) from 2002
 🗃️ Analyzing version https://www.discogs.com/release/11407384
 🗃️ Analyzing version https://www.discogs.com/release/1899649
@@ -1231,8 +1780,36 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/587270
+Bob Siebenberg: Drums, Percussion
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Dave Winthrop: Flute, Saxophone, Vocals
+Dougie Thomson: Bass
+Frank Farrell: Bass Guitar, Piano, Accordion, Harmony Vocals
+Jesse Siebenberg: Percussion, Backing Vocals
+John Helliwell: Clarinet, Keyboards, Saxophone, Vocals, Woodwind, Brass Band [Brass Section]
+Kevin Currie: Percussion
+Lee Thornburg: Trombone, Trumpet, Brass Band [Brass Section], Trumpet [Solo], Backing Vocals
+Mark Hart: Guitar, Keyboards, Vocals, Guitar [Solo], Backing Vocals, Co-producer
+Rick Davies: Compilation Producer, Harmonica, Keyboards, Producer, Vocals, Written-By, Timbales, Executive-Producer
+Roger Hodgson: Guitar, Keyboards, Piano, Vocals, Bass Guitar, Acoustic Guitar, Lead Guitar
+Tom Walsh: Percussion
 ⌛ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology)" (Compilation)
 https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology
+Bob Siebenberg: Drums, Percussion
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Dave Winthrop: Flute, Saxophone, Vocals
+Dougie Thomson: Bass
+Frank Farrell: Bass Guitar, Piano, Accordion, Harmony Vocals
+Jesse Siebenberg: Percussion, Backing Vocals
+John Helliwell: Clarinet, Keyboards, Saxophone, Vocals, Woodwind, Brass Band [Brass Section]
+Kevin Currie: Percussion
+Lee Thornburg: Trombone, Trumpet, Brass Band [Brass Section], Trumpet [Solo], Backing Vocals
+Mark Hart: Guitar, Keyboards, Vocals, Guitar [Solo], Backing Vocals, Co-producer
+Rick Davies: Compilation Producer, Harmonica, Keyboards, Producer, Vocals, Written-By, Timbales, Executive-Producer
+Roger Hodgson: Guitar, Keyboards, Piano, Vocals, Bass Guitar, Acoustic Guitar, Lead Guitar
+Tom Walsh: Percussion
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5811393
 🗃️ Looking at alternate version(s) from 2009
@@ -1284,11 +1861,25 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Bob Siebenberg: Drums, Percussion
+Carl Verheyen: Guitar, Backing Vocals
+Cliff Hugo: Bass
+Jesse Siebenberg: Guitar, Keyboards, Percussion, Lead Vocals, Backing Vocals
+John Helliwell: Saxophone, Clarinet, Melodica, Backing Vocals, MC
+Lee Thornburg: Trumpet, Tuba, Melodica, Keyboards, Backing Vocals
+Rick Davies: Keyboards, Harmonica, Lead Vocals, Backing Vocals
 ❌ 2010 - Supertramp - "70-10 Tour Live (Hamburg 26-09-2010)"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Bob Siebenberg: Drums, Body Percussion
+Carl Verheyen: Guitar, Backing Vocals
+Cliff Hugo: Bass
+Jesse Siebenberg: Keyboards, Guitar, Lead Vocals, Backing Vocals, Percussion
+John Helliwell: Saxophone, Clarinet, Melodica, Backing Vocals, MC
+Lee Thornburg: Trumpet, Tuba, Melodica, Keyboards, Backing Vocals
+Rick Davies: Keyboards, Lead Vocals, Backing Vocals, Harmonica
 ❌ 2010 - Supertramp - "70-10 Tour Live (Paris 18-10-2010)"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -1314,12 +1905,37 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3837154
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Woodwind, Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗃️ Looking at alternate version(s) from 2012
 🗃️ Analyzing version https://www.discogs.com/release/4571007
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Woodwind, Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗃️ Analyzing version https://www.discogs.com/release/3817130
 🗃️ Analyzing version https://www.discogs.com/release/4718221
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Woodwind, Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗃️ Analyzing version https://www.discogs.com/release/15472279
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Woodwind, Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗃️ Analyzing version https://www.discogs.com/release/16191489
+Bob Siebenberg: Drums, Percussion
+Dougie Thomson: Bass
+John Helliwell: Woodwind, Vocals
+Rick Davies: Vocals, Keyboards
+Roger Hodgson: Vocals, Guitar, Keyboards
 🗃️ Analyzing version https://www.discogs.com/release/12620391
 🗃️ Analyzing version https://www.discogs.com/release/10093526
 ❌ 2011 - Supertramp - "Live In Paris '79"
@@ -1327,6 +1943,8 @@ Analyzing release https://www.discogs.com/release/3837154
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Rick Davies: Songwriter
+Roger Hodgson: Songwriter
 ❌ 2022 - Supertramp - "Goodbye Stranger (Random House Project's Undisputed Truth Remake)"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -4201,7 +4819,7 @@ Rejected release role: UnofficialRelease
 (https://www.discogs.com/master/25508)" (skipping, already accepted)
 ———————————————————————————————————————————————————————————————
 ↷ "1990 - Supertramp - "Is Everybody Listening?"
-(https://www.discogs.com/master/373734)" (skipping, already accepted)
+(https://www.discogs.com/master/373734)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7719596
 ❌ 1991 - Supertramp - "Soap Box Opera"
@@ -4895,140 +5513,20 @@ Rejected release role: UnofficialRelease
 ↷ "unknown date - Various - "The Summit"
 (https://www.discogs.com/master/1036779)" (skipping, already rejected)
 ———————————————————————————————————————————————————————————————
-🗓️ Imprecise date (1974) for "Land Ho / Summer Romance"
-🗓️ No better date found
-❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned" (Unknown)
-https://www.discogs.com/release/5707677-Supertramp-Your-Poppa-Dont-Mind-Rosie-Had-Everything-Planned
-No new tracks
-———————————————————————————————————————————————————————————————
-Found candidate with 2 unregistered track(s):
-🎵 Land Ho
-🎵 Summer Romance
-💿 1974-03-01 - Supertramp - "Land Ho " (Single)
-https://www.discogs.com/release/3402272-Supertramp-Land-Ho-
-———————————————————————————————————————————————————————————————
-❌ 1974-11-01 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/721754-Supertramp-Dreamer
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Bloody Well Right" (Single)
-https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Land Ho / Summer Romance" (Single)
-https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1975 - Supertramp - "Sister Moonshine " (Single)
-https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1976 - Supertramp - "Ain't Nobody But Me" (Single)
-https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1976 - Supertramp - "Lady" (Single)
-https://www.discogs.com/release/2469812-Supertramp-Lady
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1977 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/3347037-Supertramp-Dreamer
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1977 - Supertramp - "Give A Little Bit" (Single)
-https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1978 - Supertramp - "4 Sucessos" (EP)
-https://www.discogs.com/release/4282303-Supertramp-4-Sucessos
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1978 - Supertramp - "Babaji" (Single)
-https://www.discogs.com/release/1422180-Supertramp-Babaji
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1979-10-00 - Supertramp - "Take The Long Way Home" (Single)
-https://www.discogs.com/release/13133010-Supertramp-Take-The-Long-Way-Home
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Breakfast In America" (Single)
-https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Breakfast In America" (Single)
-https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp, Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll" (Unknown)
-https://www.discogs.com/release/15409597-Supertramp-Atlantic-Starr-Even-In-The-Quietest-Moments-Lets-Rock-N-Roll
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Goodbye Stranger" (Single)
-https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger
+https://www.discogs.com/release/4392041-Supertramp-Take-The-Long-Way-Home
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp, Chicago - "Goodbye Stranger / Must Have Been Crazy" (Unknown)
 https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Must-Have-Been-Crazy
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1979 - Anita Ward, Supertramp - "Ring My Bell / The Logical Song" (Unknown)
-https://www.discogs.com/release/7598284-Anita-Ward-Supertramp-Ring-My-Bell-The-Logical-Song
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song" (Single)
-https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song" (Single)
-https://www.discogs.com/release/444840-Supertramp-The-Logical-Song
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Dreamer" (Single)
-https://www.discogs.com/release/6027501-Supertramp-Dreamer
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia" (Unknown)
-https://www.discogs.com/release/2673783-Supertramp-Francis-Cabrel-Dreamer-Questa-Specie-Di-Poesia
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home" (EP)
-https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Lord Is It Mine" (Single)
-https://www.discogs.com/release/13677228-Supertramp-Lord-Is-It-Mine
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Take The Long Way Home [Live Version]" (Single)
-https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1982 - KC & The Sunshine Band, Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again" (Unknown)
-https://www.discogs.com/release/6782259-KC-The-Sunshine-Band-Supertramp-You-Said-Youd-Gimme-Some-More-Its-Raining-Again
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "Crazy" (Unknown)
-https://www.discogs.com/release/999816-Supertramp-Crazy
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "It's Raining Again" (Single)
-https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "My Kind Of Lady" (Single)
 https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "Don't Leave Me Now" (Single)
-https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1983 - Ivano Fossati, Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady" (Unknown)
-https://www.discogs.com/release/3632856-Ivano-Fossati-Supertramp-La-Musica-Che-Gira-Intorno-My-Kind-Of-Lady
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "School" (Unknown)
-https://www.discogs.com/release/2210323-Supertramp-School
+❌ 1982 - Supertramp - "It's Raining Again" (Single)
+https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1985-07-19 - Supertramp - "Still In Love / No Inbetween" (Unknown)
@@ -5039,12 +5537,12 @@ No new tracks
 https://www.discogs.com/release/27073434-Supertramp-Better-Days
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Cannonball" (Unknown)
-https://www.discogs.com/release/4106612-Supertramp-Cannonball
+❌ 1985 - Supertramp - "Cannonball" (Single)
+https://www.discogs.com/release/407946-Supertramp-Cannonball
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "The Autobiography Of Supertramp" (Compilation)
-https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp
+https://www.discogs.com/release/14123194-Supertramp-The-Autobiography-Of-Supertramp
 No new tracks
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - Supertramp - "Free As A Bird" (Single)
@@ -5067,27 +5565,31 @@ No new tracks
 https://www.discogs.com/release/782129-Supertramp-The-Very-Best-Of-Supertramp-2
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1997 - Supertramp - "Listen To Me Please" (Maxi-Single)
-https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 1997 - Supertramp - "Sooner Or Later" (Maxi-Single)
-https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later
-No new tracks
-———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "You Win, I Lose" (Single)
 https://www.discogs.com/release/2565886-Supertramp-You-Win-I-Lose
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 1997 - Paul McCartney, Supertramp - "Young Boy / You Win, I Lose" (Unknown)
-https://www.discogs.com/release/8254595-Paul-McCartney-Supertramp-Young-Boy-You-Win-I-Lose
+❌ 1997 - Supertramp - "Listen To Me Please" (Maxi-Single)
+https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
 No new tracks
 ———————————————————————————————————————————————————————————————
-❌ 2000 - Supertramp - "Star Profile" (Compilation)
-https://www.discogs.com/release/16048043-Supertramp-Star-Profile
-No new tracks
-———————————————————————————————————————————————————————————————
-❌ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology)" (Compilation)
+Found candidate with 2 unregistered track(s):
+🎵 Land Ho
+🎵 Summer Romance
+💿 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology)" (Compilation)
 https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology
-No new tracks
+Bob Siebenberg: Drums, Percussion
+Carl Verheyen: Guitar
+Cliff Hugo: Bass
+Dave Winthrop: Flute, Saxophone, Vocals
+Dougie Thomson: Bass
+Frank Farrell: Bass Guitar, Piano, Accordion, Harmony Vocals
+Jesse Siebenberg: Percussion, Backing Vocals
+John Helliwell: Clarinet, Keyboards, Saxophone, Vocals, Woodwind, Brass Band [Brass Section]
+Kevin Currie: Percussion
+Lee Thornburg: Trombone, Trumpet, Brass Band [Brass Section], Trumpet [Solo], Backing Vocals
+Mark Hart: Guitar, Keyboards, Vocals, Guitar [Solo], Backing Vocals, Co-producer
+Rick Davies: Compilation Producer, Harmonica, Keyboards, Producer, Vocals, Written-By, Timbales, Executive-Producer
+Roger Hodgson: Guitar, Keyboards, Piano, Vocals, Bass Guitar, Acoustic Guitar, Lead Guitar
+Tom Walsh: Percussion
 ———————————————————————————————————————————————————————————————

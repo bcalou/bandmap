@@ -256,7 +256,7 @@ export class Discography {
     this.releases.forEach((release) => {
       this.logger.logSuccess(`💿 ${release.release.label}`);
       this.logUnregisteredTracks(release);
-      // this.logger.log(release.release.formattedCredits);
+      this.logger.log(release.release.formattedCredits);
       this.logger.logSeparator();
     });
   }

@@ -1,9 +1,5 @@
 23 rejected release(s):
 ———————————————————————————————————————————————————————————————
-❌ unknown date - Moon Safari - "Moon Romantic Special" (Compilation)
-https://www.discogs.com/release/32469678-Moon-Safari-Moon-Romantic-Special
-(No new tracks)
-———————————————————————————————————————————————————————————————
 ❌ 2005 - The Flower Kings - "Fanclub CD 2005 : Harvest"
 (https://www.discogs.com/release/undefined)
 (Rejected artist(s): The Flower Kings)
@@ -68,9 +64,9 @@ https://www.discogs.com/release/4045354-Moon-Safari-Lovers-End-Pt-III-Skellefte�
 (https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 2015-12-16 - Moon Safari - "Best Of (2005-2013)" (Compilation)
-https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
-(No new tracks)
+❌ 2015 - Moon Safari - "Best Of (2005-2013)"
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 2016 - Adam Holzman & Moon Safari - "Two In One (Spork / Live In Mexico)"
 (https://www.discogs.com/release/undefined)
@@ -91,4 +87,8 @@ https://www.discogs.com/release/9450160-Moon-Safari-Best-Of-2005-2013
 ❌ 2024 - Various - "PROG Presents: Discovering Summer's End Festival"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
+———————————————————————————————————————————————————————————————
+❌ unknown date - Moon Safari - "Moon Romantic Special"
+(https://www.discogs.com/release/undefined)
+(No valid version found)
 ———————————————————————————————————————————————————————————————

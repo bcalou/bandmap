@@ -1,16 +1,10 @@
-87 track(s):
+78 track(s):
+———————————————————————————————————————————————————————————————
+1985
+Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
 1985
 Release(s): Affinity
-———————————————————————————————————————————————————————————————
-1985
-Release(s): Affinity
-———————————————————————————————————————————————————————————————
-1985
-Release(s): L-1VE
-———————————————————————————————————————————————————————————————
-A Cell Divides
-Release(s): Vector
 ———————————————————————————————————————————————————————————————
 A Cell Divides
 Release(s): Vector
@@ -35,7 +29,7 @@ Because It's There
 Release(s): The Mountain
 ———————————————————————————————————————————————————————————————
 Beneath The White Rainbow
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Bound By Gravity
 Release(s): Affinity
@@ -57,9 +51,6 @@ Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Celestial Elixir
 Release(s): Aquarius
-———————————————————————————————————————————————————————————————
-Clear
-Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Clear
 Release(s): Vector
@@ -98,20 +89,17 @@ Earthrise
 Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Elephants Never Forget
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Eternal Rain
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Eyes Of Ebony
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Falling Back To Earth
 Sub tracks: Part 1: Rise, Part 2: Fall
 Release(s): The Mountain
-———————————————————————————————————————————————————————————————
-Host
-Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Host
 Release(s): Vector
@@ -136,7 +124,7 @@ Invasion
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Island In The Clouds
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Lapse
 Release(s): Affinity
@@ -145,7 +133,7 @@ Lapse
 Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Lovebite
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Messiah Complex
 Sub tracks: Ivory Tower, A Glutton For Punishment, Marigold, The Sect, Ectobius Rex
@@ -156,10 +144,7 @@ Sub tracks: Ivory Tower, A Glutton For Punishment, Marigold, The Sect, Ectobius 
 Release(s): Virus
 ———————————————————————————————————————————————————————————————
 Nightingale
-Release(s): Fauna, Liveforms: Fauna Live In London
-———————————————————————————————————————————————————————————————
-Nil By Mouth
-Release(s): Vector
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Nil By Mouth
 Release(s): Vector
@@ -191,9 +176,6 @@ Release(s): Virus
 Puzzle Box
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-Puzzle Box
-Release(s): Vector
-———————————————————————————————————————————————————————————————
 Red Giant
 Release(s): Affinity, L-1VE
 ———————————————————————————————————————————————————————————————
@@ -201,7 +183,7 @@ Red Giant
 Release(s): Affinity
 ———————————————————————————————————————————————————————————————
 Sempiternal Beings
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 Shapeshifter
 Release(s): Visions
@@ -217,10 +199,10 @@ Sun
 Release(s): Aquarius
 ———————————————————————————————————————————————————————————————
 Taurus
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 The Alphabet Of Me
-Release(s): Fauna, Liveforms: Fauna Live In London
+Release(s): Fauna
 ———————————————————————————————————————————————————————————————
 The Architect
 Release(s): Affinity, L-1VE
@@ -237,13 +219,7 @@ Release(s): Affinity
 The Good Doctor
 Release(s): Vector
 ———————————————————————————————————————————————————————————————
-The Good Doctor
-Release(s): Vector
-———————————————————————————————————————————————————————————————
-The Last Lullaby
-Release(s): Liveforms: Fauna Live In London
-———————————————————————————————————————————————————————————————
-The Mind’s Eye
+The Mind's Eye
 Release(s): Visions
 ———————————————————————————————————————————————————————————————
 The Path
@@ -257,9 +233,6 @@ Release(s): Virus
 ———————————————————————————————————————————————————————————————
 The Strain
 Release(s): Virus
-———————————————————————————————————————————————————————————————
-Veil
-Release(s): Vector
 ———————————————————————————————————————————————————————————————
 Veil
 Release(s): Vector

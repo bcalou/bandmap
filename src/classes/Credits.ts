@@ -42,7 +42,7 @@ export class Credits {
 
   // Reject if the artist if the associate role is only writing, interviewee...
   public async heuristicRejectNoCredits(): Promise<RejectReason | null> {
-    this.credits = this.extractCredits();
+    // this.credits = this.extractCredits();
 
     if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
 
@@ -57,9 +57,15 @@ export class Credits {
     return null;
   }
 
+  public hasValidCredits() {
+    this.extractCredits();
+    this.logger.log(this.formattedCredits);
+    return !!this.formattedCredits;
+  }
+
   // Extract the credits from the extra artists list
-  public extractCredits(): Credit[] {
-    return [...this.release.extraArtists, ...this.getTracklistCredits()]
+  public extractCredits() {
+    this.credits = [...this.release.extraArtists, ...this.getTracklistCredits()]
       .filter((artist) => this.mainBand.isArtistConnectedToBand(artist.id))
       .reduce(this.appendExtraArtistToCredits.bind(this), [])
       .map((credit) => ({
@@ -118,6 +124,7 @@ export class Credits {
   // Get the extra artist credits from the tracklist
   private getTracklistCredits(): DCExtraArtist[] {
     return this.release.tracklist
+      .getValidTracks()
       .flatMap((track) => track.extraartists ?? [])
       .filter((trackCredits) => trackCredits !== undefined);
   }

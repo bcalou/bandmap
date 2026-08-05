@@ -154,11 +154,7 @@ export class Release {
 
   // Is this release a valid version?
   private isValidVersion() {
-    return (
-      this.tracklist.isValid() &&
-      this.credits.hasValidCredits() &&
-      this.formats.isValidFormatList()
-    );
+    return this.tracklist.isValid() && this.formats.isValidFormatList();
   }
 
   // Return the version list
@@ -187,7 +183,7 @@ export class Release {
 
     if (!version) return null;
 
-    return new Release(await this.api.getRelease(versionId), this.mainBand);
+    return new Release(version, this.mainBand);
   }
 
   // Shortcut to the credit extract method for this release

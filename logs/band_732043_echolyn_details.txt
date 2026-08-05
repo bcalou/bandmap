@@ -86,11 +86,6 @@
 🎼 echolyn: 56 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5154821
-Brett Kull: Bass, Engineer, Guitar, Lead Vocals, Backing Vocals, Lyrics By
-Christopher Buzby: Arranged By [String Parts Written And Arranged By], Keyboards, Backing Vocals, Lyrics By
-Paul Ramsey: Drums, Percussion, Backing Vocals, Photography By [Tray Card]
-Ray Weston: Bass, Lead Vocals, Backing Vocals, Lyrics By
-Tom Hyatt: Bass
 🗓️ Imprecise date (1991) for "echolyn"
 🗃️ Looking at alternate version(s) from 1991
 🗃️ Analyzing version https://www.discogs.com/release/3651443
@@ -98,39 +93,24 @@ Tom Hyatt: Bass
 🗓️ No better date found
 💿 1991 - echolyn - "echolyn"
 https://www.discogs.com/release/5154821-echolyn-echolyn
-Brett Kull: Bass, Engineer, Guitar, Lead Vocals, Backing Vocals, Lyrics By
-Christopher Buzby: Arranged By [String Parts Written And Arranged By], Keyboards, Backing Vocals, Lyrics By
-Paul Ramsey: Drums, Percussion, Backing Vocals, Photography By [Tray Card]
-Ray Weston: Bass, Lead Vocals, Backing Vocals, Lyrics By
-Tom Hyatt: Bass
+🎤 Brett Kull: Bass, Engineer, Guitar, Lead Vocals, Backing Vocals, Lyrics By
+🎤 Christopher Buzby: Arranged By [String Parts Written And Arranged By], Keyboards, Backing Vocals, Lyrics By
+🎤 Paul Ramsey: Drums, Percussion, Backing Vocals, Photography By [Tray Card]
+🎤 Ray Weston: Bass, Lead Vocals, Backing Vocals, Lyrics By
+🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3653657
-Brett Kull: Guitar, Vocals
-Christopher Buzby: Backing Vocals, Keyboards
-Paul Ramsey: Backing Vocals, Drums
-Ray Weston: Bass, Vocals
-Tom Hyatt: Bass
 💿 1992-11-28 - echolyn - "Suffocating The Bloom"
 https://www.discogs.com/release/3653657-echolyn-Suffocating-The-Bloom
-Brett Kull: Guitar, Vocals
-Christopher Buzby: Backing Vocals, Keyboards
-Paul Ramsey: Backing Vocals, Drums
-Ray Weston: Bass, Vocals
-Tom Hyatt: Bass
+🎤 Brett Kull: Guitar, Vocals
+🎤 Christopher Buzby: Backing Vocals, Keyboards
+🎤 Paul Ramsey: Backing Vocals, Drums
+🎤 Ray Weston: Bass, Vocals
+🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-Brett Kull: Acoustic Guitar, Lead Vocals, Backing Vocals, Lyrics By
-Christopher Buzby: Piano, Autoharp, Backing Vocals
-Paul Ramsey: Percussion [Various Percussion]
-Ray Weston: Lead Vocals, Backing Vocals, Lyrics By
-Tom Hyatt: Bass [Fretless Bass]
 ⌛ 1993 - echolyn - "...And Every Blossom" (EP)
 https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
-Brett Kull: Acoustic Guitar, Lead Vocals, Backing Vocals, Lyrics By
-Christopher Buzby: Piano, Autoharp, Backing Vocals
-Paul Ramsey: Percussion [Various Percussion]
-Ray Weston: Lead Vocals, Backing Vocals, Lyrics By
-Tom Hyatt: Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 1994 - echolyn - "As The World Sampler"
@@ -138,11 +118,6 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/872981
-Brett Kull: Guitar [Guitars], Lead Vocals, Backing Vocals
-Christopher Buzby: Arranged By [Orchestral Parts Arranged By], Conductor, Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion, Photography By [Contributing Photos]
-Ray Weston: Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, MIDI Controller [MIDI Pedals]
 🗓️ Imprecise date (1995) for "As The World"
 🗃️ Looking at alternate version(s) from 1995
 🗃️ Analyzing version https://www.discogs.com/release/7859275
@@ -156,18 +131,13 @@ Tom Hyatt: Bass, MIDI Controller [MIDI Pedals]
 🗓️ No better date found
 💿 1995 - echolyn - "As The World"
 https://www.discogs.com/release/872981-echolyn-As-The-World
-Brett Kull: Guitar [Guitars], Lead Vocals, Backing Vocals
-Christopher Buzby: Arranged By [Orchestral Parts Arranged By], Conductor, Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion, Photography By [Contributing Photos]
-Ray Weston: Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, MIDI Controller [MIDI Pedals]
+🎤 Brett Kull: Guitar [Guitars], Lead Vocals, Backing Vocals
+🎤 Christopher Buzby: Arranged By [Orchestral Parts Arranged By], Conductor, Keyboards, Backing Vocals
+🎤 Paul Ramsey: Drums, Percussion, Photography By [Contributing Photos]
+🎤 Ray Weston: Lead Vocals, Backing Vocals
+🎤 Tom Hyatt: Bass, MIDI Controller [MIDI Pedals]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2739522
-Brett Kull: Lead Guitar, Backing Vocals
-Christopher Buzby: Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion
-Ray Weston: Bass, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass
 🗓️ Imprecise date (1996) for "When The Sweet Turns Sour"
 🗃️ Looking at alternate version(s) from 1996
 🗃️ Analyzing version https://www.discogs.com/release/4337055
@@ -177,11 +147,11 @@ Tom Hyatt: Bass
 Found better release date: 1996-07-25
 💿 1996-07-25 - echolyn - "When The Sweet Turns Sour"
 https://www.discogs.com/release/2739522-echolyn-When-The-Sweet-Turns-Sour
-Brett Kull: Lead Guitar, Backing Vocals
-Christopher Buzby: Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion
-Ray Weston: Bass, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass
+🎤 Brett Kull: Lead Guitar, Backing Vocals
+🎤 Christopher Buzby: Keyboards, Backing Vocals
+🎤 Paul Ramsey: Drums, Percussion
+🎤 Ray Weston: Bass, Lead Vocals, Backing Vocals
+🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2000 - echolyn - "2-song CD Sampler 2000 (2)"
@@ -189,21 +159,16 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5099825
-Brett Kull: Edited By [Digital Editing], Mastered By [Additional Mastering By], Electric Guitar, Lead Vocals, Backing Vocals, Music By, Words By, Guitar [Tremolo Wah Guitar], Lap Steel Guitar, E-Bow [Ebo], Acoustic Guitar, Acoustic Guitar [Acoustic Lap Guitar], Electric Guitar [Electric Lap Guitar], Mandolin, Toy Piano [Jaymar], Twelve-String Guitar [12-string Acoustic Guitar], Banjo [Indian Banjo], Guitar [Feedback Guitars], Guitar [Guitars]
-Christopher Buzby: Music By, Organ [Hammond], Electric Piano [Rhodes], Synth, Electric Piano [Wurlitzer], Organ [Table Organ], Talkbox, Backing Vocals, Dulcimer [Hammered Dulcimer], Clavinet, Soprano Saxophone, Piano, Voice [Count], Synth [Synths], Alto Saxophone, Harmonica, Melodeon, Ocarina, Bells [Wow Earthbell], Autoharp, Cajón, Words By, Accordion, Handclaps, Harpsichord, Recorder [Tenor Recorder], Recorder [Soprano Recorder]
-Jordan Perlson: Congas, Cowbell, Rainstick, Drums, Percussion [Snow Disc], Shaker, Tambourine, Bells [Concert Bells], Percussion [Riq], Bell Tree [Sleigh Bells], Music By, Tabla, Timbales, Snare, Bell Tree, Ashiko, Percussion [Brushes], Loops [Drum Loop], Handclaps
-Paul Ramsey: Drums, Bell Tree, Claves, Cymbal [Crash Cymbal], Drum [Floor Tom], Congas, Percussion [Quinto, Watering Pail], Shaker, Timbales, Loops [Drum Loop], Bell Tree [Sleigh Bells], Vibraslap, Tambourine, Wind Chimes, Guiro, Tabla, Bells [Concert Bells], Percussion
-Ray Weston: Bass, Backing Vocals, Lead Vocals, Words By, Narrator [Spoken Word]
 🗓️ Imprecise date (2000) for "Cowboy Poems Free"
 🗃️ Looking at alternate version(s) from 2000
 🗓️ No better date found
 💿 2000 - echolyn - "Cowboy Poems Free"
 https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free
-Brett Kull: Edited By [Digital Editing], Mastered By [Additional Mastering By], Electric Guitar, Lead Vocals, Backing Vocals, Music By, Words By, Guitar [Tremolo Wah Guitar], Lap Steel Guitar, E-Bow [Ebo], Acoustic Guitar, Acoustic Guitar [Acoustic Lap Guitar], Electric Guitar [Electric Lap Guitar], Mandolin, Toy Piano [Jaymar], Twelve-String Guitar [12-string Acoustic Guitar], Banjo [Indian Banjo], Guitar [Feedback Guitars], Guitar [Guitars]
-Christopher Buzby: Music By, Organ [Hammond], Electric Piano [Rhodes], Synth, Electric Piano [Wurlitzer], Organ [Table Organ], Talkbox, Backing Vocals, Dulcimer [Hammered Dulcimer], Clavinet, Soprano Saxophone, Piano, Voice [Count], Synth [Synths], Alto Saxophone, Harmonica, Melodeon, Ocarina, Bells [Wow Earthbell], Autoharp, Cajón, Words By, Accordion, Handclaps, Harpsichord, Recorder [Tenor Recorder], Recorder [Soprano Recorder]
-Jordan Perlson: Congas, Cowbell, Rainstick, Drums, Percussion [Snow Disc], Shaker, Tambourine, Bells [Concert Bells], Percussion [Riq], Bell Tree [Sleigh Bells], Music By, Tabla, Timbales, Snare, Bell Tree, Ashiko, Percussion [Brushes], Loops [Drum Loop], Handclaps
-Paul Ramsey: Drums, Bell Tree, Claves, Cymbal [Crash Cymbal], Drum [Floor Tom], Congas, Percussion [Quinto, Watering Pail], Shaker, Timbales, Loops [Drum Loop], Bell Tree [Sleigh Bells], Vibraslap, Tambourine, Wind Chimes, Guiro, Tabla, Bells [Concert Bells], Percussion
-Ray Weston: Bass, Backing Vocals, Lead Vocals, Words By, Narrator [Spoken Word]
+🎤 Brett Kull: Edited By [Digital Editing], Mastered By [Additional Mastering By], Electric Guitar, Lead Vocals, Backing Vocals, Music By, Words By, Guitar [Tremolo Wah Guitar], Lap Steel Guitar, E-Bow [Ebo], Acoustic Guitar, Acoustic Guitar [Acoustic Lap Guitar], Electric Guitar [Electric Lap Guitar], Mandolin, Toy Piano [Jaymar], Twelve-String Guitar [12-string Acoustic Guitar], Banjo [Indian Banjo], Guitar [Feedback Guitars], Guitar [Guitars]
+🎤 Christopher Buzby: Music By, Organ [Hammond], Electric Piano [Rhodes], Synth, Electric Piano [Wurlitzer], Organ [Table Organ], Talkbox, Backing Vocals, Dulcimer [Hammered Dulcimer], Clavinet, Soprano Saxophone, Piano, Voice [Count], Synth [Synths], Alto Saxophone, Harmonica, Melodeon, Ocarina, Bells [Wow Earthbell], Autoharp, Cajón, Words By, Accordion, Handclaps, Harpsichord, Recorder [Tenor Recorder], Recorder [Soprano Recorder]
+🎤 Jordan Perlson: Congas, Cowbell, Rainstick, Drums, Percussion [Snow Disc], Shaker, Tambourine, Bells [Concert Bells], Percussion [Riq], Bell Tree [Sleigh Bells], Music By, Tabla, Timbales, Snare, Bell Tree, Ashiko, Percussion [Brushes], Loops [Drum Loop], Handclaps
+🎤 Paul Ramsey: Drums, Bell Tree, Claves, Cymbal [Crash Cymbal], Drum [Floor Tom], Congas, Percussion [Quinto, Watering Pail], Shaker, Timbales, Loops [Drum Loop], Bell Tree [Sleigh Bells], Vibraslap, Tambourine, Wind Chimes, Guiro, Tabla, Bells [Concert Bells], Percussion
+🎤 Ray Weston: Bass, Backing Vocals, Lead Vocals, Words By, Narrator [Spoken Word]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6167528
 🗃️ Looking at alternate version(s) from 2000
@@ -213,62 +178,30 @@ Analyzing release https://www.discogs.com/release/6167528
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-Brett Kull: Acoustic Guitar [Acoustic Guitars], Lead Vocals, Backing Vocals, Bass Clarinet, Electric Guitar, Acoustic Guitar, Lap Steel Guitar, Engineer, Guitar [Guitars], Guitar, Mixed By, Mastered By, Recorded By
-Christopher Buzby: Electric Piano [Wurlitzer], Organ, Piano, Synth [Synths], Backing Vocals, Keyboards [Keys], Keyboards, Mixed By, Autoharp, Arranged By [String Arrangements]
-Jordan Perlson: Percussion, Drums
-Paul Ramsey: Drums, Percussion, Backing Vocals, Percussion [Various Percussion], Sounds
-Ray Weston: Bass, Sounds, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, Bass [Fretless Bass]
 ⌛ 2002 - echolyn - "A Little Nonsense: Now And Then" (Compilation)
 https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
-Brett Kull: Acoustic Guitar [Acoustic Guitars], Lead Vocals, Backing Vocals, Bass Clarinet, Electric Guitar, Acoustic Guitar, Lap Steel Guitar, Engineer, Guitar [Guitars], Guitar, Mixed By, Mastered By, Recorded By
-Christopher Buzby: Electric Piano [Wurlitzer], Organ, Piano, Synth [Synths], Backing Vocals, Keyboards [Keys], Keyboards, Mixed By, Autoharp, Arranged By [String Arrangements]
-Jordan Perlson: Percussion, Drums
-Paul Ramsey: Drums, Percussion, Backing Vocals, Percussion [Various Percussion], Sounds
-Ray Weston: Bass, Sounds, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-Brett Kull: Lead Vocals, Backing Vocals, Guitar, Mastered By
-Christopher Buzby: Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion
-Ray Weston: Lead Vocals, Backing Vocals
-Tom Hyatt: Bass
 ❌ 2002 - echolyn - "Progfest '94: The Official Bootleg"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9998614
-Brett Kull: Guitar, Vocals
-Christopher Buzby: Keyboards, Vocals
-Paul Ramsey: Drums
-Ray Weston: Bass, Vocals
-Tom Hyatt: Bass
 🗃️ Looking at alternate version(s) from 2003
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5355594
-Brett Kull: Guitar, Vocals, Lyrics By, Recorded By, Mixed By, Mastered By
-Christopher Buzby: Keyboards, Vocals, Music By [Orchestral Score]
-Jordan Perlson: Percussion
-Paul Ramsey: Drums, Percussion
-Ray Weston: Bass, Vocals, Lyrics By
 💿 2002-06-00 - echolyn - "Mei"
 https://www.discogs.com/release/5355594-echolyn-Mei
-Brett Kull: Guitar, Vocals, Lyrics By, Recorded By, Mixed By, Mastered By
-Christopher Buzby: Keyboards, Vocals, Music By [Orchestral Score]
-Jordan Perlson: Percussion
-Paul Ramsey: Drums, Percussion
-Ray Weston: Bass, Vocals, Lyrics By
+🎤 Brett Kull: Guitar, Vocals, Lyrics By, Recorded By, Mixed By, Mastered By
+🎤 Christopher Buzby: Keyboards, Vocals, Music By [Orchestral Score]
+🎤 Jordan Perlson: Percussion
+🎤 Paul Ramsey: Drums, Percussion
+🎤 Ray Weston: Bass, Vocals, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
-Brett Kull: Guitar, Lead Vocals, Backing Vocals
-Christopher Buzby: Keyboards, Backing Vocals
-Paul Ramsey: Drums, Percussion
-Ray Weston: Bass, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, Guitar, Congas
 ❌ 2004 - echolyn - "Stars And Gardens Volume 4"
 (https://www.discogs.com/release/undefined)
 No valid version found
@@ -279,11 +212,6 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3809164
-Brett Kull: Band [Echolyn Is:], Engineer [@ MM3], Mixed By, Electric Guitar, Lead Vocals, Backing Vocals, Lyrics By, Acoustic Guitar, Loops, Noises [Noise Bits], Baritone Guitar, Lap Steel Guitar, Guitar [High String Guitar], Slide Guitar, Sampler [Vibe Samples], Sampler [Ambient Samples]
-Christopher Buzby: Band [Echolyn Is:], Music By [Horn Parts By], Arranged By [Horn Parts Arranged By], Organ [Hammond B3], Clavinet [Hohner], Synth [Nord], Piano, Electric Piano [Wurlitzer], Percussion, Sampler [Ambient And Vibe Samples], Sampler [Samples], Backing Vocals, Piano [Tack Piano]
-Paul Ramsey: Band [Echolyn Is:], Drums, Percussion, Cymbal [Cymbal Rolls], Backing Vocals, Piano [Piano Hits]
-Ray Weston: Band [Echolyn Is:], Lyrics By, Piano [Lo-fi Piano], Electric Piano [Fender Rhodes], Noises [Noise Bites], Percussion, Lead Vocals, Backing Vocals, Noises [Noise Bits], Theremin, Noises [Noise Clips], Electric Piano [Wurlitzer], Electric Guitar, Bass, Sampler [Ambient Samples], Acoustic Guitar
-Tom Hyatt: Band [Echolyn Is:], Bass, Percussion, Backing Vocals, Noises [Noise Bits], Electric Guitar, Acoustic Guitar
 🗓️ Imprecise date (2005) for "The End Is Beautiful"
 🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/7077688
@@ -291,11 +219,11 @@ Tom Hyatt: Band [Echolyn Is:], Bass, Percussion, Backing Vocals, Noises [Noise B
 🗓️ No better date found
 💿 2005 - echolyn - "The End Is Beautiful"
 https://www.discogs.com/release/3809164-echolyn-The-End-Is-Beautiful
-Brett Kull: Band [Echolyn Is:], Engineer [@ MM3], Mixed By, Electric Guitar, Lead Vocals, Backing Vocals, Lyrics By, Acoustic Guitar, Loops, Noises [Noise Bits], Baritone Guitar, Lap Steel Guitar, Guitar [High String Guitar], Slide Guitar, Sampler [Vibe Samples], Sampler [Ambient Samples]
-Christopher Buzby: Band [Echolyn Is:], Music By [Horn Parts By], Arranged By [Horn Parts Arranged By], Organ [Hammond B3], Clavinet [Hohner], Synth [Nord], Piano, Electric Piano [Wurlitzer], Percussion, Sampler [Ambient And Vibe Samples], Sampler [Samples], Backing Vocals, Piano [Tack Piano]
-Paul Ramsey: Band [Echolyn Is:], Drums, Percussion, Cymbal [Cymbal Rolls], Backing Vocals, Piano [Piano Hits]
-Ray Weston: Band [Echolyn Is:], Lyrics By, Piano [Lo-fi Piano], Electric Piano [Fender Rhodes], Noises [Noise Bites], Percussion, Lead Vocals, Backing Vocals, Noises [Noise Bits], Theremin, Noises [Noise Clips], Electric Piano [Wurlitzer], Electric Guitar, Bass, Sampler [Ambient Samples], Acoustic Guitar
-Tom Hyatt: Band [Echolyn Is:], Bass, Percussion, Backing Vocals, Noises [Noise Bits], Electric Guitar, Acoustic Guitar
+🎤 Brett Kull: Band [Echolyn Is:], Engineer [@ MM3], Mixed By, Electric Guitar, Lead Vocals, Backing Vocals, Lyrics By, Acoustic Guitar, Loops, Noises [Noise Bits], Baritone Guitar, Lap Steel Guitar, Guitar [High String Guitar], Slide Guitar, Sampler [Vibe Samples], Sampler [Ambient Samples]
+🎤 Christopher Buzby: Band [Echolyn Is:], Music By [Horn Parts By], Arranged By [Horn Parts Arranged By], Organ [Hammond B3], Clavinet [Hohner], Synth [Nord], Piano, Electric Piano [Wurlitzer], Percussion, Sampler [Ambient And Vibe Samples], Sampler [Samples], Backing Vocals, Piano [Tack Piano]
+🎤 Paul Ramsey: Band [Echolyn Is:], Drums, Percussion, Cymbal [Cymbal Rolls], Backing Vocals, Piano [Piano Hits]
+🎤 Ray Weston: Band [Echolyn Is:], Lyrics By, Piano [Lo-fi Piano], Electric Piano [Fender Rhodes], Noises [Noise Bites], Percussion, Lead Vocals, Backing Vocals, Noises [Noise Bits], Theremin, Noises [Noise Clips], Electric Piano [Wurlitzer], Electric Guitar, Bass, Sampler [Ambient Samples], Acoustic Guitar
+🎤 Tom Hyatt: Band [Echolyn Is:], Bass, Percussion, Backing Vocals, Noises [Noise Bits], Electric Guitar, Acoustic Guitar
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2012 - echolyn - "This Is How We Left It"
@@ -318,18 +246,13 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3664811
-Brett Kull: Band [Echolyn Is Still:], Recorded By, Mixed By, Backing Vocals, Electric Guitar, Acoustic Guitar, Lead Vocals [A Few Lines], Words By [Couple Lines], Lap Steel Guitar, Backing Vocals [Ending Gang Vocals], Bass [Couple Licks], Electric Guitar [Mostly], Finger Snaps, Words By [Some], Guitar [Hi-string Guitar], Backing Vocals [Some], Lead Vocals, Words By, Backing Vocals [Mostly], Banjo, Lead Vocals [Chorus Vocals], Piano [Pt. 1 Piano]
-Christopher Buzby: Arranged By [String Quartet And Saxophone Arrangements By], Band [Echolyn Is Still:], Backing Vocals, Piano, Organ, Synth [Synths], Handclaps, Electric Piano [Wurly], Glockenspiel, Backing Vocals [Ending Gang Vocals], Finger Snaps, Electric Piano [Rhodes], Synth, Toy Piano [Jaymar], Glockenspiel [Glock], Noises [Piano Noise Intro]
-Paul Ramsey: Band [Echolyn Is Still:], Drums, Percussion, Handclaps, Backing Vocals [Ending Gang Vocals]
-Ray Weston: Band [Echolyn Is Still:], Backing Vocals, Lead Vocals, Words By [Mostly], Handclaps, Words By, Backing Vocals [Ending Gang Vocals], Bass, Finger Snaps, Backing Vocals [Mostly], Electric Guitar, Backing Vocals [Some], Sampler [Synth Samples], Voice [Whispers], Noises [Piano Noise Intro]
-Tom Hyatt: Band [Echolyn Is Still:], Backing Vocals, Bass, Handclaps, Backing Vocals [Ending Gang Vocals], Electric Guitar [Some], Acoustic Guitar, Finger Snaps, Electric Guitar, Words By [Few], Acoustic Guitar [Additional Acoustic Guitar], Voice [Whispers], Noises [Piano Noise Intro]
 💿 2012-06-19 - echolyn - "echolyn"
 https://www.discogs.com/release/3664811-echolyn-echolyn
-Brett Kull: Band [Echolyn Is Still:], Recorded By, Mixed By, Backing Vocals, Electric Guitar, Acoustic Guitar, Lead Vocals [A Few Lines], Words By [Couple Lines], Lap Steel Guitar, Backing Vocals [Ending Gang Vocals], Bass [Couple Licks], Electric Guitar [Mostly], Finger Snaps, Words By [Some], Guitar [Hi-string Guitar], Backing Vocals [Some], Lead Vocals, Words By, Backing Vocals [Mostly], Banjo, Lead Vocals [Chorus Vocals], Piano [Pt. 1 Piano]
-Christopher Buzby: Arranged By [String Quartet And Saxophone Arrangements By], Band [Echolyn Is Still:], Backing Vocals, Piano, Organ, Synth [Synths], Handclaps, Electric Piano [Wurly], Glockenspiel, Backing Vocals [Ending Gang Vocals], Finger Snaps, Electric Piano [Rhodes], Synth, Toy Piano [Jaymar], Glockenspiel [Glock], Noises [Piano Noise Intro]
-Paul Ramsey: Band [Echolyn Is Still:], Drums, Percussion, Handclaps, Backing Vocals [Ending Gang Vocals]
-Ray Weston: Band [Echolyn Is Still:], Backing Vocals, Lead Vocals, Words By [Mostly], Handclaps, Words By, Backing Vocals [Ending Gang Vocals], Bass, Finger Snaps, Backing Vocals [Mostly], Electric Guitar, Backing Vocals [Some], Sampler [Synth Samples], Voice [Whispers], Noises [Piano Noise Intro]
-Tom Hyatt: Band [Echolyn Is Still:], Backing Vocals, Bass, Handclaps, Backing Vocals [Ending Gang Vocals], Electric Guitar [Some], Acoustic Guitar, Finger Snaps, Electric Guitar, Words By [Few], Acoustic Guitar [Additional Acoustic Guitar], Voice [Whispers], Noises [Piano Noise Intro]
+🎤 Brett Kull: Band [Echolyn Is Still:], Recorded By, Mixed By, Backing Vocals, Electric Guitar, Acoustic Guitar, Lead Vocals [A Few Lines], Words By [Couple Lines], Lap Steel Guitar, Backing Vocals [Ending Gang Vocals], Bass [Couple Licks], Electric Guitar [Mostly], Finger Snaps, Words By [Some], Guitar [Hi-string Guitar], Backing Vocals [Some], Lead Vocals, Words By, Backing Vocals [Mostly], Banjo, Lead Vocals [Chorus Vocals], Piano [Pt. 1 Piano]
+🎤 Christopher Buzby: Arranged By [String Quartet And Saxophone Arrangements By], Band [Echolyn Is Still:], Backing Vocals, Piano, Organ, Synth [Synths], Handclaps, Electric Piano [Wurly], Glockenspiel, Backing Vocals [Ending Gang Vocals], Finger Snaps, Electric Piano [Rhodes], Synth, Toy Piano [Jaymar], Glockenspiel [Glock], Noises [Piano Noise Intro]
+🎤 Paul Ramsey: Band [Echolyn Is Still:], Drums, Percussion, Handclaps, Backing Vocals [Ending Gang Vocals]
+🎤 Ray Weston: Band [Echolyn Is Still:], Backing Vocals, Lead Vocals, Words By [Mostly], Handclaps, Words By, Backing Vocals [Ending Gang Vocals], Bass, Finger Snaps, Backing Vocals [Mostly], Electric Guitar, Backing Vocals [Some], Sampler [Synth Samples], Voice [Whispers], Noises [Piano Noise Intro]
+🎤 Tom Hyatt: Band [Echolyn Is Still:], Backing Vocals, Bass, Handclaps, Backing Vocals [Ending Gang Vocals], Electric Guitar [Some], Acoustic Guitar, Finger Snaps, Electric Guitar, Words By [Few], Acoustic Guitar [Additional Acoustic Guitar], Voice [Whispers], Noises [Piano Noise Intro]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
 ❌ 2013 - echolyn - "Another Stone"
@@ -342,38 +265,25 @@ Analyzing release https://www.discogs.com/release/undefined
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7264878
-Brett Kull: Engineer, Mixed By, Performer, Words By
-Christopher Buzby: Performer
-Paul Ramsey: Performer
-Ray Weston: Performer, Words By
-Tom Hyatt: Performer
 💿 2015-07-31 - echolyn - "I Heard You Listening"
 https://www.discogs.com/release/7264878-echolyn-I-Heard-You-Listening
-Brett Kull: Engineer, Mixed By, Performer, Words By
-Christopher Buzby: Performer
-Paul Ramsey: Performer
-Ray Weston: Performer, Words By
-Tom Hyatt: Performer
+🎤 Brett Kull: Engineer, Mixed By, Performer, Words By
+🎤 Christopher Buzby: Performer
+🎤 Paul Ramsey: Performer
+🎤 Ray Weston: Performer, Words By
+🎤 Tom Hyatt: Performer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33524262
-Brett Kull: Arranged By, Performer [Performed By], Photography By, Recorded By, Engineer, Producer, Guitar, Keyboards, Sound Designer, Lead Vocals, Backing Vocals, Lyrics By, Glockenspiel, Sounds, Percussion, Loops
-Christopher Buzby: Arranged By, Performer [Performed By], Piano, Keyboards, Backing Vocals, Handclaps [Claps]
-Jordan Perlson: Arranged By, Performer [Performed By], Drums, Percussion, Handclaps [Claps]
-Ray Weston: Arranged By, Performer [Performed By], Photography By, Bass, Lead Vocals, Backing Vocals, Lyrics By, Handclaps [Claps]
 💿 2025-03-07 - echolyn - "TimeSilentRadio vii"
 https://www.discogs.com/release/33524262-echolyn-TimeSilentRadio-vii
-Brett Kull: Arranged By, Performer [Performed By], Photography By, Recorded By, Engineer, Producer, Guitar, Keyboards, Sound Designer, Lead Vocals, Backing Vocals, Lyrics By, Glockenspiel, Sounds, Percussion, Loops
-Christopher Buzby: Arranged By, Performer [Performed By], Piano, Keyboards, Backing Vocals, Handclaps [Claps]
-Jordan Perlson: Arranged By, Performer [Performed By], Drums, Percussion, Handclaps [Claps]
-Ray Weston: Arranged By, Performer [Performed By], Photography By, Bass, Lead Vocals, Backing Vocals, Lyrics By, Handclaps [Claps]
+🎤 Brett Kull: Arranged By, Performer [Performed By], Photography By, Recorded By, Engineer, Producer, Guitar, Keyboards, Sound Designer, Lead Vocals, Backing Vocals, Lyrics By, Glockenspiel, Sounds, Percussion, Loops
+🎤 Christopher Buzby: Arranged By, Performer [Performed By], Piano, Keyboards, Backing Vocals, Handclaps [Claps]
+🎤 Jordan Perlson: Arranged By, Performer [Performed By], Drums, Percussion, Handclaps [Claps]
+🎤 Ray Weston: Arranged By, Performer [Performed By], Photography By, Bass, Lead Vocals, Backing Vocals, Lyrics By, Handclaps [Claps]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33524166
 🗃️ Looking at alternate version(s) from 2025
 🗃️ Analyzing version https://www.discogs.com/release/33069762
-Brett Kull: Arranged By, Performer, Photography By, Recorded By, Producer, Engineer
-Christopher Buzby: Arranged By, Performer
-Jordan Perlson: Arranged By, Performer
-Ray Weston: Arranged By, Performer, Photography By
 ❌ 2025 - echolyn - "TimeSilentRadio II"
 (https://www.discogs.com/master/3801264)
 No valid version found
@@ -517,11 +427,11 @@ Found candidate with 4 unregistered track(s):
 🗓️ No better date found
 💿 1993 - echolyn - "...And Every Blossom" (EP)
 https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
-Brett Kull: Acoustic Guitar, Lead Vocals, Backing Vocals, Lyrics By
-Christopher Buzby: Piano, Autoharp, Backing Vocals
-Paul Ramsey: Percussion [Various Percussion]
-Ray Weston: Lead Vocals, Backing Vocals, Lyrics By
-Tom Hyatt: Bass [Fretless Bass]
+🎤 Brett Kull: Acoustic Guitar, Lead Vocals, Backing Vocals, Lyrics By
+🎤 Christopher Buzby: Piano, Autoharp, Backing Vocals
+🎤 Paul Ramsey: Percussion [Various Percussion]
+🎤 Ray Weston: Lead Vocals, Backing Vocals, Lyrics By
+🎤 Tom Hyatt: Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————
 Found candidate with 6 unregistered track(s):
 🎵 Bright Sides
@@ -534,10 +444,10 @@ Found candidate with 6 unregistered track(s):
 🗓️ No better date found
 💿 2002 - echolyn - "A Little Nonsense: Now And Then" (Compilation)
 https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
-Brett Kull: Acoustic Guitar [Acoustic Guitars], Lead Vocals, Backing Vocals, Bass Clarinet, Electric Guitar, Acoustic Guitar, Lap Steel Guitar, Engineer, Guitar [Guitars], Guitar, Mixed By, Mastered By, Recorded By
-Christopher Buzby: Electric Piano [Wurlitzer], Organ, Piano, Synth [Synths], Backing Vocals, Keyboards [Keys], Keyboards, Mixed By, Autoharp, Arranged By [String Arrangements]
-Jordan Perlson: Percussion, Drums
-Paul Ramsey: Drums, Percussion, Backing Vocals, Percussion [Various Percussion], Sounds
-Ray Weston: Bass, Sounds, Lead Vocals, Backing Vocals
-Tom Hyatt: Bass, Bass [Fretless Bass]
+🎤 Brett Kull: Acoustic Guitar [Acoustic Guitars], Lead Vocals, Backing Vocals, Bass Clarinet, Electric Guitar, Acoustic Guitar, Lap Steel Guitar, Engineer, Guitar [Guitars], Guitar, Mixed By, Mastered By, Recorded By
+🎤 Christopher Buzby: Electric Piano [Wurlitzer], Organ, Piano, Synth [Synths], Backing Vocals, Keyboards [Keys], Keyboards, Mixed By, Autoharp, Arranged By [String Arrangements]
+🎤 Jordan Perlson: Percussion, Drums
+🎤 Paul Ramsey: Drums, Percussion, Backing Vocals, Percussion [Various Percussion], Sounds
+🎤 Ray Weston: Bass, Sounds, Lead Vocals, Backing Vocals
+🎤 Tom Hyatt: Bass, Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————

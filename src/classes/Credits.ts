@@ -22,9 +22,6 @@ export class Credits {
   // The main band of the program
   private mainBand: Band;
 
-  // The artist associated to this release and their roles
-  private credits: Credit[] = [];
-
   // The logger object
   private logger: Logger;
 
@@ -34,38 +31,8 @@ export class Credits {
     this.logger = new Logger();
   }
 
-  get formattedCredits() {
-    return this.credits
-      .map((credit) => `${credit.artist.name}: ${credit.roles.join(", ")}`)
-      .join("\n");
-  }
-
-  // Reject if the artist if the associate role is only writing, interviewee...
-  public async heuristicRejectNoCredits(): Promise<RejectReason | null> {
-    // this.credits = this.extractCredits();
-
-    if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
-
-    if (this.credits.length === 0) {
-      this.logger.logWarning(
-        `No valid credit found for "${this.release.title}"`
-      );
-
-      return this.lookForCreditsInOtherVersions();
-    }
-
-    return null;
-  }
-
-  public hasValidCredits() {
-    this.extractCredits();
-    this.logger.log(this.formattedCredits);
-    return !!this.formattedCredits;
-  }
-
-  // Extract the credits from the extra artists list
-  public extractCredits() {
-    this.credits = [...this.release.extraArtists, ...this.getTracklistCredits()]
+  get credits() {
+    return [...this.release.extraArtists, ...this.getTracklistCredits()]
       .filter((artist) => this.mainBand.isArtistConnectedToBand(artist.id))
       .reduce(this.appendExtraArtistToCredits.bind(this), [])
       .map((credit) => ({
@@ -76,49 +43,125 @@ export class Credits {
       .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
   }
 
-  // Look for valid credits in other versions of the release
-  private async lookForCreditsInOtherVersions(
-    page = 1
-  ): Promise<RejectReason | null> {
-    const versions = await this.release.getVersions(page);
+  get formattedCredits() {
+    return this.credits
+      .map((credit) => `🎤 ${credit.artist.name}: ${credit.roles.join(", ")}`)
+      .join("\n");
+  }
+
+  // Reject if the artist if the associate role is only writing, interviewee...
+  // public async heuristicRejectNoCredits(): Promise<RejectReason | null> {
+  //   // this.credits = this.extractCredits();
+
+  //   if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
+
+  //   if (this.credits.length === 0) {
+  //     this.logger.logWarning(
+  //       `No valid credit found for "${this.release.title}"`
+  //     );
+
+  //     return this.lookForCreditsInOtherVersions();
+  //   }
+
+  //   return null;
+  // }
+
+  // public hasValidCredits() {
+  //   this.extractCredits();
+  //   this.logger.log(this.formattedCredits);
+  //   return !!this.formattedCredits;
+  // }
+
+  // Extract the credits from the extra artists list
+  // public extractCredits() {
+  //   [...this.release.extraArtists, ...this.getTracklistCredits()]
+  //     .filter((artist) => this.mainBand.isArtistConnectedToBand(artist.id))
+  //     .reduce(this.appendExtraArtistToCredits.bind(this), [])
+  //     .map((credit) => ({
+  //       ...credit,
+  //       roles: Array.from(new Set(credit.roles)),
+  //     }))
+  //     .filter(this.isValidCredit.bind(this))
+  //     .sort((c1, c2) => c1.artist.name.localeCompare(c2.artist.name));
+  // }
+
+  // Extract credits
+  public async extractCredits(): Promise<void> {
+    if (!this.credits.length) {
+      this.logger.logInfo(`Trying to find release with credits`);
+      await this.findVersionWithCredits(1);
+    }
+  }
+
+  // Find a release which has credits infos
+  private async findVersionWithCredits(page: number): Promise<void> {
+    const versions = await this.release.getVersions({ page });
 
     for (const version of versions.versions) {
-      if (await this.versionHasValidCredits(version)) {
-        this.logger.log(`Found credits`);
+      const release = await this.release.getVersion(version.id);
 
-        return null;
+      if (!release) continue;
+
+      this.logger.log("credits ?");
+      console.log(release.credits);
+      throw new Error("stop");
+
+      if (release.credits.credits.length) {
+        this.logger.logInfo(`Credits found`);
+        this.release.release = release.release;
+        return;
+      } else {
+        this.logger.log("nope");
       }
     }
 
-    if (versions.pagination.pages > page)
-      return await this.lookForCreditsInOtherVersions(page + 1);
-
-    return "Band release with no credits other than writing";
+    if (versions.pagination.pages > page) {
+      await this.findVersionWithCredits(page + 1);
+    }
   }
+
+  // Look for valid credits in other versions of the release
+  // private async lookForCreditsInOtherVersions(
+  //   page = 1
+  // ): Promise<RejectReason | null> {
+  //   const versions = await this.release.getVersions(page);
+
+  //   for (const version of versions.versions) {
+  //     if (await this.versionHasValidCredits(version)) {
+  //       this.logger.log(`Found credits`);
+
+  //       return null;
+  //     }
+  //   }
+
+  //   if (versions.pagination.pages > page)
+  //     return await this.lookForCreditsInOtherVersions(page + 1);
+
+  //   return "Band release with no credits other than writing";
+  // }
 
   // Does the release associate to this version have a valid credit?
-  private async versionHasValidCredits(version: DCVersion): Promise<boolean> {
-    const versionRelease = await this.release.getVersion(version.id);
+  // private async versionHasValidCredits(version: DCVersion): Promise<boolean> {
+  //   const versionRelease = await this.release.getVersion(version.id);
 
-    if (!versionRelease) return false;
+  //   if (!versionRelease) return false;
 
-    this.credits = versionRelease.extractCredits();
+  //   this.credits = versionRelease.extractCredits();
 
-    return this.credits.length > 0;
-  }
+  //   return this.credits.length > 0;
+  // }
 
   // Is the credit of type written / composed?
-  private creditIsWrittenOnly(credit: Credit): boolean {
-    return credit.roles.every((role) => ROLES.rejectIfOnly.includes(role));
-  }
+  // private creditIsWrittenOnly(credit: Credit): boolean {
+  //   return credit.roles.every((role) => ROLES.rejectIfOnly.includes(role));
+  // }
 
   // Return true if the credit is other that writing type, or the release is by
   // a band member
   private isValidCredit(credit: Credit): boolean {
-    return (
-      this.mainBand.isByOneOfBandMembers(this.release) ||
-      !this.creditIsWrittenOnly(credit)
-    );
+    return this.mainBand.isByOneOfBandMembers(this.release);
+    // ||
+    // !this.creditIsWrittenOnly(credit)
   }
 
   // Get the extra artist credits from the tracklist

@@ -21,11 +21,11 @@ function testArtist(artist: { id: number; expectedIdList?: string }) {
 // testArtist(refs.SUPERTRAMP);
 
 const artistsBase = [
-  refs.BLACK_COUNTRY_NEW_ROAD,
-  refs.ECHOLYN,
+  // refs.BLACK_COUNTRY_NEW_ROAD,
+  // refs.ECHOLYN,
   refs.HAKEN,
-  refs.MOON_SAFARI,
-  refs.SUPERTRAMP,
+  // refs.MOON_SAFARI,
+  // refs.SUPERTRAMP,
 ];
 
 async function init() {

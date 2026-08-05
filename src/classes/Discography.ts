@@ -59,6 +59,7 @@ export class Discography {
   // Add a release to the discography
   public async addAccepted(release: Release, unregisteredTracks?: DCTrack[]) {
     await release.extractPreciseDate();
+    await release.extractCredits();
     this.logger.logSuccess(`💿 ${release.label}`);
     this.logger.log(release.formattedCredits);
     this.logger.logSeparator();

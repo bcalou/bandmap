@@ -1,8 +1,7 @@
-import { ROLES } from "../env";
-import { DCExtraArtist, DCVersion, RejectReason } from "../types";
-import { Artist } from "./Artist";
-import { Band } from "./Band";
-import { Logger } from "./Logger";
+import { DCExtraArtist } from "../../types";
+import { Artist } from "../Artist";
+import { Band } from "../Band";
+import { Logger } from "../Logger";
 import { Release } from "./Release";
 
 type Credit = {
@@ -164,11 +163,6 @@ export class Credits {
     // );
   }
 
-  // Is the credit of type written / composed?
-  private creditIsWrittenOnly(credit: Credit): boolean {
-    return credit.roles.every((role) => ROLES.rejectIfOnly.includes(role));
-  }
-
   // Get the extra artist credits from the tracklist
   private getTracklistCredits(): DCExtraArtist[] {
     return this.release.tracklist
@@ -180,10 +174,10 @@ export class Credits {
   // Append the extra artist infos to the credits list
   private appendExtraArtistToCredits(
     credits: Credit[],
-    extraArtist: DCExtraArtist
+    extraArtist: DCExtraArtist,
   ): Credit[] {
     const member = this.mainBand.members.find((member) =>
-      member.matchesId(extraArtist.id)
+      member.matchesId(extraArtist.id),
     );
 
     let credit = credits.find((credit) => member?.matchesId(credit.artist.id));

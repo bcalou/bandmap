@@ -1,6 +1,5 @@
 import Fuse from "fuse.js";
-
-var stringSimilarity = require("string-similarity");
+import { OPTIONS } from "./options";
 
 // Remove the number in parenthesis at the end of a string
 // "John Doe (3)" -> "John Doe"
@@ -8,10 +7,15 @@ export function removeNumberInParenthesis(string: string) {
   return string.replace(/\s*\(\d+\)$/, "");
 }
 
+// Are the two string similar enough?
 export function stringsAreSimilar(string1: string, string2: string): boolean {
   return (
-    Fuse.match(string1, string2, { threshold: 0.2 }).isMatch ||
-    Fuse.match(string2, string1, { threshold: 0.2 }).isMatch
+    Fuse.match(string1, string2, {
+      threshold: OPTIONS.stringSimilarityThreshold,
+    }).isMatch ||
+    Fuse.match(string2, string1, {
+      threshold: OPTIONS.stringSimilarityThreshold,
+    }).isMatch
   );
 }
 

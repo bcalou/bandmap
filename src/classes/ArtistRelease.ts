@@ -1,14 +1,11 @@
-import {
-  ARTIST_RELEASE_ROLES,
-  DISCOGS_MASTER_URL,
-  DISCOGS_RELEASE_URL,
-} from "../env";
+import { DISCOGS } from "../discogs";
+import { RULES } from "../rules";
 import { DCArtistRelease, RejectReason } from "../types";
 import { Api } from "./Api";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
 import { Master } from "./Master";
-import { Release } from "./Release";
+import { Release } from "./release/Release";
 
 /**
  * An artist's release, which is an simplified representation of a release
@@ -61,12 +58,12 @@ export class ArtistRelease {
 
   get url() {
     return this.type === "master"
-      ? `${DISCOGS_MASTER_URL}${this.id}`
+      ? `${DISCOGS.masterUrl}${this.id}`
       : this.releaseUrl;
   }
 
   get releaseUrl() {
-    return `${DISCOGS_RELEASE_URL}${this.mainRelease}`;
+    return `${DISCOGS.releaseUrl}${this.mainRelease}`;
   }
 
   get type() {
@@ -134,7 +131,7 @@ export class ArtistRelease {
 
   // Reject artist releases with an invalid role
   private heuristicRejectRole(): RejectReason | null {
-    if (ARTIST_RELEASE_ROLES.reject.includes(this.role)) {
+    if (RULES.artistReleaseRoles.reject.includes(this.role)) {
       return `Rejected release role: ${this.role}`;
     }
 

@@ -1,11 +1,12 @@
-import { DISCOGS_RELEASE_URL, GENRES } from "../env";
-import { DCRelease, DCVersions, RejectReason } from "../types";
-import { removeNumberInParenthesis } from "../utils";
-import { Api, GetVersionsOptions } from "./Api";
-import { Band } from "./Band";
+import { DISCOGS } from "../../discogs";
+import { RULES } from "../../rules";
+import { DCRelease, DCVersions, RejectReason } from "../../types";
+import { removeNumberInParenthesis } from "../../utils";
+import { Api, GetVersionsOptions } from "../Api";
+import { Band } from "../Band";
+import { Logger } from "../Logger";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
-import { Logger } from "./Logger";
 import { ReleaseDate } from "./ReleaseDate";
 import { Tracklist } from "./Tracklist";
 
@@ -168,7 +169,7 @@ export class Release {
       this.logger.log(
         `🗃️ Looking at alternate version(s) from ${this.year}${
           options?.format ? ` (format: ${options?.format})` : ""
-        }`
+        }`,
       );
     }
 
@@ -177,7 +178,7 @@ export class Release {
 
   // Fetch the version or return the one already fetched
   public async getVersion(versionId: number): Promise<Release | null> {
-    this.logger.log(`🗃️ Analyzing version ${DISCOGS_RELEASE_URL}${versionId}`);
+    this.logger.log(`🗃️ Analyzing version ${DISCOGS.releaseUrl}${versionId}`);
 
     const version = await this.api.getRelease(versionId);
 
@@ -208,21 +209,21 @@ export class Release {
   // Replace the release infos with another release
   private async updateRelease(newRelease: Release) {
     this.logger.logInfo(
-      `Update release with infos from release ${newRelease.release.id}`
+      `Update release with infos from release ${newRelease.release.id}`,
     );
     this.release = newRelease.release;
   }
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id
+      (version) => version.id !== this.id,
     );
 
     return versions;
@@ -240,7 +241,7 @@ export class Release {
 
   // Reject if the master contains non-music only
   private heuristicRejectGenre(): RejectReason | null {
-    if (!!this.genres.find((genre) => GENRES.reject.includes(genre))) {
+    if (!!this.genres.find((genre) => RULES.genres.reject.includes(genre))) {
       return `Rejected genre(s): ${this.genres}`;
     }
 

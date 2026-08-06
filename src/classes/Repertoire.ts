@@ -1,11 +1,8 @@
-import { IGNORE_TITLE_ENDINGS } from "../env";
 import { DCTrack } from "../types";
 import { getStringParts, normalize, stringsAreSimilar } from "../utils";
 import { Band } from "./Band";
 import { Logger } from "./Logger";
-import { Release } from "./Release";
-var stringSimilarity = require("string-similarity");
-import Fuse from "fuse.js";
+import { Release } from "./release/Release";
 
 // A track from the repertoire
 type Track = {
@@ -85,11 +82,11 @@ export class Repertoire {
       (_track) =>
         this.areSimilarTrackNames(track.title, _track.title) ||
         _track.subTracks.find((subtrack) =>
-          this.areSimilarTrackNames(track.title, subtrack)
+          this.areSimilarTrackNames(track.title, subtrack),
         ) ||
         _track.variations.find((variation) =>
-          this.areSimilarTrackNames(track.title, variation)
-        )
+          this.areSimilarTrackNames(track.title, variation),
+        ),
     );
   }
 
@@ -103,7 +100,7 @@ export class Repertoire {
       this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
     }
     this.logger.log(
-      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
+      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`,
     );
   }
 
@@ -114,8 +111,8 @@ export class Repertoire {
 
     return [normalize(track1), ...track1Parts].find((track1part) =>
       [normalize(track2), ...track2Parts].find((track2part) =>
-        stringsAreSimilar(track1part, track2part)
-      )
+        stringsAreSimilar(track1part, track2part),
+      ),
     );
   }
 
@@ -137,7 +134,7 @@ export class Repertoire {
     if (
       trackVariation.track.title !== trackVariation.existing.title &&
       !trackVariation.existing.variations.find(
-        (variation) => variation === trackVariation.track.title
+        (variation) => variation === trackVariation.track.title,
       )
     ) {
       trackVariation.existing.variations.push(trackVariation.track.title);
@@ -168,7 +165,7 @@ export class Repertoire {
       !!trackContainingSubtracks.sub_tracks
     ) {
       targetTrack.subTracks = trackContainingSubtracks.sub_tracks.map(
-        (subTrack) => subTrack.title
+        (subTrack) => subTrack.title,
       );
     }
   }

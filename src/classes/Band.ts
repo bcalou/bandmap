@@ -1,10 +1,11 @@
-import { DISCOGS_ARTIST_URL, OPTION_INCLUDE_CONNECTED_RELEASES } from "../env";
-import { DCArtist, DCExtraArtist, DCGroup } from "../types";
+import { DISCOGS } from "../discogs";
+import { OPTIONS } from "../options";
+import { DCArtist, DCGroup } from "../types";
 import { removeNumberInParenthesis } from "../utils";
 import { Artist } from "./Artist";
 import { Discography } from "./Discography";
 import { Master } from "./Master";
-import { Release } from "./Release";
+import { Release } from "./release/Release";
 
 /**
  * The main band which we're looking at
@@ -42,9 +43,9 @@ export class Band extends Artist {
     return release.artists.find(
       (artist) =>
         artist.id === this.id ||
-        (OPTION_INCLUDE_CONNECTED_RELEASES &&
+        (OPTIONS.includeConnectedReleases &&
           (this.members.find((member) => member.matchesId(artist.id)) ||
-            this.connectedBands.find((band) => band.band.id === artist.id)))
+            this.connectedBands.find((band) => band.band.id === artist.id))),
     );
   }
 
@@ -69,7 +70,7 @@ export class Band extends Artist {
     for (const _member of this.bandMembers) {
       const member = new Artist(
         await this.api.getArtist(_member.id),
-        this.band
+        this.band,
       );
 
       this.members.push(member);
@@ -82,7 +83,7 @@ export class Band extends Artist {
   public async fetchReleases() {
     await super.fetchReleases();
 
-    if (OPTION_INCLUDE_CONNECTED_RELEASES) {
+    if (OPTIONS.includeConnectedReleases) {
       for (const member of this.members) {
         await member.fetchReleases();
       }
@@ -122,14 +123,14 @@ export class Band extends Artist {
   // Get the member of the main band that are members of the connected band
   private getConnectedBandMembers(band: DCGroup): Artist[] {
     return this.members.filter((member) =>
-      member.bands.find((_band) => _band.id === band.id)
+      member.bands.find((_band) => _band.id === band.id),
     );
   }
 
   // Order connected bands by number of members in common with then main band
   private orderConnectedBands(): void {
     this.connectedBands.sort(
-      (band1, band2) => band2.members.length - band1.members.length
+      (band1, band2) => band2.members.length - band1.members.length,
     );
   }
 
@@ -139,7 +140,7 @@ export class Band extends Artist {
     this.logger.logSeparator();
 
     this.connectedBands.forEach((band) => {
-      const url = `${DISCOGS_ARTIST_URL}${band.band.id}`;
+      const url = `${DISCOGS.artistUrl}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
       this.logger.logInfo(`🔗 ${removeNumberInParenthesis(band.band.name)}`);
       this.logger.logInfo(`(${url})`);

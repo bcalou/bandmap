@@ -1,11 +1,11 @@
-import { DISCOGS_ARTIST_URL } from "../env";
-import { Logger } from "./Logger";
+import { DISCOGS } from "../discogs";
 import { DCAlias, DCArtist, DCArtistRelease } from "../types";
 import { removeNumberInParenthesis } from "../utils";
 import { Api } from "./Api";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
-import { Release } from "./Release";
+import { Logger } from "./Logger";
+import { Release } from "./release/Release";
 
 /**
  * An artist, which can be a band or a person
@@ -31,7 +31,7 @@ export class Artist {
     this.logger = new Logger();
 
     this.logger.logSuccess(
-      `${this.typeIcon} Fetched ${this.type} ${this.name}`
+      `${this.typeIcon} Fetched ${this.type} ${this.name}`,
     );
     this.logger.logSuccess(`(${this.url})`);
     this.logger.logSeparator();
@@ -85,7 +85,7 @@ export class Artist {
     await this.fetchReleasesPage(1, this);
 
     for (const alias of this.aliases) {
-      const aliasUrl = `${DISCOGS_ARTIST_URL}${alias.id}`;
+      const aliasUrl = `${DISCOGS.artistUrl}${alias.id}`;
       this.logger.logInfo(`Looking at ${this.name} alias ${alias.name}`);
       this.logger.logInfo(`(${aliasUrl})`);
       this.logger.logSeparator();
@@ -97,7 +97,7 @@ export class Artist {
   // Fetch the releases associated to the artist (at a given page of the API)
   private async fetchReleasesPage(
     page: number,
-    from: Artist | DCAlias
+    from: Artist | DCAlias,
   ): Promise<void> {
     const artistReleases = await this.api.getArtistReleases(from.id, page);
     const count = artistReleases.pagination.items;
@@ -117,13 +117,13 @@ export class Artist {
 
   // Loop over the given releases and add them to the global discography
   private async analyzeReleases(
-    artistReleases: DCArtistRelease[]
+    artistReleases: DCArtistRelease[],
   ): Promise<void> {
     for (const artistRelease of artistReleases) {
       if (this.band) {
         const artistReleaseDetails = new ArtistRelease(
           artistRelease,
-          this.band
+          this.band,
         );
 
         await artistReleaseDetails.addToDiscography();

@@ -1,7 +1,8 @@
-import { DISCOGS_RELEASE_URL, FORMATS } from "../env";
-import { DCVersion, RejectReason } from "../types";
-import { GetVersionsOptions } from "./Api";
-import { Logger } from "./Logger";
+import { DISCOGS } from "../../discogs";
+import { RULES } from "../../rules";
+import { DCVersion, RejectReason } from "../../types";
+import { GetVersionsOptions } from "../Api";
+import { Logger } from "../Logger";
 import { Release } from "./Release";
 
 export enum AlbumType {
@@ -40,15 +41,15 @@ export class Formats {
         format.name,
         ...(format.descriptions ?? []),
       ],
-      []
+      [],
     );
   }
 
   // Get the format considered to be the main one for this release
   public getMainFormat() {
     return (
-      FORMATS.mainSortedByConsiderationOrder.find((format) =>
-        this.flattenedFormats.includes(format)
+      RULES.formats.mainSortedByConsiderationOrder.find((format) =>
+        this.flattenedFormats.includes(format),
       ) ?? "Unknown"
     );
   }
@@ -72,7 +73,7 @@ export class Formats {
 
   // Look for valid format list in other versions of the release
   private async hasValidVersion(
-    options?: GetVersionsOptions
+    options?: GetVersionsOptions,
   ): Promise<boolean> {
     const page = options?.page ?? 1;
     const versions = await this.release.getVersions(options);
@@ -92,13 +93,13 @@ export class Formats {
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
     this.logger.log(
-      `🗃️ Analyzing main formats of version ${DISCOGS_RELEASE_URL}${version.id}`
+      `🗃️ Analyzing main formats of version ${DISCOGS.releaseUrl}${version.id}`,
     );
 
     const formats = [...version.major_formats, ...version.format.split(", ")];
 
     // We can invalidate eliminatory formats based on version format alone
-    if (FORMATS.eliminatory.find((format) => formats.includes(format))) {
+    if (RULES.formats.eliminatory.find((format) => formats.includes(format))) {
       this.logger.log(`💿 Format(s): ${formats.join(", ")}}`);
       return false;
     }
@@ -109,7 +110,7 @@ export class Formats {
 
   // Get the version details and test if the format list is valid
   private async versionDetailsHasValidFormat(
-    version: DCVersion
+    version: DCVersion,
   ): Promise<boolean> {
     const release = await this.release.getVersion(version.id);
 
@@ -118,7 +119,7 @@ export class Formats {
     this.logger.log(`💿 Format(s): ${release.formats.printFormats()}`);
 
     if (release.formats.isValidFormatList()) {
-      this.release.updateRelease(release);
+      // this.release.updateRelease(release);
       return true;
     }
 
@@ -137,21 +138,23 @@ export class Formats {
       const formatList = [format.name, ...(format.descriptions ?? [])];
 
       // Eliminatory format must never be found
-      if (formatList.find((format) => FORMATS.eliminatory.includes(format))) {
+      if (
+        formatList.find((format) => RULES.formats.eliminatory.includes(format))
+      ) {
         this.logger.log(`Invalid format(s): ${this.printFormats()}`);
         return false;
       }
 
       // Valid format must be found once
       if (
-        formatList.find((format) => FORMATS.accept.includes(format)) &&
-        !formatList.find((format) => FORMATS.reject.includes(format))
+        formatList.find((format) => RULES.formats.accept.includes(format)) &&
+        !formatList.find((format) => RULES.formats.reject.includes(format))
       )
         valid = true;
     }
 
     this.logger.log(
-      `${valid ? "Valid" : "Invalid"} format(s): ${this.printFormats()}`
+      `${valid ? "Valid" : "Invalid"} format(s): ${this.printFormats()}`,
     );
 
     return valid;

@@ -1,6 +1,6 @@
-import { OPTION_DATE_QUALITY } from "../env";
-import { DCVersion } from "../types";
-import { Logger } from "./Logger";
+import { OPTIONS } from "../../options";
+import { DCVersion } from "../../types";
+import { Logger } from "../Logger";
 import { Release } from "./Release";
 
 export enum DateQuality {
@@ -74,7 +74,7 @@ export class ReleaseDate {
 
   // Is the date quality considered good enough
   private isSufficientDateQuality(quality: DateQuality) {
-    return quality >= OPTION_DATE_QUALITY;
+    return quality >= OPTIONS.targetDateQuality;
   }
 
   // Use the given version date if it's of better quality than what we have

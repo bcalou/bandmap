@@ -1,9 +1,8 @@
-import { Api } from "./Api";
+import { RULES } from "../rules";
 import { DCMaster, RejectReason } from "../types";
+import { Api } from "./Api";
 import { Band } from "./Band";
-import { Release } from "./Release";
-import { GENRES } from "../env";
-import { Logger } from "./Logger";
+import { Release } from "./release/Release";
 
 /**
  * A master, which represent a group of similar releases
@@ -49,7 +48,7 @@ export class Master {
     // If the master is valid, we now can look into the main release
     const release = new Release(
       await this.api.getRelease(this.mainRelease),
-      this.mainBand
+      this.mainBand,
     );
 
     return release.getCandidateRelease();
@@ -67,7 +66,7 @@ export class Master {
 
   // Reject if the master contains non-music
   private heuristicRejectGenre(): RejectReason | null {
-    if (!!this.genres.find((genre) => GENRES.reject.includes(genre))) {
+    if (!!this.genres.find((genre) => RULES.genres.reject.includes(genre))) {
       return `Rejected genre(s): ${this.master.genres}`;
     }
 

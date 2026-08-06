@@ -2,7 +2,7 @@ import Database from "better-sqlite3";
 import * as Discogs from "disconnect";
 import path from "path";
 import { ZodObject } from "zod";
-import { OPTION_CACHE_BUSTER } from "../env";
+import { OPTIONS } from "../options";
 import {
   DCArtist,
   DCArtistReleases,
@@ -136,7 +136,7 @@ export class Api {
     parser: ZodObject,
     bustCache?: boolean,
   ): Promise<ResultType> {
-    if (bustCache || OPTION_CACHE_BUSTER.includes(key)) {
+    if (bustCache || OPTIONS.cacheBuster.includes(key)) {
       return this.fetchAndCache<ResultType>(key, fetcher, parser);
     }
 

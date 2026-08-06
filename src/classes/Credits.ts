@@ -88,7 +88,7 @@ export class Credits {
   // Extract credits
   public async extractCredits(): Promise<void> {
     if (!this.credits.length) {
-      this.logger.logInfo(`Trying to find release with credits`);
+      this.logger.logInfo(`🎤 Trying to find release with credits`);
       await this.findVersionWithCredits(1);
     }
   }
@@ -100,23 +100,19 @@ export class Credits {
     for (const version of versions.versions) {
       const release = await this.release.getVersion(version.id);
 
-      if (!release) continue;
-
-      this.logger.log("credits ?");
-      console.log(release.credits);
-      throw new Error("stop");
+      if (!release || !release.isValidVersion()) continue;
 
       if (release.credits.credits.length) {
-        this.logger.logInfo(`Credits found`);
-        this.release.release = release.release;
+        this.logger.log("Credits found");
+        this.release.updateRelease(release);
         return;
-      } else {
-        this.logger.log("nope");
       }
     }
 
     if (versions.pagination.pages > page) {
       await this.findVersionWithCredits(page + 1);
+    } else {
+      this.logger.logWarning("No credits found");
     }
   }
 
@@ -159,6 +155,7 @@ export class Credits {
   // Return true if the credit is other that writing type, or the release is by
   // a band member
   private isValidCredit(credit: Credit): boolean {
+    return true;
     return this.mainBand.isByOneOfBandMembers(this.release);
     // ||
     // !this.creditIsWrittenOnly(credit)

@@ -153,7 +153,7 @@ export class Release {
   }
 
   // Is this release a valid version?
-  private isValidVersion() {
+  public isValidVersion() {
     return this.tracklist.isValid() && this.formats.isValidFormatList();
   }
 
@@ -203,6 +203,9 @@ export class Release {
 
   // Replace the release infos with another release
   public async updateRelease(newRelease: Release) {
+    this.logger.logInfo(
+      `Update release with infos from release ${newRelease.release.id}`
+    );
     this.release = newRelease.release;
     this.credits = newRelease.credits;
   }

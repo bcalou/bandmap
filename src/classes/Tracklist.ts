@@ -25,7 +25,13 @@ export class Tracklist {
 
   // Is the tracklist valid? (meaning it contains at least 1 valid track)
   public isValid(): boolean {
-    return this.getValidTracks().length > 0;
+    if (this.getValidTracks().length === 0) {
+      this.logger.logWarning("📋 Invalid tracklist (no valid tracks)");
+
+      return false;
+    }
+
+    return true;
   }
 
   // Get the list of tracks for the given release
@@ -46,14 +52,14 @@ export class Tracklist {
           (artist) =>
             this.release.mainBand.id === artist.id ||
             this.release.mainBand.members.find(
-              (member) => member.id === artist.id,
-            ),
+              (member) => member.id === artist.id
+            )
         )) &&
       // Ignore track containing an equal (translation title)
       track.title.indexOf(" = ") === -1 &&
       // Ignore specific title ending such as "edit" or "version"
       !IGNORE_TITLE_ENDINGS.find((ending) =>
-        normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase()),
+        normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
       )
     );
   }
@@ -72,7 +78,7 @@ export class Tracklist {
     return (
       // Exclude DVD-1, BR-1...
       !["DVD", "BD", "BR"].find((prefix) =>
-        track.position.startsWith(prefix),
+        track.position.startsWith(prefix)
       ) &&
       // Exclude 1A, 1B...
       !track.position.charAt(-1).match(/[a-z]/i)

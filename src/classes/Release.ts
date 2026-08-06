@@ -187,8 +187,12 @@ export class Release {
   }
 
   // Shortcut to the credit extract method for this release
-  public extractCredits() {
-    return this.credits.extractCredits();
+  public async extractCredits() {
+    const releaseWithCredits = await this.credits.getReleaseWithCredits();
+
+    if (releaseWithCredits && releaseWithCredits.id !== this.release.id) {
+      this.updateRelease(releaseWithCredits);
+    }
   }
 
   // Get the main format for this release
@@ -202,12 +206,11 @@ export class Release {
   }
 
   // Replace the release infos with another release
-  public async updateRelease(newRelease: Release) {
+  private async updateRelease(newRelease: Release) {
     this.logger.logInfo(
       `Update release with infos from release ${newRelease.release.id}`
     );
     this.release = newRelease.release;
-    this.credits = newRelease.credits;
   }
 
   // Fetch the versions list and remove the version matching the current release

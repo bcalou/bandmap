@@ -23,9 +23,9 @@ function testArtist(artist: { id: number; expectedIdList?: string }) {
 const artistsBase = [
   // refs.BLACK_COUNTRY_NEW_ROAD,
   // refs.ECHOLYN,
-  refs.HAKEN,
+  // refs.HAKEN,
   // refs.MOON_SAFARI,
-  // refs.SUPERTRAMP,
+  refs.SUPERTRAMP,
 ];
 
 async function init() {

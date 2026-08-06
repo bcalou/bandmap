@@ -122,6 +122,8 @@ export const ROLES = {
     "Lyrics By",
     "Written-By",
     "Written By",
+    "Words By",
+    "Words-By",
   ],
 };
 

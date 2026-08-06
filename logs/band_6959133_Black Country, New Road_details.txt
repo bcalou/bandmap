@@ -61,64 +61,84 @@
 🎼 Black Country, New Road: 34 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/13318111
+Invalid format(s): Vinyl, 7", Single, Limited Edition, Numbered
 🗃️ Looking at alternate version(s) from 2019
 🗃️ Analyzing version https://www.discogs.com/release/15822578
+📋 Invalid tracklist (no valid tracks)
 🗃️ Analyzing version https://www.discogs.com/release/14399055
+Invalid format(s): File, FLAC, Single
 ❌ 2019 - Black Country, New Road - "Athen's, France"
 (https://www.discogs.com/master/1636364)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/14003267
+Invalid format(s): Vinyl, 7", 45 RPM, Single, Limited Edition, Numbered
 🗃️ Looking at alternate version(s) from 2019
 🗃️ Analyzing version https://www.discogs.com/release/16699332
+Invalid format(s): Vinyl, 7", 45 RPM, Single, Test Pressing
 🗃️ Analyzing version https://www.discogs.com/release/24841430
+Invalid format(s): File, AIFF, Single, Stereo
 🗃️ Analyzing version https://www.discogs.com/release/14036680
+Invalid format(s): Cassette, Single, Limited Edition, Numbered
 🗃️ Analyzing version https://www.discogs.com/release/14338188
+Invalid format(s): Vinyl, 7", 45 RPM, Single, Repress
 🗃️ Analyzing version https://www.discogs.com/release/14145052
+Invalid format(s): Vinyl, 7", 45 RPM, Single, Numbered, Repress
 ❌ 2019 - Black Country, New Road - "Sunglasses"
 (https://www.discogs.com/master/1598328)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, WAV, Single
 ❌ 2020 - Black Country, New Road - "Science Fair"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/24841742
+Invalid format(s): File, AIFF, Single
 🗃️ Looking at alternate version(s) from 2020
 🗃️ Analyzing version https://www.discogs.com/release/23638478
+Invalid format(s): File, ALAC, Single
 ❌ 2020 - Black Country, New Road - "Manchester xx​/​xx​/​20 (improvised)"
 (https://www.discogs.com/master/2825867)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+📋 Invalid tracklist (no valid tracks)
 ❌ 2021 - Ethan P. Flynn Feat. Black Country, New Road - "Television Show (Live)"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, WAV, Single
 ❌ 2021 - Black Country, New Road - "Track X"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Valid format(s): Vinyl, LP
 ⌛ 2021 - Stargaze, Black Country, New Road, Loney, Dear, All The Luck In The World - "Now The Villages Are Talking To Europe." (Unknown)
 https://www.discogs.com/release/19616953-s-t-a-r-g-a-z-e-Black-Country-New-Road-Loney-Dear-All-The-Luck-In-The-World-Now-The-Villages-Are-Tal
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition, Stereo
 ❌ 2021 - Black Country, New Road - "Never Again"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/19296856
+Invalid format(s): File, WAV, Single
 🗃️ Looking at alternate version(s) from 2021
 🗃️ Analyzing version https://www.discogs.com/release/22161631
+Invalid format(s): File, WAV, Single
 🗃️ Analyzing version https://www.discogs.com/release/18922588
+Invalid format(s): File, MP3, Single
 ❌ 2021 - Black Country, New Road - "Track X (The Guest)"
 (https://www.discogs.com/master/2189830)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/17151706
+Valid format(s): Vinyl, LP, Album
 🗓️ Imprecise date (2021) for "For The First Time"
 🗃️ Looking at alternate version(s) from 2021
 🗃️ Analyzing version https://www.discogs.com/release/17250961
@@ -135,11 +155,13 @@ https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Ti
 🎤 Tyler Hyde: Performer [Back Country New Road are]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): Vinyl, 12", 33 ⅓ RPM, EP, Limited Edition
 ❌ 2022 - Black Country, New Road - "Never Again Part 2"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/21933142
+Valid format(s): Vinyl, LP, Album, Stereo
 💿 2022-02-04 - Black Country, New Road - "Ants From Up There"
 https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-There
 🎤 Charlie Wayne: Performer [Black Country, New Road are]
@@ -151,9 +173,12 @@ https://www.discogs.com/release/21933142-Black-Country-New-Road-Ants-From-Up-The
 🎤 Tyler Hyde: Performer [Black Country, New Road are]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/26523116
+Invalid format(s): File, MP3, Album
 🗃️ Looking at alternate version(s) from 2023
 🗃️ Analyzing version https://www.discogs.com/release/26940023
+📋 Invalid tracklist (no valid tracks)
 🗃️ Analyzing version https://www.discogs.com/release/26890124
+Valid format(s): Vinyl, LP, Album
 Update release with infos from release 26890124
 💿 2023-03-23 - Black Country, New Road - "Live At Bush Hall"
 https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall
@@ -165,11 +190,13 @@ https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hal
 🎤 Tyler Hyde: Performer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): Vinyl, LP, 45 RPM, EP, Limited Edition
 ❌ 2025 - Black Country, New Road - "Forever Howlong Demos: Live At The Cornish Bank"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33596541
+Valid format(s): Vinyl, LP, Album
 💿 2025-04-04 - Black Country, New Road - "Forever Howlong"
 https://www.discogs.com/release/33596541-Black-Country-New-Road-Forever-Howlong
 🎤 Charlie Wayne: Banjo, Drums, Percussion, Tenor Recorder, Percussion [Tuned Percussion], Lyrics By

@@ -1,12 +1,8 @@
-830 rejected release(s):
+829 rejected release(s):
 ———————————————————————————————————————————————————————————————
 ❌ 1970 - Various - "Heads In"
 (https://www.discogs.com/master/750216)
 (Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1971 - Supertramp - "Forever / Your Poppa Don't Mind"
 (https://www.discogs.com/release/undefined)
@@ -24,52 +20,32 @@
 (https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1971 - Supertramp - "Your Poppa Don't Mind / Rosie Had Everything Planned" (Unknown)
+https://www.discogs.com/release/5707677-Supertramp-Your-Poppa-Dont-Mind-Rosie-Had-Everything-Planned
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1972 - Tony Klinger And Michael Lytton - "Extremes (Excerpts From The Soundtrack)"
 (https://www.discogs.com/master/3040961)
 (Rejected release role: TrackAppearance)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Land Ho / Summer Romance"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Land Ho "
-(https://www.discogs.com/master/429615)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Dreamer"
-(https://www.discogs.com/master/497430)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Dreamer"
-(https://www.discogs.com/master/25471)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1974 - Supertramp - "Bloody Well Right"
-(https://www.discogs.com/master/2908033)
-(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1974 - Various - "Melody Maker Front Runners From A&M Records We Give A Damn"
 (https://www.discogs.com/master/2680901)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
-❌ 1975 - Supertramp - "Sister Moonshine "
-(https://www.discogs.com/release/undefined)
-(No valid version found)
+❌ 1974-11-01 - Supertramp - "Dreamer" (Single)
+https://www.discogs.com/release/721754-Supertramp-Dreamer
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1974 - Supertramp - "Land Ho / Summer Romance" (Single)
+https://www.discogs.com/release/36462114-Supertramp-Land-Ho-Summer-Romance
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1974 - Supertramp - "Bloody Well Right" (Single)
+https://www.discogs.com/release/30727721-Supertramp-Bloody-Well-Right
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Supertramp / Gil Scott-Heron & Brian Jackson - "Crime Of The Century/Midnight Band:The First Minute Of a New Day"
 (https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1975 - Supertramp - "Ain't Nobody But Me"
-(https://www.discogs.com/master/594689)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1975 - Supertramp - "Lady"
-(https://www.discogs.com/master/240507)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1975 - Supertramp - "Is Everybody Listening?"
-(https://www.discogs.com/master/373734)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1975 - Various - "Hårete Låter"
@@ -100,6 +76,10 @@
 (https://www.discogs.com/master/1168129)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1975 - Supertramp - "Sister Moonshine " (Single)
+https://www.discogs.com/release/5244007-Supertramp-Sister-Moonshine-
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1976 - Supertramp / Chris Hillman - "Rock Around The World #115"
 (https://www.discogs.com/release/undefined)
 (No valid version found)
@@ -116,17 +96,17 @@
 (https://www.discogs.com/master/405607)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1976 - Supertramp - "Ain't Nobody But Me" (Single)
+https://www.discogs.com/release/3160840-Supertramp-Aint-Nobody-But-Me
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1976 - Supertramp - "Lady" (Single)
+https://www.discogs.com/release/2469812-Supertramp-Lady
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1977 - Supertramp / Burton Cummings / Carole Bayer Sager / Eric Andersen (2) - "Nightbird & Company: Cosmic Connections"
 (https://www.discogs.com/release/undefined)
 (Rejected genre(s): Rock,Non-Music,Pop)
-———————————————————————————————————————————————————————————————
-❌ 1977 - Supertramp - "Babaji"
-(https://www.discogs.com/master/234796)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1977 - Supertramp - "Give A Little Bit"
-(https://www.discogs.com/master/25463)
-(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1977 - Various - "Foreplay FPS#2: A&M's Pre-Release Sampler"
 (https://www.discogs.com/release/undefined)
@@ -200,9 +180,13 @@
 (https://www.discogs.com/master/912649)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 1978 - Supertramp - "4 Sucessos"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
+❌ 1977 - Supertramp - "Dreamer" (Single)
+https://www.discogs.com/release/3347037-Supertramp-Dreamer
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1977 - Supertramp - "Give A Little Bit" (Single)
+https://www.discogs.com/release/1106712-Supertramp-Give-A-Little-Bit
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1978 - Supertramp - "In Concert-163"
 (https://www.discogs.com/release/undefined)
@@ -228,6 +212,14 @@
 (https://www.discogs.com/master/2166244)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1978 - Supertramp - "Babaji" (Single)
+https://www.discogs.com/release/1422180-Supertramp-Babaji
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1978 - Supertramp - "4 Sucessos" (EP)
+https://www.discogs.com/release/4282303-Supertramp-4-Sucessos
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Escandalosamente Bueno"
 (https://www.discogs.com/release/undefined)
 (No valid version found)
@@ -237,10 +229,6 @@
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp - "Greatest Hits"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Anita Ward / Supertramp - "Ring My Bell / The Logical Song"
 (https://www.discogs.com/release/undefined)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
@@ -259,30 +247,6 @@
 ❌ 1979 - Supertramp - "InnerView"
 (https://www.discogs.com/release/undefined)
 (Rejected genre(s): Non-Music)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp / Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Breakfast In America"
-(https://www.discogs.com/master/3571973)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song / Goodbye Stranger"
-(https://www.discogs.com/master/445264)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Goodbye Stranger"
-(https://www.discogs.com/master/104278)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "Breakfast In America"
-(https://www.discogs.com/master/25477)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1979 - Supertramp - "The Logical Song"
-(https://www.discogs.com/master/25484)
-(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Various - "Disco Disco / New Disco"
 (https://www.discogs.com/release/undefined)
@@ -393,16 +357,40 @@
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
 ❌ 1979-10-00 - Supertramp - "Take The Long Way Home" (Single)
-https://www.discogs.com/release/4392041-Supertramp-Take-The-Long-Way-Home
+https://www.discogs.com/release/13133010-Supertramp-Take-The-Long-Way-Home
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Anita Ward, Supertramp - "Ring My Bell / The Logical Song" (Unknown)
+https://www.discogs.com/release/7598284-Anita-Ward-Supertramp-Ring-My-Bell-The-Logical-Song
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1979 - Supertramp, Chicago - "Goodbye Stranger / Must Have Been Crazy" (Unknown)
 https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Must-Have-Been-Crazy
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp / Francis Cabrel - "Dreamer / Questa Specie Di Poesia"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
+❌ 1979 - Supertramp, Atlantic Starr - "Even In The Quietest Moments  / (Let's) Rock 'N' Roll" (Unknown)
+https://www.discogs.com/release/15409597-Supertramp-Atlantic-Starr-Even-In-The-Quietest-Moments-Lets-Rock-N-Roll
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp - "Breakfast In America" (Single)
+https://www.discogs.com/release/2636056-Supertramp-Breakfast-In-America
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp - "The Logical Song" (Single)
+https://www.discogs.com/release/16739280-Supertramp-The-Logical-Song
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp - "Goodbye Stranger" (Single)
+https://www.discogs.com/release/1737396-Supertramp-Goodbye-Stranger
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp - "Breakfast In America" (Single)
+https://www.discogs.com/release/947504-Supertramp-Breakfast-In-America
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1979 - Supertramp - "The Logical Song" (Single)
+https://www.discogs.com/release/444840-Supertramp-The-Logical-Song
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Supertramp - "The Supertramp Special"
 (https://www.discogs.com/release/undefined)
@@ -412,29 +400,13 @@ https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Mu
 (https://www.discogs.com/release/undefined)
 (Rejected genre(s): Non-Music)
 ———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
 ❌ 1980 - Supertramp - "BBC Rock Hour #142"
 (https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Lord Is It Mine"
-(https://www.discogs.com/master/1641520)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Dreamer"
-(https://www.discogs.com/master/305286)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Supertramp - "Dreamer = Soñador"
 (https://www.discogs.com/master/1282224)
 (Alternate language release)
-———————————————————————————————————————————————————————————————
-❌ 1980 - Supertramp - "Take The Long Way Home"
-(https://www.discogs.com/master/261913)
-(No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1980 - Various - "Top Of The Pops - 834"
 (https://www.discogs.com/release/undefined)
@@ -479,6 +451,26 @@ https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Mu
 ❌ 1980 - The Kids* - "Dust Mix"
 (https://www.discogs.com/master/1374677)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp, Francis Cabrel - "Dreamer / Questa Specie Di Poesia" (Unknown)
+https://www.discogs.com/release/2673783-Supertramp-Francis-Cabrel-Dreamer-Questa-Specie-Di-Poesia
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp - "Dreamer / The Logical Song / Breakfast In America / Take The Long Way Home" (EP)
+https://www.discogs.com/release/14353894-Supertramp-Dreamer-The-Logical-Song-Breakfast-In-America-Take-The-Long-Way-Home
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp - "Lord Is It Mine" (Single)
+https://www.discogs.com/release/13677228-Supertramp-Lord-Is-It-Mine
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp - "Dreamer" (Single)
+https://www.discogs.com/release/6027501-Supertramp-Dreamer
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1980 - Supertramp - "Take The Long Way Home [Live Version]" (Single)
+https://www.discogs.com/release/8643213-Supertramp-Take-The-Long-Way-Home-Live-Version
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1981 - Mary Turner (4), Supertramp - "Off The Record Specials With Mary Turner"
 (https://www.discogs.com/release/undefined)
@@ -544,10 +536,6 @@ https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Mu
 (https://www.discogs.com/release/undefined)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
-❌ 1982 - KC & The Sunshine Band / Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "B.B.C. Rock Hour #343"
 (https://www.discogs.com/release/undefined)
 (No valid version found)
@@ -566,10 +554,6 @@ https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Mu
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "Dreamer / Give A Little Bit "
 (https://www.discogs.com/master/1107440)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1982 - Supertramp - "Crazy"
-(https://www.discogs.com/master/332273)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1982 - Various - "The Continuous History Of Rock And Roll Show No. 30 "Art Rock""
@@ -628,6 +612,10 @@ https://www.discogs.com/release/8977422-Supertramp-Chicago-2-Goodbye-Stranger-Mu
 (https://www.discogs.com/master/622563)
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
+❌ 1982 - KC & The Sunshine Band, Supertramp - "(You Said) You'd Gimme Some More / It's Raining Again" (Unknown)
+https://www.discogs.com/release/6782259-KC-The-Sunshine-Band-Supertramp-You-Said-Youd-Gimme-Some-More-Its-Raining-Again
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1982 - Supertramp - "My Kind Of Lady" (Single)
 https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady
 (No new tracks)
@@ -636,11 +624,11 @@ https://www.discogs.com/release/1681029-Supertramp-My-Kind-Of-Lady
 https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "Supersampler"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
+❌ 1982 - Supertramp - "Crazy" (Unknown)
+https://www.discogs.com/release/999816-Supertramp-Crazy
+(No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1983 - Ivano Fossati / Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady"
+❌ 1983 - Supertramp - "Supersampler"
 (https://www.discogs.com/release/undefined)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
@@ -650,14 +638,6 @@ https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Supertramp - "Self Portrait"
 (https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "Don't Leave Me Now"
-(https://www.discogs.com/master/377008)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1983 - Supertramp - "School"
-(https://www.discogs.com/master/357739)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1983 - Various - "Danke '83"
@@ -727,6 +707,18 @@ https://www.discogs.com/release/561341-Supertramp-Its-Raining-Again
 ❌ 1983 - Various - "Best Of Slow Chart 1983"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Ivano Fossati, Supertramp - "La Musica Che Gira Intorno / My Kind Of Lady" (Unknown)
+https://www.discogs.com/release/3632856-Ivano-Fossati-Supertramp-La-Musica-Che-Gira-Intorno-My-Kind-Of-Lady
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Supertramp - "Don't Leave Me Now" (Single)
+https://www.discogs.com/release/1469631-Supertramp-Dont-Leave-Me-Now
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1983 - Supertramp - "School" (Unknown)
+https://www.discogs.com/release/2210323-Supertramp-School
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1984 - Supertramp - "Die Songs Einer Supergruppe"
 (https://www.discogs.com/master/119642)
@@ -864,8 +856,8 @@ https://www.discogs.com/release/3648249-Supertramp-Still-In-Love-No-Inbetween
 https://www.discogs.com/release/27073434-Supertramp-Better-Days
 (No new tracks)
 ———————————————————————————————————————————————————————————————
-❌ 1985 - Supertramp - "Cannonball" (Single)
-https://www.discogs.com/release/407946-Supertramp-Cannonball
+❌ 1985 - Supertramp - "Cannonball" (Unknown)
+https://www.discogs.com/release/4106612-Supertramp-Cannonball
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "Westwood One Startrak Profile "
@@ -909,7 +901,7 @@ https://www.discogs.com/release/407946-Supertramp-Cannonball
 (Rejected release role: TrackAppearance)
 ———————————————————————————————————————————————————————————————
 ❌ 1986 - Supertramp - "The Autobiography Of Supertramp" (Compilation)
-https://www.discogs.com/release/14123194-Supertramp-The-Autobiography-Of-Supertramp
+https://www.discogs.com/release/527192-Supertramp-The-Autobiography-Of-Supertramp
 (No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 1987 - Supertramp - "Supertramp Medley"
@@ -1392,16 +1384,8 @@ https://www.discogs.com/release/782129-Supertramp-The-Very-Best-Of-Supertramp-2
 (https://www.discogs.com/release/undefined)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
-❌ 1997 - Paul McCartney / Supertramp - "Young Boy / You Win, I Lose"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "Some Things Never Change"
 (https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
-❌ 1997 - Supertramp - "Sooner Or Later"
-(https://www.discogs.com/master/547377)
 (No valid version found)
 ———————————————————————————————————————————————————————————————
 ❌ 1997 - AxCx* - "I Like It When You Die - いい話じゃないですか"
@@ -1572,6 +1556,14 @@ https://www.discogs.com/release/782129-Supertramp-The-Very-Best-Of-Supertramp-2
 (https://www.discogs.com/master/1661985)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
+❌ 1997 - Paul McCartney, Supertramp - "Young Boy / You Win, I Lose" (Unknown)
+https://www.discogs.com/release/8254595-Paul-McCartney-Supertramp-Young-Boy-You-Win-I-Lose
+(No new tracks)
+———————————————————————————————————————————————————————————————
+❌ 1997 - Supertramp - "Sooner Or Later" (Maxi-Single)
+https://www.discogs.com/release/13653763-Supertramp-Sooner-Or-Later
+(No new tracks)
+———————————————————————————————————————————————————————————————
 ❌ 1997 - Supertramp - "You Win, I Lose" (Single)
 https://www.discogs.com/release/2565886-Supertramp-You-Win-I-Lose
 (No new tracks)
@@ -1668,10 +1660,6 @@ https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
 (https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
 ———————————————————————————————————————————————————————————————
-❌ 2000 - Supertramp - "Star Profile"
-(https://www.discogs.com/release/undefined)
-(No valid version found)
-———————————————————————————————————————————————————————————————
 ❌ 2000 - Various - "Tous Les Talents Du Monde 2"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: TrackAppearance)
@@ -1707,6 +1695,10 @@ https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
 ❌ 2000 - Various - "Golden 70s"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2000 - Supertramp - "Star Profile" (Compilation)
+https://www.discogs.com/release/16048043-Supertramp-Star-Profile
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2001 - Various - "Platin - The Very Best Of Vol. 2"
 (https://www.discogs.com/release/undefined)
@@ -2127,6 +2119,10 @@ https://www.discogs.com/release/3571073-Supertramp-Listen-To-Me-Please
 ❌ 2005 - Various - "Легенды Poka Volume 8 (Art Rock)"
 (https://www.discogs.com/release/undefined)
 (Rejected release role: UnofficialRelease)
+———————————————————————————————————————————————————————————————
+❌ 2005-12-00 - Supertramp - "Retrospectacle (The Supertramp Anthology)" (Compilation)
+https://www.discogs.com/release/587270-Supertramp-Retrospectacle-The-Supertramp-Anthology
+(No new tracks)
 ———————————————————————————————————————————————————————————————
 ❌ 2006 - Various - "Chill Out Sessions Vol. 4"
 (https://www.discogs.com/release/undefined)

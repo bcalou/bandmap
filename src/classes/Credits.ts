@@ -17,7 +17,7 @@ type Credit = {
  */
 export class Credits {
   // The release associated to the credits list
-  private release: Release;
+  public release: Release;
 
   // The main band of the program
   private mainBand: Band;
@@ -86,15 +86,15 @@ export class Credits {
   // }
 
   // Extract credits
-  public async extractCredits(): Promise<void> {
-    if (!this.credits.length) {
-      this.logger.logInfo(`🎤 Trying to find release with credits`);
-      await this.findVersionWithCredits(1);
-    }
+  public async getReleaseWithCredits(): Promise<Release | null> {
+    if (this.credits.length) return this.release;
+
+    this.logger.logInfo(`🎤 Trying to find release with credits`);
+    return await this.findVersionWithCredits(1);
   }
 
   // Find a release which has credits infos
-  private async findVersionWithCredits(page: number): Promise<void> {
+  private async findVersionWithCredits(page: number): Promise<Release | null> {
     const versions = await this.release.getVersions({ page });
 
     for (const version of versions.versions) {
@@ -104,8 +104,7 @@ export class Credits {
 
       if (release.credits.credits.length) {
         this.logger.log("Credits found");
-        this.release.updateRelease(release);
-        return;
+        return release;
       }
     }
 
@@ -113,7 +112,10 @@ export class Credits {
       await this.findVersionWithCredits(page + 1);
     } else {
       this.logger.logWarning("No credits found");
+      return null;
     }
+
+    return null;
   }
 
   // Look for valid credits in other versions of the release
@@ -156,9 +158,15 @@ export class Credits {
   // a band member
   private isValidCredit(credit: Credit): boolean {
     return true;
-    return this.mainBand.isByOneOfBandMembers(this.release);
-    // ||
-    // !this.creditIsWrittenOnly(credit)
+    // return (
+    //   this.mainBand.isByOneOfBandMembers(this.release) ||
+    //   !this.creditIsWrittenOnly(credit)
+    // );
+  }
+
+  // Is the credit of type written / composed?
+  private creditIsWrittenOnly(credit: Credit): boolean {
+    return credit.roles.every((role) => ROLES.rejectIfOnly.includes(role));
   }
 
   // Get the extra artist credits from the tracklist

@@ -133,7 +133,7 @@ Valid format(s): CD, Album
 Credits found
 Update release with infos from release 3203747
 💿 2011-10-25 - Haken - "Visions"
-https://www.discogs.com/release/5164041-Haken-2-Visions
+https://www.discogs.com/release/3203747-Haken-2-Visions
 🎤 Charlie Griffiths: Guitar
 🎤 Diego Tejeida: Arranged By [Strings Quartet And French Horn Arrangements], Keyboards, Sound Designer, Music By
 🎤 Raymond Hearne: Arranged By [Strings Quartet And French Horn Arrangements], Drums, Percussion
@@ -231,7 +231,7 @@ Valid format(s): CD, Album
 Credits found
 Update release with infos from release 12784716
 💿 2018-10-26 - Haken - "Vector"
-https://www.discogs.com/release/12702035-Haken-2-Vector
+https://www.discogs.com/release/12784716-Haken-2-Vector
 🎤 Charlie Griffiths: Guitar
 🎤 Conner Green: Bass
 🎤 Diego Tejeida: Keyboards, Sound Designer, Producer [Vocals Recorded At The Bunker, Mexico City, Produced By], Engineer [Vocals Recorded At The Bunker, Engineered By]
@@ -381,7 +381,7 @@ Valid format(s): CD, Album, Stereo
 Credits found
 Update release with infos from release 26396540
 💿 2023-03-03 - Haken - "Fauna"
-https://www.discogs.com/release/26813168-Haken-2-Fauna
+https://www.discogs.com/release/26396540-Haken-2-Fauna
 🎤 Charlie Griffiths: Guitar
 🎤 Conner Green: Bass
 🎤 Peter Jones: Keyboards

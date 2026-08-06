@@ -86,6 +86,7 @@
 🎼 echolyn: 56 release(s) found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5154821
+Valid format(s): CD, Album
 🗓️ Imprecise date (1991) for "echolyn"
 🗃️ Looking at alternate version(s) from 1991
 🗃️ Analyzing version https://www.discogs.com/release/3651443
@@ -100,6 +101,7 @@ https://www.discogs.com/release/5154821-echolyn-echolyn
 🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3653657
+Valid format(s): CD, Album
 💿 1992-11-28 - echolyn - "Suffocating The Bloom"
 https://www.discogs.com/release/3653657-echolyn-Suffocating-The-Bloom
 🎤 Brett Kull: Guitar, Vocals
@@ -109,15 +111,23 @@ https://www.discogs.com/release/3653657-echolyn-Suffocating-The-Bloom
 🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Valid format(s): CD, EP
 ⌛ 1993 - echolyn - "...And Every Blossom" (EP)
 https://www.discogs.com/release/3653603-echolyn-And-Every-Blossom
+🎤 Brett Kull: Acoustic Guitar, Lead Vocals, Backing Vocals, Lyrics By
+🎤 Christopher Buzby: Piano, Autoharp, Backing Vocals
+🎤 Paul Ramsey: Percussion [Various Percussion]
+🎤 Ray Weston: Lead Vocals, Backing Vocals, Lyrics By
+🎤 Tom Hyatt: Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): CD, Single, Promo
 ❌ 1994 - echolyn - "As The World Sampler"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/872981
+Valid format(s): CD, Album
 🗓️ Imprecise date (1995) for "As The World"
 🗃️ Looking at alternate version(s) from 1995
 🗃️ Analyzing version https://www.discogs.com/release/7859275
@@ -138,6 +148,7 @@ https://www.discogs.com/release/872981-echolyn-As-The-World
 🎤 Tom Hyatt: Bass, MIDI Controller [MIDI Pedals]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/2739522
+Valid format(s): CD, Album
 🗓️ Imprecise date (1996) for "When The Sweet Turns Sour"
 🗃️ Looking at alternate version(s) from 1996
 🗃️ Analyzing version https://www.discogs.com/release/4337055
@@ -154,11 +165,13 @@ https://www.discogs.com/release/2739522-echolyn-When-The-Sweet-Turns-Sour
 🎤 Tom Hyatt: Bass
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): CDr, Single, Stereo
 ❌ 2000 - echolyn - "2-song CD Sampler 2000 (2)"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5099825
+Valid format(s): CD, Album
 🗓️ Imprecise date (2000) for "Cowboy Poems Free"
 🗃️ Looking at alternate version(s) from 2000
 🗓️ No better date found
@@ -171,28 +184,40 @@ https://www.discogs.com/release/5099825-echolyn-Cowboy-Poems-Free
 🎤 Ray Weston: Bass, Backing Vocals, Lead Vocals, Words By, Narrator [Spoken Word]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/6167528
+Invalid format(s): CDr, Single
 🗃️ Looking at alternate version(s) from 2000
 🗃️ Analyzing version https://www.discogs.com/release/15730530
+Invalid format(s): CDr, Sampler
 ❌ 2000 - echolyn - "2-song CD Sampler 2000"
 (https://www.discogs.com/master/1784240)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Valid format(s): CD, Compilation
 ⌛ 2002 - echolyn - "A Little Nonsense: Now And Then" (Compilation)
 https://www.discogs.com/release/5182846-echolyn-A-Little-Nonsense-Now-And-Then
+🎤 Brett Kull: Acoustic Guitar [Acoustic Guitars], Lead Vocals, Backing Vocals, Bass Clarinet, Electric Guitar, Acoustic Guitar, Lap Steel Guitar, Engineer, Guitar [Guitars], Guitar, Mixed By, Mastered By, Recorded By
+🎤 Christopher Buzby: Electric Piano [Wurlitzer], Organ, Piano, Synth [Synths], Backing Vocals, Keyboards [Keys], Keyboards, Mixed By, Autoharp, Arranged By [String Arrangements]
+🎤 Jordan Perlson: Percussion, Drums
+🎤 Paul Ramsey: Drums, Percussion, Backing Vocals, Percussion [Various Percussion], Sounds
+🎤 Ray Weston: Bass, Sounds, Lead Vocals, Backing Vocals
+🎤 Tom Hyatt: Bass, Bass [Fretless Bass]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): CDr, Album, Stereo
 ❌ 2002 - echolyn - "Progfest '94: The Official Bootleg"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/9998614
+Invalid format(s): CDr, Album, Limited Edition, Stereo
 🗃️ Looking at alternate version(s) from 2003
 ❌ 2002 - echolyn - "Jersey Tomato"
 (https://www.discogs.com/master/2884450)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/5355594
+Valid format(s): CD, Album
 💿 2002-06-00 - echolyn - "Mei"
 https://www.discogs.com/release/5355594-echolyn-Mei
 🎤 Brett Kull: Guitar, Vocals, Lyrics By, Recorded By, Mixed By, Mastered By
@@ -202,16 +227,19 @@ https://www.discogs.com/release/5355594-echolyn-Mei
 🎤 Ray Weston: Bass, Vocals, Lyrics By
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): DVD, Stereo
 ❌ 2004 - echolyn - "Stars And Gardens Volume 4"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): CDr, Sampler
 ❌ 2005 - echolyn - "Music From The Forthcoming Release: The End Is Beautiful"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3809164
+Valid format(s): CD, Album
 🗓️ Imprecise date (2005) for "The End Is Beautiful"
 🗃️ Looking at alternate version(s) from 2005
 🗃️ Analyzing version https://www.discogs.com/release/7077688
@@ -226,26 +254,31 @@ https://www.discogs.com/release/3809164-echolyn-The-End-Is-Beautiful
 🎤 Tom Hyatt: Band [Echolyn Is:], Bass, Percussion, Backing Vocals, Noises [Noise Bits], Electric Guitar, Acoustic Guitar
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "This Is How We Left It"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "Moments With No Sound"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "15 Days"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2012 - echolyn - "Accumulated Blur"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/3664811
+Valid format(s): CD, Album, Stereo
 💿 2012-06-19 - echolyn - "echolyn"
 https://www.discogs.com/release/3664811-echolyn-echolyn
 🎤 Brett Kull: Band [Echolyn Is Still:], Recorded By, Mixed By, Backing Vocals, Electric Guitar, Acoustic Guitar, Lead Vocals [A Few Lines], Words By [Couple Lines], Lap Steel Guitar, Backing Vocals [Ending Gang Vocals], Bass [Couple Licks], Electric Guitar [Mostly], Finger Snaps, Words By [Some], Guitar [Hi-string Guitar], Backing Vocals [Some], Lead Vocals, Words By, Backing Vocals [Mostly], Banjo, Lead Vocals [Chorus Vocals], Piano [Pt. 1 Piano]
@@ -255,16 +288,19 @@ https://www.discogs.com/release/3664811-echolyn-echolyn
 🎤 Tom Hyatt: Band [Echolyn Is Still:], Backing Vocals, Bass, Handclaps, Backing Vocals [Ending Gang Vocals], Electric Guitar [Some], Acoustic Guitar, Finger Snaps, Electric Guitar, Words By [Few], Acoustic Guitar [Additional Acoustic Guitar], Voice [Whispers], Noises [Piano Noise Intro]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2013 - echolyn - "Another Stone"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/undefined
+Invalid format(s): File, FLAC, Single
 ❌ 2013 - echolyn - "Crows Fly By"
 (https://www.discogs.com/release/undefined)
 No valid version found
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/7264878
+Valid format(s): CD, Album
 💿 2015-07-31 - echolyn - "I Heard You Listening"
 https://www.discogs.com/release/7264878-echolyn-I-Heard-You-Listening
 🎤 Brett Kull: Engineer, Mixed By, Performer, Words By
@@ -274,6 +310,7 @@ https://www.discogs.com/release/7264878-echolyn-I-Heard-You-Listening
 🎤 Tom Hyatt: Performer
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33524262
+Valid format(s): CD, Album, Stereo
 💿 2025-03-07 - echolyn - "TimeSilentRadio vii"
 https://www.discogs.com/release/33524262-echolyn-TimeSilentRadio-vii
 🎤 Brett Kull: Arranged By, Performer [Performed By], Photography By, Recorded By, Engineer, Producer, Guitar, Keyboards, Sound Designer, Lead Vocals, Backing Vocals, Lyrics By, Glockenspiel, Sounds, Percussion, Loops
@@ -282,8 +319,10 @@ https://www.discogs.com/release/33524262-echolyn-TimeSilentRadio-vii
 🎤 Ray Weston: Arranged By, Performer [Performed By], Photography By, Bass, Lead Vocals, Backing Vocals, Lyrics By, Handclaps [Claps]
 ———————————————————————————————————————————————————————————————
 Analyzing release https://www.discogs.com/release/33524166
+📋 Invalid tracklist (no valid tracks)
 🗃️ Looking at alternate version(s) from 2025
 🗃️ Analyzing version https://www.discogs.com/release/33069762
+Invalid format(s): File, FLAC
 ❌ 2025 - echolyn - "TimeSilentRadio II"
 (https://www.discogs.com/master/3801264)
 No valid version found

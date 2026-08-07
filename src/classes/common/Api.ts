@@ -2,20 +2,20 @@ import Database from "better-sqlite3";
 import * as Discogs from "disconnect";
 import path from "path";
 import { ZodObject } from "zod";
-import { OPTIONS } from "../options";
+import { OPTIONS } from "../../options";
 import {
   DCArtist,
   DCArtistReleases,
   DCMaster,
   DCRelease,
   DCVersions,
-} from "../types";
+} from "../../types";
 
 export const DELAY = 1000;
 export const PER_PAGE = 100;
 export const API_CONSUMER_KEY = "KjrpvorlXakACBzWYgvl";
 export const API_CONSUMER_SECRET = "CggkIagphcuYfzlkoqElKiVtyyNsYZMR";
-export const API_CACHE_FILE = "../../discogs_cache.db";
+export const API_CACHE_FILE = "../../../discogs_cache.db";
 
 export type GetVersionsOptions = {
   page?: number;
@@ -56,13 +56,13 @@ export class Api {
     return this.getCached<DCArtist>(
       `artist_${id}`,
       () => this.discogs.getArtist(id),
-      DCArtist,
+      DCArtist
     );
   }
 
   public async getArtistReleases(
     id: number,
-    page = 1,
+    page = 1
   ): Promise<DCArtistReleases> {
     return this.getCached<DCArtistReleases>(
       `artist_releases_${id}_${page}`,
@@ -72,7 +72,7 @@ export class Api {
           page,
           per_page: PER_PAGE,
         }),
-      DCArtistReleases,
+      DCArtistReleases
     );
   }
 
@@ -80,7 +80,7 @@ export class Api {
     return this.getCached<DCRelease>(
       `release_${id}`,
       () => this.discogs.getRelease(id),
-      DCRelease,
+      DCRelease
     );
   }
 
@@ -88,13 +88,13 @@ export class Api {
     return this.getCached<DCMaster>(
       `master_${id}`,
       () => this.discogs.getMaster(id),
-      DCMaster,
+      DCMaster
     );
   }
 
   public async getVersions(
     id: number,
-    options?: GetVersionsOptions,
+    options?: GetVersionsOptions
   ): Promise<DCVersions> {
     return this.getCached<DCVersions>(
       `versions_${id}${options ? `_${this.getOptionsKey(options)}` : ""}`,
@@ -103,7 +103,7 @@ export class Api {
           per_page: PER_PAGE,
           ...(options ?? {}),
         }),
-      DCVersions,
+      DCVersions
     );
   }
 
@@ -134,7 +134,7 @@ export class Api {
     key: string,
     fetcher: () => Promise<any>,
     parser: ZodObject,
-    bustCache?: boolean,
+    bustCache?: boolean
   ): Promise<ResultType> {
     if (bustCache || OPTIONS.cacheBuster.includes(key)) {
       return this.fetchAndCache<ResultType>(key, fetcher, parser);
@@ -153,7 +153,7 @@ export class Api {
   private async fetchAndCache<ResultType>(
     key: string,
     fetcher: () => Promise<any>,
-    parser: ZodObject,
+    parser: ZodObject
   ): Promise<ResultType> {
     const data = await fetcher();
     await this.delay();

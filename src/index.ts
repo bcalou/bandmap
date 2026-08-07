@@ -1,22 +1,9 @@
 import { BandMap } from "./classes/BandMap";
-import { tests } from "./tests";
 
-function testArtist(artist: { id: number; expectedIdList?: string }) {
-  new BandMap(artist.id, artist.expectedIdList).init();
+const artistId = parseInt(process.argv[2]);
+
+if (!artistId) {
+  throw new Error("You must provide an artist id to start the script");
 }
 
-const artistsBase = [
-  // refs.BLACK_COUNTRY_NEW_ROAD,
-  // refs.ECHOLYN,
-  // refs.HAKEN,
-  // refs.MOON_SAFARI,
-  tests.SUPERTRAMP,
-];
-
-async function init() {
-  for (const artist of artistsBase) {
-    await new BandMap(artist.id, artist.expected).init();
-  }
-}
-
-init();
+new BandMap(artistId).init();

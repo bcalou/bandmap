@@ -1,8 +1,8 @@
 import { DCTrack } from "../types";
 import { getStringParts, normalize, stringsAreSimilar } from "../utils";
-import { Band } from "./Band";
-import { Logger } from "./Logger";
-import { Release } from "./release/Release";
+import { Band } from "./discogs/Band";
+import { Logger } from "./common/Logger";
+import { Release } from "./discogs/release/Release";
 
 // A track from the repertoire
 type Track = {
@@ -69,24 +69,15 @@ export class Repertoire {
 
   // Try to find the given track inside the repertoire
   private getExistingTrack(track: DCTrack) {
-    // if (track.title.endsWith("...") || track.title.endsWith("…")) {
-    //   return this.tracks.find(_track => track.title)
-    // }
-
-    // return this.tracks.find(
-    //   (_track) =>
-    //     Fuse.match(track.title, _track.title, { threshold: 0.2 }).isMatch
-    // );
-
     return this.tracks.find(
       (_track) =>
         this.areSimilarTrackNames(track.title, _track.title) ||
         _track.subTracks.find((subtrack) =>
-          this.areSimilarTrackNames(track.title, subtrack),
+          this.areSimilarTrackNames(track.title, subtrack)
         ) ||
         _track.variations.find((variation) =>
-          this.areSimilarTrackNames(track.title, variation),
-        ),
+          this.areSimilarTrackNames(track.title, variation)
+        )
     );
   }
 
@@ -100,7 +91,7 @@ export class Repertoire {
       this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
     }
     this.logger.log(
-      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`,
+      `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
     );
   }
 
@@ -111,8 +102,8 @@ export class Repertoire {
 
     return [normalize(track1), ...track1Parts].find((track1part) =>
       [normalize(track2), ...track2Parts].find((track2part) =>
-        stringsAreSimilar(track1part, track2part),
-      ),
+        stringsAreSimilar(track1part, track2part)
+      )
     );
   }
 
@@ -134,7 +125,7 @@ export class Repertoire {
     if (
       trackVariation.track.title !== trackVariation.existing.title &&
       !trackVariation.existing.variations.find(
-        (variation) => variation === trackVariation.track.title,
+        (variation) => variation === trackVariation.track.title
       )
     ) {
       trackVariation.existing.variations.push(trackVariation.track.title);
@@ -165,7 +156,7 @@ export class Repertoire {
       !!trackContainingSubtracks.sub_tracks
     ) {
       targetTrack.subTracks = trackContainingSubtracks.sub_tracks.map(
-        (subTrack) => subTrack.title,
+        (subTrack) => subTrack.title
       );
     }
   }

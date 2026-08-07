@@ -1,10 +1,10 @@
-import { DISCOGS } from "../../discogs";
-import { RULES } from "../../rules";
-import { DCRelease, DCVersions, RejectReason } from "../../types";
-import { removeNumberInParenthesis } from "../../utils";
-import { Api, GetVersionsOptions } from "../Api";
+import { DISCOGS } from "../../../discogs";
+import { RULES } from "../../../rules";
+import { DCRelease, DCVersions, RejectReason } from "../../../types";
+import { removeNumberInParenthesis } from "../../../utils";
+import { Api, GetVersionsOptions } from "../../common/Api";
 import { Band } from "../Band";
-import { Logger } from "../Logger";
+import { Logger } from "../../common/Logger";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
 import { ReleaseDate } from "./ReleaseDate";
@@ -169,7 +169,7 @@ export class Release {
       this.logger.log(
         `🗃️ Looking at alternate version(s) from ${this.year}${
           options?.format ? ` (format: ${options?.format})` : ""
-        }`,
+        }`
       );
     }
 
@@ -209,21 +209,21 @@ export class Release {
   // Replace the release infos with another release
   private async updateRelease(newRelease: Release) {
     this.logger.logInfo(
-      `Update release with infos from release ${newRelease.release.id}`,
+      `Update release with infos from release ${newRelease.release.id}`
     );
     this.release = newRelease.release;
   }
 
   // Fetch the versions list and remove the version matching the current release
   private async fetchVersions(
-    options?: GetVersionsOptions,
+    options?: GetVersionsOptions
   ): Promise<DCVersions> {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
     const versions = await this.api.getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
-      (version) => version.id !== this.id,
+      (version) => version.id !== this.id
     );
 
     return versions;

@@ -1,4 +1,4 @@
-import { DateQuality } from "./classes/release/ReleaseDate";
+import { DateQuality } from "./classes/discogs/release/ReleaseDate";
 
 // A list of options that can be changed on a per-usage basis
 export const OPTIONS = {

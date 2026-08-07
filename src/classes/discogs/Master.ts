@@ -1,6 +1,6 @@
-import { RULES } from "../rules";
-import { DCMaster, RejectReason } from "../types";
-import { Api } from "./Api";
+import { RULES } from "../../rules";
+import { DCMaster, RejectReason } from "../../types";
+import { Api } from "../common/Api";
 import { Band } from "./Band";
 import { Release } from "./release/Release";
 
@@ -48,7 +48,7 @@ export class Master {
     // If the master is valid, we now can look into the main release
     const release = new Release(
       await this.api.getRelease(this.mainRelease),
-      this.mainBand,
+      this.mainBand
     );
 
     return release.getCandidateRelease();

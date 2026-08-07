@@ -1,7 +1,7 @@
-import { RULES } from "../../rules";
-import { DCTrack } from "../../types";
-import { normalize } from "../../utils";
-import { Logger } from "../Logger";
+import { RULES } from "../../../rules";
+import { DCTrack } from "../../../types";
+import { normalize } from "../../../utils";
+import { Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 /**
@@ -52,14 +52,14 @@ export class Tracklist {
           (artist) =>
             this.release.mainBand.id === artist.id ||
             this.release.mainBand.members.find(
-              (member) => member.id === artist.id,
-            ),
+              (member) => member.id === artist.id
+            )
         )) &&
       // Ignore track containing an equal (translation title)
       track.title.indexOf(" = ") === -1 &&
       // Ignore specific title ending such as "edit" or "version"
       !RULES.ignoreTracksEndingWith.find((ending) =>
-        normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase()),
+        normalize(track.title.toLowerCase()).endsWith(ending.toLowerCase())
       )
     );
   }
@@ -78,7 +78,7 @@ export class Tracklist {
     return (
       // Exclude DVD-1, BR-1...
       !["DVD", "BD", "BR"].find((prefix) =>
-        track.position.startsWith(prefix),
+        track.position.startsWith(prefix)
       ) &&
       // Exclude 1A, 1B...
       !track.position.charAt(-1).match(/[a-z]/i)

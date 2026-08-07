@@ -1,6 +1,6 @@
 import fs from "node:fs";
 
-const colors = {
+const COLORS = {
   error: "\x1b[31m",
   success: "\x1b[32m",
   warning: "\x1b[33m",
@@ -50,7 +50,7 @@ export class Logger {
     }
 
     console.log(
-      `${type ? colors[type] : ""}${message}${type ? "\x1b[0m" : ""}`
+      `${type ? COLORS[type] : ""}${message}${type ? "\x1b[0m" : ""}`
     );
   }
 

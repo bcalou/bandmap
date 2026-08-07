@@ -1,9 +1,9 @@
-import { DISCOGS } from "../discogs";
-import { RULES } from "../rules";
-import { DCArtistRelease, RejectReason } from "../types";
-import { Api } from "./Api";
+import { DISCOGS } from "../../discogs";
+import { RULES } from "../../rules";
+import { DCArtistRelease, RejectReason } from "../../types";
+import { Api } from "../common/Api";
 import { Band } from "./Band";
-import { Logger } from "./Logger";
+import { Logger } from "../common/Logger";
 import { Master } from "./Master";
 import { Release } from "./release/Release";
 
@@ -119,7 +119,7 @@ export class ArtistRelease {
 
     if (inclusionState) {
       this.logger.logWarning(
-        `↷ "${this.label}" (skipping, already ${inclusionState})`,
+        `↷ "${this.label}" (skipping, already ${inclusionState})`
       );
       this.logger.logSeparator();
 

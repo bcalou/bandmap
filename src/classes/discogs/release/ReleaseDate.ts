@@ -1,6 +1,6 @@
-import { OPTIONS } from "../../options";
-import { DCVersion } from "../../types";
-import { Logger } from "../Logger";
+import { OPTIONS } from "../../../options";
+import { DCVersion } from "../../../types";
+import { Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 export enum DateQuality {
@@ -44,7 +44,7 @@ export class ReleaseDate {
 
     if (!this.isSufficientDateQuality(initialDateQuality)) {
       this.logger.logWarning(
-        `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`,
+        `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`
       );
 
       await this.findBetterDate();
@@ -80,7 +80,7 @@ export class ReleaseDate {
   // Use the given version date if it's of better quality than what we have
   // Return the quality of the date found, or null if the date is not better
   private async extractVersionDate(
-    version: DCVersion,
+    version: DCVersion
   ): Promise<DateQuality | null> {
     const versionRelease = await this.release.getVersion(version.id);
 

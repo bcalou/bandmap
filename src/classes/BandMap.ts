@@ -1,6 +1,6 @@
-import { Api } from "./Api";
-import { Band } from "./Band";
-import { Logger } from "./Logger";
+import { Api } from "./common/Api";
+import { Band } from "./discogs/Band";
+import { Logger } from "./common/Logger";
 
 /**
  * Main class of the program.
@@ -91,7 +91,7 @@ export class BandMap {
   // Set the log file name
   private setLogFile(name: string) {
     this.logger.setLogFile(
-      `band_${this.band?.id}_${this.band?.name}_${name}.txt`,
+      `band_${this.band?.id}_${this.band?.name}_${name}.txt`
     );
   }
 }

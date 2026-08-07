@@ -1,7 +1,7 @@
-import { DCExtraArtist } from "../../types";
+import { DCExtraArtist } from "../../../types";
 import { Artist } from "../Artist";
 import { Band } from "../Band";
-import { Logger } from "../Logger";
+import { Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 type Credit = {
@@ -174,10 +174,10 @@ export class Credits {
   // Append the extra artist infos to the credits list
   private appendExtraArtistToCredits(
     credits: Credit[],
-    extraArtist: DCExtraArtist,
+    extraArtist: DCExtraArtist
   ): Credit[] {
     const member = this.mainBand.members.find((member) =>
-      member.matchesId(extraArtist.id),
+      member.matchesId(extraArtist.id)
     );
 
     let credit = credits.find((credit) => member?.matchesId(credit.artist.id));

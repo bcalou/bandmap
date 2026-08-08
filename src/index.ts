@@ -6,4 +6,4 @@ if (!artistId) {
   throw new Error("You must provide an artist id to start the script");
 }
 
-new BandMap(artistId).init();
+new BandMap(artistId);

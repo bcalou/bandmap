@@ -10,7 +10,7 @@ export class BandMap {
   // The ID of the main band
   private bandId: number;
 
-  // The band we're loonking at
+  // The band we're looking at
   private band: Band | undefined;
 
   // A list of ID that should to test the program output against
@@ -19,6 +19,7 @@ export class BandMap {
   constructor(bandId: number, expectedIdList?: string) {
     this.bandId = bandId;
     this.expectedIdList = expectedIdList;
+    this.init();
   }
 
   // Main sequence of events

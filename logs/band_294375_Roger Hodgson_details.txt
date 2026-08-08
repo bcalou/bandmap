@@ -1,0 +1,77 @@
+🎤 Fetched artist Roger Hodgson
+(https://www.discogs.com/artist/294375-Roger-Hodgson)
+———————————————————————————————————————————————————————————————
+👥 0 member(s)
+———————————————————————————————————————————————————————————————
+0 connected band(s)
+———————————————————————————————————————————————————————————————
+🎼 Roger Hodgson: 448 release(s) found
+———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/undefined
+Valid format(s): Vinyl, 7", 45 RPM
+⌛ 1984 - Roger Hodgson, Bryan Adams - "Only Because Of You / Somebody" (Unknown)
+https://www.discogs.com/release/17605324-Roger-Hodgson-Bryan-Adams-Only-Because-Of-You-Somebody
+———————————————————————————————————————————————————————————————
+Analyzing release https://www.discogs.com/release/426612
+Valid format(s): Vinyl, LP, Album, Stereo
+🎤 Trying to find release with credits
+🗃️ Looking at alternate version(s) from 1984
+🗃️ Analyzing version https://www.discogs.com/release/2853648
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/11865067
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/6554611
+Invalid format(s): Vinyl, LP, Album, Limited Edition
+🗃️ Analyzing version https://www.discogs.com/release/31267199
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/29480113
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/11849956
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/14502737
+Invalid format(s): Vinyl, LP, Album, Promo, White Label
+🗃️ Analyzing version https://www.discogs.com/release/18951589
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/1154731
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/9456094
+Invalid format(s): Vinyl, LP, Album, Club Edition
+🗃️ Analyzing version https://www.discogs.com/release/11483070
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/11747968
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/6545938
+Valid format(s): Vinyl, LP, Album, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/1674526
+Valid format(s): Vinyl, LP, Album, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/1360432
+Valid format(s): Vinyl, LP, Album, Stereo
+🗃️ Analyzing version https://www.discogs.com/release/10938040
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/5800220
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/917907
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/12648367
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/9325343
+Invalid format(s): Vinyl, LP, Album, Vinyl, 7", Single, All Media, Promo
+🗃️ Analyzing version https://www.discogs.com/release/5960614
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/28185379
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/3426130
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/5277265
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/21406108
+Invalid format(s): Cassette, Album
+🗃️ Analyzing version https://www.discogs.com/release/9383477
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/2062488
+Valid format(s): CD, Album
+🗃️ Analyzing version https://www.discogs.com/release/12960894
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/5218999
+Valid format(s): Vinyl, LP, Album
+🗃️ Analyzing version https://www.discogs.com/release/18879967

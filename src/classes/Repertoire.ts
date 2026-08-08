@@ -1,7 +1,7 @@
 import { DCTrack } from "../types";
 import { getStringParts, normalize, stringsAreSimilar } from "../utils";
 import { Band } from "./discogs/Band";
-import { Logger } from "./common/Logger";
+import { getLogger, Logger } from "./common/Logger";
 import { Release } from "./discogs/release/Release";
 
 // A track from the repertoire
@@ -26,12 +26,8 @@ export class Repertoire {
   // The list of tracks
   private tracks: Track[] = [];
 
-  // The logger object
-  private logger: Logger;
-
   constructor(band: Band) {
     this.band = band;
-    this.logger = new Logger();
   }
 
   // Add the tracks from the given release to the repertoire
@@ -50,13 +46,13 @@ export class Repertoire {
 
   // Nicely log the list of the tracks from the repertoire
   public logTracks() {
-    this.logger.log(`${this.tracks.length} track(s):`);
-    this.logger.logSeparator();
+    getLogger().log(`${this.tracks.length} track(s):`);
+    getLogger().logSeparator();
     this.tracks
       .sort((track1, track2) => track1.title.localeCompare(track2.title))
       .forEach((track) => {
         this.logTrack(track);
-        this.logger.logSeparator();
+        getLogger().logSeparator();
       });
   }
 
@@ -83,14 +79,14 @@ export class Repertoire {
 
   // Log a track details
   private logTrack(track: Track) {
-    this.logger.log(track.title);
+    getLogger().log(track.title);
     if (track.variations.length) {
-      this.logger.log(`Variation(s): ${track.variations.join(", ")}`);
+      getLogger().log(`Variation(s): ${track.variations.join(", ")}`);
     }
     if (track.subTracks.length) {
-      this.logger.log(`Sub tracks: ${track.subTracks.join(", ")}`);
+      getLogger().log(`Sub tracks: ${track.subTracks.join(", ")}`);
     }
-    this.logger.log(
+    getLogger().log(
       `Release(s): ${track.releases.map((release) => release.title).join(", ")}`
     );
   }

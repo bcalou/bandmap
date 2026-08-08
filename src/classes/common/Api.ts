@@ -28,6 +28,10 @@ type CacheEntry = {
   value: string;
 };
 
+export function getApi() {
+  return Api.instance ?? new Api();
+}
+
 export class Api {
   // The singleton instance
   static instance: Api;

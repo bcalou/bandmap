@@ -1,7 +1,7 @@
 import { DCExtraArtist } from "../../../types";
 import { Artist } from "../Artist";
 import { Band } from "../Band";
-import { Logger } from "../../common/Logger";
+import { getLogger, Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 type Credit = {
@@ -21,13 +21,9 @@ export class Credits {
   // The main band of the program
   private mainBand: Band;
 
-  // The logger object
-  private logger: Logger;
-
   constructor(release: Release, mainBand: Band) {
     this.release = release;
     this.mainBand = mainBand;
-    this.logger = new Logger();
   }
 
   get credits() {
@@ -55,7 +51,7 @@ export class Credits {
   //   if (this.mainBand.isByOneOfBandMembers(this.release)) return null;
 
   //   if (this.credits.length === 0) {
-  //     this.logger.logWarning(
+  //     getLogger().logWarning(
   //       `No valid credit found for "${this.release.title}"`
   //     );
 
@@ -67,7 +63,7 @@ export class Credits {
 
   // public hasValidCredits() {
   //   this.extractCredits();
-  //   this.logger.log(this.formattedCredits);
+  //   getLogger().log(this.formattedCredits);
   //   return !!this.formattedCredits;
   // }
 
@@ -88,7 +84,7 @@ export class Credits {
   public async getReleaseWithCredits(): Promise<Release | null> {
     if (this.credits.length) return this.release;
 
-    this.logger.logInfo(`🎤 Trying to find release with credits`);
+    getLogger().logInfo(`🎤 Trying to find release with credits`);
     return await this.findVersionWithCredits(1);
   }
 
@@ -102,7 +98,7 @@ export class Credits {
       if (!release || !release.isValidVersion()) continue;
 
       if (release.credits.credits.length) {
-        this.logger.log("Credits found");
+        getLogger().log("Credits found");
         return release;
       }
     }
@@ -110,7 +106,7 @@ export class Credits {
     if (versions.pagination.pages > page) {
       await this.findVersionWithCredits(page + 1);
     } else {
-      this.logger.logWarning("No credits found");
+      getLogger().logWarning("No credits found");
       return null;
     }
 
@@ -125,7 +121,7 @@ export class Credits {
 
   //   for (const version of versions.versions) {
   //     if (await this.versionHasValidCredits(version)) {
-  //       this.logger.log(`Found credits`);
+  //       getLogger().log(`Found credits`);
 
   //       return null;
   //     }

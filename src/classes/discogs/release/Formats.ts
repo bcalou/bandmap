@@ -2,7 +2,7 @@ import { DISCOGS } from "../../../discogs";
 import { RULES } from "../../../rules";
 import { DCVersion, RejectReason } from "../../../types";
 import { GetVersionsOptions } from "../../common/Api";
-import { Logger } from "../../common/Logger";
+import { getLogger } from "../../common/Logger";
 import { Release } from "./Release";
 
 export enum AlbumType {
@@ -19,15 +19,11 @@ export class Formats {
   // The associated release
   private release: Release;
 
-  // The logger object
-  private logger: Logger;
-
   // The main valid format (album, EP...) associated with the release, if any
   public mainFormat: string | undefined;
 
   constructor(release: Release) {
     this.release = release;
-    this.logger = new Logger();
   }
 
   get formats() {
@@ -56,7 +52,7 @@ export class Formats {
 
   // Reject if the release have an invalid format
   public async heuristicFindBestFormatOrReject(): Promise<RejectReason | null> {
-    this.logger.log(`💿 Format(s): ${this.printFormats()}`);
+    getLogger().log(`💿 Format(s): ${this.printFormats()}`);
 
     // If this is an album with a valid format list, it's ok
     if (this.getMainFormat() === "Album" && this.isValidFormatList())
@@ -92,7 +88,7 @@ export class Formats {
 
   // Is the format list valid for this version?
   private async versionHasValidFormat(version: DCVersion): Promise<boolean> {
-    this.logger.log(
+    getLogger().log(
       `🗃️ Analyzing main formats of version ${DISCOGS.releaseUrl}${version.id}`
     );
 
@@ -100,7 +96,7 @@ export class Formats {
 
     // We can invalidate eliminatory formats based on version format alone
     if (RULES.formats.eliminatory.find((format) => formats.includes(format))) {
-      this.logger.log(`💿 Format(s): ${formats.join(", ")}}`);
+      getLogger().log(`💿 Format(s): ${formats.join(", ")}}`);
       return false;
     }
 
@@ -116,7 +112,7 @@ export class Formats {
 
     if (!release) return false;
 
-    this.logger.log(`💿 Format(s): ${release.formats.printFormats()}`);
+    getLogger().log(`💿 Format(s): ${release.formats.printFormats()}`);
 
     if (release.formats.isValidFormatList()) {
       // this.release.updateRelease(release);
@@ -141,7 +137,7 @@ export class Formats {
       if (
         formatList.find((format) => RULES.formats.eliminatory.includes(format))
       ) {
-        this.logger.log(`Invalid format(s): ${this.printFormats()}`);
+        getLogger().log(`Invalid format(s): ${this.printFormats()}`);
         return false;
       }
 
@@ -153,7 +149,7 @@ export class Formats {
         valid = true;
     }
 
-    this.logger.log(
+    getLogger().log(
       `${valid ? "Valid" : "Invalid"} format(s): ${this.printFormats()}`
     );
 

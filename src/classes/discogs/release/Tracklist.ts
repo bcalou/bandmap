@@ -1,7 +1,7 @@
 import { RULES } from "../../../rules";
 import { DCTrack } from "../../../types";
 import { normalize } from "../../../utils";
-import { Logger } from "../../common/Logger";
+import { getLogger, Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 /**
@@ -11,12 +11,8 @@ export class Tracklist {
   // The associated release
   private release: Release;
 
-  // The logger utils
-  private logger: Logger;
-
   constructor(release: Release) {
     this.release = release;
-    this.logger = new Logger();
   }
 
   get tracklist() {
@@ -26,7 +22,7 @@ export class Tracklist {
   // Is the tracklist valid? (meaning it contains at least 1 valid track)
   public isValid(): boolean {
     if (this.getValidTracks().length === 0) {
-      this.logger.logWarning("📋 Invalid tracklist (no valid tracks)");
+      getLogger().logWarning("📋 Invalid tracklist (no valid tracks)");
 
       return false;
     }

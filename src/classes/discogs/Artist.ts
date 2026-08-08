@@ -1,10 +1,10 @@
 import { DISCOGS } from "../../discogs";
 import { DCAlias, DCArtist, DCArtistRelease } from "../../types";
 import { removeNumberInParenthesis } from "../../utils";
-import { Api } from "../common/Api";
+import { Api, getApi } from "../common/Api";
 import { ArtistRelease } from "./ArtistRelease";
 import { Band } from "./Band";
-import { Logger } from "../common/Logger";
+import { getLogger } from "../common/Logger";
 import { Release } from "./release/Release";
 
 /**
@@ -14,12 +14,6 @@ export class Artist {
   // The artist object
   protected artist: DCArtist;
 
-  // The API object
-  protected api: Api;
-
-  // The Logger object
-  protected logger: Logger;
-
   // The main band object of the program
   // Undefined if the artist is the band itself
   private mainBand: Band | undefined;
@@ -27,14 +21,12 @@ export class Artist {
   constructor(artist: DCArtist, mainBand?: Band) {
     this.artist = artist;
     this.mainBand = mainBand;
-    this.api = new Api();
-    this.logger = new Logger();
 
-    this.logger.logSuccess(
+    getLogger().logSuccess(
       `${this.typeIcon} Fetched ${this.type} ${this.name}`
     );
-    this.logger.logSuccess(`(${this.url})`);
-    this.logger.logSeparator();
+    getLogger().logSuccess(`(${this.url})`);
+    getLogger().logSeparator();
   }
 
   get id() {
@@ -86,9 +78,9 @@ export class Artist {
 
     for (const alias of this.aliases) {
       const aliasUrl = `${DISCOGS.artistUrl}${alias.id}`;
-      this.logger.logInfo(`Looking at ${this.name} alias ${alias.name}`);
-      this.logger.logInfo(`(${aliasUrl})`);
-      this.logger.logSeparator();
+      getLogger().logInfo(`Looking at ${this.name} alias ${alias.name}`);
+      getLogger().logInfo(`(${aliasUrl})`);
+      getLogger().logSeparator();
 
       await this.fetchReleasesPage(1, alias);
     }
@@ -99,12 +91,12 @@ export class Artist {
     page: number,
     from: Artist | DCAlias
   ): Promise<void> {
-    const artistReleases = await this.api.getArtistReleases(from.id, page);
+    const artistReleases = await getApi().getArtistReleases(from.id, page);
     const count = artistReleases.pagination.items;
 
     if (page === 1) {
-      this.logger.logInfo(`🎼 ${from.name}: ${count} release(s) found`);
-      this.logger.logSeparator();
+      getLogger().logInfo(`🎼 ${from.name}: ${count} release(s) found`);
+      getLogger().logSeparator();
     }
 
     await this.analyzeReleases(artistReleases.releases);

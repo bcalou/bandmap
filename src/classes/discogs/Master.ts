@@ -1,6 +1,6 @@
 import { RULES } from "../../rules";
 import { DCMaster, RejectReason } from "../../types";
-import { Api } from "../common/Api";
+import { Api, getApi } from "../common/Api";
 import { Band } from "./Band";
 import { Release } from "./release/Release";
 
@@ -14,13 +14,9 @@ export class Master {
   // The main band of the program
   private mainBand: Band;
 
-  // The api object
-  private api: Api;
-
   constructor(master: DCMaster, mainBand: Band) {
     this.master = master;
     this.mainBand = mainBand;
-    this.api = new Api();
   }
 
   get artists() {
@@ -47,7 +43,7 @@ export class Master {
 
     // If the master is valid, we now can look into the main release
     const release = new Release(
-      await this.api.getRelease(this.mainRelease),
+      await getApi().getRelease(this.mainRelease),
       this.mainBand
     );
 

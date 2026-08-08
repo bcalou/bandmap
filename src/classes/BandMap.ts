@@ -1,6 +1,6 @@
-import { Api } from "./common/Api";
+import { Api, getApi } from "./common/Api";
 import { Band } from "./discogs/Band";
-import { Logger } from "./common/Logger";
+import { getLogger, Logger } from "./common/Logger";
 
 /**
  * Main class of the program.
@@ -16,23 +16,15 @@ export class BandMap {
   // A list of ID that should to test the program output against
   private expectedIdList: string | undefined;
 
-  // The api object
-  private api: Api;
-
-  // The logger object
-  private logger: Logger;
-
   constructor(bandId: number, expectedIdList?: string) {
     this.bandId = bandId;
     this.expectedIdList = expectedIdList;
-    this.api = new Api();
-    this.logger = new Logger();
   }
 
   // Main sequence of events
   public async init() {
-    const band = await this.api.getArtist(this.bandId);
-    this.logger.setLogFile(`band_${band.id}_${band.name}_details.txt`);
+    const band = await getApi().getArtist(this.bandId);
+    getLogger().setLogFile(`band_${band.id}_${band.name}_details.txt`);
     this.band = new Band(band);
 
     await this.band.fetchMembersAndConnectedBands();
@@ -73,24 +65,24 @@ export class BandMap {
     if (this.expectedIdList) {
       this.compareToExpected(idList);
     } else {
-      this.logger.log(`ID list: ${idList}`);
+      getLogger().log(`ID list: ${idList}`);
     }
   }
 
   // Test the program result against what's expected
   private compareToExpected(idList: string) {
     if (idList === this.expectedIdList) {
-      this.logger.logSuccess(`✓ IDs list matches expectation: ${idList}`);
+      getLogger().logSuccess(`✓ IDs list matches expectation: ${idList}`);
     } else {
-      this.logger.logError(`❌ IDs list doesn't match the expected result`);
-      this.logger.log(`Expected: ${this.expectedIdList}`);
-      this.logger.log(`Got:      ${idList}`);
+      getLogger().logError(`❌ IDs list doesn't match the expected result`);
+      getLogger().log(`Expected: ${this.expectedIdList}`);
+      getLogger().log(`Got:      ${idList}`);
     }
   }
 
   // Set the log file name
   private setLogFile(name: string) {
-    this.logger.setLogFile(
+    getLogger().setLogFile(
       `band_${this.band?.id}_${this.band?.name}_${name}.txt`
     );
   }

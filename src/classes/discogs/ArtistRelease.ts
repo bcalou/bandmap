@@ -1,9 +1,9 @@
 import { DISCOGS } from "../../discogs";
 import { RULES } from "../../rules";
 import { DCArtistRelease, RejectReason } from "../../types";
-import { Api } from "../common/Api";
+import { Api, getApi } from "../common/Api";
 import { Band } from "./Band";
-import { Logger } from "../common/Logger";
+import { getLogger, Logger } from "../common/Logger";
 import { Master } from "./Master";
 import { Release } from "./release/Release";
 
@@ -19,17 +19,9 @@ export class ArtistRelease {
   // The main band of the program
   private mainBand: Band;
 
-  // The api object
-  private api: Api;
-
-  // The logger object
-  private logger: Logger;
-
   constructor(artistRelease: DCArtistRelease, mainBand: Band) {
     this.artistRelease = artistRelease;
     this.mainBand = mainBand;
-    this.api = new Api();
-    this.logger = new Logger();
   }
 
   get id() {
@@ -91,7 +83,7 @@ export class ArtistRelease {
 
   // Return the matching release object if it's considered acceptable
   private async getCandidateRelease(): Promise<Release | RejectReason> {
-    this.logger.log(`Analyzing release ${this.releaseUrl}`);
+    getLogger().log(`Analyzing release ${this.releaseUrl}`);
 
     return (
       this.heuristicRejectRole() ??
@@ -105,8 +97,8 @@ export class ArtistRelease {
     try {
       const release =
         this.type === "master"
-          ? new Master(await this.api.getMaster(this.id), this.mainBand)
-          : new Release(await this.api.getRelease(this.id), this.mainBand);
+          ? new Master(await getApi().getMaster(this.id), this.mainBand)
+          : new Release(await getApi().getRelease(this.id), this.mainBand);
       return release.getCandidateRelease();
     } catch (err) {
       return `Error while fetching release: ${err}`;
@@ -118,10 +110,10 @@ export class ArtistRelease {
     const inclusionState = this.mainBand.discography.includes(this.id);
 
     if (inclusionState) {
-      this.logger.logWarning(
+      getLogger().logWarning(
         `↷ "${this.label}" (skipping, already ${inclusionState})`
       );
-      this.logger.logSeparator();
+      getLogger().logSeparator();
 
       return true;
     }

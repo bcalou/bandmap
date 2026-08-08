@@ -1,6 +1,6 @@
 import { OPTIONS } from "../../../options";
 import { DCVersion } from "../../../types";
-import { Logger } from "../../common/Logger";
+import { getLogger, Logger } from "../../common/Logger";
 import { Release } from "./Release";
 
 export enum DateQuality {
@@ -21,13 +21,9 @@ export class ReleaseDate {
   // The best date found for this release
   private date: string | undefined;
 
-  // The logger object
-  private logger: Logger;
-
   constructor(release: Release) {
     this.release = release;
     this.date = this.release.released;
-    this.logger = new Logger();
   }
 
   get year() {
@@ -43,14 +39,14 @@ export class ReleaseDate {
     const initialDateQuality = this.getDateQuality(this.date);
 
     if (!this.isSufficientDateQuality(initialDateQuality)) {
-      this.logger.logWarning(
+      getLogger().logWarning(
         `🗓️ Imprecise date (${this.date}) for "${this.release.title}"`
       );
 
       await this.findBetterDate();
 
       if (this.getDateQuality(this.date) === initialDateQuality) {
-        this.logger.logWarning("🗓️ No better date found");
+        getLogger().logWarning("🗓️ No better date found");
       }
     }
   }
@@ -60,7 +56,7 @@ export class ReleaseDate {
     for (const version of (await this.release.getVersions()).versions) {
       // TODO remove?
       // if (this.year && version.released !== this.year) {
-      //   this.logger.logWarning(`🗓️ No more versions for year ${this.year}`);
+      //   getLogger().logWarning(`🗓️ No more versions for year ${this.year}`);
       //   break;
       // }
 
@@ -87,10 +83,10 @@ export class ReleaseDate {
     if (!versionRelease) return null;
 
     const dateQuality = this.getDateQuality(versionRelease.released);
-    this.logger.log(`🗓️ Release date: ${versionRelease.released}`);
+    getLogger().log(`🗓️ Release date: ${versionRelease.released}`);
 
     if (dateQuality > this.getDateQuality(this.date)) {
-      this.logger.log(`Found better release date: ${versionRelease.released}`);
+      getLogger().log(`Found better release date: ${versionRelease.released}`);
       this.date = versionRelease.released;
 
       return dateQuality;

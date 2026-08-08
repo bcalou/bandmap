@@ -6,6 +6,8 @@ import { Artist } from "./Artist";
 import { Discography } from "../Discography";
 import { Master } from "./Master";
 import { Release } from "./release/Release";
+import { getLogger } from "../common/Logger";
+import { getApi } from "../common/Api";
 
 /**
  * The main band which we're looking at
@@ -64,12 +66,12 @@ export class Band extends Artist {
 
   // Fetch each of the band members and its connected bands infos
   public async fetchMembersAndConnectedBands(): Promise<void> {
-    this.logger.logInfo(`👥 ${this.bandMembers.length} member(s)`);
-    this.logger.logSeparator();
+    getLogger().logInfo(`👥 ${this.bandMembers.length} member(s)`);
+    getLogger().logSeparator();
 
     for (const _member of this.bandMembers) {
       const member = new Artist(
-        await this.api.getArtist(_member.id),
+        await getApi().getArtist(_member.id),
         this.band
       );
 
@@ -136,16 +138,16 @@ export class Band extends Artist {
 
   // Nicely log connected bands and their members in common with the main band
   private logConnectedBands(): void {
-    this.logger.logInfo(`${this.connectedBands.length} connected band(s)`);
-    this.logger.logSeparator();
+    getLogger().logInfo(`${this.connectedBands.length} connected band(s)`);
+    getLogger().logSeparator();
 
     this.connectedBands.forEach((band) => {
       const url = `${DISCOGS.artistUrl}${band.band.id}`;
       const featuring = band.members.map((member) => member.name).join(", ");
-      this.logger.logInfo(`🔗 ${removeNumberInParenthesis(band.band.name)}`);
-      this.logger.logInfo(`(${url})`);
-      this.logger.logInfo(`${band.members.length} member(s): ${featuring}`);
-      this.logger.logSeparator();
+      getLogger().logInfo(`🔗 ${removeNumberInParenthesis(band.band.name)}`);
+      getLogger().logInfo(`(${url})`);
+      getLogger().logInfo(`${band.members.length} member(s): ${featuring}`);
+      getLogger().logSeparator();
     });
   }
 }

@@ -1,7 +1,7 @@
 import { DCTrack, RejectReason } from "../types";
 import { ArtistRelease } from "./discogs/ArtistRelease";
 import { Band } from "./discogs/Band";
-import { Logger } from "./common/Logger";
+import { getLogger, Logger } from "./common/Logger";
 import { Release } from "./discogs/release/Release";
 import { Repertoire } from "./Repertoire";
 
@@ -28,9 +28,6 @@ export class Discography {
   // The list of songs performed by the band and its connected artists/bands
   public repertoire: Repertoire;
 
-  // The logger object
-  private logger: Logger;
-
   // The list of releases that were considered but not used
   // For some of them, the ArtistRelease object info was enough to reject them,
   // hence the type
@@ -42,7 +39,6 @@ export class Discography {
   }[] = [];
 
   constructor(band: Band) {
-    this.logger = new Logger();
     this.repertoire = new Repertoire(band);
   }
 
@@ -60,18 +56,18 @@ export class Discography {
   public async addAccepted(release: Release, unregisteredTracks?: DCTrack[]) {
     await release.extractPreciseDate();
     await release.extractCredits();
-    this.logger.logSuccess(`💿 ${release.label}`);
-    this.logger.log(release.formattedCredits);
-    this.logger.logSeparator();
+    getLogger().logSuccess(`💿 ${release.label}`);
+    getLogger().log(release.formattedCredits);
+    getLogger().logSeparator();
     this.releases.push({ release, unregisteredTracks });
     this.repertoire.addReleaseTracks(release);
   }
 
   // Add a candidate to the discography
   public addCandidate(release: Release) {
-    this.logger.logInfo(`⌛ ${release.label}`);
-    this.logger.log(release.formattedCredits);
-    this.logger.logSeparator();
+    getLogger().logInfo(`⌛ ${release.label}`);
+    getLogger().log(release.formattedCredits);
+    getLogger().logSeparator();
     this.candidates.push({ release });
   }
 
@@ -80,9 +76,9 @@ export class Discography {
     artistRelease: ArtistRelease | Release,
     reason: RejectReason
   ) {
-    this.logger.logError(`❌ ${artistRelease.label}`);
-    this.logger.logError(`${reason}`);
-    this.logger.logSeparator();
+    getLogger().logError(`❌ ${artistRelease.label}`);
+    getLogger().logError(`${reason}`);
+    getLogger().logSeparator();
     this.rejected.push({ release: artistRelease, reason });
   }
 
@@ -150,10 +146,10 @@ export class Discography {
   // Log infos about a candidate unregistered tracks
   private logCandidateUnregisteredTracks(candidate: DiscographyRelease) {
     const count = candidate.unregisteredTracks?.length;
-    this.logger.logInfo(`Found candidate with ${count} unregistered track(s):`);
+    getLogger().logInfo(`Found candidate with ${count} unregistered track(s):`);
 
     candidate.unregisteredTracks?.forEach((track) =>
-      this.logger.logInfo(`🎵 ${track.title}`)
+      getLogger().logInfo(`🎵 ${track.title}`)
     );
   }
 
@@ -188,26 +184,26 @@ export class Discography {
 
   // Log the list of accepted releases
   public logAccepted() {
-    this.logger.logSuccess(`${this.releases.length} release(s):`);
-    this.logger.logSeparator();
+    getLogger().logSuccess(`${this.releases.length} release(s):`);
+    getLogger().logSeparator();
 
     this.releases.forEach((release) => {
-      this.logger.logSuccess(`💿 ${release.release.label}`);
+      getLogger().logSuccess(`💿 ${release.release.label}`);
       this.logUnregisteredTracks(release);
-      this.logger.log(release.release.formattedCredits);
-      this.logger.logSeparator();
+      getLogger().log(release.release.formattedCredits);
+      getLogger().logSeparator();
     });
   }
 
   // Log the list of rejected releases and the reject reason
   public logRejected() {
-    this.logger.logWarning(`${this.rejected.length} rejected release(s):`);
-    this.logger.logSeparator();
+    getLogger().logWarning(`${this.rejected.length} rejected release(s):`);
+    getLogger().logSeparator();
 
     this.rejected.forEach((release) => {
-      this.logger.logWarning(`❌ ${release.release.label}`);
-      this.logger.log(`(${release.reason})`);
-      this.logger.logSeparator();
+      getLogger().logWarning(`❌ ${release.release.label}`);
+      getLogger().log(`(${release.reason})`);
+      getLogger().logSeparator();
     });
   }
 
@@ -232,7 +228,7 @@ export class Discography {
 
   private logUnregisteredTracks(release: DiscographyRelease) {
     if (release.unregisteredTracks) {
-      this.logger.log(
+      getLogger().log(
         "Including non-album track(s):" +
           release.unregisteredTracks
             ?.map((track) => `\n🎵 ${track.title}`)

@@ -2,9 +2,9 @@ import { DISCOGS } from "../../../discogs";
 import { RULES } from "../../../rules";
 import { DCRelease, DCVersions, RejectReason } from "../../../types";
 import { removeNumberInParenthesis } from "../../../utils";
-import { Api, GetVersionsOptions } from "../../common/Api";
+import { Api, getApi, GetVersionsOptions } from "../../common/Api";
 import { Band } from "../Band";
-import { Logger } from "../../common/Logger";
+import { getLogger, Logger } from "../../common/Logger";
 import { Credits } from "./Credits";
 import { Formats } from "./Formats";
 import { ReleaseDate } from "./ReleaseDate";
@@ -29,12 +29,6 @@ export class Release {
   // The tracklist of the release
   public tracklist: Tracklist;
 
-  // The api object
-  private api: Api;
-
-  // The logger object
-  private logger: Logger;
-
   constructor(release: DCRelease, mainBand: Band) {
     this.release = release;
     this.mainBand = mainBand;
@@ -42,8 +36,6 @@ export class Release {
     this.formats = new Formats(this);
     this.releaseDate = new ReleaseDate(this);
     this.tracklist = new Tracklist(this);
-    this.api = new Api();
-    this.logger = new Logger();
   }
 
   get id() {
@@ -166,7 +158,7 @@ export class Release {
     });
 
     if ((options?.page ?? 1) === 1 && versions?.pagination.items >= 1) {
-      this.logger.log(
+      getLogger().log(
         `🗃️ Looking at alternate version(s) from ${this.year}${
           options?.format ? ` (format: ${options?.format})` : ""
         }`
@@ -178,9 +170,9 @@ export class Release {
 
   // Fetch the version or return the one already fetched
   public async getVersion(versionId: number): Promise<Release | null> {
-    this.logger.log(`🗃️ Analyzing version ${DISCOGS.releaseUrl}${versionId}`);
+    getLogger().log(`🗃️ Analyzing version ${DISCOGS.releaseUrl}${versionId}`);
 
-    const version = await this.api.getRelease(versionId);
+    const version = await getApi().getRelease(versionId);
 
     if (!version) return null;
 
@@ -208,7 +200,7 @@ export class Release {
 
   // Replace the release infos with another release
   private async updateRelease(newRelease: Release) {
-    this.logger.logInfo(
+    getLogger().logInfo(
       `Update release with infos from release ${newRelease.release.id}`
     );
     this.release = newRelease.release;
@@ -221,7 +213,7 @@ export class Release {
     if (!this.masterId)
       return { pagination: { pages: 1, items: 0 }, versions: [] };
 
-    const versions = await this.api.getVersions(this.masterId, options);
+    const versions = await getApi().getVersions(this.masterId, options);
     versions.versions = versions.versions.filter(
       (version) => version.id !== this.id
     );

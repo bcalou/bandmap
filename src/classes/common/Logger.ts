@@ -7,6 +7,10 @@ const COLORS = {
   info: "\x1b[34m",
 };
 
+export function getLogger() {
+  return Logger.instance ?? new Logger();
+}
+
 /**
  * Un logger permettant d'afficher des données en direct et de les stocker dans
  * un fichier
